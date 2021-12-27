@@ -1,0 +1,21 @@
+Package                  | Source                  | Why                            | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-------------------------+-------------------------+--------------------------------+-----------------------------------------------------------+-----------------+-----------------
+dmeventd                 | lvm2                    | lvm2                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           35076 |             244
+dmraid                   | dmraid                  | Ubuntu.Bionic live-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22892 |             100
+jfsutils                 | jfsutils                | Ubuntu.Bionic live-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          194920 |            1578
+kpartx                   | multipath-tools         | kpartx-boot                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           28016 |             100
+kpartx-boot              | multipath-tools         | dmraid                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6256 |              39
+libaio1                  | libaio                  | lvm2                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7184 |              35
+libdevmapper-event1.02.1 | lvm2                    | lvm2                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11868 |              71
+libdmraid1.0.0.rc16      | dmraid                  | dmraid                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           89964 |             254
+libefivar1               | efivar                  | mokutil                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           47756 |             170
+liblvm2cmd2.03           | lvm2                    | dmeventd                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          672892 |            2790
+libreadline5             | readline5               | xfsprogs                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          100296 |             328
+lvm2                     | lvm2                    | Ubuntu.Bionic live-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1052640 |            3860
+mokutil                  | mokutil                 | Ubuntu.Bionic live-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22584 |              70
+reiserfsprogs            | reiserfsprogs           | Ubuntu.Bionic live-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          235272 |             900
+thin-provisioning-tools  | thin-provisioning-tools | lvm2 (Recommends)              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          374636 |            1382
+wamerican                | scowl                   | Ubuntu.Bionic live-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          210048 |             991
+xfsprogs                 | xfsprogs                | Ubuntu.Bionic live-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          773180 |            2676
+------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                |         3885480 |           15588

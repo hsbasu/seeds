@@ -1,0 +1,169 @@
+Package                     | Source                    | Why                                      | Maintainer                                                     | Deb Size (B)    | Inst Size (KB) 
+----------------------------+---------------------------+------------------------------------------+----------------------------------------------------------------+-----------------+-----------------
+alsa-topology-conf          | alsa-topology-conf        | libasound2-data (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7364 |             160
+alsa-ucm-conf               | alsa-ucm-conf             | libasound2-data (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           20764 |             274
+alsa-utils                  | alsa-utils                | ubuntu-drivers-common                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1022316 |            2448
+app-install-data            | app-install-data-ubuntu   | jasper                                   | Michael Vogt <michael.vogt@ubuntu.com>                         |        15046850 |           45266
+apt-clone                   | apt-clone                 | ubiquity                                 | Michael Vogt <michael.vogt@ubuntu.com>                         |           12960 |              62
+archdetect-deb              | hw-detect                 | ubiquity                                 | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            6240 |              70
+attr                        | attr                      | livecd-rootfs                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           21944 |             136
+bc                          | bc                        | jasper                                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           86272 |             226
+binutils                    | binutils                  | u-boot-tools                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            3376 |             107
+binutils-common             | binutils                  | binutils                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          206692 |             424
+binutils-x86-64-linux-gnu   | binutils                  | binutils                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1613868 |            9848
+bogl-bterm                  | bogl                      | ubiquity-frontend-debconf                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           25680 |              76
+btrfs-progs                 | btrfs-progs               | ubiquity (Recommends)                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          654500 |            4016
+cifs-utils                  | cifs-utils                | casper                                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           81900 |             299
+cryptsetup                  | cryptsetup                | ubiquity                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          158920 |             397
+cryptsetup-bin              | cryptsetup                | cryptsetup                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          118800 |             544
+cryptsetup-initramfs        | cryptsetup                | cryptsetup (Recommends)                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           24124 |             152
+cryptsetup-run              | cryptsetup                | cryptsetup (Recommends)                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            5312 |              77
+dbus-x11                    | dbus                      | ubiquity                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22628 |             161
+dctrl-tools                 | dctrl-tools               | livecd-rootfs                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           61476 |             296
+debootstrap                 | debootstrap               | livecd-rootfs                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           39282 |             291
+device-tree-compiler        | device-tree-compiler      | u-boot-tools (Recommends)                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          246576 |             487
+dirmngr                     | gnupg2                    | gnupg                                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          329332 |             918
+distro-info                 | distro-info               | livecd-rootfs                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           17092 |              68
+dmeventd                    | lvm2                      | lvm2                                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           35076 |             244
+dmraid                      | dmraid                    | ubiquity (Recommends)                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22892 |             100
+dpkg-repack                 | dpkg-repack               | apt-clone (Recommends)                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           13432 |              39
+fakeroot                    | fakeroot                  | python3-ubuntu-image                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           62636 |             227
+finalrd                     | finalrd                   | casper                                   | Dimitri John Ledkov <xnox@ubuntu.com>                          |            6648 |              29
+gdisk                       | gdisk                     | livecd-rootfs                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          214516 |             860
+genisoimage                 | cdrkit                    | livecd-rootfs                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          329636 |            1700
+germinate                   | germinate                 | livecd-rootfs                            | Colin Watson <cjwatson@ubuntu.com>                             |           20428 |              61
+git                         | git                       | livecd-rootfs                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         4553836 |           35680
+git-man                     | git                       | git                                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          884104 |            1779
+gnupg                       | gnupg2                    | debootstrap (Recommends)                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          258936 |             413
+gnupg-l10n                  | gnupg2                    | gnupg                                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           51748 |             380
+gnupg-utils                 | gnupg2                    | gnupg                                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          481072 |            1550
+gpg                         | gnupg2                    | gnupg-utils (Recommends)                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          482096 |            1135
+gpg-agent                   | gnupg2                    | gnupg-utils (Recommends)                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          232000 |             911
+gpg-wks-client              | gnupg2                    | gnupg                                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           97660 |             275
+gpg-wks-server              | gnupg2                    | gnupg                                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           90268 |             255
+gpgconf                     | gnupg2                    | dirmngr                                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          123744 |             409
+gpgsm                       | gnupg2                    | gnupg-utils (Recommends)                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          216812 |             568
+grub-common                 | grub2                     | python3-ubuntu-image                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1852632 |           13272
+grub-gfxpayload-lists       | grub-gfxpayload-lists     | grub-pc                                  | Colin Watson <cjwatson@ubuntu.com>                             |            3658 |              47
+grub-pc                     | grub2                     | ubiquity (Recommends)                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          124692 |             554
+grub-pc-bin                 | grub2                     | grub-pc                                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          969136 |            3102
+grub2-common                | grub2                     | grub-pc                                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          589024 |            1310
+ibverbs-providers           | rdma-core                 | libibverbs1 (Recommends)                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          232488 |             889
+kpartx                      | multipath-tools           | livecd-rootfs                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           28016 |             100
+kpartx-boot                 | multipath-tools           | dmraid                                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6256 |              39
+laptop-detect               | laptop-detect             | tasksel-data (Recommends)                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6016 |              20
+libaio1                     | libaio                    | qemu-utils                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7184 |              35
+libasn1-8-heimdal           | heimdal                   | libgssapi3-heimdal                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          181044 |             798
+libasound2                  | alsa-lib                  | alsa-utils                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          328372 |            1104
+libasound2-data             | alsa-lib                  | libasound2                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           19028 |             213
+libassuan0                  | libassuan                 | gpgconf                                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           35668 |             105
+libatopology2               | alsa-lib                  | alsa-utils                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           47536 |             154
+libbinutils                 | binutils                  | binutils                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          473556 |            2696
+libboost-iostreams1.71.0    | boost1.71                 | librados2                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          236640 |            2110
+libboost-thread1.71.0       | boost1.71                 | librados2                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          248696 |            2130
+libbrotli1                  | brotli                    | libcurl3-gnutls                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          269864 |             767
+libctf-nobfd0               | binutils                  | binutils-x86-64-linux-gnu                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           47028 |             197
+libctf0                     | binutils                  | binutils-x86-64-linux-gnu                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           46620 |             130
+libcurl3-gnutls             | curl                      | git                                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          230612 |             684
+libdebian-installer4        | libdebian-installer       | cdebconf                                 | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           21760 |              84
+libdevmapper-event1.02.1    | lvm2                      | lvm2                                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           11868 |              71
+libdmraid1.0.0.rc16         | dmraid                    | dmraid                                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           89964 |             254
+libdpkg-perl                | dpkg                      | dpkg-repack                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          230268 |            2176
+libefiboot1                 | efivar                    | grub-common                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           38120 |             117
+libefivar1                  | efivar                    | libefiboot1                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           47756 |             170
+liberror-perl               | liberror-perl             | git                                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           26460 |              71
+libfakeroot                 | fakeroot                  | fakeroot                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           25720 |             157
+libfdt1                     | device-tree-compiler      | device-tree-compiler                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18804 |              59
+libfftw3-single3            | fftw3                     | alsa-utils                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          756412 |            2210
+libfile-fcntllock-perl      | libfile-fcntllock-perl    | libdpkg-perl (Recommends)                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           33052 |             127
+libfreetype6                | freetype                  | grub-common                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          340708 |             836
+libgdbm-compat4             | gdbm                      | libperl5.30                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6244 |              40
+libgomp1                    | gcc-10                    | libfftw3-single3                         | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          100872 |             286
+libgssapi3-heimdal          | heimdal                   | libldap-2.4-2                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           96132 |             324
+libhcrypto4-heimdal         | heimdal                   | libgssapi3-heimdal                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           87864 |             274
+libheimbase1-heimdal        | heimdal                   | libhcrypto4-heimdal                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           29716 |             113
+libheimntlm0-heimdal        | heimdal                   | libgssapi3-heimdal                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           15088 |              85
+libhx509-5-heimdal          | heimdal                   | libkrb5-26-heimdal                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          106632 |             360
+libibverbs1                 | rdma-core                 | libiscsi7                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           53568 |             175
+libiscsi7                   | libiscsi                  | qemu-block-extra                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           63944 |             203
+libiw30                     | wireless-tools            | ubiquity                                 | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17404 |              56
+libkrb5-26-heimdal          | heimdal                   | libheimntlm0-heimdal                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          207648 |             665
+libksba8                    | libksba                   | dirmngr                                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           92566 |             259
+libldap-2.4-2               | openldap                  | dirmngr                                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          155528 |             522
+libldap-common              | openldap                  | libldap-2.4-2                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           17288 |             101
+liblvm2cmd2.03              | lvm2                      | dmeventd                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          672892 |            2790
+liblzo2-2                   | lzo2                      | squashfs-tools                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           50768 |             175
+libnghttp2-14               | nghttp2                   | libcurl3-gnutls                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           78688 |             212
+libnl-3-200                 | libnl3                    | libibverbs1                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           53864 |             180
+libnl-route-3-200           | libnl3                    | libibverbs1                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          149452 |             533
+libnpth0                    | npth                      | dirmngr                                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7736 |              36
+libparted-fs-resize0        | parted                    | ubiquity                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           47344 |             160
+libpciaccess0               | libpciaccess              | ubuntu-drivers-common                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           17940 |              61
+libperl5.30                 | perl                      | perl                                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         3942624 |           27081
+libpolkit-agent-1-0         | policykit-1               | policykit-1                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           15268 |              78
+librados2                   | ceph                      | qemu-block-extra                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         3236236 |           13959
+librbd1                     | ceph                      | qemu-block-extra                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1609772 |            5646
+librdmacm1                  | rdma-core                 | libiscsi7                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           64852 |             204
+libreadline5                | readline5                 | lvm2                                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          100296 |             328
+libroken18-heimdal          | heimdal                   | libasn1-8-heimdal                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           41848 |             144
+librtmp1                    | rtmpdump                  | libcurl3-gnutls                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           54916 |             144
+libsamplerate0              | libsamplerate             | alsa-utils                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          939116 |            1473
+libsasl2-2                  | cyrus-sasl2               | libldap-2.4-2                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           49324 |             152
+libsasl2-modules            | cyrus-sasl2               | libsasl2-2 (Recommends)                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           49064 |             236
+libsasl2-modules-db         | cyrus-sasl2               | libsasl2-2                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14932 |              66
+libssh-4                    | libssh                    | libcurl3-gnutls                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          169892 |             490
+libtalloc2                  | talloc                    | cifs-utils                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           29512 |             105
+libtevent0                  | tevent                    | libwbclient0                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           35492 |             117
+libtextwrap1                | libtextwrap               | cdebconf                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9416 |              35
+libwbclient0                | samba                     | cifs-utils                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          221280 |             891
+libwind0-heimdal            | heimdal                   | libhx509-5-heimdal                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           48048 |             205
+localechooser-data          | localechooser             | casper                                   | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            6392 |              45
+lvm2                        | lvm2                      | ubiquity (Recommends)                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1052640 |            3860
+make                        | make-dfsg                 | livecd-rootfs                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          162292 |             384
+mtools                      | mtools                    | python3-ubuntu-image                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          191148 |             389
+ncurses-term                | ncurses                   | bogl-bterm                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          249260 |            4183
+oem-config                  | ubiquity                  | jasper                                   | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           15364 |             239
+oem-config-debconf          | ubiquity                  | oem-config                               | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            3012 |             192
+os-prober                   | os-prober                 | grub-common (Recommends)                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           20076 |             111
+patch                       | patch                     | git (Recommends)                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          104988 |             232
+perl                        | perl                      | germinate                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          224080 |             745
+perl-modules-5.30           | perl                      | perl                                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2737008 |           17226
+pinentry-curses             | pinentry                  | gpg-agent                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           36296 |             100
+policykit-1                 | policykit-1               | ubiquity                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           84040 |             556
+python3-attr                | python-attrs              | python3-ubuntu-image                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           33880 |             159
+python3-debconf             | debconf                   | ubiquity                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            4060 |              18
+python3-distutils           | python3-stdlib-extensions | python3-setuptools                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          139720 |             700
+python3-germinate           | germinate                 | germinate                                | Colin Watson <cjwatson@ubuntu.com>                             |           38888 |             254
+python3-icu                 | pyicu                     | ubiquity                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          249896 |            1164
+python3-lib2to3             | python3-stdlib-extensions | python3-distutils                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           74104 |             363
+python3-pam                 | python-pam                | ubiquity                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9052 |              44
+python3-parted              | pyparted                  | python3-ubuntu-image                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           61248 |             290
+python3-setuptools          | setuptools                | python3-ubuntu-image                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          329744 |            1432
+python3-six                 | six                       | python3-germinate                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12088 |              58
+python3-software-properties | software-properties       | livecd-rootfs                            | Michael Vogt <michael.vogt@ubuntu.com>                         |           25324 |             148
+python3-ubuntu-image        | ubuntu-image              | ubuntu-image                             | Lukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>           |           60836 |             493
+python3-vmdkstream          | vmdk-stream-converter     | livecd-rootfs                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6808 |              28
+python3-voluptuous          | voluptuous                | python3-ubuntu-image                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           31584 |             159
+python3-xkit                | x-kit                     | ubuntu-drivers-common                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18344 |             113
+qemu-block-extra            | qemu                      | qemu-utils                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           56476 |             278
+qemu-utils                  | qemu                      | livecd-rootfs                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          965280 |            5886
+rdate                       | rdate                     | ubiquity                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           17648 |              60
+sbsigntool                  | sbsigntool                | ubiquity                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           64060 |             412
+sharutils                   | sharutils                 | qemu-utils (Recommends)                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          154640 |             688
+snapd                       | snapd                     | livecd-rootfs                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |        23199936 |          102132
+squashfs-tools              | squashfs-tools            | snapd                                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          120832 |             356
+tasksel                     | tasksel                   | ubiquity-frontend-debconf                | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           28620 |             244
+tasksel-data                | tasksel                   | tasksel                                  | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            5340 |              38
+thin-provisioning-tools     | thin-provisioning-tools   | lvm2 (Recommends)                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          374636 |            1382
+u-boot-tools                | u-boot                    | jasper                                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          166840 |             705
+ubiquity                    | ubiquity                  | ubiquity-frontend-debconf                | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |         2929168 |           17448
+ubiquity-casper             | casper                    | ubiquity                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           11164 |             102
+ubiquity-frontend-debconf   | ubiquity                  | oem-config-debconf                       | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |          450800 |            2649
+ubiquity-ubuntu-artwork     | ubiquity                  | ubiquity                                 | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |          526184 |             780
+ubuntu-drivers-common       | ubuntu-drivers-common     | ubiquity (Recommends)                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           44572 |             236
+ubuntu-image                | ubuntu-image              | livecd-rootfs                            | Lukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>           |            7252 |              26
+unattended-upgrades         | unattended-upgrades       | python3-software-properties (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           49320 |             440
+user-setup                  | user-setup                | casper                                   | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |          137744 |             537
+zerofree                    | zerofree                  | livecd-rootfs                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            8520 |              25
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                                    |        83698736 |          377279

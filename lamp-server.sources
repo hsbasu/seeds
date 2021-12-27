@@ -1,0 +1,38 @@
+Source                 | Maintainer                                                                 
+-----------------------+-----------------------------------------------------------------------------
+apache2                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                  
+apr                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                  
+apr-util               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                  
+brotli                 | Tomasz Buchert <tomasz@debian.org>                                         
+curl                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                  
+cyrus-sasl2            | Debian Cyrus Team <team+cyrus@tracker.debian.org>                          
+heimdal                | Brian May <bam@debian.org>                                                 
+jansson                | Alessandro Ghedini <ghedo@debian.org>                                      
+libaio                 | Guillem Jover <guillem@debian.org>                                         
+libcgi-fast-perl       | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>           
+libcgi-pm-perl         | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>           
+libencode-locale-perl  | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>           
+libevent               | Balint Reczey <rbalint@ubuntu.com>                                         
+libfcgi-perl           | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>           
+libhtml-parser-perl    | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>           
+libhtml-tagset-perl    | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>           
+libhtml-template-perl  | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>           
+libhttp-date-perl      | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>           
+libhttp-message-perl   | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>           
+libio-html-perl        | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>           
+liblwp-mediatypes-perl | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>           
+libsodium              | Laszlo Boszormenyi (GCS) <gcs@debian.org>                                  
+libssh                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                  
+libtimedate-perl       | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>           
+liburi-perl            | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>           
+lua5.2                 | Enrico Tassi <gareuselesinge@debian.org>                                   
+mecab                  | Natural Language Processing (Japanese) <team+pkg-nlp-ja@tracker.debian.org>
+mecab-ipadic           | Natural Language Processing (Japanese) <team+pkg-nlp-ja@tracker.debian.org>
+mysql-8.0              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                  
+mysql-defaults         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                  
+nghttp2                | Tomasz Buchert <tomasz@debian.org>                                         
+openldap               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                  
+php-defaults           | Debian PHP Maintainers <team+pkg-php@tracker.debian.org>                   
+php7.4                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                  
+rtmpdump               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                  
+ssl-cert               | Debian Apache Maintainers <debian-apache@lists.debian.org>                 

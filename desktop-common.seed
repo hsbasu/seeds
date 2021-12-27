@@ -1,0 +1,26 @@
+Package                     | Source                | Why                               | Maintainer                                                     | Deb Size (B)    | Inst Size (KB) 
+----------------------------+-----------------------+-----------------------------------+----------------------------------------------------------------+-----------------+-----------------
+alsa-base                   | alsa-driver           | Ubuntu.Bionic desktop-common seed | Ubuntu Core Developers <ubuntu-devel@lists.ubuntu.com>         |          145082 |             464
+alsa-utils                  | alsa-utils            | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1022316 |            2448
+anacron                     | anacron               | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           27916 |             102
+bc                          | bc                    | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           86272 |             226
+fonts-dejavu-core           | fonts-dejavu          | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1040712 |            2954
+fonts-freefont-ttf          | fonts-freefont        | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2439708 |            6548
+foomatic-db-compressed-ppds | foomatic-db           | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          304532 |             436
+genisoimage                 | cdrkit                | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          329636 |            1700
+ghostscript-x               | ghostscript           | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           43956 |             216
+inputattach                 | joystick              | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           23336 |              72
+libsasl2-modules            | cyrus-sasl2           | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           49064 |             236
+libu2f-udev                 | libu2f-host           | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6108 |              26
+openprinting-ppds           | foomatic-db           | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         5184892 |            6659
+printer-driver-pnm2ppa      | pnm2ppa               | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          224260 |            1876
+rfkill                      | util-linux            | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22892 |             144
+spice-vdagent               | spice-vdagent         | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           50272 |             189
+ubuntu-drivers-common       | ubuntu-drivers-common | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           44572 |             236
+unzip                       | unzip                 | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          168956 |             579
+wireless-tools              | wireless-tools        | Ubuntu.Bionic desktop-common seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          108236 |             299
+wpasupplicant               | wpa                   | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1182616 |            3406
+xorg                        | xorg                  | Ubuntu.Bionic desktop-common seed | Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>                      |            3072 |              56
+zip                         | zip                   | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          167182 |             623
+---------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                         |        12675588 |           29495

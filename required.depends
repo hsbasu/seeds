@@ -1,0 +1,47 @@
+Package            | Source       | Why            | Maintainer                                                     | Deb Size (B)    | Inst Size (KB) 
+-------------------+--------------+----------------+----------------------------------------------------------------+-----------------+-----------------
+gcc-10-base        | gcc-10       | libgcc-s1      | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |           19024 |             256
+libacl1            | acl          | coreutils      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18820 |              70
+libattr1           | attr         | coreutils      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12748 |              57
+libaudit-common    | audit        | libaudit1      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            3936 |              24
+libaudit1          | audit        | login          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           38856 |             157
+libblkid1          | util-linux   | e2fsprogs      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          136716 |             439
+libbz2-1.0         | bzip2        | dpkg           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           32308 |              99
+libc6              | glibc        | base-files     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2713080 |           13245
+libcap-ng0         | libcap-ng    | libaudit1      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           11080 |              45
+libcom-err2        | e2fsprogs    | e2fsprogs      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9544 |             100
+libcrypt1          | libxcrypt    | libc6          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           78204 |             226
+libdb5.3           | db5.3        | libpam-modules | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          675076 |            1749
+libdebconfclient0  | cdebconf     | base-passwd    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6160 |              74
+libext2fs2         | e2fsprogs    | e2fsprogs      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          183048 |             540
+libgcc-s1          | gcc-10       | libc6          | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41576 |             120
+libgcrypt20        | libgcrypt20  | libsystemd0    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          419496 |            1224
+libgpg-error0      | libgpg-error | libgcrypt20    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           58004 |             176
+liblz4-1           | lz4          | libsystemd0    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           55928 |             149
+liblzma5           | xz-utils     | libsystemd0    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           92352 |             259
+libmount1          | util-linux   | mount          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          148832 |             481
+libncurses6        | ncurses      | procps         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          101356 |             337
+libncursesw6       | ncurses      | procps         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          132368 |             418
+libpam-modules     | pam          | libpam-runtime | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          250036 |            1135
+libpam-modules-bin | pam          | libpam-modules | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           37676 |             322
+libpam-runtime     | pam          | login          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           37268 |             304
+libpam0g           | pam          | login          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           55444 |             231
+libpcre2-8-0       | pcre2        | libselinux1    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          197268 |             592
+libpcre3           | pcre3        | grep           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          232028 |             671
+libprocps8         | procps       | procps         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           33084 |             128
+libselinux1        | libselinux   | coreutils      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           68784 |             202
+libsemanage-common | libsemanage  | libsemanage1   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9792 |              36
+libsemanage1       | libsemanage  | passwd         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           85528 |             305
+libsepol1          | libsepol     | libsemanage1   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          252020 |             738
+libsmartcols1      | util-linux   | mount          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          100280 |             337
+libss2             | e2fsprogs    | e2fsprogs      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           11300 |             108
+libsystemd0        | systemd      | bsdutils       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          270584 |             860
+libtinfo6          | ncurses      | bash           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           86980 |             537
+libudev1           | systemd      | util-linux     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           78348 |             326
+libuuid1           | util-linux   | e2fsprogs      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           20092 |             122
+libzstd1           | libzstd      | dpkg           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          236880 |             700
+logsave            | e2fsprogs    | e2fsprogs      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           10180 |              92
+lsb-base           | lsb          | procps         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12076 |              58
+zlib1g             | zlib         | dpkg           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           53700 |             163
+--------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                    |         7127860 |           28212

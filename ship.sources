@@ -1,0 +1,33 @@
+Source                      | Maintainer                                                         
+----------------------------+---------------------------------------------------------------------
+apt-clone                   | Michael Vogt <michael.vogt@ubuntu.com>                             
+b43-fwcutter                | Debian QA Group <packages@qa.debian.org>                           
+bsd-mailx                   | Robert Luberda <robert@debian.org>                                 
+casper                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+dctrl-tools                 | Rhonda D'Vine <rhonda@debian.org>                                  
+dpkg-repack                 | Dpkg Developers <debian-dpkg@lists.debian.org>                     
+language-pack-en            | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-en-base       | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-es            | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-es-base       | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-en      | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-en-base | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-es      | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-es-base | Language pack maintainers <language-packs@ubuntu.com>              
+liblockfile                 | Miquel van Smoorenburg <miquels@cistron.nl>                        
+libnfsidmap                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+libreoffice-dictionaries    | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>
+libtimezonemap              | Debian Cinnamon Team <debian-cinnamon@lists.debian.org>            
+libtirpc                    | Josue Ortega <josue@debian.org>                                    
+nfs-utils                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+open-iscsi                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+open-isns                   | Debian iSCSI Maintainers <open-isns@packages.debian.org>           
+partman-iscsi               | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>          
+postfix                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+pyicu                       | Laszlo Boszormenyi (GCS) <gcs@debian.org>                          
+python-pam                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+rpcbind                     | Josue Ortega <josue@debian.org>                                    
+setserial                   | Thorsten Alteholz <debian@alteholz.de>                             
+sosreport                   | Louis Bouchard <louis.bouchard@ubuntu.com>                         
+ssh-import-id               | Dustin Kirkland <kirkland@ubuntu.com>                              
+ubiquity-slideshow-ubuntu   | Ubiquity Slideshow Team <ubiquity-slideshow@lists.launchpad.net>   

@@ -1,0 +1,23 @@
+Package                     | Source                    | Why                     | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+----------------------------+---------------------------+-------------------------+-----------------------------------------------------------+-----------------+-----------------
+b43-fwcutter                | b43-fwcutter              | Ubuntu.Bionic ship seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           25728 |              98
+bsd-mailx                   | bsd-mailx                 | Ubuntu.Bionic ship seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           67196 |             174
+firefox-locale-en           | firefox                   | Ubuntu.Bionic ship seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          724140 |            1202
+hyphen-en-gb                | libreoffice-dictionaries  | Ubuntu.Bionic ship seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           83420 |             485
+language-pack-en            | language-pack-en          | Ubuntu.Bionic ship seed | Language pack maintainers <language-packs@ubuntu.com>     |            1896 |               9
+language-pack-es            | language-pack-es          | Ubuntu.Bionic ship seed | Language pack maintainers <language-packs@ubuntu.com>     |            1904 |               9
+language-pack-gnome-en      | language-pack-gnome-en    | Ubuntu.Bionic ship seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-es      | language-pack-gnome-es    | Ubuntu.Bionic ship seed | Language pack maintainers <language-packs@ubuntu.com>     |            1928 |               9
+libreoffice-help-en-us      | libreoffice               | Ubuntu.Bionic ship seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1407792 |           20124
+nfs-common                  | nfs-utils                 | Ubuntu.Bionic ship seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          204856 |             816
+nfs-kernel-server           | nfs-utils                 | Ubuntu.Bionic ship seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           94824 |             358
+oem-config-gtk              | ubiquity                  | Ubuntu.Bionic ship seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |            4256 |             203
+oem-config-slideshow-ubuntu | ubiquity-slideshow-ubuntu | Ubuntu.Bionic ship seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1234568 |            2624
+open-iscsi                  | open-iscsi                | Ubuntu.Bionic ship seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          282244 |            1422
+open-iscsi-udeb             | open-iscsi                | Ubuntu.Bionic ship seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          212680 |            1216
+partman-iscsi               | partman-iscsi             | Ubuntu.Bionic ship seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |           26984 |             103
+setserial                   | setserial                 | Ubuntu.Bionic ship seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           35896 |             117
+sosreport                   | sosreport                 | Ubuntu.Bionic ship seed | Louis Bouchard <louis.bouchard@ubuntu.com>                |          165992 |            1756
+ssh                         | openssh                   | Ubuntu.Bionic ship seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5072 |             117
+----------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                              |         4583300 |           30851

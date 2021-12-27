@@ -1,0 +1,70 @@
+Package                 | Source                 | Why                              | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+------------------------+------------------------+----------------------------------+-----------------------------------------------------------+-----------------+-----------------
+apache2-bin             | apache2                | apache2                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1179308 |            4898
+apache2-data            | apache2                | apache2                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          158572 |             853
+apache2-utils           | apache2                | apache2                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           83300 |             391
+libaio1                 | libaio                 | mysql-server-core-8.0            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7184 |              35
+libapache2-mod-php7.4   | php7.4                 | libapache2-mod-php               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1364196 |            4554
+libapr1                 | apr                    | apache2-bin                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           91356 |             272
+libaprutil1             | apr-util               | apache2-bin                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           84720 |             282
+libaprutil1-dbd-sqlite3 | apr-util               | apache2-bin                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           10544 |              51
+libaprutil1-ldap        | apr-util               | apache2-bin                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            8736 |              43
+libasn1-8-heimdal       | heimdal                | libgssapi3-heimdal               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          181044 |             798
+libbrotli1              | brotli                 | apache2-bin                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          269864 |             767
+libcgi-fast-perl        | libcgi-fast-perl       | libcgi-pm-perl (Recommends)      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           10520 |              27
+libcgi-pm-perl          | libcgi-pm-perl         | libhtml-template-perl            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          186032 |             447
+libcurl4                | curl                   | apache2-bin                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          233000 |             688
+libencode-locale-perl   | libencode-locale-perl  | libhttp-message-perl             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           12274 |              32
+libevent-core-2.1-7     | libevent               | mysql-server-core-8.0            | Balint Reczey <rbalint@ubuntu.com>                        |           89148 |             267
+libfcgi-perl            | libfcgi-perl           | libcgi-fast-perl                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           33092 |             100
+libgdbm-compat4         | gdbm                   | libperl5.30                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6244 |              40
+libgssapi3-heimdal      | heimdal                | libldap-2.4-2                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           96132 |             324
+libhcrypto4-heimdal     | heimdal                | libgssapi3-heimdal               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           87864 |             274
+libheimbase1-heimdal    | heimdal                | libhcrypto4-heimdal              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           29716 |             113
+libheimntlm0-heimdal    | heimdal                | libgssapi3-heimdal               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15088 |              85
+libhtml-parser-perl     | libhtml-parser-perl    | libcgi-pm-perl                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           86256 |             221
+libhtml-tagset-perl     | libhtml-tagset-perl    | libhtml-parser-perl              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           12456 |              31
+libhtml-template-perl   | libhtml-template-perl  | mysql-server-8.0 (Recommends)    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           58992 |             181
+libhttp-date-perl       | libhttp-date-perl      | libhttp-message-perl             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9920 |              29
+libhttp-message-perl    | libhttp-message-perl   | libhtml-parser-perl (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           76116 |             191
+libhx509-5-heimdal      | heimdal                | libkrb5-26-heimdal               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106632 |             360
+libio-html-perl         | libio-html-perl        | libhttp-message-perl             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14860 |              70
+libjansson4             | jansson                | apache2-bin                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           28944 |              79
+libkrb5-26-heimdal      | heimdal                | libheimntlm0-heimdal             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          207648 |             665
+libldap-2.4-2           | openldap               | libaprutil1-ldap                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          155528 |             522
+libldap-common          | openldap               | libldap-2.4-2                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17288 |             101
+liblua5.2-0             | lua5.2                 | apache2-bin                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          105748 |             431
+liblwp-mediatypes-perl  | liblwp-mediatypes-perl | libhttp-message-perl             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           19472 |              72
+libmecab2               | mecab                  | mysql-server-core-8.0            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          232656 |            1821
+libnghttp2-14           | nghttp2                | libcurl4                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           78688 |             212
+libperl5.30             | perl                   | perl                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         3942624 |           27081
+libroken18-heimdal      | heimdal                | libasn1-8-heimdal                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41848 |             144
+librtmp1                | rtmpdump               | libcurl4                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           54916 |             144
+libsasl2-2              | cyrus-sasl2            | libldap-2.4-2                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49324 |             152
+libsasl2-modules        | cyrus-sasl2            | libsasl2-2 (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49064 |             236
+libsasl2-modules-db     | cyrus-sasl2            | libsasl2-2                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14932 |              66
+libsodium23             | libsodium              | php7.4-cli                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          150040 |             402
+libssh-4                | libssh                 | libcurl4                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          169892 |             490
+libtimedate-perl        | libtimedate-perl       | libhttp-date-perl                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           33956 |             123
+liburi-perl             | liburi-perl            | libhtml-parser-perl              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           77528 |             220
+libwind0-heimdal        | heimdal                | libhx509-5-heimdal               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           48048 |             205
+mecab-ipadic            | mecab-ipadic           | mecab-ipadic-utf8                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         6713688 |           53074
+mecab-ipadic-utf8       | mecab-ipadic           | mysql-server-8.0 (Recommends)    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4380 |              23
+mecab-utils             | mecab                  | mecab-ipadic-utf8                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4912 |              91
+mysql-client-8.0        | mysql-8.0              | mysql-server-8.0                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22028 |             163
+mysql-client-core-8.0   | mysql-8.0              | mysql-client-8.0                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         4186852 |           63145
+mysql-common            | mysql-defaults         | mysql-server-8.0                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7496 |              34
+mysql-server-8.0        | mysql-8.0              | mysql-server                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1214960 |            1385
+mysql-server-core-8.0   | mysql-8.0              | mysql-server-8.0                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        17031672 |          118151
+perl                    | perl                   | apache2-bin                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          224080 |             745
+perl-modules-5.30       | perl                   | perl                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2737008 |           17226
+php-common              | php-defaults           | php-mysql                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11948 |              73
+php7.4-cli              | php7.4                 | libapache2-mod-php7.4            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1421432 |            4715
+php7.4-common           | php7.4                 | php7.4-mysql                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          978952 |            7401
+php7.4-json             | php7.4                 | php7.4-cli                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           19188 |              76
+php7.4-mysql            | php7.4                 | php-mysql                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          120900 |             463
+php7.4-opcache          | php7.4                 | php7.4-cli                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          198424 |             572
+php7.4-readline         | php7.4                 | php7.4-cli                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           12616 |              68
+ssl-cert                | ssl-cert               | apache2 (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           16952 |              63
+------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                |        45008798 |          317058

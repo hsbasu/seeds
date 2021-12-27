@@ -1,0 +1,47 @@
+required:
+minimal: required
+boot:
+standard: minimal
+desktop-common: standard
+d-i-requirements: minimal
+installer:
+build-essential: required
+language-packs: desktop-common
+live-common: standard
+supported-cloud: standard
+supported-development-common: standard
+supported-development-desktop: standard
+supported-kernel-common: standard
+supported-kernel-desktop: standard
+supported-misc-servers: standard
+supported-hardware-common: standard
+supported-hardware-desktop: standard
+supported-installer-common: standard installer
+supported-installer-desktop: standard
+supported-network-common: standard
+supported-network-client: standard
+supported-sysadmin-common: standard
+supported-server: supported-misc-servers supported-hardware-common supported-installer-common supported-network-common supported-sysadmin-common build-essential supported-development-common supported-kernel-common supported-cloud
+supported-desktop: supported-hardware-desktop supported-installer-desktop supported-hardware-common supported-installer-common supported-network-common supported-network-client supported-sysadmin-common build-essential supported-development-common supported-development-desktop supported-kernel-common supported-kernel-desktop
+supported-common: supported-server supported-desktop
+desktop: desktop-common
+dns-server: standard
+lamp-server: standard
+openssh-server: standard
+print-server: standard
+samba-server: standard
+postgresql-server: standard
+mail-server: standard
+server: standard
+server-ship: boot installer dns-server lamp-server openssh-server print-server samba-server postgresql-server mail-server server d-i-requirements
+server-ship-live: server
+cloud-image: standard
+ship: boot installer desktop d-i-requirements
+live: desktop live-common
+ship-live: boot live
+development: desktop
+supported-desktop-extra: desktop live
+supported-kiosk: desktop
+system-image: boot
+wsl: minimal
+supported: supported-common server-ship server-ship-live cloud-image ship ship-live development language-packs supported-desktop-extra supported-kiosk

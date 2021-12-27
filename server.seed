@@ -1,0 +1,35 @@
+Package                     | Source                | Why                       | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+----------------------------+-----------------------+---------------------------+-----------------------------------------------------------+-----------------+-----------------
+acpid                       | acpid                 | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           37688 |             155
+apport                      | apport                | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          128052 |             776
+at                          | at                    | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           38652 |             159
+bcache-tools                | bcache-tools          | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           18704 |              85
+byobu                       | byobu                 | Ubuntu.Bionic server seed | Dustin Kirkland <kirkland@ubuntu.com>                     |          101176 |             624
+cloud-guest-utils           | cloud-utils           | Ubuntu.Bionic server seed | Scott Moser <smoser@ubuntu.com>                           |           16216 |              60
+cloud-initramfs-copymods    | cloud-initramfs-tools | Ubuntu.Bionic server seed | Scott Moser <smoser@ubuntu.com>                           |            4024 |              25
+cloud-initramfs-dyn-netconf | cloud-initramfs-tools | Ubuntu.Bionic server seed | Scott Moser <smoser@ubuntu.com>                           |            6536 |              31
+curl                        | curl                  | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          161312 |             401
+dirmngr                     | gnupg2                | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          329332 |             918
+ethtool                     | ethtool               | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          133644 |             450
+fonts-ubuntu-console        | fonts-ubuntu          | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           18624 |              63
+git                         | git                   | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         4553836 |           35680
+gnupg                       | gnupg2                | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          258936 |             413
+htop                        | htop                  | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           80544 |             220
+lvm2                        | lvm2                  | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1052640 |            3860
+mdadm                       | mdadm                 | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          415664 |            1222
+net-tools                   | net-tools             | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          196392 |             844
+open-iscsi                  | open-iscsi            | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          282244 |            1422
+open-vm-tools               | open-vm-tools         | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          546412 |            2236
+overlayroot                 | cloud-initramfs-tools | Ubuntu.Bionic server seed | Scott Moser <smoser@ubuntu.com>                           |           15400 |              65
+patch                       | patch                 | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          104988 |             232
+pollinate                   | pollinate             | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22536 |              92
+screen                      | screen                | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          577056 |             998
+software-properties-common  | software-properties   | Ubuntu.Bionic server seed | Michael Vogt <michael.vogt@ubuntu.com>                    |           10548 |             196
+sosreport                   | sosreport             | Ubuntu.Bionic server seed | Louis Bouchard <louis.bouchard@ubuntu.com>                |          165992 |            1756
+tmux                        | tmux                  | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          293764 |             750
+ubuntu-server               | ubuntu-meta           | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3784 |              51
+update-notifier-common      | update-notifier       | Ubuntu.Bionic server seed | Michael Vogt <michael.vogt@ubuntu.com>                    |          162008 |            1386
+vim                         | vim                   | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1237624 |            3038
+xfsprogs                    | xfsprogs              | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          773180 |            2676
+--------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                            |        11747508 |           60884

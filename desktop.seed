@@ -1,0 +1,24 @@
+Package                            | Source                             | Why                        | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-----------------------------------+------------------------------------+----------------------------+-----------------------------------------------------------+-----------------+-----------------
+dmz-cursor-theme                   | dmz-cursor-theme                   | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          191480 |            3567
+gnome-session-canberra             | libcanberra                        | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6788 |              44
+gnome-shell-extension-appindicator | gnome-shell-extension-appindicator | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           25828 |             116
+gnome-shell-extension-ubuntu-dock  | gnome-shell-extension-ubuntu-dock  | Ubuntu.Bionic desktop seed | Didier Roche <didrocks@ubuntu.com>                        |           72468 |             636
+gstreamer1.0-alsa                  | gst-plugins-base1.0                | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           35952 |             204
+gstreamer1.0-packagekit            | packagekit                         | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            8840 |              56
+gstreamer1.0-plugins-base-apps     | gst-plugins-base1.0                | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           71460 |             220
+gvfs-bin                           | gvfs                               | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5088 |              45
+libatk-adaptor                     | at-spi2-atk                        | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           12772 |              63
+libnotify-bin                      | libnotify                          | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7188 |              38
+nautilus                           | nautilus                           | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          601360 |            2015
+software-properties-gtk            | software-properties                | Ubuntu.Bionic desktop seed | Michael Vogt <michael.vogt@ubuntu.com>                    |           63988 |             445
+ubuntu-artwork                     | ubuntu-themes                      | Ubuntu.Bionic desktop seed | Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>         |            7672 |              51
+ubuntu-desktop                     | ubuntu-meta                        | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2832 |              51
+ubuntu-release-upgrader-gtk        | ubuntu-release-upgrader            | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9360 |             206
+ubuntu-settings                    | ubuntu-settings                    | Ubuntu.Bionic desktop seed | Ubuntu Desktop Team <ubuntu-desktop@lists.ubuntu.com>     |            5784 |              38
+ubuntu-sounds                      | ubuntu-sounds                      | Ubuntu.Bionic desktop seed | Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>         |          260556 |             333
+update-manager                     | update-manager                     | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          551216 |            1040
+update-notifier                    | update-notifier                    | Ubuntu.Bionic desktop seed | Michael Vogt <michael.vogt@ubuntu.com>                    |           55744 |             298
+xdg-user-dirs-gtk                  | xdg-user-dirs-gtk                  | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           10668 |              96
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                                 |         2007044 |            9562

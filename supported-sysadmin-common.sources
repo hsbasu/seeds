@@ -1,0 +1,116 @@
+Source                     | Maintainer                                                              
+---------------------------+--------------------------------------------------------------------------
+acct                       | Debian Security Tools <team+pkg-security@tracker.debian.org>            
+apache2                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+apr                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+apr-util                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+aptitude                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+authbind                   | Ian Jackson <ijackson@chiark.greenend.org.uk>                           
+autofs                     | Mike Gabriel <sunweaver@debian.org>                                     
+avahi                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+awstats                    | Debian QA Group <packages@qa.debian.org>                                
+backuppc                   | Debian BackupPC Team <team+pkg-backuppc@tracker.debian.org>             
+bonnie++                   | Russell Coker <russell@coker.com.au>                                    
+brotli                     | Tomasz Buchert <tomasz@debian.org>                                      
+cairo                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+cracklib2                  | Jan Dittberner <jandd@debian.org>                                       
+cups                       | Debian Printing Team <debian-printing@lists.debian.org>                 
+curl                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+cyrus-sasl2                | Debian Cyrus Team <team+cyrus@tracker.debian.org>                       
+db-defaults                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+dctrl-tools                | Rhonda D'Vine <rhonda@debian.org>                                       
+debian-goodies             | Javier Fernández-Sanguino Peña <jfs@debian.org>                         
+fbset                      | Sudip Mukherjee <sudipm.mukherjee@gmail.com>                            
+fontconfig                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+fonts-dejavu               | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>       
+freetype                   | Hugh McMaster <hugh.mcmaster@outlook.com>                               
+gpgme1.0                   | Debian GnuPG Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>      
+graphite2                  | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>     
+harfbuzz                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+heimdal                    | Brian May <bam@debian.org>                                              
+jansson                    | Alessandro Ghedini <ghedo@debian.org>                                   
+john                       | Ruben Molina <rmolina@udea.edu.co>                                      
+ldb                        | Debian Samba Maintainers <pkg-samba-maint@lists.alioth.debian.org>      
+libarchive                 | Peter Pentchev <roam@debian.org>                                        
+libarchive-zip-perl        | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libassuan                  | Debian GnuPG-Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>      
+libauthen-sasl-perl        | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libcgi-fast-perl           | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libcgi-pm-perl             | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libdata-dump-perl          | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libdatrie                  | Theppitak Karoonboonyanan <thep@debian.org>                             
+libdbi                     | Laszlo Boszormenyi (GCS) <gcs@debian.org>                               
+libencode-locale-perl      | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libevent                   | Balint Reczey <rbalint@ubuntu.com>                                      
+libfcgi-perl               | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libfile-listing-perl       | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libfile-rsyncp-perl        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+libfile-which-perl         | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libfont-afm-perl           | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libhtml-form-perl          | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libhtml-format-perl        | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libhtml-parser-perl        | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libhtml-tagset-perl        | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libhtml-tree-perl          | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libhttp-cookies-perl       | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libhttp-daemon-perl        | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libhttp-date-perl          | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libhttp-message-perl       | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libhttp-negotiate-perl     | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libio-dirent-perl          | Ludovic Drolez <ldrolez@debian.org>                                     
+libio-html-perl            | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libio-socket-ssl-perl      | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libipc-system-simple-perl  | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libksba                    | Debian GnuTLS Maintainers <pkg-gnutls-maint@lists.alioth.debian.org>    
+liblwp-mediatypes-perl     | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+liblwp-protocol-https-perl | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+libmailtools-perl          | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libnet-http-perl           | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libnet-smtp-ssl-perl       | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libnet-ssleay-perl         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+libnet-xwhois-perl         | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libnfsidmap                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+libnl3                     | Heiko Stuebner <mmind@debian.org>                                       
+libsocket6-perl            | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libssh                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+libthai                    | Theppitak Karoonboonyanan <thep@debian.org>                             
+libtime-parsedate-perl     | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libtimedate-perl           | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libtirpc                   | Josue Ortega <josue@debian.org>                                         
+libtry-tiny-perl           | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+liburi-perl                | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libwww-perl                | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libwww-robotrules-perl     | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libxrender                 | Debian X Strike Force <debian-x@lists.debian.org>                       
+lua5.2                     | Enrico Tassi <gareuselesinge@debian.org>                                
+mknbi                      | Debian QA Group <packages@qa.debian.org>                                
+mysql-8.0                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+mysql-defaults             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+nfs-utils                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+nghttp2                    | Tomasz Buchert <tomasz@debian.org>                                      
+npth                       | Eric Dorland <eric@debian.org>                                          
+openldap                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+pango1.0                   | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+pastebinit                 | Simon Quigley <tsimonq2@debian.org>                                     
+perl-openssl-defaults      | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+pinentry                   | Debian GnuPG Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>      
+pixman                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+policyrcd-script-zg2       | Marc Haber <mh+debian-packages@zugschlus.de>                            
+postfix                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+postgresql-12              | Debian PostgreSQL Maintainers <team+postgresql@tracker.debian.org>      
+python-crypto              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+python-distro              | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+quota                      | Michael Meskes <meskes@debian.org>                                      
+rpcbind                    | Josue Ortega <josue@debian.org>                                         
+rrdtool                    | Debian RRDtool Team <pkg-rrdtool-maint@lists.alioth.debian.org>         
+rtmpdump                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+samba                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+scowl                      | Don Armstrong <don@debian.org>                                          
+siege                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+ssl-cert                   | Debian Apache Maintainers <debian-apache@lists.debian.org>              
+talloc                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+tcp-wrappers               | Marco d'Itri <md@linux.it>                                              
+tdb                        | Debian Samba Maintainers <pkg-samba-maint@lists.alioth.debian.org>      
+tevent                     | Debian Samba Maintainers <pkg-samba-maint@lists.alioth.debian.org>      
+uucp                       | Thorsten Alteholz <debian@alteholz.de>                                  
+whois                      | Marco d'Itri <md@linux.it>                                              

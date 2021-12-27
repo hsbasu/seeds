@@ -1,0 +1,10 @@
+Package       | Source           | Why                                            | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+--------------+------------------+------------------------------------------------+-----------------------------------------------------------+-----------------+-----------------
+casper        | casper           | Ubuntu.Bionic supported-installer-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46768 |             259
+cdebconf      | cdebconf         | Ubuntu.Bionic supported-installer-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          132892 |             580
+jasper        | jasper-initramfs | Ubuntu.Bionic supported-installer-desktop seed | Canonical ARM <ubuntu-devel-discuss@lists.ubuntu.com>     |            8420 |              79
+live-build    | live-build       | Ubuntu.Bionic supported-installer-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          131548 |             833
+livecd-rootfs | livecd-rootfs    | Ubuntu.Bionic supported-installer-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           80068 |             518
+lupin-casper  | lupin            | Ubuntu.Bionic supported-installer-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5854 |              31
+----------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                              |          405550 |            2300

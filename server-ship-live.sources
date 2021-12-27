@@ -1,0 +1,29 @@
+Source                | Maintainer                                                              
+----------------------+--------------------------------------------------------------------------
+amd64-microcode       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+crda                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+dbus-glib             | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>
+efibootmgr            | Debian UEFI Maintainers <debian-efi@lists.debian.org>                   
+freetype              | Hugh McMaster <hugh.mcmaster@outlook.com>                               
+grub-gfxpayload-lists | Colin Watson <cjwatson@ubuntu.com>                                      
+grub2                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+grub2-signed          | Colin Watson <cjwatson@ubuntu.com>                                      
+intel-microcode       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+iucode-tool           | Henrique de Moraes Holschuh <hmh@debian.org>                            
+iw                    | Paride Legovini <pl@ninthfloor.org>                                     
+jfsutils              | Laszlo Boszormenyi (GCS) <gcs@debian.org>                               
+libnl3                | Heiko Stuebner <mmind@debian.org>                                       
+linux                 | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>                       
+linux-firmware        | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>                       
+linux-meta            | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>                       
+linux-signed          | Canonical Kernel Team <kernel-team@lists.ubuntu.com>                    
+mokutil               | Simon Quigley <tsimonq2@debian.org>                                     
+os-prober             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+reiserfsprogs         | Felix Zielcke <fzielcke@z-51.de>                                        
+shim                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+shim-signed           | Steve Langasek <steve.langasek@ubuntu.com>                              
+ssh-import-id         | Dustin Kirkland <kirkland@ubuntu.com>                                   
+tcp-wrappers          | Marco d'Itri <md@linux.it>                                              
+thermald              | Colin King <colin.king@canonical.com>                                   
+wireless-regdb        | Seth Forshee <seth.forshee@canonical.com>                               
+zfs-linux             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               

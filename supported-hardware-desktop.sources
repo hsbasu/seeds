@@ -1,0 +1,8 @@
+Source      | Maintainer                                                    
+------------+----------------------------------------------------------------
+bluez       | Ubuntu Bluetooth team <ubuntu-bluetooth@lists.ubuntu.com>     
+gobi-loader | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>             
+hfsplus     | Debian QA Group <packages@qa.debian.org>                      
+irda-utils  | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+libopenobex | Nobuhiro Iwamatsu <iwamatsu@debian.org>                       
+setserial   | Thorsten Alteholz <debian@alteholz.de>                        

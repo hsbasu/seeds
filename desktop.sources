@@ -1,0 +1,240 @@
+Source                               | Maintainer                                                                  
+-------------------------------------+------------------------------------------------------------------------------
+adium-theme-ubuntu                   | Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>                           
+aisleriot                            | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+amtk                                 | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+app-install-data-partner             | Michael Vogt <michael.vogt@ubuntu.com>                                      
+appstream-glib                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+apturl                               | Michael Vogt <mvo@ubuntu.com>                                               
+atkmm1.6                             | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+babeltrace                           | Jon Bernard <jbernard@debian.org>                                           
+baobab                               | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+branding-ubuntu                      | Scott Ritchie <scottritchie@ubuntu.com>                                     
+brltty                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+cairomm                              | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+clucene-core                         | Fathi Boudra <fabo@debian.org>                                              
+dee                                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+deja-dup                             | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+djvulibre                            | Barak A. Pearlmutter <bap@debian.org>                                       
+dmz-cursor-theme                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+dotconf                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+duplicity                            | Alexander Zangerl <az@debian.org>                                           
+eog                                  | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+espeak-ng                            | Debian Accessibility Team <pkg-a11y-devel@lists.alioth.debian.org>          
+evince                               | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+example-content                      | Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>                           
+exempi                               | Michael Biebl <biebl@debian.org>                                            
+exiv2                                | Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>             
+file-roller                          | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+firefox                              | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com>                   
+fonts-liberation2                    | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>           
+fonts-noto-color-emoji               | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>           
+freerdp2                             | Debian Remote Maintainers <debian-remote@lists.debian.org>                  
+gamemode                             | Jonathan Carter <jcc@debian.org>                                            
+gdb                                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+gedit                                | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gexiv2                               | Jason Crain <jason@inspiresomeone.us>                                       
+giflib                               | David Suárez <david.sephirot@gmail.com>                                     
+glibmm2.4                            | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gnome-calculator                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+gnome-calendar                       | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gnome-characters                     | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gnome-disk-utility                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+gnome-font-viewer                    | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gnome-getting-started-docs           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+gnome-initial-setup                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+gnome-logs                           | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gnome-mahjongg                       | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gnome-mines                          | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gnome-power-manager                  | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gnome-screenshot                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+gnome-shell-extension-appindicator   | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gnome-shell-extension-desktop-icons  | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gnome-shell-extension-ubuntu-dock    | Didier Roche <didrocks@ubuntu.com>                                          
+gnome-software                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+gnome-sudoku                         | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gnome-system-monitor                 | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gnome-themes-extra                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+gnome-todo                           | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gnome-video-effects                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+grilo                                | Alberto Garcia <berto@igalia.com>                                           
+grilo-plugins                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+gsettings-ubuntu-touch-schemas       | Ubuntu Desktop Team <ubuntu-desktop@lists.ubuntu.com>                       
+gspell                               | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gtk2-engines-murrine                 | Debian Desktop Theme Team <gtk2-engines-murrine@packages.debian.org>        
+gtkmm3.0                             | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+gtksourceview4                       | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+guile-2.2                            | Rob Browning <rlb@defaultvalue.org>                                         
+ibus-table                           | Debian Input Method Team <debian-input-method@lists.debian.org>             
+ifupdown                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+indicator-messages                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+io-stringy                           | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libabw                               | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+libao                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libauthen-sasl-perl                  | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libcairo-gobject-perl                | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libcairo-perl                        | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libcdio                              | Debian QA Group <packages@qa.debian.org>                                    
+libcdio-paranoia                     | Debian QA Group <packages@qa.debian.org>                                    
+libcdr                               | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+libcmis                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libcue                               | Debian QA Group <packages@qa.debian.org>                                    
+libdata-dump-perl                    | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libdazzle                            | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+libdmapsharing                       | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+libe-book                            | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+libencode-locale-perl                | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libeot                               | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>           
+libepubgen                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libetonyek                           | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+libevent                             | Balint Reczey <rbalint@ubuntu.com>                                          
+libexttextcat                        | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+libextutils-depends-perl             | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libextutils-pkgconfig-perl           | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libfile-basedir-perl                 | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libfile-desktopentry-perl            | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libfile-fcntllock-perl               | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libfile-listing-perl                 | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libfile-mimeinfo-perl                | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libfont-afm-perl                     | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libfreehand                          | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+libgc                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libglib-object-introspection-perl    | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libglib-perl                         | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libgnome-games-support               | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+libgom                               | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+libgpod                              | Debian QA Group <packages@qa.debian.org>                                    
+libgsf                               | Dmitry Smirnov <onlyjob@debian.org>                                         
+libgtk3-perl                         | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libgxps                              | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+libhandy                             | Guido Günther <agx@sigxcpu.org>                                             
+libhtml-form-perl                    | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libhtml-format-perl                  | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libhtml-parser-perl                  | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libhtml-tagset-perl                  | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libhtml-tree-perl                    | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libhttp-cookies-perl                 | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libhttp-daemon-perl                  | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libhttp-date-perl                    | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libhttp-message-perl                 | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libhttp-negotiate-perl               | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libio-html-perl                      | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libio-socket-ssl-perl                | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libipc-system-simple-perl            | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+liblangtag                           | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+liblwp-mediatypes-perl               | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+liblwp-protocol-https-perl           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libmailtools-perl                    | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libmspub                             | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+libmtp                               | Alessio Treglia <alessio@debian.org>                                        
+libmwaw                              | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+libnatpmp                            | Thomas Goirand <zigo@debian.org>                                            
+libnet-dbus-perl                     | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libnet-http-perl                     | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libnet-smtp-ssl-perl                 | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libnet-ssleay-perl                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libnfs                               | Balint Reczey <rbalint@ubuntu.com>                                          
+libodfgen                            | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+liborcus                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libpagemaker                         | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+libpeas                              | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+libraw                               | Debian PhotoTools Maintainers <pkg-phototools-devel@lists.alioth.debian.org>
+libreoffice                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+librevenge                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+librsync                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libsigc++-2.0                        | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+libspectre                           | Debian Krap Maintainers <debian-qt-kde@lists.debian.org>                    
+libtie-ixhash-perl                   | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libtimedate-perl                     | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libtry-tiny-perl                     | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libunity                             | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>              
+liburi-perl                          | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libvisio                             | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+libvncserver                         | Debian Remote Maintainers <debian-remote@lists.debian.org>                  
+libwmf                               | Debian QA Group <packages@qa.debian.org>                                    
+libwnck3                             | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+libwpd                               | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+libwpg                               | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+libwps                               | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+libwww-perl                          | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libwww-robotrules-perl               | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libx11-protocol-perl                 | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libxml-parser-perl                   | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libxml-twig-perl                     | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libxml-xpathengine-perl              | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+libxres                              | Debian X Strike Force <debian-x@lists.debian.org>                           
+lirc                                 | Debian Lirc Team <team+debian-lirc@tracker.debian.org>                      
+lp-solve                             | Juan Esteban Monsalve Tobon <esteban@v7w.com>                               
+lua5.3                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+mako                                 | Piotr Ożarowski <piotr@debian.org>                                          
+markupsafe                           | Piotr Ożarowski <piotr@debian.org>                                          
+media-player-info                    | Martin Pitt <mpitt@debian.org>                                              
+mhash                                | Barak A. Pearlmutter <bap@debian.org>                                       
+miniupnpc                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+mtools                               | Chris Lamb <lamby@debian.org>                                               
+mythes                               | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>         
+nautilus-sendto                      | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+nautilus-share                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+neon27                               | Laszlo Boszormenyi (GCS) <gcs@debian.org>                                   
+network-manager-openvpn              | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>    
+openvpn                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+orca                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+pangomm                              | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+paramiko                             | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>    
+patch                                | Laszlo Boszormenyi (GCS) <gcs@debian.org>                                   
+pcaudiolib                           | Debian Accessibility Team <pkg-a11y-devel@lists.alioth.debian.org>          
+perl-openssl-defaults                | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>            
+pkcs11-helper                        | Debian OpenSC Maintainers <pkg-opensc-maint@lists.alioth.debian.org>        
+pkg-config                           | Tollef Fog Heen <tfheen@debian.org>                                         
+pppconfig                            | Debian QA Group <packages@qa.debian.org>                                    
+pppoeconf                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+pyatspi                              | Debian Accessibility Team <pkg-a11y-devel@lists.alioth.debian.org>          
+python-bcrypt                        | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>    
+python-dateutil                      | Guido Günther <agx@sigxcpu.org>                                             
+python-debian                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+python-fasteners                     | Debian OpenStack <team+openstack@tracker.debian.org>                        
+python-future                        | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>    
+python-lockfile                      | Ben Finney <bignose@debian.org>                                             
+python-monotonic                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+pyxdg                                | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>    
+qqwing                               | Jackson Doak <noskcaj@ubuntu.com>                                           
+raptor2                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+rasqal                               | Dave Beckett <dajobe@debian.org>                                            
+redland                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+remmina                              | Debian Remote Maintainers <debian-remote@lists.debian.org>                  
+rhythmbox                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+rhythmbox-plugin-alternative-toolbar | David Mohammed <fossfreedom@ubuntu.com>                                     
+seahorse                             | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+sg3-utils                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+shotwell                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+simple-scan                          | Jörg Frings-Fürst <debian@jff.email>                                        
+software-properties                  | Michael Vogt <michael.vogt@ubuntu.com>                                      
+sonic                                | Debian Accessibility Team <pkg-a11y-devel@lists.alioth.debian.org>          
+sound-icons                          | Debian TTS Team <tts-project@lists.alioth.debian.org>                       
+speech-dispatcher                    | Debian TTS Team <tts-project@lists.alioth.debian.org>                       
+suitesparse                          | Debian Science Team <debian-science-maintainers@lists.alioth.debian.org>    
+syslinux                             | Debian CD Group <debian-cd@lists.debian.org>                                
+syslinux-legacy                      | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>              
+tepl                                 | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+texlive-bin                          | Debian TeX Maintainers <debian-tex-maint@lists.debian.org>                  
+thunderbird                          | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com>                   
+totem                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+totem-pl-parser                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+tracker                              | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+tracker-miners                       | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+transmission                         | Sandro Tosi <morph@debian.org>                                              
+ubufox                               | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com>                   
+ubuntu-report                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+ubuntu-settings                      | Ubuntu Desktop Team <ubuntu-desktop@lists.ubuntu.com>                       
+ubuntu-sounds                        | Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>                           
+unattended-upgrades                  | Michael Vogt <mvo@debian.org>                                               
+update-notifier                      | Michael Vogt <michael.vogt@ubuntu.com>                                      
+usb-creator                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+vino                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+xcursor-themes                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+xdg-desktop-portal                   | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>    
+xdg-desktop-portal-gtk               | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>    
+xdg-user-dirs-gtk                    | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>    
+xdg-utils                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+xmlsec1                              | Debian XML/SGML Group <debian-xml-sgml-pkgs@lists.alioth.debian.org>        
+yajl                                 | John Stamp <jstamp@users.sourceforge.net>                                   

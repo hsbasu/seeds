@@ -1,0 +1,9 @@
+Package     | Source | Why                                         | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+------------+--------+---------------------------------------------+-----------------------------------------------------------+-----------------+-----------------
+avahi-utils | avahi  | Ubuntu.Bionic supported-network-client seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           24636 |             164
+irssi       | irssi  | Ubuntu.Bionic supported-network-client seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          719312 |            2450
+jigit       | jigit  | Ubuntu.Bionic supported-network-client seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49004 |             190
+lbdb        | lbdb   | Ubuntu.Bionic supported-network-client seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           59404 |             241
+mutt        | mutt   | Ubuntu.Bionic supported-network-client seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          949988 |            4084
+-------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                               |         1802344 |            7129

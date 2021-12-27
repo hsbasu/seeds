@@ -1,0 +1,27 @@
+Package              | Source               | Why                                          | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+---------------------+----------------------+----------------------------------------------+-----------------------------------------------------------+-----------------+-----------------
+acct                 | acct                 | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           87024 |             329
+aptitude-doc-en      | aptitude             | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          266748 |            1301
+attr                 | attr                 | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           21944 |             136
+authbind             | authbind             | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17854 |              63
+autofs               | autofs               | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          515768 |            3373
+awstats              | awstats              | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1839348 |            6799
+backuppc             | backuppc             | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          460340 |            2260
+bonnie++             | bonnie++             | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           57176 |             224
+cu                   | uucp                 | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           79720 |             213
+debian-goodies       | debian-goodies       | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           69624 |             217
+fbset                | fbset                | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          118300 |             320
+john                 | john                 | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          189462 |             443
+libpam-cracklib      | pam                  | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           13004 |              98
+libsasl2-modules-sql | cyrus-sasl2          | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14048 |              70
+mknbi                | mknbi                | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           59920 |             200
+pastebinit           | pastebinit           | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14208 |             152
+policyrcd-script-zg2 | policyrcd-script-zg2 | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5610 |              18
+quota                | quota                | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          254308 |            1492
+rsyslog-gnutls       | rsyslog              | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17424 |              90
+sasl2-bin            | cyrus-sasl2          | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          105336 |             404
+siege                | siege                | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           98348 |             271
+sqlite3              | sqlite3              | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          859772 |            2736
+whois                | whois                | Ubuntu.Bionic supported-sysadmin-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           44712 |             272
+-------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                       |         5209998 |           21481

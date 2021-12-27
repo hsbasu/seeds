@@ -1,0 +1,163 @@
+Package                    | Source                     | Why                               | Maintainer                                                     | Deb Size (B)    | Inst Size (KB) 
+---------------------------+----------------------------+-----------------------------------+----------------------------------------------------------------+-----------------+-----------------
+apache2                    | apache2                    | backuppc                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           95504 |             528
+apache2-bin                | apache2                    | apache2                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1179308 |            4898
+apache2-data               | apache2                    | apache2                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          158572 |             853
+apache2-utils              | apache2                    | apache2                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           83300 |             391
+cracklib-runtime           | cracklib2                  | libcrack2 (Recommends)            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          139580 |             596
+curl                       | curl                       | debian-goodies (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          161312 |             401
+db-util                    | db-defaults                | sasl2-bin                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            2718 |              39
+db5.3-util                 | db5.3                      | db-util                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           65276 |             291
+dctrl-tools                | dctrl-tools                | debian-goodies (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           61476 |             296
+dirmngr                    | gnupg2                     | gnupg                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          329332 |             918
+elfutils                   | elfutils                   | debian-goodies (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          274584 |            1019
+fontconfig                 | fontconfig                 | libpango-1.0-0                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          171216 |             369
+fontconfig-config          | fontconfig                 | libfontconfig1                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           28780 |             170
+fonts-dejavu-core          | fonts-dejavu               | fontconfig-config                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1040712 |            2954
+gnupg                      | gnupg2                     | libgpgme11                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          258936 |             413
+gnupg-l10n                 | gnupg2                     | gnupg                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           51748 |             380
+gnupg-utils                | gnupg2                     | gnupg                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          481072 |            1550
+gpg                        | gnupg2                     | gnupg-utils (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          482096 |            1135
+gpg-agent                  | gnupg2                     | gnupg-utils (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          232000 |             911
+gpg-wks-client             | gnupg2                     | gnupg                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           97660 |             275
+gpg-wks-server             | gnupg2                     | gnupg                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           90268 |             255
+gpgconf                    | gnupg2                     | dirmngr                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          123744 |             409
+gpgsm                      | gnupg2                     | gnupg-utils (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          216812 |             568
+john-data                  | john                       | john                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         4276256 |            7247
+keyutils                   | keyutils                   | nfs-common                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           44960 |             151
+libapr1                    | apr                        | apache2-bin                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           91356 |             272
+libaprutil1                | apr-util                   | apache2-bin                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           84720 |             282
+libaprutil1-dbd-sqlite3    | apr-util                   | apache2-bin                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           10544 |              51
+libaprutil1-ldap           | apr-util                   | apache2-bin                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            8736 |              43
+libarchive-zip-perl        | libarchive-zip-perl        | backuppc                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           90528 |             308
+libarchive13               | libarchive                 | smbclient                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          326636 |             841
+libasm1                    | elfutils                   | elfutils                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14220 |              67
+libasn1-8-heimdal          | heimdal                    | libgssapi3-heimdal                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          181044 |             798
+libassuan0                 | libassuan                  | gpgconf                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           35668 |             105
+libauthen-sasl-perl        | libauthen-sasl-perl        | libnet-smtp-ssl-perl (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           48684 |             153
+libavahi-client3           | avahi                      | samba-libs                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           25500 |             129
+libavahi-common-data       | avahi                      | libavahi-common3                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           21352 |             112
+libavahi-common3           | avahi                      | libavahi-client3                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           21728 |             109
+libbrotli1                 | brotli                     | apache2-bin                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          269864 |             767
+libcairo2                  | cairo                      | librrd8                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          583488 |            1330
+libcgi-fast-perl           | libcgi-fast-perl           | libcgi-pm-perl (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           10520 |              27
+libcgi-pm-perl             | libcgi-pm-perl             | backuppc                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          186032 |             447
+libcrack2                  | cracklib2                  | libpam-cracklib                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           28300 |             152
+libcups2                   | cups                       | samba-libs                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          233040 |             769
+libcurl4                   | curl                       | apache2-bin                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          233000 |             688
+libdata-dump-perl          | libdata-dump-perl          | libwww-perl (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           26994 |              94
+libdatrie1                 | libdatrie                  | libthai0                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18692 |              62
+libdbi1                    | libdbi                     | librrd8                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           27320 |              91
+libdw1                     | elfutils                   | libasm1                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          225604 |             945
+libencode-locale-perl      | libencode-locale-perl      | libhttp-message-perl              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12274 |              32
+libevent-2.1-7             | libevent                   | nfs-common                        | Balint Reczey <rbalint@ubuntu.com>                             |          138008 |             396
+libfcgi-perl               | libfcgi-perl               | libcgi-fast-perl                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           33092 |             100
+libfile-listing-perl       | libfile-listing-perl       | libwww-perl                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9774 |              55
+libfile-rsyncp-perl        | libfile-rsyncp-perl        | backuppc (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           81040 |             262
+libfile-which-perl         | libfile-which-perl         | debian-goodies (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           13792 |              32
+libfont-afm-perl           | libfont-afm-perl           | libhtml-format-perl               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           13224 |              69
+libfontconfig1             | fontconfig                 | libcairo2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          114072 |             318
+libfreetype6               | freetype                   | libfontconfig1                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          340708 |             836
+libgdbm-compat4            | gdbm                       | libperl5.30                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6244 |              40
+libgpgme11                 | gpgme1.0                   | python3-gpg                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          120900 |             355
+libgraphite2-3             | graphite2                  | libharfbuzz0b                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           73548 |             203
+libgssapi3-heimdal         | heimdal                    | libldap-2.4-2                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           96132 |             324
+libharfbuzz0b              | harfbuzz                   | libpango-1.0-0                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          391188 |            1075
+libhcrypto4-heimdal        | heimdal                    | libgssapi3-heimdal                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           87864 |             274
+libheimbase1-heimdal       | heimdal                    | libhcrypto4-heimdal               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           29716 |             113
+libheimntlm0-heimdal       | heimdal                    | libgssapi3-heimdal                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           15088 |              85
+libhtml-form-perl          | libhtml-form-perl          | libwww-perl (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22240 |              62
+libhtml-format-perl        | libhtml-format-perl        | libhtml-tree-perl (Recommends)    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           41264 |             126
+libhtml-parser-perl        | libhtml-parser-perl        | libcgi-pm-perl                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           86256 |             221
+libhtml-tagset-perl        | libhtml-tagset-perl        | libhtml-parser-perl               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12456 |              31
+libhtml-tree-perl          | libhtml-tree-perl          | libwww-perl                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          199660 |             481
+libhttp-cookies-perl       | libhttp-cookies-perl       | libwww-perl                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18276 |              50
+libhttp-daemon-perl        | libhttp-daemon-perl        | libwww-perl (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           21356 |              56
+libhttp-date-perl          | libhttp-date-perl          | libhttp-message-perl              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9920 |              29
+libhttp-message-perl       | libhttp-message-perl       | libhtml-parser-perl (Recommends)  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           76116 |             191
+libhttp-negotiate-perl     | libhttp-negotiate-perl     | libwww-perl                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12520 |              34
+libhx509-5-heimdal         | heimdal                    | libkrb5-26-heimdal                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          106632 |             360
+libio-dirent-perl          | libio-dirent-perl          | backuppc (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9920 |              45
+libio-html-perl            | libio-html-perl            | libhttp-message-perl              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14860 |              70
+libio-socket-ssl-perl      | libio-socket-ssl-perl      | liblwp-protocol-https-perl        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          176348 |             536
+libipc-system-simple-perl  | libipc-system-simple-perl  | debian-goodies (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22816 |              59
+libjansson4                | jansson                    | apache2-bin                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           28944 |              79
+libkrb5-26-heimdal         | heimdal                    | libheimntlm0-heimdal              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          207648 |             665
+libksba8                   | libksba                    | dirmngr                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           92566 |             259
+libldap-2.4-2              | openldap                   | quota                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          155528 |             522
+libldap-common             | openldap                   | libldap-2.4-2                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           17288 |             101
+libldb2                    | ldb                        | python3-ldb                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          139752 |             594
+liblua5.2-0                | lua5.2                     | apache2-bin                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          105748 |             431
+liblwp-mediatypes-perl     | liblwp-mediatypes-perl     | libhttp-message-perl              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           19472 |              72
+liblwp-protocol-https-perl | liblwp-protocol-https-perl | libwww-perl                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            8560 |              24
+libmailtools-perl          | libmailtools-perl          | libwww-perl (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           80684 |             223
+libmysqlclient21           | mysql-8.0                  | libsasl2-modules-sql              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1217972 |            7204
+libnet-http-perl           | libnet-http-perl           | liblwp-protocol-https-perl        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22840 |              59
+libnet-smtp-ssl-perl       | libnet-smtp-ssl-perl       | libmailtools-perl                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            5948 |              19
+libnet-ssleay-perl         | libnet-ssleay-perl         | libio-socket-ssl-perl             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          290820 |            1291
+libnet-xwhois-perl         | libnet-xwhois-perl         | awstats (Recommends)              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           20954 |              92
+libnfsidmap2               | libnfsidmap                | nfs-common                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           27852 |             115
+libnghttp2-14              | nghttp2                    | libcurl4                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           78688 |             212
+libnl-3-200                | libnl3                     | quota                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           53864 |             180
+libnl-genl-3-200           | libnl3                     | quota                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           11140 |              57
+libnpth0                   | npth                       | dirmngr                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7736 |              36
+libpango-1.0-0             | pango1.0                   | librrd8                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          162008 |             418
+libpangocairo-1.0-0        | pango1.0                   | librrd8                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           24812 |             116
+libpangoft2-1.0-0          | pango1.0                   | libpangocairo-1.0-0               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           34928 |             145
+libperl5.30                | perl                       | perl                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         3942624 |           27081
+libpixman-1-0              | pixman                     | libcairo2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          226588 |             692
+libpq5                     | postgresql-12              | libsasl2-modules-sql              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          113008 |             396
+libpython3.8               | python3.8                  | python3-ldb                       | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1619972 |            5371
+libroken18-heimdal         | heimdal                    | libasn1-8-heimdal                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           41848 |             144
+librrd8                    | rrdtool                    | rrdtool                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          160436 |             427
+librtmp1                   | rtmpdump                   | libcurl4                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           54916 |             144
+libsasl2-2                 | cyrus-sasl2                | libldap-2.4-2                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           49324 |             152
+libsasl2-modules           | cyrus-sasl2                | libsasl2-2 (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           49064 |             236
+libsasl2-modules-db        | cyrus-sasl2                | libsasl2-2                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14932 |              66
+libsmbclient               | samba                      | smbclient                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           59208 |             328
+libsocket6-perl            | libsocket6-perl            | backuppc                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18872 |              66
+libssh-4                   | libssh                     | libcurl4                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          169892 |             490
+libtalloc2                 | talloc                     | libldb2                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           29512 |             105
+libtdb1                    | tdb                        | libldb2                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           44144 |             139
+libtevent0                 | tevent                     | libldb2                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           35492 |             117
+libthai-data               | libthai                    | libthai0                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          134404 |             586
+libthai0                   | libthai                    | libpango-1.0-0                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18124 |              96
+libtime-parsedate-perl     | libtime-parsedate-perl     | backuppc                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           29732 |              82
+libtimedate-perl           | libtimedate-perl           | libhttp-date-perl                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           33956 |             123
+libtirpc-common            | libtirpc                   | libtirpc3                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7632 |              30
+libtirpc3                  | libtirpc                   | quota                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           77152 |             221
+libtry-tiny-perl           | libtry-tiny-perl           | libwww-perl                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           20540 |              47
+liburi-perl                | liburi-perl                | libhtml-parser-perl               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           77528 |             220
+libwbclient0               | samba                      | samba-libs                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          221280 |             891
+libwind0-heimdal           | heimdal                    | libhx509-5-heimdal                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           48048 |             205
+libwrap0                   | tcp-wrappers               | quota                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           46280 |             109
+libwww-perl                | libwww-perl                | backuppc                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          139992 |             378
+libwww-robotrules-perl     | libwww-robotrules-perl     | libwww-perl                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12600 |              35
+libxcb-render0             | libxcb                     | libcairo2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14840 |              86
+libxcb-shm0                | libxcb                     | libcairo2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            5584 |              36
+libxrender1                | libxrender                 | libcairo2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18706 |              60
+mysql-common               | mysql-defaults             | libmysqlclient21                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7496 |              34
+nfs-common                 | nfs-utils                  | autofs (Recommends)               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          204856 |             816
+perl                       | perl                       | apache2-bin                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          224080 |             745
+perl-modules-5.30          | perl                       | perl                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2737008 |           17226
+perl-openssl-defaults      | perl-openssl-defaults      | libnet-ssleay-perl                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7192 |              27
+pinentry-curses            | pinentry                   | gpg-agent                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           36296 |             100
+postfix                    | postfix                    | backuppc                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1197944 |            4433
+python3-crypto             | python-crypto              | python3-samba                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          237348 |            1451
+python3-distro             | python-distro              | pastebinit                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14600 |              69
+python3-gpg                | gpgme1.0                   | python3-samba (Recommends)        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          164612 |            1084
+python3-ldb                | ldb                        | python3-samba                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           37612 |             176
+python3-samba              | samba                      | samba-common-bin                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2403880 |           18922
+python3-talloc             | talloc                     | samba-libs                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12160 |              76
+python3-tdb                | tdb                        | python3-samba                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           13432 |              72
+rpcbind                    | rpcbind                    | nfs-common                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           42836 |             152
+rrdtool                    | rrdtool                    | backuppc (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          376076 |            1152
+samba-common               | samba                      | samba-common-bin                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           69780 |             305
+samba-common-bin           | samba                      | backuppc (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          521740 |            1579
+samba-dsdb-modules         | samba                      | samba-common-bin (Recommends)     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          288292 |            1741
+samba-libs                 | samba                      | python3-samba                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         5262228 |           23416
+smbclient                  | samba                      | backuppc (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          366704 |            1812
+ssl-cert                   | ssl-cert                   | apache2 (Recommends)              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           16952 |              63
+wamerican                  | scowl                      | cracklib-runtime (Recommends)     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          210048 |             991
+-------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                             |        40163250 |          171094

@@ -1,0 +1,53 @@
+Source           | Maintainer                                                        
+-----------------+--------------------------------------------------------------------
+bc               | Ryan Kavanagh <rak@debian.org>                                    
+flac             | Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+fontconfig       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+fonts-dejavu     | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org> 
+freetype         | Hugh McMaster <hugh.mcmaster@outlook.com>                         
+libasyncns       | Tanguy Ortolo <tanguy+debian@ortolo.eu>                           
+libdrm           | Debian X Strike Force <debian-x@lists.debian.org>                 
+libedit          | LLVM Packaging Team <pkg-llvm-team@lists.alioth.debian.org>       
+libfontenc       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+libglvnd         | Debian X Strike Force <debian-x@lists.debian.org>                 
+libice           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+libogg           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+libpciaccess     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+libpng1.6        | Maintainers of libpng1.6 packages <libpng1.6@packages.debian.org> 
+libsm            | Debian X Strike Force <debian-x@lists.debian.org>                 
+libsndfile       | Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+libvorbis        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+libx11           | Debian X Strike Force <debian-x@lists.debian.org>                 
+libxau           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+libxaw           | Debian X Strike Force <debian-x@lists.debian.org>                 
+libxcb           | Debian X Strike Force <debian-x@lists.debian.org>                 
+libxcomposite    | Debian X Strike Force <debian-x@lists.debian.org>                 
+libxdamage       | Debian X Strike Force <debian-x@lists.debian.org>                 
+libxdmcp         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+libxext          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+libxfixes        | Debian X Strike Force <debian-x@lists.debian.org>                 
+libxi            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+libxinerama      | Debian X Strike Force <debian-x@lists.debian.org>                 
+libxkbfile       | Debian X Strike Force <debian-x@lists.debian.org>                 
+libxmu           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+libxpm           | Debian X Strike Force <debian-x@lists.debian.org>                 
+libxrandr        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+libxrender       | Debian X Strike Force <debian-x@lists.debian.org>                 
+libxshmfence     | Debian X Strike Force <debian-x@lists.debian.org>                 
+libxt            | Debian X Strike Force <debian-x@lists.debian.org>                 
+libxtst          | Debian X Strike Force <debian-x@lists.debian.org>                 
+libxv            | Debian X Strike Force <debian-x@lists.debian.org>                 
+libxxf86dga      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+libxxf86vm       | Debian X Strike Force <debian-x@lists.debian.org>                 
+llvm-toolchain-9 | LLVM Packaging Team <pkg-llvm-team@lists.alioth.debian.org>       
+lm-sensors       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+mesa             | Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>                         
+pulseaudio       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+tcp-wrappers     | Marco d'Itri <md@linux.it>                                        
+update-motd      | Dustin Kirkland <kirkland@ubuntu.com>                             
+vulkan-loader    | Debian X Strike Force <debian-x@lists.debian.org>                 
+wayland          | Debian X Strike Force <debian-x@lists.debian.org>                 
+wslu             | Balint Reczey <rbalint@ubuntu.com>                                
+x11-utils        | Debian X Strike Force <debian-x@lists.debian.org>                 
+xft              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>         
+xorg             | Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>                         

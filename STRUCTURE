@@ -1,0 +1,13 @@
+feature follow-recommends
+# include platform.focal
+desktop: desktop-common
+live: desktop live-common
+ship-live: boot live
+# minimal:
+# standard: minimal
+# desktop-minimal: minimal standard
+# desktop: minimal desktop-minimal
+# desktop-full: minimal desktop-minimal desktop
+# live:
+# make sure supported remains the last entry
+supported: desktop ship-live supported-common

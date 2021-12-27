@@ -1,0 +1,34 @@
+Package             | Source              | Why                         | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+--------------------+---------------------+-----------------------------+-----------------------------------------------------------+-----------------+-----------------
+base-files          | base-files          | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           60132 |             390
+base-passwd         | base-passwd         | Ubuntu.Bionic required seed | Colin Watson <cjwatson@debian.org>                        |           47736 |             233
+bash                | bash                | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          638400 |            1656
+bsdutils            | util-linux          | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           63172 |             303
+coreutils           | coreutils           | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1249368 |            7196
+dash                | dash                | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           86336 |             212
+debconf             | debconf             | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          121524 |             520
+debianutils         | debianutils         | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           85776 |             230
+diffutils           | diffutils           | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          199804 |             532
+dpkg                | dpkg                | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1127856 |            6740
+e2fsprogs           | e2fsprogs           | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          527060 |            1491
+findutils           | findutils           | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          329012 |             668
+grep                | grep                | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          150796 |             496
+gzip                | gzip                | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           95332 |             245
+hostname            | hostname            | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11372 |              54
+init-system-helpers | init-system-helpers | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           38260 |             133
+libc-bin            | glibc               | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          636004 |            3711
+login               | shadow              | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          221228 |             932
+mawk                | mawk                | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           95992 |             233
+mount               | util-linux          | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          114896 |             433
+ncurses-base        | ncurses             | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           18692 |             381
+ncurses-bin         | ncurses             | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          172996 |             642
+passwd              | shadow              | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          797964 |            2667
+perl-base           | perl                | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1511376 |           10779
+procps              | procps              | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          232672 |             816
+sed                 | sed                 | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          189668 |             336
+sensible-utils      | sensible-utils      | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15016 |              62
+sysvinit-utils      | sysvinit            | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           20592 |              74
+tar                 | tar                 | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          240016 |             880
+util-linux          | util-linux          | Ubuntu.Bionic required seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1020452 |            4538
+------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                    |        10119500 |           47583

@@ -1,0 +1,76 @@
+Package                                    | Source                         | Why                        | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-------------------------------------------+--------------------------------+----------------------------+-----------------------------------------------------------+-----------------+-----------------
+aisleriot                                  | aisleriot                      | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          843864 |            8800
+app-install-data-partner                   | app-install-data-partner       | Ubuntu.Bionic desktop seed | Michael Vogt <michael.vogt@ubuntu.com>                    |            2680 |              15
+apport-gtk                                 | apport                         | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9720 |             198
+avahi-autoipd                              | avahi                          | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           37700 |             120
+baobab                                     | baobab                         | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           95060 |             720
+branding-ubuntu                            | branding-ubuntu                | Ubuntu.Bionic desktop seed | Scott Ritchie <scottritchie@ubuntu.com>                   |          303260 |            1168
+brltty                                     | brltty                         | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1163680 |            7784
+cheese                                     | cheese                         | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          138784 |             446
+deja-dup                                   | deja-dup                       | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          270016 |            1504
+eog                                        | eog                            | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          420280 |            2188
+evince                                     | evince                         | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          249460 |             932
+example-content                            | example-content                | Ubuntu.Bionic desktop seed | Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>         |        12816656 |           13445
+file-roller                                | file-roller                    | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          252252 |            1680
+firefox                                    | firefox                        | Ubuntu.Bionic desktop seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |        52125060 |          197766
+fonts-noto-color-emoji                     | fonts-noto-color-emoji         | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         9697580 |           10241
+gedit                                      | gedit                          | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          407544 |            2008
+gir1.2-gmenu-3.0                           | gnome-menus                    | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3724 |              30
+gnome-accessibility-themes                 | gnome-themes-extra             | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2268552 |            5633
+gnome-bluetooth                            | gnome-bluetooth                | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           53964 |             332
+gnome-calendar                             | gnome-calendar                 | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          223264 |             804
+gnome-disk-utility                         | gnome-disk-utility             | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          186236 |            1088
+gnome-font-viewer                          | gnome-font-viewer              | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           52408 |             304
+gnome-getting-started-docs                 | gnome-getting-started-docs     | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7423012 |            8789
+gnome-initial-setup                        | gnome-initial-setup            | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          942188 |            1616
+gnome-mahjongg                             | gnome-mahjongg                 | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2520116 |            3360
+gnome-mines                                | gnome-mines                    | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           83844 |             764
+gnome-power-manager                        | gnome-power-manager            | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49452 |             324
+gnome-screenshot                           | gnome-screenshot               | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           54416 |             308
+gnome-software-plugin-snap                 | gnome-software                 | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           72504 |             266
+gnome-sudoku                               | gnome-sudoku                   | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          192168 |             940
+gnome-todo                                 | gnome-todo                     | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          146192 |             465
+gsettings-ubuntu-schemas                   | gsettings-ubuntu-touch-schemas | Ubuntu.Bionic desktop seed | Ubuntu Desktop Team <ubuntu-desktop@lists.ubuntu.com>     |            5666 |              29
+gvfs-fuse                                  | gvfs                           | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17612 |              77
+ibus-table                                 | ibus-table                     | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          229548 |             972
+libproxy1-plugin-gsettings                 | libproxy                       | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           18136 |              87
+libproxy1-plugin-networkmanager            | libproxy                       | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5280 |              36
+libreoffice-calc                           | libreoffice                    | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7187308 |           32076
+libreoffice-gnome                          | libreoffice                    | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           54872 |             407
+libreoffice-impress                        | libreoffice                    | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1073724 |            9835
+libreoffice-math                           | libreoffice                    | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          401624 |            1970
+libreoffice-ogltrans                       | libreoffice                    | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            8136 |             228
+libreoffice-pdfimport                      | libreoffice                    | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6328 |             228
+libreoffice-style-breeze                   | libreoffice                    | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2825296 |            6530
+libreoffice-writer                         | libreoffice                    | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         8590140 |           38325
+libwmf0.2-7-gtk                            | libwmf                         | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6072 |              37
+nautilus-sendto                            | nautilus-sendto                | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15632 |             104
+nautilus-share                             | nautilus-share                 | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           19408 |             136
+network-manager-config-connectivity-ubuntu | network-manager                | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2520 |              50
+network-manager-pptp-gnome                 | network-manager-pptp           | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           24148 |             147
+orca                                       | orca                           | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          508272 |            4988
+plymouth-theme-ubuntu-logo                 | plymouth                       | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           83380 |             183
+pppconfig                                  | pppconfig                      | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           34572 |             248
+pppoeconf                                  | pppoeconf                      | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14798 |             132
+remmina                                    | remmina                        | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          164024 |             535
+rhythmbox                                  | rhythmbox                      | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          112296 |             318
+seahorse                                   | seahorse                       | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          396452 |            2264
+shotwell                                   | shotwell                       | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1796684 |            6427
+simple-scan                                | simple-scan                    | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          178816 |            1288
+speech-dispatcher                          | speech-dispatcher              | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          445984 |            2120
+thunderbird                                | thunderbird                    | Ubuntu.Bionic desktop seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |        42635092 |          174096
+thunderbird-gnome-support                  | thunderbird                    | Ubuntu.Bionic desktop seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            8640 |             121
+totem                                      | totem                          | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           69060 |             209
+transmission-gtk                           | transmission                   | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          325092 |             952
+ubuntu-report                              | ubuntu-report                  | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2373820 |            7617
+ubuntu-software                            | gnome-software                 | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           10672 |              44
+usb-creator-gtk                            | usb-creator                    | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           21408 |             152
+vino                                       | vino                           | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          125440 |             396
+whoopsie                                   | whoopsie                       | Ubuntu.Bionic desktop seed | Evan Dandrea <ev@ubuntu.com>                              |           23508 |             111
+xcursor-themes                             | xcursor-themes                 | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          319052 |            3695
+xdg-desktop-portal-gtk                     | xdg-desktop-portal-gtk         | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          147036 |             844
+xdg-utils                                  | xdg-utils                      | Ubuntu.Bionic desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           61628 |             320
+xul-ext-ubufox                             | ubufox                         | Ubuntu.Bionic desktop seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            3320 |              26
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                                     |       163456132 |          572398

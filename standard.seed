@@ -1,0 +1,29 @@
+Package                  | Source             | Why                         | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-------------------------+--------------------+-----------------------------+-----------------------------------------------------------+-----------------+-----------------
+busybox-static           | busybox            | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          949272 |            2224
+cron                     | cron               | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           71472 |             262
+dmidecode                | dmidecode          | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           59512 |             214
+dnsutils                 | bind9              | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2752 |              44
+dosfstools               | dosfstools         | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           59004 |             211
+ed                       | ed                 | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           52100 |             108
+ftp                      | netkit-ftp         | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           56700 |             142
+hdparm                   | hdparm             | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           94804 |             245
+info                     | texinfo            | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          202556 |             812
+iptables                 | iptables           | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          390328 |            2639
+language-selector-common | language-selector  | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          224100 |            1719
+lshw                     | lshw               | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          270368 |             857
+lsof                     | lsof               | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          252048 |             455
+ltrace                   | ltrace             | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          121348 |             368
+man-db                   | man-db             | Ubuntu.Bionic standard seed | Colin Watson <cjwatson@debian.org>                        |         1112368 |            2816
+parted                   | parted             | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           43180 |             167
+pciutils                 | pciutils           | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           56468 |             191
+popularity-contest       | popularity-contest | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           34336 |             122
+psmisc                   | psmisc             | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           53300 |             284
+rsync                    | rsync              | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          321828 |             680
+strace                   | strace             | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          359364 |            1517
+time                     | time               | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           26158 |              78
+ubuntu-standard          | ubuntu-meta        | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3908 |              51
+usbutils                 | usbutils           | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           72856 |             320
+wget                     | wget               | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          348824 |             992
+----------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                        |         5238954 |           17518

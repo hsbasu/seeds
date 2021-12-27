@@ -1,0 +1,53 @@
+Package                     | Source                    | Why                                 | Maintainer                                                     | Deb Size (B)    | Inst Size (KB) 
+----------------------------+---------------------------+-------------------------------------+----------------------------------------------------------------+-----------------+-----------------
+b43-fwcutter                | b43-fwcutter              | Ubuntu.Bionic ship-live seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           25728 |              98
+bcmwl-kernel-source         | bcmwl                     | Ubuntu.Bionic ship-live seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1543896 |            7879
+binutils                    | binutils                  | gcc-9                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            3376 |             107
+binutils-common             | binutils                  | binutils                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          206692 |             424
+binutils-x86-64-linux-gnu   | binutils                  | binutils                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1613868 |            9848
+build-essential             | build-essential           | dpkg-dev (Recommends)               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            4624 |              20
+dkms                        | dkms                      | bcmwl-kernel-source                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           66632 |             289
+dpkg-dev                    | dpkg                      | dkms                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          679036 |            2074
+efibootmgr                  | efibootmgr                | grub-efi-amd64-bin (Recommends)     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           28132 |              91
+fakeroot                    | fakeroot                  | dpkg-dev (Recommends)               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           62636 |             227
+g++                         | gcc-defaults              | build-essential                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            1604 |              16
+g++-9                       | gcc-9                     | g++                                 | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |         8404272 |           27985
+gcc                         | gcc-defaults              | dkms                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            5208 |              50
+gcc-9                       | gcc-9                     | gcc                                 | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |         8233992 |           29783
+grub-efi                    | grub2                     | Ubuntu.Bionic ship-live seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            2588 |              16
+grub-efi-amd64              | grub2                     | grub-efi                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           46624 |             178
+grub-efi-amd64-bin          | grub2                     | grub-efi-amd64                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          701712 |            7279
+grub-efi-amd64-signed       | grub2-signed              | Ubuntu.Bionic ship-live seed        | Colin Watson <cjwatson@ubuntu.com>                             |          468240 |            4448
+libalgorithm-diff-perl      | libalgorithm-diff-perl    | libalgorithm-merge-perl             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           46616 |             106
+libalgorithm-diff-xs-perl   | libalgorithm-diff-xs-perl | libalgorithm-diff-perl (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           11344 |              46
+libalgorithm-merge-perl     | libalgorithm-merge-perl   | dpkg-dev (Recommends)               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           11992 |              42
+libasan5                    | gcc-9                     | libgcc-9-dev                        | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          395460 |            1656
+libatomic1                  | gcc-10                    | libgcc-9-dev                        | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9284 |              45
+libbinutils                 | binutils                  | binutils                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          473556 |            2696
+libc-dev-bin                | glibc                     | libc6-dev                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           71820 |             440
+libc6-dev                   | glibc                     | libgcc-9-dev (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2519944 |           19070
+libcrypt-dev                | libxcrypt                 | libc6-dev                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          104104 |             321
+libctf-nobfd0               | binutils                  | binutils-x86-64-linux-gnu           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           47028 |             197
+libctf0                     | binutils                  | binutils-x86-64-linux-gnu           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           46620 |             130
+libfakeroot                 | fakeroot                  | fakeroot                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           25720 |             157
+libgcc-9-dev                | gcc-9                     | gcc-9                               | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2358672 |           13892
+libitm1                     | gcc-10                    | libgcc-9-dev                        | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |           26260 |             115
+liblsan0                    | gcc-10                    | libgcc-9-dev                        | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          143996 |             390
+libquadmath0                | gcc-10                    | libgcc-9-dev                        | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          145896 |             304
+libstdc++-9-dev             | gcc-9                     | g++-9                               | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1711276 |           17624
+libtsan0                    | gcc-10                    | libgcc-9-dev                        | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          319328 |            1184
+libubsan1                   | gcc-10                    | libgcc-9-dev                        | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          136076 |             378
+linux-libc-dev              | linux                     | libc6-dev                           | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>              |         1106280 |            5725
+lupin-support               | lupin                     | Ubuntu.Bionic ship-live seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14032 |              67
+make                        | make-dfsg                 | dpkg-dev                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          162292 |             384
+manpages-dev                | manpages                  | libc-dev-bin (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2265524 |            3879
+mouseemu                    | mouseemu                  | Ubuntu.Bionic ship-live seed        | Colin Watson <cjwatson@ubuntu.com>                             |           16558 |              58
+oem-config                  | ubiquity                  | oem-config-gtk                      | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           15364 |             239
+oem-config-gtk              | ubiquity                  | Ubuntu.Bionic ship-live seed        | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            4256 |             203
+oem-config-slideshow-ubuntu | ubiquity-slideshow-ubuntu | Ubuntu.Bionic ship-live seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1234568 |            2624
+setserial                   | setserial                 | Ubuntu.Bionic ship-live seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           35896 |             117
+shim                        | shim                      | shim-signed                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          574704 |            3744
+shim-signed                 | shim-signed               | Ubuntu.Bionic ship-live seed        | Steve Langasek <steve.langasek@ubuntu.com>                     |          343812 |            1357
+user-setup                  | user-setup                | lupin-support                       | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |          137744 |             537
+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                               |        36614882 |          168539

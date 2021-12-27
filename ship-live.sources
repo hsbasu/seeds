@@ -1,0 +1,20 @@
+Source                    | Maintainer                                                      
+--------------------------+------------------------------------------------------------------
+b43-fwcutter              | Debian QA Group <packages@qa.debian.org>                        
+bcmwl                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>       
+binutils                  | Matthias Klose <doko@debian.org>                                
+build-essential           | Matthias Klose <doko@debian.org>                                
+dkms                      | Dynamic Kernel Modules Support Team <dkms@packages.debian.org>  
+efibootmgr                | Debian UEFI Maintainers <debian-efi@lists.debian.org>           
+fakeroot                  | Clint Adams <clint@debian.org>                                  
+grub2-signed              | Colin Watson <cjwatson@ubuntu.com>                              
+libalgorithm-diff-perl    | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
+libalgorithm-diff-xs-perl | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
+libalgorithm-merge-perl   | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
+lupin                     | Agostino Russo <agostino.russo@gmail.com>                       
+make-dfsg                 | Manoj Srivastava <srivasta@debian.org>                          
+mouseemu                  | Colin Watson <cjwatson@ubuntu.com>                              
+setserial                 | Thorsten Alteholz <debian@alteholz.de>                          
+shim                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>       
+shim-signed               | Steve Langasek <steve.langasek@ubuntu.com>                      
+user-setup                | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>       

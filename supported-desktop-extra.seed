@@ -1,0 +1,32 @@
+Package                     | Source                      | Why                                        | Maintainer                                                     | Deb Size (B)    | Inst Size (KB) 
+----------------------------+-----------------------------+--------------------------------------------+----------------------------------------------------------------+-----------------+-----------------
+icc-profiles-free           | icc-profiles-free           | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          549198 |            1665
+libreoffice-nlpsolver       | libreoffice                 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          676404 |            2536
+libreoffice-officebean      | libreoffice                 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6512 |             232
+manpages-dev                | manpages                    | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2265524 |            3879
+nvidia-331                  | nvidia-graphics-drivers-340 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4876 |              21
+nvidia-331-dev              | nvidia-graphics-drivers-340 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4884 |              21
+nvidia-331-updates          | nvidia-graphics-drivers-340 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4892 |              21
+nvidia-331-updates-dev      | nvidia-graphics-drivers-340 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4892 |              21
+nvidia-331-updates-uvm      | nvidia-graphics-drivers-340 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4896 |              21
+nvidia-331-uvm              | nvidia-graphics-drivers-340 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4884 |              21
+nvidia-340                  | nvidia-graphics-drivers-340 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        51995952 |          268697
+nvidia-340-dev              | nvidia-graphics-drivers-340 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           80992 |             739
+nvidia-340-updates          | nvidia-graphics-drivers-340 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4888 |              21
+nvidia-340-updates-dev      | nvidia-graphics-drivers-340 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4888 |              21
+nvidia-340-uvm              | nvidia-graphics-drivers-340 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4840 |              21
+nvidia-384                  | nvidia-graphics-drivers-390 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7556 |              22
+nvidia-384-dev              | nvidia-graphics-drivers-390 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7564 |              22
+nvidia-headless-390         | nvidia-graphics-drivers-390 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7680 |              22
+nvidia-headless-418         | nvidia-graphics-drivers-430 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6936 |              19
+nvidia-headless-430         | nvidia-graphics-drivers-440 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7556 |              20
+nvidia-headless-435         | nvidia-graphics-drivers-435 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6336 |              18
+nvidia-headless-440         | nvidia-graphics-drivers-440 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7644 |              20
+nvidia-headless-no-dkms-390 | nvidia-graphics-drivers-390 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7816 |              22
+nvidia-headless-no-dkms-418 | nvidia-graphics-drivers-430 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6956 |              19
+nvidia-headless-no-dkms-430 | nvidia-graphics-drivers-440 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7572 |              20
+nvidia-headless-no-dkms-435 | nvidia-graphics-drivers-435 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6456 |              18
+nvidia-headless-no-dkms-440 | nvidia-graphics-drivers-440 | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7784 |              20
+tar-doc                     | tar-doc                     | Ubuntu.Bionic supported-desktop-extra seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          194092 |             200
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                                        |        55900470 |          278379

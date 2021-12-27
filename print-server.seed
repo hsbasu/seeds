@@ -1,0 +1,11 @@
+Package                     | Source      | Why                             | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+----------------------------+-------------+---------------------------------+-----------------------------------------------------------+-----------------+-----------------
+cups                        | cups        | Ubuntu.Bionic print-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          259288 |            1174
+cups-bsd                    | cups        | Ubuntu.Bionic print-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           35524 |             126
+cups-client                 | cups        | Ubuntu.Bionic print-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          124260 |             493
+foomatic-db-compressed-ppds | foomatic-db | Ubuntu.Bionic print-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          304532 |             436
+openprinting-ppds           | foomatic-db | Ubuntu.Bionic print-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         5184892 |            6659
+printer-driver-gutenprint   | gutenprint  | Ubuntu.Bionic print-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          428132 |             941
+printer-driver-hpijs        | hplip       | Ubuntu.Bionic print-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          288552 |            2216
+----------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                        |         6625180 |           12045

@@ -1,0 +1,62 @@
+Package                     | Source                      | Why                         | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+----------------------------+-----------------------------+-----------------------------+-----------------------------------------------------------+-----------------+-----------------
+apt-clone                   | apt-clone                   | ubiquity                    | Michael Vogt <michael.vogt@ubuntu.com>                    |           12960 |              62
+archdetect-deb              | hw-detect                   | ubiquity                    | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |            6240 |              70
+b43-fwcutter                | b43-fwcutter                | Ubuntu.Bionic ship seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           25728 |              98
+bogl-bterm                  | bogl                        | ubiquity-frontend-debconf   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           25680 |              76
+bsd-mailx                   | bsd-mailx                   | Ubuntu.Bionic ship seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           67196 |             174
+btrfs-progs                 | btrfs-progs                 | ubiquity (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          654500 |            4016
+dctrl-tools                 | dctrl-tools                 | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           61476 |             296
+dpkg-repack                 | dpkg-repack                 | apt-clone (Recommends)      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           13432 |              39
+firefox-locale-en           | firefox                     | Ubuntu.Bionic ship seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          724140 |            1202
+gir1.2-timezonemap-1.0      | libtimezonemap              | ubiquity-frontend-gtk       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            8340 |              37
+gir1.2-xkl-1.0              | libxklavier                 | ubiquity-frontend-gtk       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5564 |              30
+hyphen-en-gb                | libreoffice-dictionaries    | Ubuntu.Bionic ship seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           83420 |             485
+keyutils                    | keyutils                    | nfs-kernel-server           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           44960 |             151
+language-pack-en            | language-pack-en            | Ubuntu.Bionic ship seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1896 |               9
+language-pack-en-base       | language-pack-en-base       | language-pack-en            | Language pack maintainers <language-packs@ubuntu.com>     |          442116 |            3809
+language-pack-es            | language-pack-es            | Ubuntu.Bionic ship seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1904 |               9
+language-pack-es-base       | language-pack-es-base       | language-pack-es            | Language pack maintainers <language-packs@ubuntu.com>     |         2901156 |           12438
+language-pack-gnome-en      | language-pack-gnome-en      | Ubuntu.Bionic ship seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-en-base | language-pack-gnome-en-base | language-pack-gnome-en      | Language pack maintainers <language-packs@ubuntu.com>     |          528868 |            3851
+language-pack-gnome-es      | language-pack-gnome-es      | Ubuntu.Bionic ship seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1928 |               9
+language-pack-gnome-es-base | language-pack-gnome-es-base | language-pack-gnome-es      | Language pack maintainers <language-packs@ubuntu.com>     |         3017224 |           13346
+libdebian-installer4        | libdebian-installer         | archdetect-deb              | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |           21760 |              84
+libisns-nocrypto0-udeb      | open-isns                   | open-iscsi-udeb             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           79388 |             464
+libisns0                    | open-isns                   | open-iscsi                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          109820 |             987
+liblockfile-bin             | liblockfile                 | liblockfile1                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11680 |              46
+liblockfile1                | liblockfile                 | bsd-mailx                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6680 |              39
+libnfsidmap2                | libnfsidmap                 | nfs-common                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           27852 |             115
+libreoffice-help-common     | libreoffice                 | libreoffice-help-en-us      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2343200 |           10588
+libreoffice-help-en-us      | libreoffice                 | Ubuntu.Bionic ship seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1407792 |           20124
+libtimezonemap-data         | libtimezonemap              | libtimezonemap1             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1926860 |            5629
+libtimezonemap1             | libtimezonemap              | gir1.2-timezonemap-1.0      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           27320 |             109
+libtirpc-common             | libtirpc                    | libtirpc3                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7632 |              30
+libtirpc3                   | libtirpc                    | nfs-kernel-server           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           77152 |             221
+ncurses-term                | ncurses                     | openssh-server (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          249260 |            4183
+nfs-common                  | nfs-utils                   | Ubuntu.Bionic ship seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          204856 |             816
+nfs-kernel-server           | nfs-utils                   | Ubuntu.Bionic ship seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           94824 |             358
+oem-config                  | ubiquity                    | oem-config-gtk              | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |           15364 |             239
+oem-config-gtk              | ubiquity                    | Ubuntu.Bionic ship seed     | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |            4256 |             203
+oem-config-slideshow-ubuntu | ubiquity-slideshow-ubuntu   | Ubuntu.Bionic ship seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1234568 |            2624
+open-iscsi                  | open-iscsi                  | Ubuntu.Bionic ship seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          282244 |            1422
+open-iscsi-udeb             | open-iscsi                  | Ubuntu.Bionic ship seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          212680 |            1216
+openssh-server              | openssh                     | ssh                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          376932 |            1491
+openssh-sftp-server         | openssh                     | openssh-server              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51500 |             141
+partman-iscsi               | partman-iscsi               | Ubuntu.Bionic ship seed     | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |           26984 |             103
+postfix                     | postfix                     | bsd-mailx                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1197944 |            4433
+python3-icu                 | pyicu                       | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          249896 |            1164
+python3-pam                 | python-pam                  | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9052 |              44
+rdate                       | rdate                       | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17648 |              60
+rpcbind                     | rpcbind                     | nfs-common                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           42836 |             152
+setserial                   | setserial                   | Ubuntu.Bionic ship seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           35896 |             117
+sosreport                   | sosreport                   | Ubuntu.Bionic ship seed     | Louis Bouchard <louis.bouchard@ubuntu.com>                |          165992 |            1756
+ssh                         | openssh                     | Ubuntu.Bionic ship seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5072 |             117
+ssh-import-id               | ssh-import-id               | openssh-server (Recommends) | Dustin Kirkland <kirkland@ubuntu.com>                     |           10040 |              54
+ubiquity                    | ubiquity                    | oem-config                  | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |         2929168 |           17448
+ubiquity-casper             | casper                      | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11164 |             102
+ubiquity-frontend-debconf   | ubiquity                    | ubiquity                    | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |          450800 |            2649
+ubiquity-frontend-gtk       | ubiquity                    | oem-config-gtk              | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |           84524 |             764
+ubiquity-ubuntu-artwork     | ubiquity                    | ubiquity                    | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |          526184 |             780
+----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                    |        23167472 |          121088

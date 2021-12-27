@@ -1,0 +1,16 @@
+Package          | Source    | Why                         | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-----------------+-----------+-----------------------------+-----------------------------------------------------------+-----------------+-----------------
+libefiboot1      | efivar    | efivar                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           38120 |             117
+libefivar1       | efivar    | efivar                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           47756 |             170
+liblzo2-2        | lzo2      | squashfs-tools              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           50768 |             175
+libnl-3-200      | libnl3    | powertop                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           53864 |             180
+libnl-genl-3-200 | libnl3    | powertop                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11140 |              57
+libnvpair1linux  | zfs-linux | zfsutils-linux              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           48400 |             174
+libreadline5     | readline5 | xfsprogs                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          100296 |             328
+libuutil1linux   | zfs-linux | zfsutils-linux              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41780 |             144
+libzfs2linux     | zfs-linux | zfsutils-linux              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          207008 |             596
+libzpool2linux   | zfs-linux | zfsutils-linux              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          805488 |            2825
+xfsprogs         | xfsprogs  | xfsdump                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          773180 |            2676
+zfs-zed          | zfs-linux | zfsutils-linux (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           59736 |             257
+-----------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                       |         2237536 |            7699

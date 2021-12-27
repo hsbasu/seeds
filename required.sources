@@ -1,0 +1,51 @@
+Source              | Maintainer                                                                  
+--------------------+------------------------------------------------------------------------------
+acl                 | Guillem Jover <guillem@debian.org>                                          
+attr                | Guillem Jover <guillem@debian.org>                                          
+audit               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+base-files          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+base-passwd         | Colin Watson <cjwatson@debian.org>                                          
+bash                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+bzip2               | Anibal Monsalve Salazar <anibal@debian.org>                                 
+cdebconf            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+coreutils           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+dash                | Andrej Shadura <andrewsh@debian.org>                                        
+db5.3               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+debconf             | Debconf Developers <debconf-devel@lists.alioth.debian.org>                  
+debianutils         | Clint Adams <clint@debian.org>                                              
+diffutils           | Santiago Vila <sanvila@debian.org>                                          
+dpkg                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+e2fsprogs           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+findutils           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+gcc-10              | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>              
+glibc               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+grep                | Anibal Monsalve Salazar <anibal@debian.org>                                 
+gzip                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+hostname            | Michael Meskes <meskes@debian.org>                                          
+init-system-helpers | Debian systemd Maintainers <pkg-systemd-maintainers@lists.alioth.debian.org>
+libcap-ng           | Pierre Chifflier <pollux@debian.org>                                        
+libgcrypt20         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libgpg-error        | Debian GnuPG Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>          
+libselinux          | Debian SELinux maintainers <selinux-devel@lists.alioth.debian.org>          
+libsemanage         | Debian SELinux maintainers <selinux-devel@lists.alioth.debian.org>          
+libsepol            | Debian SELinux maintainers <selinux-devel@lists.alioth.debian.org>          
+libxcrypt           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libzstd             | Debian Med Packaging Team <debian-med-packaging@lists.alioth.debian.org>    
+lsb                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+lz4                 | Nobuhiro Iwamatsu <iwamatsu@debian.org>                                     
+mawk                | Boyuan Yang <byang@debian.org>                                              
+ncurses             | Craig Small <csmall@debian.org>                                             
+pam                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+pcre2               | Matthew Vernon <matthew@debian.org>                                         
+pcre3               | Matthew Vernon <matthew@debian.org>                                         
+perl                | Niko Tyni <ntyni@debian.org>                                                
+procps              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+sed                 | Clint Adams <clint@debian.org>                                              
+sensible-utils      | Anibal Monsalve Salazar <anibal@debian.org>                                 
+shadow              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+systemd             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+sysvinit            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+tar                 | Bdale Garbee <bdale@gag.com>                                                
+util-linux          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+xz-utils            | Jonathan Nieder <jrnieder@gmail.com>                                        
+zlib                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   

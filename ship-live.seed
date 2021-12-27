@@ -1,0 +1,14 @@
+Package                     | Source                    | Why                          | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+----------------------------+---------------------------+------------------------------+-----------------------------------------------------------+-----------------+-----------------
+b43-fwcutter                | b43-fwcutter              | Ubuntu.Bionic ship-live seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           25728 |              98
+bcmwl-kernel-source         | bcmwl                     | Ubuntu.Bionic ship-live seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1543896 |            7879
+grub-efi                    | grub2                     | Ubuntu.Bionic ship-live seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2588 |              16
+grub-efi-amd64-signed       | grub2-signed              | Ubuntu.Bionic ship-live seed | Colin Watson <cjwatson@ubuntu.com>                        |          468240 |            4448
+lupin-support               | lupin                     | Ubuntu.Bionic ship-live seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14032 |              67
+mouseemu                    | mouseemu                  | Ubuntu.Bionic ship-live seed | Colin Watson <cjwatson@ubuntu.com>                        |           16558 |              58
+oem-config-gtk              | ubiquity                  | Ubuntu.Bionic ship-live seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |            4256 |             203
+oem-config-slideshow-ubuntu | ubiquity-slideshow-ubuntu | Ubuntu.Bionic ship-live seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1234568 |            2624
+setserial                   | setserial                 | Ubuntu.Bionic ship-live seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           35896 |             117
+shim-signed                 | shim-signed               | Ubuntu.Bionic ship-live seed | Steve Langasek <steve.langasek@ubuntu.com>                |          343812 |            1357
+---------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                   |         3689574 |           16867

@@ -1,0 +1,10 @@
+Package        | Source     | Why                             | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+---------------+------------+---------------------------------+-----------------------------------------------------------+-----------------+-----------------
+cifs-utils     | cifs-utils | Ubuntu.Bionic samba-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           81900 |             299
+libnss-winbind | samba      | Ubuntu.Bionic samba-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           13704 |             182
+libpam-winbind | samba      | Ubuntu.Bionic samba-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           30624 |             214
+samba          | samba      | Ubuntu.Bionic samba-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          971172 |           16257
+smbclient      | samba      | Ubuntu.Bionic samba-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          366704 |            1812
+winbind        | samba      | Ubuntu.Bionic samba-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          465808 |            2057
+--------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                          |         1929912 |           20821

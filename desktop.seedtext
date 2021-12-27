@@ -1,0 +1,194 @@
+Task-Per-Derivative: 1
+Task-Section: user
+Task-Description: Ubuntu desktop
+Task-Extended-Description: This task provides the Ubuntu desktop environment.
+Task-Key: ubuntu-desktop
+Task-Seeds: desktop-common
+
+= Hardware and Architecture Support =
+
+== Architecture-independent ==
+
+Bluetooth:
+
+ * (gnome-bluetooth) # desktop bluetooth support
+
+= Network Services =
+
+Basic network services, VPN and Windows integration.
+
+ * (avahi-autoipd)     # IPv4 link-local interface configuration support
+ * (network-manager)
+ * (network-manager-config-connectivity-ubuntu)
+ * (network-manager-pptp-gnome)
+ * (libproxy1-plugin-gsettings)
+ * (libproxy1-plugin-networkmanager)
+ * (ppp)      # ppp utilities useful to be on a CD when someone needs them
+ * (pppconfig)
+ * (pppoeconf)
+
+= GUI infrastructure =
+
+ * libnotify-bin                  # various scripts need notify-send (such as .bashrc's "alert")
+
+Input methods:
+
+ * (im-config)
+ * (ibus)
+ * (ibus-gtk)
+ * (ibus-gtk3)
+ * (ibus-table)
+
+Desktop Experience:
+ * gnome-shell
+ * ubuntu-session
+ * gnome-shell-extension-ubuntu-dock
+ * gnome-shell-extension-appindicator
+ * (thunderbird-gnome-support)
+ * (gir1.2-gmenu-3.0) # LP: #1726093
+ * (gnome-initial-setup)
+ * (ubuntu-report)
+
+= Desktop apps =
+
+We use many GNOME applications as part of our desktop user interface. Rather than using Debian's meta-packages they are deliberately expanded so that we can select things a bit better.
+
+ * (apport-gtk)
+ * (whoopsie)
+ * (eog)
+ * (thunderbird)
+ * (file-roller)
+ * gdm3
+ * (gedit)
+ * (app-install-data-partner)
+ * (transmission-gtk)
+ * gnome-settings-daemon
+ * gnome-control-center
+ * gnome-menus
+ * (system-config-printer)
+ * (gnome-power-manager)
+ * (gnome-terminal)
+ * (gnome-todo)
+ * (baobab)
+ * (gnome-screenshot)
+ * (gnome-font-viewer)
+ * language-selector-gnome
+ * (firefox)
+ * (xul-ext-ubufox)
+ * nautilus
+ * (nautilus-sendto)
+ * (nautilus-share)
+ * (rhythmbox)
+ * (cheese)
+ * software-properties-gtk
+ * (totem)
+ * ubuntu-release-upgrader-gtk
+ * update-manager
+ * update-notifier
+ * (vino) # vnc server
+ * yelp
+ * zenity
+ * (xdg-desktop-portal-gtk) # Useful for desktop snaps
+ * (xdg-utils)         # useful utilities
+ * xdg-user-dirs
+ * xdg-user-dirs-gtk
+ * pulseaudio
+ * (pulseaudio-module-bluetooth)
+ * gvfs-bin             # mostly used as xdg-open backend
+ * (gvfs-fuse)          # let non-GNOME apps see GVFS via fuse
+ * (gnome-disk-utility)
+ * (simple-scan)
+ * (evince)
+ * (remmina)
+ * (shotwell)
+ * (usb-creator-gtk) [i386 amd64]
+ * (deja-dup)
+ * (gnome-calendar)
+ 
+ Desktop snaps
+ * snap:gnome-3-34-1804
+ * snap:gnome-3-38-2004
+ * snap:gtk-common-themes
+ * snap:gnome-calculator
+ * snap:gnome-characters
+ * snap:gnome-logs
+ * snap:gnome-system-monitor
+
+Software center
+ * (ubuntu-software)
+ * (gnome-software-plugin-snap)
+
+= Key management and signing =
+
+ * (gnome-keyring)
+ * (seahorse)
+ * (libpam-gnome-keyring)
+
+We use gnupg's pinentry support as of wily, instead of gnome-keyring as before.
+
+ * (gpg-agent)
+ * (dirmngr)
+
+Games: We only ship a few by default.
+ * (aisleriot)
+ * (gnome-mahjongg)
+ * (gnome-mines)
+ * (gnome-sudoku)
+ * (branding-ubuntu)       # Ubuntu branding for some games
+
+Default office suite: libreoffice
+
+ * (libreoffice-style-breeze)
+ * (libreoffice-gnome)
+ * (libreoffice-writer)
+ * (libreoffice-calc)
+ * (libreoffice-impress)
+ * (libreoffice-math)
+ * (libreoffice-ogltrans)
+ * (libreoffice-pdfimport)
+
+Themes: we will ship only the very best looking themes. We won't ship everything that Debian ships, just a custom package that includes the themes we want. These packages are included for size guidance until we have Ubuntu-specific packages.
+
+ * ubuntu-artwork
+ * ubuntu-sounds
+ * gnome-session-canberra   # Needed to make login/logout sounds audible.
+ * dmz-cursor-theme
+ * (fonts-noto-color-emoji)
+
+Boot theme
+
+ * (plymouth-theme-ubuntu-logo)
+
+Settings: we have some settings overrides by default in an unique package.
+          and provide our ones, like sound settings
+ * ubuntu-settings
+ * (gsettings-ubuntu-schemas)
+
+The gstreamer1.0 packages we want to install:
+
+ * gstreamer1.0-alsa
+ * gstreamer1.0-plugins-base-apps
+ * gstreamer1.0-packagekit
+ * gstreamer1.0-pulseaudio
+
+Accessibility tools:
+
+ * (gnome-accessibility-themes)
+ * (orca)
+ * (brltty)
+ * (xcursor-themes)
+ * (speech-dispatcher)
+ * (mousetweaks)
+ * at-spi2-core
+ * libatk-adaptor
+
+= Documentation =
+
+ * (ubuntu-docs)
+ * (gnome-getting-started-docs)
+
+= Other =
+
+ * ubuntu-desktop # metapackage for everything here
+ * (example-content)
+ * (libwmf0.2-7-gtk) # provides a gdk-pixbuf loader for WMF images

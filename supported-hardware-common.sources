@@ -1,0 +1,14 @@
+Source         | Maintainer                                               
+---------------+-----------------------------------------------------------
+efivar         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+ethtool        | Debian Kernel Team <debian-kernel@lists.debian.org>      
+hfsutils       | Debian QA Group <packages@qa.debian.org>                 
+libnl3         | Heiko Stuebner <mmind@debian.org>                        
+lzo2           | Stephen Kitt <skitt@debian.org>                          
+powertop       | Kan-Ru Chen (陳侃如) <koster@debian.org>                    
+readline5      | Debian QA Group <packages@qa.debian.org>                 
+reiser4progs   | Felix Zielcke <fzielcke@z-51.de>                         
+squashfs-tools | Laszlo Boszormenyi (GCS) <gcs@debian.org>                
+xfsdump        | Nathan Scott <nathans@debian.org>                        
+xfsprogs       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+zfs-linux      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>

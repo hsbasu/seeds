@@ -1,0 +1,94 @@
+Package                       | Source                        | Why                                 | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+------------------------------+-------------------------------+-------------------------------------+-----------------------------------------------------------+-----------------+-----------------
+aptitude                      | aptitude                      | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1322812 |            4562
+aptitude-common               | aptitude                      | aptitude                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1711444 |           10099
+cryptsetup                    | cryptsetup                    | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          158920 |             397
+cryptsetup-bin                | cryptsetup                    | cryptsetup                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          118800 |             544
+cryptsetup-initramfs          | cryptsetup                    | cryptsetup (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           24124 |             152
+cryptsetup-run                | cryptsetup                    | cryptsetup (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5312 |              77
+dmeventd                      | lvm2                          | lvm2                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           35076 |             244
+dmidecode                     | dmidecode                     | laptop-detect (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           59512 |             214
+dmraid                        | dmraid                        | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22892 |             100
+efibootmgr                    | efibootmgr                    | grub-efi-amd64-bin (Recommends)     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           28132 |              91
+finalrd                       | finalrd                       | mdadm (Recommends)                  | Dimitri John Ledkov <xnox@ubuntu.com>                     |            6648 |              29
+gettext-base                  | gettext                       | grub-common                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           50244 |             364
+grub-common                   | grub2                         | grub-efi                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1852632 |           13272
+grub-efi                      | grub2                         | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2588 |              16
+grub-efi-amd64                | grub2                         | grub-efi                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46624 |             178
+grub-efi-amd64-bin            | grub2                         | grub-efi-amd64                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          701712 |            7279
+grub-efi-amd64-signed         | grub2-signed                  | Ubuntu.Bionic d-i-requirements seed | Colin Watson <cjwatson@ubuntu.com>                        |          468240 |            4448
+grub2-common                  | grub2                         | grub-efi-amd64                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          589024 |            1310
+installation-report           | installation-report           | Ubuntu.Bionic d-i-requirements seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |            7632 |              48
+jfsutils                      | jfsutils                      | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          194920 |            1578
+kpartx                        | multipath-tools               | kpartx-boot                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           28016 |             100
+kpartx-boot                   | multipath-tools               | dmraid                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6256 |              39
+laptop-detect                 | laptop-detect                 | tasksel-data (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6016 |              20
+libaio1                       | libaio                        | lvm2                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7184 |              35
+libboost-iostreams1.71.0      | boost1.71                     | aptitude                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          236640 |            2110
+libcgi-fast-perl              | libcgi-fast-perl              | libcgi-pm-perl (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           10520 |              27
+libcgi-pm-perl                | libcgi-pm-perl                | libparse-debianchangelog-perl       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          186032 |             447
+libclass-accessor-perl        | libclass-accessor-perl        | libparse-debianchangelog-perl       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           21236 |              54
+libcwidget4                   | cwidget                       | aptitude                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          306324 |            1230
+libdevmapper-event1.02.1      | lvm2                          | lvm2                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11868 |              71
+libdmraid1.0.0.rc16           | dmraid                        | dmraid                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           89964 |             254
+libdrm-common                 | libdrm                        | libdrm2                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5540 |              41
+libdrm2                       | libdrm                        | plymouth                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           32364 |             119
+libefiboot1                   | efivar                        | grub-common                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           38120 |             117
+libefivar1                    | efivar                        | libefiboot1                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           47756 |             170
+libencode-locale-perl         | libencode-locale-perl         | libhttp-message-perl                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           12274 |              32
+libfcgi-perl                  | libfcgi-perl                  | libcgi-fast-perl                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           33092 |             100
+libfontenc1                   | libfontenc                    | xfonts-utils                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14040 |              50
+libfreetype6                  | freetype                      | xfonts-utils                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          340708 |             836
+libfuse2                      | fuse                          | grub-common                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           81972 |             313
+libgdbm-compat4               | gdbm                          | libperl5.30                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6244 |              40
+libgdbm6                      | gdbm                          | libgdbm-compat4                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           27352 |              87
+libhtml-parser-perl           | libhtml-parser-perl           | libcgi-pm-perl                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           86256 |             221
+libhtml-tagset-perl           | libhtml-tagset-perl           | libhtml-parser-perl                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           12456 |              31
+libhttp-date-perl             | libhttp-date-perl             | libhttp-message-perl                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9920 |              29
+libhttp-message-perl          | libhttp-message-perl          | libhtml-parser-perl (Recommends)    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           76116 |             191
+libio-html-perl               | libio-html-perl               | libhttp-message-perl                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14860 |              70
+libio-string-perl             | libio-string-perl             | libparse-debianchangelog-perl       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11124 |              58
+liblvm2cmd2.03                | lvm2                          | dmeventd                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          672892 |            2790
+liblwp-mediatypes-perl        | liblwp-mediatypes-perl        | libhttp-message-perl                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           19472 |              72
+libparse-debianchangelog-perl | libparse-debianchangelog-perl | aptitude (Recommends)               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49684 |             232
+libpci3                       | pciutils                      | pciutils                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           26844 |             117
+libperl5.30                   | perl                          | perl                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         3942624 |           27081
+libplymouth5                  | plymouth                      | plymouth                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           98152 |             416
+libpng16-16                   | libpng1.6                     | libplymouth5                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          179076 |             341
+libreadline5                  | readline5                     | xfsprogs                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          100296 |             328
+libsigc++-2.0-0v5             | libsigc++-2.0                 | libcwidget4                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11736 |              60
+libsub-name-perl              | libsub-name-perl              | libclass-accessor-perl              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11548 |              42
+libtimedate-perl              | libtimedate-perl              | libhttp-date-perl                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           33956 |             123
+liburi-perl                   | liburi-perl                   | libhtml-parser-perl                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           77528 |             220
+libxapian30                   | xapian-core                   | aptitude                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          660880 |            2620
+lupin-support                 | lupin                         | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14032 |              67
+lvm2                          | lvm2                          | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1052640 |            3860
+mdadm                         | mdadm                         | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          415664 |            1222
+mokutil                       | mokutil                       | shim-signed                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22584 |              70
+mouseemu                      | mouseemu                      | Ubuntu.Bionic d-i-requirements seed | Colin Watson <cjwatson@ubuntu.com>                        |           16558 |              58
+os-prober                     | os-prober                     | grub-common (Recommends)            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           20076 |             111
+pci.ids                       | pci.ids                       | libpci3                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          216788 |            1193
+pciutils                      | pciutils                      | installation-report (Recommends)    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           56468 |             191
+perl                          | perl                          | libparse-debianchangelog-perl       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          224080 |             745
+perl-modules-5.30             | perl                          | perl                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2737008 |           17226
+plymouth                      | plymouth                      | cryptsetup-initramfs (Recommends)   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          118012 |             876
+plymouth-theme-ubuntu-text    | plymouth                      | plymouth (Recommends)               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9512 |              79
+psf-unifont                   | unifont                       | unifont                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           19128 |              37
+reiserfsprogs                 | reiserfsprogs                 | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          235272 |             900
+sbsigntool                    | sbsigntool                    | secureboot-db                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           64060 |             412
+secureboot-db                 | secureboot-db                 | grub-efi-amd64-signed (Recommends)  | Steve Langasek <steve.langasek@ubuntu.com>                |            9080 |              28
+shim                          | shim                          | shim-signed                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          574704 |            3744
+shim-signed                   | shim-signed                   | Ubuntu.Bionic d-i-requirements seed | Steve Langasek <steve.langasek@ubuntu.com>                |          343812 |            1357
+tasksel                       | tasksel                       | Ubuntu.Bionic d-i-requirements seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |           28620 |             244
+tasksel-data                  | tasksel                       | tasksel                             | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |            5340 |              38
+thin-provisioning-tools       | thin-provisioning-tools       | lvm2 (Recommends)                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          374636 |            1382
+ttf-unifont                   | unifont                       | unifont                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         3136784 |           17654
+unifont                       | unifont                       | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1478116 |            4968
+user-setup                    | user-setup                    | lupin-support                       | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |          137744 |             537
+x11-common                    | xorg                          | xfonts-utils                        | Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>                 |           22344 |             313
+xfonts-encodings              | xfonts-encodings              | xfonts-utils                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          572804 |             664
+xfonts-unifont                | unifont                       | unifont                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2693436 |            4121
+xfonts-utils                  | xfonts-utils                  | xfonts-unifont                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           91476 |             416
+xfsprogs                      | xfsprogs                      | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          773180 |            2676
+----------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                                |        30516184 |          151525

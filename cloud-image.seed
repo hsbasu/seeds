@@ -1,0 +1,7 @@
+Package        | Source      | Why                            | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+---------------+-------------+--------------------------------+-----------------------------------------------------------+-----------------+-----------------
+cloud-init     | cloud-init  | Ubuntu.Bionic cloud-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          406084 |            2013
+openssh-server | openssh     | Ubuntu.Bionic cloud-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          376932 |            1491
+ubuntu-server  | ubuntu-meta | Ubuntu.Bionic cloud-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3784 |              51
+--------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                          |          786800 |            3555

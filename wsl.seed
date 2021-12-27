@@ -1,0 +1,6 @@
+Package    | Source      | Why                    | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-----------+-------------+------------------------+-----------------------------------------------------------+-----------------+-----------------
+ubuntu-wsl | ubuntu-meta | Ubuntu.Bionic wsl seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3588 |              51
+wslu       | wslu        | Ubuntu.Bionic wsl seed | Balint Reczey <rbalint@ubuntu.com>                        |           47124 |             227
+--------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                              |           50712 |             278

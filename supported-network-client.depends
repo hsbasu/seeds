@@ -1,0 +1,47 @@
+Package              | Source       | Why                            | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+---------------------+--------------+--------------------------------+-----------------------------------------------------------+-----------------+-----------------
+avahi-daemon         | avahi        | avahi-utils                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           60988 |             275
+dirmngr              | gnupg2       | gnupg                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          329332 |             918
+gnupg                | gnupg2       | libgpgme11                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          258936 |             413
+gnupg-l10n           | gnupg2       | gnupg                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51748 |             380
+gnupg-utils          | gnupg2       | gnupg                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          481072 |            1550
+gpg                  | gnupg2       | gnupg-utils (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          482096 |            1135
+gpg-agent            | gnupg2       | gnupg-utils (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          232000 |             911
+gpg-wks-client       | gnupg2       | gnupg                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           97660 |             275
+gpg-wks-server       | gnupg2       | gnupg                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           90268 |             255
+gpgconf              | gnupg2       | dirmngr                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          123744 |             409
+gpgsm                | gnupg2       | gnupg-utils (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          216812 |             568
+libasn1-8-heimdal    | heimdal      | libgssapi3-heimdal             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          181044 |             798
+libassuan0           | libassuan    | gpgconf                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           35668 |             105
+libavahi-client3     | avahi        | avahi-utils                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           25500 |             129
+libavahi-common-data | avahi        | libavahi-common3               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           21352 |             112
+libavahi-common3     | avahi        | libavahi-client3               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           21728 |             109
+libavahi-core7       | avahi        | avahi-daemon                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           81732 |             277
+libdaemon0           | libdaemon    | avahi-daemon                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           13908 |              46
+libgdbm-compat4      | gdbm         | libperl5.30                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6244 |              40
+libgpgme11           | gpgme1.0     | mutt                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          120900 |             355
+libgssapi3-heimdal   | heimdal      | libldap-2.4-2                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           96132 |             324
+libhcrypto4-heimdal  | heimdal      | libgssapi3-heimdal             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           87864 |             274
+libheimbase1-heimdal | heimdal      | libhcrypto4-heimdal            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           29716 |             113
+libheimntlm0-heimdal | heimdal      | libgssapi3-heimdal             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15088 |              85
+libhx509-5-heimdal   | heimdal      | libkrb5-26-heimdal             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106632 |             360
+libidn11             | libidn       | mutt                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46180 |             244
+libkrb5-26-heimdal   | heimdal      | libheimntlm0-heimdal           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          207648 |             665
+libksba8             | libksba      | dirmngr                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           92566 |             259
+libldap-2.4-2        | openldap     | dirmngr                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          155528 |             522
+libldap-common       | openldap     | libldap-2.4-2                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17288 |             101
+libnpth0             | npth         | dirmngr                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7736 |              36
+libnss-mdns          | nss-mdns     | avahi-daemon (Recommends)      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22904 |             149
+libperl5.30          | perl         | irssi                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         3942624 |           27081
+libroken18-heimdal   | heimdal      | libasn1-8-heimdal              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41848 |             144
+libsasl2-2           | cyrus-sasl2  | libldap-2.4-2                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49324 |             152
+libsasl2-modules     | cyrus-sasl2  | libsasl2-2 (Recommends)        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49064 |             236
+libsasl2-modules-db  | cyrus-sasl2  | libsasl2-2                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14932 |              66
+libtokyocabinet9     | tokyocabinet | mutt                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          359116 |            1091
+libvformat0          | libvformat   | lbdb                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           16428 |              55
+libwind0-heimdal     | heimdal      | libhx509-5-heimdal             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           48048 |             205
+perl                 | perl         | perl-modules-5.30 (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          224080 |             745
+perl-modules-5.30    | perl         | libperl5.30                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2737008 |           17226
+pinentry-curses      | pinentry     | gpg-agent                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           36296 |             100
+---------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                 |        11336782 |           59293

@@ -1,0 +1,11 @@
+Package       | Source        | Why                            | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+--------------+---------------+--------------------------------+-----------------------------------------------------------+-----------------+-----------------
+dmraid        | dmraid        | Ubuntu.Bionic live-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22892 |             100
+jfsutils      | jfsutils      | Ubuntu.Bionic live-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          194920 |            1578
+lvm2          | lvm2          | Ubuntu.Bionic live-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1052640 |            3860
+mokutil       | mokutil       | Ubuntu.Bionic live-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22584 |              70
+reiserfsprogs | reiserfsprogs | Ubuntu.Bionic live-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          235272 |             900
+wamerican     | scowl         | Ubuntu.Bionic live-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          210048 |             991
+xfsprogs      | xfsprogs      | Ubuntu.Bionic live-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          773180 |            2676
+---------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                           |         2511536 |           10175

@@ -1,0 +1,489 @@
+Source                         | Maintainer                                                                              
+-------------------------------+------------------------------------------------------------------------------------------
+aalib                          | Jonathan Carter <jcc@debian.org>                                                        
+acpi-support                   | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>                          
+acpid                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+adwaita-icon-theme             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+alsa-driver                    | Ubuntu Core Developers <ubuntu-devel@lists.ubuntu.com>                                  
+alsa-lib                       | Debian ALSA Maintainers <pkg-alsa-devel@lists.alioth.debian.org>                        
+alsa-plugins                   | Debian ALSA Maintainers <pkg-alsa-devel@lists.alioth.debian.org>                        
+alsa-topology-conf             | Debian ALSA Maintainers <pkg-alsa-devel@lists.alioth.debian.org>                        
+alsa-ucm-conf                  | Debian ALSA Maintainers <pkg-alsa-devel@lists.alioth.debian.org>                        
+alsa-utils                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+anacron                        | Debian QA Group <packages@qa.debian.org>                                                
+apg                            | Marc Haber <mh+debian-packages@zugschlus.de>                                            
+apport                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+apport-symptoms                | Ubuntu Developers <ubuntu-motu@lists.ubuntu.com>                                        
+appstream                      | Matthias Klumpp <mak@debian.org>                                                        
+aptdaemon                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+aspell                         | Agustin Martin Domingo <agmartin@debian.org>                                            
+aspell-en                      | Brian Nelson <pyro@debian.org>                                                          
+at-spi2-atk                    | Debian Accessibility Team <pkg-a11y-devel@lists.alioth.debian.org>                      
+at-spi2-core                   | Debian Accessibility Team <pkg-a11y-devel@lists.alioth.debian.org>                      
+atk1.0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+avahi                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+bc                             | Ryan Kavanagh <rak@debian.org>                                                          
+blinker                        | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+bluez                          | Ubuntu Bluetooth team <ubuntu-bluetooth@lists.ubuntu.com>                               
+bolt                           | Debian freedesktop.org maintainers <pkg-freedesktop-maintainers@lists.alioth.debian.org>
+boost1.71                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+brlaser                        | Debian Printing Team <debian-printing@lists.debian.org>                                 
+brotli                         | Tomasz Buchert <tomasz@debian.org>                                                      
+bubblewrap                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+c2esp                          | Debian Printing Team <debian-printing@lists.debian.org>                                 
+cairo                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+cdparanoia                     | Optical Media Tools Team <pkg-opt-media-team@lists.alioth.debian.org>                   
+cdrkit                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+chardet                        | Piotr Ożarowski <piotr@debian.org>                                                      
+cheese                         | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+clutter-1.0                    | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+clutter-gst-3.0                | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+clutter-gtk                    | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+cogl                           | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+colord                         | Christopher James Halse Rogers <raof@ubuntu.com>                                        
+colord-gtk                     | Christopher James Halse Rogers <raof@ubuntu.com>                                        
+cracklib2                      | Jan Dittberner <jandd@debian.org>                                                       
+crda                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+cups                           | Debian Printing Team <debian-printing@lists.debian.org>                                 
+cups-filters                   | Debian Printing Team <debian-printing@lists.debian.org>                                 
+cups-pk-helper                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+curl                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+cyrus-sasl2                    | Debian Cyrus Team <team+cyrus@tracker.debian.org>                                       
+dbus-glib                      | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>                
+dconf                          | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+desktop-file-utils             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+dictionaries-common            | Agustin Martin Domingo <agmartin@debian.org>                                            
+dns-root-data                  | dns-root-data packagers <dns-root-data@packages.debian.org>                             
+dnsmasq                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+docbook-xml                    | Debian QA Group <packages@qa.debian.org>                                                
+efivar                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+emacsen-common                 | Rob Browning <rlb@defaultvalue.org>                                                     
+enchant-2                      | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+entrypoints                    | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+evolution-data-server          | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+fftw3                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+flac                           | Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>                      
+fontconfig                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+fonts-android                  | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-beng                     | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-beng-extra               | Debian Fonts Task Force <debian-fonts@lists.debian.org>                                 
+fonts-dejavu                   | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-deva                     | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-deva-extra               | Debian Fonts Task Force <debian-fonts@lists.debian.org>                                 
+fonts-freefont                 | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-gargi                    | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-gubbi                    | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-gujr                     | Debian Fonts Task Force <debian-fonts@lists.debian.org>                                 
+fonts-gujr-extra               | Debian Fonts Task Force <debian-fonts@lists.debian.org>                                 
+fonts-guru                     | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-guru-extra               | Debian Fonts Task Force <debian-fonts@lists.debian.org>                                 
+fonts-indic                    | Debian Fonts Task Force <debian-fonts@lists.debian.org>                                 
+fonts-kacst                    | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-kacst-one                | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-kalapi                   | Debian Fonts Task Force <debian-fonts@lists.debian.org>                                 
+fonts-khmeros                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+fonts-knda                     | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-lao                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+fonts-liberation               | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-lklug-sinhala            | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-lohit-beng-assamese      | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-lohit-beng-bengali       | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-lohit-deva               | Debian Fonts Task Force <debian-fonts@lists.debian.org>                                 
+fonts-lohit-gujr               | Debian Fonts Task Force <debian-fonts@lists.debian.org>                                 
+fonts-lohit-guru               | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-lohit-knda               | Debian Fonts Task Force <debian-fonts@lists.debian.org>                                 
+fonts-lohit-mlym               | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-lohit-orya               | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-lohit-taml               | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-lohit-taml-classical     | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-lohit-telu               | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-mlym                     | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-nakula                   | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-navilu                   | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-noto                     | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-noto-cjk                 | Debian Fonts Team <debian-fonts@lists.debian.org>                                       
+fonts-orya                     | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-orya-extra               | Debian Fonts Task Force <debian-fonts@lists.debian.org>                                 
+fonts-pagul                    | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-sahadeva                 | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-samyak                   | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-sarai                    | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-sil-abyssinica           | Debian Fonts Task Force <debian-fonts@lists.debian.org>                                 
+fonts-sil-padauk               | Debian Fonts Task Force <debian-fonts@lists.debian.org>                                 
+fonts-smc                      | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-smc-anjalioldlipi        | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-smc-chilanka             | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-smc-dyuthi               | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-smc-gayathri             | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-smc-karumbi              | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-smc-keraleeyam           | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-smc-manjari              | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-smc-meera                | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-smc-rachana              | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-smc-raghumalayalamsans   | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-smc-suruma               | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-smc-uroob                | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-taml                     | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-telu                     | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-telu-extra               | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                              
+fonts-tibetan-machine          | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+fonts-tlwg                     | Theppitak Karoonboonyanan <thep@debian.org>                                             
+fonts-ubuntu                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+fonts-urw-base35               | Debian Fonts Task Force <debian-fonts@lists.debian.org>                                 
+fonts-yrsa-rasa                | Debian Fonts Task Force <debian-fonts@lists.debian.org>                                 
+foo2zjs                        | Debian Printing Team <debian-printing@lists.debian.org>                                 
+foomatic-db                    | Debian Printing Group <debian-printing@lists.debian.org>                                
+fprintd                        | FingerForce Team <fingerforce-devel@lists.alioth.debian.org>                            
+freetype                       | Hugh McMaster <hugh.mcmaster@outlook.com>                                               
+fwupd                          | Debian EFI <debian-efi@lists.debian.org>                                                
+fwupd-signed                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+fwupdate                       | Debian EFI <debian-efi@lists.debian.org>                                                
+gcab                           | Stephen Kitt <skitt@debian.org>                                                         
+gcc-9                          | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>                          
+gcc-defaults                   | Debian GCC Maintainers <debian-gcc@lists.debian.org>                                    
+gcr                            | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+gdisk                          | Jonathan Carter <jcc@debian.org>                                                        
+gdk-pixbuf                     | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+gdm3                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+geoclue-2.0                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+geocode-glib                   | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+ghostscript                    | Debian Printing Team <debian-printing@lists.debian.org>                                 
+gjs                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+glib-networking                | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+gnome-autoar                   | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+gnome-bluetooth                | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+gnome-control-center           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gnome-desktop3                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gnome-keyring                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gnome-menus                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gnome-online-accounts          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gnome-session                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gnome-settings-daemon          | Ubuntu Desktop Team <ubuntu-desktop@lists.ubuntu.com>                                   
+gnome-shell                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gnome-terminal                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gnome-user-docs                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gpgme1.0                       | Debian GnuPG Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>                      
+gpm                            | Axel Beckert <abe@debian.org>                                                           
+graphene                       | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+graphite2                      | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>                     
+gsettings-desktop-schemas      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gsound                         | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+gssdp                          | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+gst-plugins-base1.0            | Maintainers of GStreamer packages <gst-plugins-base1.0@packages.debian.org>             
+gst-plugins-good1.0            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gstreamer1.0                   | Maintainers of GStreamer packages <gstreamer1.0@packages.debian.org>                    
+gtk+2.0                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gtk+3.0                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gupnp                          | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+gupnp-av                       | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+gupnp-dlna                     | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+gvfs                           | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+harfbuzz                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+heimdal                        | Brian May <bam@debian.org>                                                              
+hicolor-icon-theme             | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+hplip                          | Debian Printing Team <debian-printing@lists.debian.org>                                 
+humanity-icon-theme            | Ubuntu MOTU Developers <ubuntu-motu@lists.ubuntu.com>                                   
+hunspell                       | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>                     
+hyphen                         | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>                     
+ibus                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+iio-sensor-proxy               | Ritesh Raj Sarraf <rrs@debian.org>                                                      
+ijs                            | Debian Printing Team <debian-printing@lists.debian.org>                                 
+im-config                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+ippusbxd                       | Debian Printing Team <debian-printing@lists.debian.org>                                 
+isl                            | Debian GCC Maintainers <debian-gcc@lists.debian.org>                                    
+iw                             | Paride Legovini <pl@ninthfloor.org>                                                     
+jackd2                         | Debian Multimedia Maintainers <pkg-multimedia-maintainers@lists.alioth.debian.org>      
+jansson                        | Alessandro Ghedini <ghedo@debian.org>                                                   
+jbig2dec                       | Debian Printing Team <debian-printing@lists.debian.org>                                 
+jbigkit                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+joystick                       | Stephen Kitt <skitt@debian.org>                                                         
+json-glib                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+kerneloops                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+lame                           | Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>                      
+laptop-detect                  | Simó Albert i Beltran <sim6@probeta.net>                                                
+lazr.restfulclient             | Stefano Rivera <stefanor@debian.org>                                                    
+lazr.uri                       | Stefano Rivera <stefanor@debian.org>                                                    
+lcms2                          | Thomas Weber <tweber@debian.org>                                                        
+ldb                            | Debian Samba Maintainers <pkg-samba-maint@lists.alioth.debian.org>                      
+libappindicator                | Ubuntu Desktop Team <ubuntu-desktop@lists.ubuntu.com>                                   
+libarchive                     | Peter Pentchev <roam@debian.org>                                                        
+libassuan                      | Debian GnuPG-Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>                      
+libasyncns                     | Tanguy Ortolo <tanguy+debian@ortolo.eu>                                                 
+libatasmart                    | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>                
+libavc1394                     | Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>                      
+libblockdev                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libcaca                        | Sam Hocevar <sho@debian.org>                                                            
+libcanberra                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libdaemon                      | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>                
+libdatrie                      | Theppitak Karoonboonyanan <thep@debian.org>                                             
+libdbusmenu                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libdv                          | Debian QA Group <packages@qa.debian.org>                                                
+libepoxy                       | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libevdev                       | Stephen Kitt <skitt@debian.org>                                                         
+libexif                        | Debian PhotoTools Maintainers <pkg-phototools-devel@lists.alioth.debian.org>            
+libfontenc                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libfprint                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libgd2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libgdata                       | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+libgee-0.8                     | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+libglu                         | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libglvnd                       | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libgnomekbd                    | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+libgphoto2                     | Debian PhotoTools Maintainers <pkg-phototools-devel@lists.alioth.debian.org>            
+libgtop2                       | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+libgudev                       | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+libgusb                        | Michal Čihař <nijel@debian.org>                                                         
+libgweather                    | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+libical3                       | Nicolas Mora <nicolas@babelouest.org>                                                   
+libice                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libidn                         | Debian Libidn Team <help-libidn@gnu.org>                                                
+libiec61883                    | Debian QA Group <packages@qa.debian.org>                                                
+libieee1284                    | Laszlo Boszormenyi (GCS) <gcs@debian.org>                                               
+libimagequant                  | Debian PhotoTools Maintainers <pkg-phototools-devel@lists.alioth.debian.org>            
+libimobiledevice               | gtkpod Maintainers <pkg-gtkpod-devel@alioth-lists.debian.net>                           
+libinput                       | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libjpeg-turbo                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libjpeg8-empty                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libksba                        | Debian GnuTLS Maintainers <pkg-gnutls-maint@lists.alioth.debian.org>                    
+liblouis                       | Debian Accessibility Team <pkg-a11y-devel@lists.alioth.debian.org>                      
+liblouisutdml                  | Debian Accessibility Team <pkg-a11y-devel@lists.alioth.debian.org>                      
+libmbim                        | Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>                                          
+libmediaart                    | Michael Biebl <biebl@debian.org>                                                        
+libndp                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libnl3                         | Heiko Stuebner <mmind@debian.org>                                                       
+libnotify                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libogg                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libpaper                       | Giuseppe Sacco <eppesuig@debian.org>                                                    
+libpciaccess                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libphonenumber                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libplist                       | gtkpod Maintainers <pkg-gtkpod-devel@alioth-lists.debian.net>                           
+libproxy                       | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+libpwquality                   | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+libqmi                         | Mathieu Trudel-Lapierre <mathieu.tl@gmail.com>                                          
+libraw1394                     | Guus Sliepen <guus@debian.org>                                                          
+librest                        | Ying-Chun Liu (PaulLiu) <paulliu@debian.org>                                            
+librsvg                        | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+libsamplerate                  | Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>                      
+libsecret                      | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+libshout                       | Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>                      
+libsm                          | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libsmbios                      | Debian UEFI Maintainers <debian-efi@lists.debian.org>                                   
+libsndfile                     | Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>                      
+libsodium                      | Laszlo Boszormenyi (GCS) <gcs@debian.org>                                               
+libsoup2.4                     | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+libsoxr                        | Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>                      
+libssh                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libteam                        | Dmitry Smirnov <onlyjob@debian.org>                                                     
+libthai                        | Theppitak Karoonboonyanan <thep@debian.org>                                             
+libtheora                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libtool                        | Alastair McKinstry <mckinstry@debian.org>                                               
+libu2f-host                    | Debian Authentication Maintainers <team+auth@tracker.debian.org>                        
+libusbmuxd                     | gtkpod Maintainers <pkg-gtkpod-devel@lists.alioth.debian.org>                           
+libvisual                      | Debian QA Group <packages@qa.debian.org>                                                
+libvorbis                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libvpx                         | Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>                      
+libwacom                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libwebp                        | Jeff Breidenbach <jab@debian.org>                                                       
+libxaw                         | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxcomposite                  | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxcursor                     | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxdamage                     | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxfixes                      | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxfont                       | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxi                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libxinerama                    | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxkbcommon                   | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxkbfile                     | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxklavier                    | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+libxmlb                        | Debian EFI team <debian-efi@lists.debian.org>                                           
+libxpm                         | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxrandr                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libxrender                     | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxshmfence                   | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxslt                        | Debian XML/SGML Group <debian-xml-sgml-pkgs@lists.alioth.debian.org>                    
+libxss                         | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxt                          | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxtst                        | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxv                          | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxvmc                        | Debian X Strike Force <debian-x@lists.debian.org>                                       
+libxxf86dga                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libxxf86vm                     | Debian X Strike Force <debian-x@lists.debian.org>                                       
+llvm-toolchain-9               | LLVM Packaging Team <pkg-llvm-team@lists.alioth.debian.org>                             
+lm-sensors                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+lzo2                           | Stephen Kitt <skitt@debian.org>                                                         
+m2300w                         | Debian Printing Team <debian-printing@lists.debian.org>                                 
+memtest86+                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+mesa                           | Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>                                               
+min12xxw                       | Debian Printing Team <debian-printing@lists.debian.org>                                 
+mobile-broadband-provider-info | Graham Inggs <ginggs@debian.org>                                                        
+modemmanager                   | Mathieu Trudel-Lapierre <mathieu.tl@gmail.com>                                          
+mousetweaks                    | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+mozjs68                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+mpclib3                        | Debian GCC Maintainers <debian-gcc@lists.debian.org>                                    
+mpfr4                          | Debian GCC Maintainers <debian-gcc@lists.debian.org>                                    
+mpg123                         | Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>                      
+mscompress                     | Patrick Matthäi <pmatthaei@debian.org>                                                  
+mtdev                          | Nobuhiro Iwamatsu <iwamatsu@debian.org>                                                 
+mutter                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+mysql-8.0                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+mysql-defaults                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+nautilus                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+net-snmp                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+network-manager                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+network-manager-applet         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+network-manager-pptp           | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>                
+nghttp2                        | Tomasz Buchert <tomasz@debian.org>                                                      
+npth                           | Eric Dorland <eric@debian.org>                                                          
+nspr                           | Maintainers of Mozilla-related packages <team+pkg-mozilla@tracker.debian.org>           
+nss                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+nss-mdns                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+olefile                        | Matthias Klose <doko@debian.org>                                                        
+openjpeg2                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+openldap                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+opus                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+orc                            | Maintainers of GStreamer packages <orc@packages.debian.org>                             
+packagekit                     | Matthias Klumpp <mak@debian.org>                                                        
+pango1.0                       | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+pcmciautils                    | Colin Watson <cjwatson@debian.org>                                                      
+pcsc-lite                      | Ludovic Rousseau <rousseau@debian.org>                                                  
+pexpect                        | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+pillow                         | Matthias Klose <doko@debian.org>                                                        
+pinentry                       | Debian GnuPG Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>                      
+pixman                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+pnm2ppa                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+policykit-desktop-privileges   | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>                          
+poppler                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+poppler-data                   | Hideki Yamane <henrich@debian.org>                                                      
+ppp                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+pptp-linux                     | Christoph Biedl <debian.axhn@manchmal.in-ulm.de>                                        
+protobuf                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+ptouch-driver                  | Debian Printing Team <debian-printing@lists.debian.org>                                 
+ptyprocess                     | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+pulseaudio                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+pxljr                          | Debian Printing Team <debian-printing@lists.debian.org>                                 
+py-macaroon-bakery             | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+pycairo                        | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+pyjwt                          | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+pymacaroons                    | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+pyrfc3339                      | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+python-certifi                 | Sebastien Delafond <seb@debian.org>                                                     
+python-cffi                    | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+python-cryptography            | Tristan Seligmann <mithrandi@debian.org>                                                
+python-cups                    | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+python-defer                   | Sebastian Heinlein (devel) <devel@glatzor.de>                                           
+python-distro                  | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+python-httplib2                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+python-idna                    | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+python-keyring                 | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+python-launchpadlib            | Stefano Rivera <stefanor@debian.org>                                                    
+python-nacl                    | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+python-oauthlib                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+python-reportlab               | Matthias Klose <doko@debian.org>                                                        
+python-requests-unixsocket     | Debian OpenStack <team+openstack@tracker.debian.org>                                    
+python-secretstorage           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+python-systemd                 | Debian systemd Maintainers <pkg-systemd-maintainers@lists.alioth.debian.org>            
+python-tz                      | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+python-urllib3                 | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+python-wadllib                 | Stefano Rivera <stefanor@debian.org>                                                    
+qpdf                           | Jay Berkenbilt <qjb@debian.org>                                                         
+rastertosag-gdi                | Debian Printing Team <debian-printing@lists.debian.org>                                 
+requests                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+rtkit                          | Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>                      
+rtmpdump                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+rygel                          | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+samba                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+sane-backends                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+sbc                            | Debian Bluetooth Maintainers <team+pkg-bluetooth@tracker.debian.org>                    
+sbsigntool                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+scowl                          | Don Armstrong <don@debian.org>                                                          
+secureboot-db                  | Steve Langasek <steve.langasek@ubuntu.com>                                              
+session-migration              | Didier Roche <didrocks@ubuntu.com>                                                      
+sgml-base                      | Debian QA Group <packages@qa.debian.org>                                                
+sgml-data                      | Debian XML SGML Team <debian-sgml@lists.debian.org>                                     
+simplejson                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+six                            | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+snapd                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+snapd-glib                     | Ayatana Packagers <pkg-ayatana-devel@alioth-lists.debian.net>                           
+snowball                       | Stefano Rivera <stefanor@debian.org>                                                    
+sound-theme-freedesktop        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+speex                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+spice-vdagent                  | Liang Guo <guoliang@debian.org>                                                         
+splix                          | Debian Printing Team <debian-printing@lists.debian.org>                                 
+squashfs-tools                 | Laszlo Boszormenyi (GCS) <gcs@debian.org>                                               
+ssl-cert                       | Debian Apache Maintainers <debian-apache@lists.debian.org>                              
+startup-notification           | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+switcheroo-control             | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+system-config-printer          | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+taglib                         | Modestas Vainius <modax@debian.org>                                                     
+talloc                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+tcp-wrappers                   | Marco d'Itri <md@linux.it>                                                              
+tdb                            | Debian Samba Maintainers <pkg-samba-maint@lists.alioth.debian.org>                      
+tevent                         | Debian Samba Maintainers <pkg-samba-maint@lists.alioth.debian.org>                      
+tiff                           | Laszlo Boszormenyi (GCS) <gcs@debian.org>                                               
+tpm-udev                       | Ying-Chun Liu (PaulLiu) <paulliu@debian.org>                                            
+tpm2-tss                       | Mathieu Trudel-Lapierre <cyphermox@ubuntu.com>                                          
+twolame                        | Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>                      
+ubuntu-docs                    | Ubuntu Documentation Team <ubuntu-doc@lists.ubuntu.com>                                 
+ubuntu-drivers-common          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+ubuntu-themes                  | Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>                                       
+ubuntu-wallpapers              | Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>                                       
+udisks2                        | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>                
+unzip                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+update-inetd                   | Guillem Jover <guillem@debian.org>                                                      
+upower                         | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>                
+usb-modeswitch                 | Didier Raboud <odyx@debian.org>                                                         
+usb-modeswitch-data            | Didier Raboud <odyx@debian.org>                                                         
+usbmuxd                        | gtkpod Maintainers <pkg-gtkpod-devel@alioth-lists.debian.net>                           
+v4l-utils                      | Gregor Jasny <gjasny@googlemail.com>                                                    
+volume-key                     | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>                
+vte2.91                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+vulkan-loader                  | Debian X Strike Force <debian-x@lists.debian.org>                                       
+wavpack                        | Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>                      
+wayland                        | Debian X Strike Force <debian-x@lists.debian.org>                                       
+webkit2gtk                     | Debian WebKit Maintainers <pkg-webkit-maintainers@lists.alioth.debian.org>              
+webrtc-audio-processing        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+whoopsie                       | Evan Dandrea <ev@ubuntu.com>                                                            
+whoopsie-preferences           | Evan Dandrea <evan.dandrea@canonical.com>                                               
+wireless-regdb                 | Seth Forshee <seth.forshee@canonical.com>                                               
+wireless-tools                 | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>                          
+woff2                          | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>                       
+wpa                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+x-kit                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+x11-apps                       | Debian X Strike Force <debian-x@lists.debian.org>                                       
+x11-session-utils              | Debian X Strike Force <debian-x@lists.debian.org>                                       
+x11-utils                      | Debian X Strike Force <debian-x@lists.debian.org>                                       
+x11-xkb-utils                  | Debian X Strike Force <debian-x@lists.debian.org>                                       
+x11-xserver-utils              | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xbitmaps                       | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xcb-util                       | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xcb-util-image                 | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xcb-util-keysyms               | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xcb-util-renderutil            | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xcb-util-wm                    | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xdg-dbus-proxy                 | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>                
+xf86-input-wacom               | Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>                                               
+xfonts-base                    | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xfonts-encodings               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+xfonts-scalable                | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xfonts-utils                   | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xft                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+xinit                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+xinput                         | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xml-core                       | Debian XML-SGML group <debian-sgml@lists.debian.org>                                    
+xorg                           | Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>                                               
+xorg-docs                      | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xorg-server                    | Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>                                               
+xserver-xorg-input-libinput    | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xserver-xorg-video-amdgpu      | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xserver-xorg-video-ati         | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xserver-xorg-video-fbdev       | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xserver-xorg-video-intel       | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xserver-xorg-video-nouveau     | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xserver-xorg-video-qxl         | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xserver-xorg-video-vesa        | Debian X Strike Force <debian-x@lists.debian.org>                                       
+xserver-xorg-video-vmware      | Debian X Strike Force <debian-x@lists.debian.org>                                       
+yaru-theme                     | Ubuntu Desktop Team <ubuntu-desktop@lists.ubuntu.com>                                   
+yelp                           | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+yelp-xsl                       | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+zenity                         | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+zip                            | Santiago Vila <sanvila@debian.org>                                                      

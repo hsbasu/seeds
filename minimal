@@ -1,0 +1,134 @@
+Package                | Source                 | Why                               | Maintainer                                                     | Deb Size (B)    | Inst Size (KB) 
+-----------------------+------------------------+-----------------------------------+----------------------------------------------------------------+-----------------+-----------------
+adduser                | adduser                | Ubuntu.Bionic minimal seed        | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          162792 |             624
+apt                    | apt                    | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1288960 |            4182
+apt-utils              | apt                    | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          213336 |             832
+busybox-initramfs      | busybox                | initramfs-tools-core              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          168636 |             367
+bzip2                  | bzip2                  | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           34064 |             195
+ca-certificates        | ca-certificates        | apt (Recommends)                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          146336 |             384
+console-setup          | console-setup          | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           99984 |             428
+console-setup-linux    | console-setup          | console-setup                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1494020 |            1766
+cpio                   | cpio                   | initramfs-tools-core              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           86044 |             368
+dbus                   | dbus                   | systemd (Recommends)              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          151088 |             618
+debconf-i18n           | debconf                | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          206284 |             781
+distro-info-data       | distro-info-data       | lsb-release                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            4504 |              17
+dmsetup                | lvm2                   | libdevmapper1.02.1 (Recommends)   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           75576 |             270
+eject                  | eject                  | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           23760 |             172
+file                   | file                   | mime-support (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           23332 |              86
+gir1.2-glib-2.0        | gobject-introspection  | networkd-dispatcher               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          133944 |             649
+gpgv                   | gnupg2                 | apt                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          199804 |             499
+init                   | init-system-helpers    | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6088 |              21
+initramfs-tools        | initramfs-tools        | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9212 |             143
+initramfs-tools-bin    | initramfs-tools        | initramfs-tools-core              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14280 |             131
+initramfs-tools-core   | initramfs-tools        | initramfs-tools                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           47448 |             271
+iproute2               | iproute2               | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          857960 |            2730
+iputils-ping           | iputils                | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           40120 |             105
+isc-dhcp-client        | isc-dhcp               | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          246084 |             730
+isc-dhcp-common        | isc-dhcp               | isc-dhcp-client (Recommends)      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           44744 |             163
+kbd                    | kbd                    | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          212556 |            1340
+keyboard-configuration | console-setup          | console-setup-linux               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          189552 |             827
+klibc-utils            | klibc                  | initramfs-tools-core              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           95024 |             542
+kmod                   | kmod                   | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           93904 |             255
+less                   | less                   | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          125868 |             308
+libapparmor1           | apparmor               | systemd                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           34252 |             167
+libapt-pkg6.0          | apt                    | apt                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          833812 |            3300
+libargon2-1            | argon2                 | libcryptsetup12                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           19208 |              56
+libatm1                | linux-atm              | iproute2 (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           21808 |             109
+libbsd0                | libbsd                 | iproute2                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           45356 |             199
+libcap2                | libcap2                | iproute2                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           15856 |              56
+libcap2-bin            | libcap2                | iproute2                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           26176 |             116
+libcryptsetup12        | cryptsetup             | systemd                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          182008 |             530
+libdbus-1-3            | dbus                   | dbus                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          179168 |             465
+libdevmapper1.02.1     | lvm2                   | eject                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          127216 |             484
+libdns-export1109      | bind9-libs             | isc-dhcp-client                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          767176 |            2297
+libelf1                | elfutils               | iproute2                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           44004 |             184
+libestr0               | libestr                | rsyslog                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7616 |              30
+libexpat1              | expat                  | python3.8-minimal                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           73292 |             401
+libfastjson4           | libfastjson            | rsyslog                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           20212 |              61
+libffi7                | libffi                 | libp11-kit0                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           19688 |              65
+libfribidi0            | fribidi                | libnewt0.52 (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           23768 |             139
+libgirepository-1.0-1  | gobject-introspection  | gir1.2-glib-2.0                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           85628 |             257
+libglib2.0-0           | glib2.0                | netplan.io                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1284284 |            3988
+libglib2.0-data        | glib2.0                | libglib2.0-0 (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6436 |             104
+libgmp10               | gmp                    | libgnutls30                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          240448 |             567
+libgnutls30            | gnutls28               | apt                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          828448 |            2192
+libhogweed5            | nettle                 | libgnutls30                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          137896 |             241
+libicu66               | icu                    | libxml2                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         8520140 |           32773
+libidn2-0              | libidn2                | libgnutls30                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           50448 |             216
+libip4tc2              | iptables               | systemd                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18828 |              82
+libisc-export1105      | bind9-libs             | libdns-export1109                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          174332 |             517
+libjson-c4             | json-c                 | libcryptsetup12                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           29216 |              92
+libklibc               | klibc                  | klibc-utils                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           42860 |             113
+libkmod2               | kmod                   | kmod                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           44328 |             134
+liblocale-gettext-perl | liblocale-gettext-perl | keyboard-configuration            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           17064 |              54
+libmagic-mgc           | file                   | libmagic1                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          218104 |            5723
+libmagic1              | file                   | file                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           75852 |             220
+libmnl0                | libmnl                 | iproute2                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12260 |              42
+libmpdec2              | mpdecimal              | libpython3.8-stdlib               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           81132 |             243
+libnetplan0            | netplan.io             | netplan.io                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22936 |              94
+libnettle7             | nettle                 | libhogweed5                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          114416 |             395
+libnewt0.52            | newt                   | whiptail                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           41076 |             196
+libnss-systemd         | systemd                | systemd-sysv (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           95632 |             387
+libp11-kit0            | p11-kit                | libgnutls30                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          188260 |            1270
+libpam-cap             | libcap2                | libcap2-bin (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            8352 |              48
+libpam-systemd         | systemd                | systemd-sysv (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          185500 |             615
+libpopt0               | popt                   | whiptail                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           26252 |             120
+libpython3-stdlib      | python3-defaults       | python3                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7068 |              38
+libpython3.8-minimal   | python3.8              | python3.8-minimal                 | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          704808 |            4721
+libpython3.8-stdlib    | python3.8              | libpython3.8-minimal (Recommends) | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1667860 |            7805
+libreadline8           | readline               | libpython3.8-stdlib               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          130880 |             441
+libseccomp2            | libseccomp             | apt                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           41556 |             348
+libslang2              | slang2                 | libnewt0.52                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          428972 |            1624
+libsqlite3-0           | sqlite3                | libpython3.8-stdlib               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          547832 |            1322
+libssl1.1              | openssl                | openssl                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1318204 |            4026
+libstdc++6             | gcc-10                 | libapt-pkg6.0                     | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          503412 |            2432
+libtasn1-6             | libtasn1-6             | libgnutls30                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           38088 |             125
+libtext-charwidth-perl | libtext-charwidth-perl | libtext-wrapi18n-perl             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9872 |              41
+libtext-iconv-perl     | libtext-iconv-perl     | debconf-i18n                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           13792 |              48
+libtext-wrapi18n-perl  | libtext-wrapi18n-perl  | debconf-i18n                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            8264 |              25
+libunistring2          | libunistring           | libidn2-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          368092 |            1582
+libxml2                | libxml2                | shared-mime-info                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          639872 |            1923
+libxtables12           | iptables               | iproute2                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           28416 |             109
+libyaml-0-2            | libyaml                | python3-yaml                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           48916 |             148
+linux-base             | linux-base             | initramfs-tools                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           17664 |              57
+locales                | glibc                  | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         3869800 |           17196
+logrotate              | logrotate              | rsyslog (Recommends)              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           44536 |             143
+lsb-release            | lsb                    | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           10568 |              66
+lz4                    | lz4                    | initramfs-tools-core              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           82656 |             222
+mime-support           | mime-support           | libpython3.8-stdlib               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           30596 |             114
+netbase                | netbase                | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           13144 |              43
+netcat-openbsd         | netcat-openbsd         | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           37788 |             108
+netplan.io             | netplan.io             | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           70760 |             280
+networkd-dispatcher    | networkd-dispatcher    | systemd (Recommends)              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14420 |              66
+openssl                | openssl                | ca-certificates                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          620552 |            1257
+python3                | python3-defaults       | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           47616 |             189
+python3-dbus           | dbus-python            | networkd-dispatcher               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           94000 |             420
+python3-gi             | pygobject              | python3-dbus (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          165128 |             692
+python3-minimal        | python3-defaults       | python3                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           23560 |             120
+python3-netifaces      | netifaces              | netplan.io                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           16064 |              78
+python3-pkg-resources  | setuptools             | ubuntu-advantage-tools            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          129888 |             567
+python3-yaml           | pyyaml                 | ubuntu-advantage-tools            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          135496 |             523
+python3.8              | python3.8              | python3.8-minimal (Recommends)    | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          363708 |             486
+python3.8-minimal      | python3.8              | python3-minimal                   | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1896832 |            5453
+readline-common        | readline               | libreadline8                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           53492 |              79
+rsyslog                | rsyslog                | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          427240 |            1655
+shared-mime-info       | shared-mime-info       | libglib2.0-0 (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          430464 |            2652
+sudo                   | sudo                   | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          512808 |            2200
+systemd                | systemd                | netplan.io                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         3795776 |           15084
+systemd-sysv           | systemd                | init                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           10276 |             168
+systemd-timesyncd      | systemd                | systemd                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           27948 |             235
+tzdata                 | tzdata                 | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          293692 |            3928
+ubuntu-advantage-tools | ubuntu-advantage-tools | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           47592 |             218
+ubuntu-keyring         | ubuntu-keyring         | Ubuntu.Bionic minimal seed        | Dimitri John Ledkov <dimitri.ledkov@canonical.com>             |           22244 |              46
+ubuntu-minimal         | ubuntu-meta            | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            3872 |              51
+ucf                    | ucf                    | rsyslog                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           51620 |             188
+udev                   | systemd                | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1361960 |            9111
+vim-common             | vim                    | vim-tiny                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           85088 |             375
+vim-tiny               | vim                    | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          577712 |            1530
+whiptail               | newt                   | Ubuntu.Bionic minimal seed        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           16960 |              75
+xdg-user-dirs          | xdg-user-dirs          | libglib2.0-0 (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           48284 |             541
+xkb-data               | xkeyboard-config       | console-setup                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          348648 |            4020
+xxd                    | vim                    | vim-common                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           50116 |             201
+xz-utils               | xz-utils               | mime-support (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           82468 |             348
+-----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                     |        43924988 |          176689

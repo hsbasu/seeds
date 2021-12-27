@@ -1,0 +1,44 @@
+Package                      | Source                       | Why                               | Maintainer                                                     | Deb Size (B)    | Inst Size (KB) 
+-----------------------------+------------------------------+-----------------------------------+----------------------------------------------------------------+-----------------+-----------------
+acpi-support                 | acpi-support                 | Ubuntu.Bionic desktop-common seed | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9604 |              61
+avahi-daemon                 | avahi                        | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           60988 |             275
+bluez                        | bluez                        | Ubuntu.Bionic desktop-common seed | Ubuntu Bluetooth team <ubuntu-bluetooth@lists.ubuntu.com>      |          981132 |            4795
+bluez-cups                   | bluez                        | Ubuntu.Bionic desktop-common seed | Ubuntu Bluetooth team <ubuntu-bluetooth@lists.ubuntu.com>      |           60152 |             201
+cups                         | cups                         | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          259288 |            1174
+cups-bsd                     | cups                         | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           35524 |             126
+cups-client                  | cups                         | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          124260 |             493
+cups-filters                 | cups-filters                 | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          409900 |            1810
+fonts-indic                  | fonts-indic                  | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            3336 |               9
+fonts-kacst-one              | fonts-kacst-one              | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           47040 |             117
+fonts-khmeros-core           | fonts-khmeros                | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           91242 |             571
+fonts-lao                    | fonts-lao                    | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           69764 |             207
+fonts-liberation             | fonts-liberation             | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          821564 |            2089
+fonts-lklug-sinhala          | fonts-lklug-sinhala          | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           73996 |             344
+fonts-noto-cjk               | fonts-noto-cjk               | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |        55662088 |           89837
+fonts-sil-abyssinica         | fonts-sil-abyssinica         | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          969336 |            1160
+fonts-sil-padauk             | fonts-sil-padauk             | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          889724 |            2532
+fonts-thai-tlwg              | fonts-tlwg                   | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            8620 |              30
+fonts-tibetan-machine        | fonts-tibetan-machine        | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          848824 |            4449
+fonts-ubuntu                 | fonts-ubuntu                 | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1458260 |            4339
+fwupd                        | fwupd                        | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2088452 |            5648
+fwupdate                     | fwupdate                     | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            3252 |              13
+hplip                        | hplip                        | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          204024 |             519
+kerneloops                   | kerneloops                   | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           19948 |              83
+laptop-detect                | laptop-detect                | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6016 |              20
+libnss-mdns                  | nss-mdns                     | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22904 |             149
+memtest86+                   | memtest86+                   | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           71164 |            2488
+packagekit                   | packagekit                   | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          408788 |            1580
+pcmciautils                  | pcmciautils                  | Ubuntu.Bionic desktop-common seed | Colin Watson <cjwatson@debian.org>                             |           27276 |             105
+policykit-desktop-privileges | policykit-desktop-privileges | Ubuntu.Bionic desktop-common seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3832 |              17
+printer-driver-brlaser       | brlaser                      | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           21456 |              74
+printer-driver-c2esp         | c2esp                        | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           34632 |             143
+printer-driver-foo2zjs       | foo2zjs                      | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          130012 |             746
+printer-driver-m2300w        | m2300w                       | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          264564 |            1471
+printer-driver-min12xxw      | min12xxw                     | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           46608 |             102
+printer-driver-ptouch        | ptouch-driver                | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           24588 |              66
+printer-driver-pxljr         | pxljr                        | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           27192 |              76
+printer-driver-sag-gdi       | rastertosag-gdi              | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            8864 |              39
+printer-driver-splix         | splix                        | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           39056 |             193
+snapd                        | snapd                        | Ubuntu.Bionic desktop-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |        23199936 |          102132
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                                 |        89537206 |          230283

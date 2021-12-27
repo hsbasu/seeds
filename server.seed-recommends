@@ -1,0 +1,8 @@
+Package          | Source           | Why                       | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-----------------+------------------+---------------------------+-----------------------------------------------------------+-----------------+-----------------
+grub-legacy-ec2  | grub-legacy-ec2  | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           19564 |              82
+landscape-common | landscape-client | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           86704 |             400
+lxd              | lxd              | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5444 |              78
+snapd            | snapd            | Ubuntu.Bionic server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        23199936 |          102132
+----------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                            |        23311648 |          102692

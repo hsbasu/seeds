@@ -1,0 +1,63 @@
+Package                   | Source          | Why                                | Maintainer                                                     | Deb Size (B)    | Inst Size (KB) 
+--------------------------+-----------------+------------------------------------+----------------------------------------------------------------+-----------------+-----------------
+adduser                   | adduser         | apt                                | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          162792 |             624
+apt                       | apt             | Ubuntu.Bionic build-essential seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1288960 |            4182
+binutils                  | binutils        | dpkg-dev                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            3376 |             107
+binutils-common           | binutils        | binutils                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          206692 |             424
+binutils-x86-64-linux-gnu | binutils        | binutils                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1613868 |            9848
+build-essential           | build-essential | Ubuntu.Bionic build-essential seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            4624 |              20
+bzip2                     | bzip2           | dpkg-dev                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           34064 |             195
+cpp                       | gcc-defaults    | gcc                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           27588 |              64
+cpp-9                     | gcc-9           | cpp                                | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7490736 |           26218
+dpkg-dev                  | dpkg            | Ubuntu.Bionic build-essential seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          679036 |            2074
+g++                       | gcc-defaults    | Ubuntu.Bionic build-essential seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            1604 |              16
+g++-9                     | gcc-9           | g++                                | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |         8404272 |           27985
+gcc                       | gcc-defaults    | Ubuntu.Bionic build-essential seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            5208 |              50
+gcc-9                     | gcc-9           | gcc                                | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |         8233992 |           29783
+gcc-9-base                | gcc-9           | cpp-9                              | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |           19316 |             262
+gpgv                      | gnupg2          | apt                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          199804 |             499
+libapt-pkg6.0             | apt             | apt                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          833812 |            3300
+libasan5                  | gcc-9           | libgcc-9-dev                       | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          395460 |            1656
+libatomic1                | gcc-10          | libgcc-9-dev                       | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9284 |              45
+libbinutils               | binutils        | binutils                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          473556 |            2696
+libc-dev-bin              | glibc           | libc6-dev                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           71820 |             440
+libc6-dev                 | glibc           | Ubuntu.Bionic build-essential seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2519944 |           19070
+libcc1-0                  | gcc-10          | gcc-9                              | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41100 |             140
+libcrypt-dev              | libxcrypt       | libc6-dev                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          104104 |             321
+libctf-nobfd0             | binutils        | binutils-x86-64-linux-gnu          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           47028 |             197
+libctf0                   | binutils        | binutils-x86-64-linux-gnu          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           46620 |             130
+libdpkg-perl              | dpkg            | dpkg-dev                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          230268 |            2176
+libffi7                   | libffi          | libp11-kit0                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           19688 |              65
+libgcc-9-dev              | gcc-9           | gcc-9                              | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2358672 |           13892
+libgdbm-compat4           | gdbm            | libperl5.30                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6244 |              40
+libgdbm6                  | gdbm            | libgdbm-compat4                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           27352 |              87
+libgmp10                  | gmp             | libgnutls30                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          240448 |             567
+libgnutls30               | gnutls28        | apt                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          828448 |            2192
+libgomp1                  | gcc-10          | libgcc-9-dev                       | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          100872 |             286
+libhogweed5               | nettle          | libgnutls30                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          137896 |             241
+libidn2-0                 | libidn2         | libgnutls30                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           50448 |             216
+libisl22                  | isl             | cpp-9                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          591960 |            1926
+libitm1                   | gcc-10          | libgcc-9-dev                       | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |           26260 |             115
+liblsan0                  | gcc-10          | libgcc-9-dev                       | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          143996 |             390
+libmpc3                   | mpclib3         | cpp-9                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           40784 |             110
+libmpfr6                  | mpfr4           | libmpc3                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          240292 |            1096
+libnettle7                | nettle          | libhogweed5                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          114416 |             395
+libp11-kit0               | p11-kit         | libgnutls30                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          188260 |            1270
+libperl5.30               | perl            | perl                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         3942624 |           27081
+libquadmath0              | gcc-10          | libgcc-9-dev                       | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          145896 |             304
+libseccomp2               | libseccomp      | apt                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           41556 |             348
+libstdc++-9-dev           | gcc-9           | g++-9                              | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1711276 |           17624
+libstdc++6                | gcc-10          | libapt-pkg6.0                      | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          503412 |            2432
+libtasn1-6                | libtasn1-6      | libgnutls30                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           38088 |             125
+libtsan0                  | gcc-10          | libgcc-9-dev                       | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          319328 |            1184
+libubsan1                 | gcc-10          | libgcc-9-dev                       | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          136076 |             378
+libunistring2             | libunistring    | libidn2-0                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          368092 |            1582
+linux-libc-dev            | linux           | libc6-dev                          | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>              |         1106280 |            5725
+make                      | make-dfsg       | Ubuntu.Bionic build-essential seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          162292 |             384
+patch                     | patch           | dpkg-dev                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          104988 |             232
+perl                      | perl            | dpkg-dev                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          224080 |             745
+perl-modules-5.30         | perl            | perl                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2737008 |           17226
+ubuntu-keyring            | ubuntu-keyring  | apt                                | Dimitri John Ledkov <dimitri.ledkov@canonical.com>             |           22244 |              46
+xz-utils                  | xz-utils        | dpkg-dev                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           82468 |             348
+--------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                  |        49910672 |          231174

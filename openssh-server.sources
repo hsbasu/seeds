@@ -1,0 +1,11 @@
+Source         | Maintainer                                                              
+---------------+--------------------------------------------------------------------------
+chardet        | Piotr Ożarowski <piotr@debian.org>                                      
+python-certifi | Sebastien Delafond <seb@debian.org>                                     
+python-distro  | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+python-idna    | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+python-urllib3 | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+requests       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+six            | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+ssh-import-id  | Dustin Kirkland <kirkland@ubuntu.com>                                   
+tcp-wrappers   | Marco d'Itri <md@linux.it>                                              

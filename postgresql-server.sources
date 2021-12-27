@@ -1,0 +1,12 @@
+Source            | Maintainer                                                          
+------------------+----------------------------------------------------------------------
+cyrus-sasl2       | Debian Cyrus Team <team+cyrus@tracker.debian.org>                   
+heimdal           | Brian May <bam@debian.org>                                          
+libxslt           | Debian XML/SGML Group <debian-xml-sgml-pkgs@lists.alioth.debian.org>
+llvm-toolchain-10 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>           
+lm-sensors        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>           
+openldap          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>           
+postgresql-12     | Debian PostgreSQL Maintainers <team+postgresql@tracker.debian.org>  
+postgresql-common | Debian PostgreSQL Maintainers <team+postgresql@tracker.debian.org>  
+ssl-cert          | Debian Apache Maintainers <debian-apache@lists.debian.org>          
+sysstat           | Robert Luberda <robert@debian.org>                                  

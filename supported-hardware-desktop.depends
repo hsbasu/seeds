@@ -1,0 +1,9 @@
+Package       | Source      | Why                     | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+--------------+-------------+-------------------------+-----------------------------------------------------------+-----------------+-----------------
+libbluetooth3 | bluez       | openobex-apps           | Ubuntu Bluetooth team <ubuntu-bluetooth@lists.ubuntu.com> |           60064 |             216
+libhfsp0      | hfsplus     | hfsplus                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           33832 |              93
+libopenobex2  | libopenobex | openobex-apps           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           47698 |             185
+openobex-apps | libopenobex | irda-utils (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           28494 |             124
+setserial     | setserial   | irda-utils (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           35896 |             117
+------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                  |          205984 |             735

@@ -1,0 +1,12 @@
+Package        | Source         | Why                                          | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+---------------+----------------+----------------------------------------------+-----------------------------------------------------------+-----------------+-----------------
+efivar         | efivar         | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            8656 |              44
+ethtool        | ethtool        | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          133644 |             450
+hfsutils       | hfsutils       | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           71864 |            1827
+powertop       | powertop       | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          194880 |             644
+reiser4progs   | reiser4progs   | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          232028 |            1388
+squashfs-tools | squashfs-tools | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          120832 |             356
+xfsdump        | xfsdump        | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          214828 |             740
+zfsutils-linux | zfs-linux      | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          353508 |            1265
+-------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                           |         1330240 |            6714

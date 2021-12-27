@@ -1,0 +1,87 @@
+Source                 | Maintainer                                                                              
+-----------------------+------------------------------------------------------------------------------------------
+adduser                | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>                          
+apparmor               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+apt                    | APT Development Team <deity@lists.debian.org>                                           
+argon2                 | Luca Bruno <lucab@debian.org>                                                           
+bind9-libs             | Debian DNS Team <team+dns@tracker.debian.org>                                           
+busybox                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+ca-certificates        | Michael Shuler <michael@pbandjelly.org>                                                 
+console-setup          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+cpio                   | Anibal Monsalve Salazar <anibal@debian.org>                                             
+cryptsetup             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+dbus                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+dbus-python            | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>                
+distro-info-data       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+eject                  | Debian QA Group <packages@qa.debian.org>                                                
+elfutils               | Kurt Roeckx <kurt@roeckx.be>                                                            
+expat                  | Laszlo Boszormenyi (GCS) <gcs@debian.org>                                               
+file                   | Christoph Biedl <debian.axhn@manchmal.in-ulm.de>                                        
+fribidi                | Debian Hebrew Packaging Team <team+hebrew@tracker.debian.org>                           
+glib2.0                | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+gmp                    | Debian Science Team <debian-science-maintainers@lists.alioth.debian.org>                
+gnupg2                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gnutls28               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gobject-introspection  | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+icu                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+initramfs-tools        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+iproute2               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+iptables               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+iputils                | Noah Meyerhans <noahm@debian.org>                                                       
+isc-dhcp               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+json-c                 | Debian QA Group <packages@qa.debian.org>                                                
+kbd                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+klibc                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+kmod                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+less                   | Milan Kupcevic <milan@debian.org>                                                       
+libbsd                 | Guillem Jover <guillem@debian.org>                                                      
+libcap2                | Christian Kastner <ckk@debian.org>                                                      
+libestr                | Pierre Chifflier <pollux@debian.org>                                                    
+libfastjson            | Michael Biebl <biebl@debian.org>                                                        
+libffi                 | Debian GCC Maintainers <debian-gcc@lists.debian.org>                                    
+libidn2                | Debian Libidn team <help-libidn@gnu.org>                                                
+liblocale-gettext-perl | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>                        
+libmnl                 | Anibal Monsalve Salazar <anibal@debian.org>                                             
+libseccomp             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libtasn1-6             | Debian GnuTLS Maintainers <pkg-gnutls-maint@lists.alioth.debian.org>                    
+libtext-charwidth-perl | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>                        
+libtext-iconv-perl     | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>                        
+libtext-wrapi18n-perl  | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>                        
+libunistring           | Jörg Frings-Fürst <debian@jff.email>                                                    
+libxml2                | Debian XML/SGML Group <debian-xml-sgml-pkgs@lists.alioth.debian.org>                    
+libyaml                | Anders Kaseorg <andersk@mit.edu>                                                        
+linux-atm              | Debian QA Group <packages@qa.debian.org>                                                
+linux-base             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+logrotate              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+lvm2                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+mime-support           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+mpdecimal              | Matthias Klose <doko@debian.org>                                                        
+netbase                | Marco d'Itri <md@linux.it>                                                              
+netcat-openbsd         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+netifaces              | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+netplan.io             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+nettle                 | Magnus Holmgren <holmgren@debian.org>                                                   
+networkd-dispatcher    | Julian Andres Klode <jak@debian.org>                                                    
+newt                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+openssl                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+p11-kit                | Debian GnuTLS Maintainers <pkg-gnutls-maint@lists.alioth.debian.org>                    
+popt                   | Michael Jeanson <mjeanson@debian.org>                                                   
+pygobject              | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+python3-defaults       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+python3.8              | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>                          
+pyyaml                 | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>                
+readline               | Matthias Klose <doko@debian.org>                                                        
+rsyslog                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+setuptools             | Matthias Klose <doko@debian.org>                                                        
+shared-mime-info       | Debian freedesktop.org maintainers <pkg-freedesktop-maintainers@lists.alioth.debian.org>
+slang2                 | Alastair McKinstry <mckinstry@debian.org>                                               
+sqlite3                | Laszlo Boszormenyi (GCS) <gcs@debian.org>                                               
+sudo                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+tzdata                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+ubuntu-advantage-tools | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+ubuntu-keyring         | Dimitri John Ledkov <dimitri.ledkov@canonical.com>                                      
+ubuntu-meta            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+ucf                    | Manoj Srivastava <srivasta@debian.org>                                                  
+vim                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+xdg-user-dirs          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+xkeyboard-config       | Debian X Strike Force <debian-x@lists.debian.org>                                       

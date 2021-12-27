@@ -1,0 +1,31 @@
+Source           | Maintainer                                                              
+-----------------+--------------------------------------------------------------------------
+avahi            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+boost1.71        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+ceph             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+cifs-utils       | Debian Samba Maintainers <pkg-samba-maint@lists.alioth.debian.org>      
+cups             | Debian Printing Team <debian-printing@lists.debian.org>                 
+cyrus-sasl2      | Debian Cyrus Team <team+cyrus@tracker.debian.org>                       
+dnspython        | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+gpgme1.0         | Debian GnuPG Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>      
+heimdal          | Brian May <bam@debian.org>                                              
+jansson          | Alessandro Ghedini <ghedo@debian.org>                                   
+ldb              | Debian Samba Maintainers <pkg-samba-maint@lists.alioth.debian.org>      
+libarchive       | Peter Pentchev <roam@debian.org>                                        
+libassuan        | Debian GnuPG-Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>      
+libksba          | Debian GnuTLS Maintainers <pkg-gnutls-maint@lists.alioth.debian.org>    
+libnl3           | Heiko Stuebner <mmind@debian.org>                                       
+npth             | Eric Dorland <eric@debian.org>                                          
+openldap         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+pinentry         | Debian GnuPG Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>      
+pygments         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+pyparsing        | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+python-crypto    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+python-markdown  | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+python-packaging | Matthias Klose <doko@debian.org>                                        
+rdma-core        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+samba            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+six              | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+talloc           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+tdb              | Debian Samba Maintainers <pkg-samba-maint@lists.alioth.debian.org>      
+tevent           | Debian Samba Maintainers <pkg-samba-maint@lists.alioth.debian.org>      

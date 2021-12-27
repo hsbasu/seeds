@@ -1,0 +1,112 @@
+Source                            | Maintainer                                                                   
+----------------------------------+-------------------------------------------------------------------------------
+astroid                           | Sandro Tosi <morph@debian.org>                                               
+autodep8                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+autopkgtest                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+beautifulsoup4                    | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+binutils                          | Matthias Klose <doko@debian.org>                                             
+build-essential                   | Matthias Klose <doko@debian.org>                                             
+cmd2                              | Federico Ceratto <federico@debian.org>                                       
+cross-toolchain-base              | Cross Toolchain Base Team <cross-toolchain-base-devs@lists.launchpad.net>    
+d2to1                             | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+dctrl-tools                       | Rhonda D'Vine <rhonda@debian.org>                                            
+debootstrap                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+dpkg-cross                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+drac                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+fakeroot                          | Clint Adams <clint@debian.org>                                               
+feedparser                        | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+gcc-10-cross                      | Debian GCC Maintainers <debian-gcc@lists.debian.org>                         
+gcc-9-cross                       | Debian GCC Maintainers <debian-gcc@lists.debian.org>                         
+genshi                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+geoip                             | Patrick Matthäi <pmatthaei@debian.org>                                       
+geoip-database                    | Patrick Matthäi <pmatthaei@debian.org>                                       
+golang-1.13                       | Go Compiler Team <team+go-compiler@tracker.debian.org>                       
+golang-1.13-race-detector-runtime | Michael Hudson-Doyle <michael.hudson@ubuntu.com>                             
+golang-defaults                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+html5lib                          | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+lazy-object-proxy                 | Sandro Tosi <morph@debian.org>                                               
+libalgorithm-diff-perl            | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libalgorithm-diff-xs-perl         | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libalgorithm-merge-perl           | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libclass-data-inheritable-perl    | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libconfig-auto-perl               | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libconfig-inifiles-perl           | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libdevel-stacktrace-perl          | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libemail-date-format-perl         | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libexception-class-perl           | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libfile-homedir-perl              | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libfile-which-perl                | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libfilesys-df-perl                | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libio-string-perl                 | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libmime-lite-perl                 | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libmime-types-perl                | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libxml-libxml-perl                | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libxml-namespacesupport-perl      | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libxml-sax-base-perl              | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libxml-sax-expat-perl             | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libxml-sax-perl                   | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libxml-simple-perl                | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libyaml-libyaml-perl              | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+libyaml-perl                      | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>             
+linux                             | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>                            
+logilab-common                    | Sandro Tosi <morph@debian.org>                                               
+lxml                              | Matthias Klose <doko@debian.org>                                             
+make-dfsg                         | Manoj Srivastava <srivasta@debian.org>                                       
+more-itertools                    | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+paste                             | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+pastedeploy                       | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+pastescript                       | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+pep8                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+polib                             | Angel Abad <angel@debian.org>                                                
+prettytable                       | Sandro Tosi <morph@debian.org>                                               
+pycurl                            | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+pygments                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+pymongo                           | Federico Ceratto <federico@debian.org>                                       
+pyopenssl                         | Sandro Tosi <morph@debian.org>                                               
+pyparsing                         | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+pyrsistent                        | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+python-amqp                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+python-attrs                      | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+python-cliff                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+python-crypto                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+python-docutils                   | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+python-extras                     | Debian OpenStack <team+openstack@tracker.debian.org>                         
+python-fixtures                   | Debian OpenStack <team+openstack@tracker.debian.org>                         
+python-geoip                      | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+python-importlib-metadata         | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+python-iso8601                    | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+python-itsdangerous               | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+python-jsonschema                 | Debian OpenStack <team+openstack@tracker.debian.org>                         
+python-linecache2                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+python-mimeparse                  | Mathias Ertl <mati@restauth.net>                                             
+python-msgpack                    | Debian OpenStack <team+openstack@tracker.debian.org>                         
+python-mysqldb                    | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+python-nine                       | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+python-pam                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+python-pbr                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+python-psutil                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+python-pylibacl                   | Iustin Pop <iustin@debian.org>                                               
+python-pyperclip                  | Debian QA Group <packages@qa.debian.org>                                     
+python-pyxattr                    | Iustin Pop <iustin@debian.org>                                               
+python-roman                      | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+python-scripttest                 | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+python-tempita                    | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+python-testtools                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+python-traceback2                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+python-webencodings               | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+python-webob                      | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+python-wrapt                      | Debian OpenStack <team+openstack@tracker.debian.org>                         
+python-zipp                       | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+pyudev                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+sbuild                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+schroot                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+soupsieve                         | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+sqlalchemy                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+stevedore                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+subunit                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+testrepository                    | Python Applications Packaging Team <python-apps-team@lists.alioth.debian.org>
+unittest2                         | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+vine                              | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+waitress                          | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+wcwidth                           | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     
+webtest                           | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>     

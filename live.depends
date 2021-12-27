@@ -1,0 +1,64 @@
+Package                          | Source                           | Why                         | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+---------------------------------+----------------------------------+-----------------------------+-----------------------------------------------------------+-----------------+-----------------
+apt-clone                        | apt-clone                        | ubiquity                    | Michael Vogt <michael.vogt@ubuntu.com>                    |           12960 |              62
+archdetect-deb                   | hw-detect                        | ubiquity                    | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |            6240 |              70
+btrfs-progs                      | btrfs-progs                      | ubiquity (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          654500 |            4016
+cryptsetup                       | cryptsetup                       | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          158920 |             397
+cryptsetup-bin                   | cryptsetup                       | cryptsetup                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          118800 |             544
+cryptsetup-initramfs             | cryptsetup                       | cryptsetup (Recommends)     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           24124 |             152
+cryptsetup-run                   | cryptsetup                       | cryptsetup (Recommends)     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5312 |              77
+dctrl-tools                      | dctrl-tools                      | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           61476 |             296
+dpkg-repack                      | dpkg-repack                      | apt-clone (Recommends)      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           13432 |              39
+gir1.2-timezonemap-1.0           | libtimezonemap                   | ubiquity-frontend-gtk       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            8340 |              37
+gir1.2-xkl-1.0                   | libxklavier                      | ubiquity-frontend-gtk       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5564 |              30
+gparted-common                   | gparted                          | gparted                     | Phillip Susi <psusi@ubuntu.com>                           |           80776 |             656
+grub-common                      | grub2                            | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1852632 |           13272
+grub-gfxpayload-lists            | grub-gfxpayload-lists            | grub-pc                     | Colin Watson <cjwatson@ubuntu.com>                        |            3658 |              47
+grub-pc                          | grub2                            | ubiquity (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          124692 |             554
+grub-pc-bin                      | grub2                            | grub-pc                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          969136 |            3102
+grub2-common                     | grub2                            | grub-pc                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          589024 |            1310
+hunspell-fr-classical            | hunspell-fr                      | hunspell-fr                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          349456 |            2786
+ibus-table-cangjie-big           | ibus-table-chinese               | ibus-table-cangjie          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          416352 |            1544
+ibus-table-cangjie3              | ibus-table-chinese               | ibus-table-cangjie          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          334936 |            1045
+ibus-table-cangjie5              | ibus-table-chinese               | ibus-table-cangjie          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          623664 |            2149
+language-pack-de-base            | language-pack-de-base            | language-pack-de            | Language pack maintainers <language-packs@ubuntu.com>     |         3214664 |           13939
+language-pack-en-base            | language-pack-en-base            | language-pack-en            | Language pack maintainers <language-packs@ubuntu.com>     |          442116 |            3809
+language-pack-es-base            | language-pack-es-base            | language-pack-es            | Language pack maintainers <language-packs@ubuntu.com>     |         2901156 |           12438
+language-pack-fr-base            | language-pack-fr-base            | language-pack-fr            | Language pack maintainers <language-packs@ubuntu.com>     |         3035356 |           13358
+language-pack-gnome-de-base      | language-pack-gnome-de-base      | language-pack-gnome-de      | Language pack maintainers <language-packs@ubuntu.com>     |         3497076 |           14555
+language-pack-gnome-en-base      | language-pack-gnome-en-base      | language-pack-gnome-en      | Language pack maintainers <language-packs@ubuntu.com>     |          528868 |            3851
+language-pack-gnome-es-base      | language-pack-gnome-es-base      | language-pack-gnome-es      | Language pack maintainers <language-packs@ubuntu.com>     |         3017224 |           13346
+language-pack-gnome-fr-base      | language-pack-gnome-fr-base      | language-pack-gnome-fr      | Language pack maintainers <language-packs@ubuntu.com>     |         4296500 |           15682
+language-pack-gnome-it-base      | language-pack-gnome-it-base      | language-pack-gnome-it      | Language pack maintainers <language-packs@ubuntu.com>     |         1847528 |            7908
+language-pack-gnome-pt-base      | language-pack-gnome-pt-base      | language-pack-gnome-pt      | Language pack maintainers <language-packs@ubuntu.com>     |         3568388 |           17114
+language-pack-gnome-ru-base      | language-pack-gnome-ru-base      | language-pack-gnome-ru      | Language pack maintainers <language-packs@ubuntu.com>     |         2121264 |           10967
+language-pack-gnome-zh-hans-base | language-pack-gnome-zh-hans-base | language-pack-gnome-zh-hans | Language pack maintainers <language-packs@ubuntu.com>     |         1768456 |            8378
+language-pack-it-base            | language-pack-it-base            | language-pack-it            | Language pack maintainers <language-packs@ubuntu.com>     |         1706904 |            7229
+language-pack-pt-base            | language-pack-pt-base            | language-pack-pt            | Language pack maintainers <language-packs@ubuntu.com>     |         2731564 |           13254
+language-pack-ru-base            | language-pack-ru-base            | language-pack-ru            | Language pack maintainers <language-packs@ubuntu.com>     |         2525892 |           12917
+language-pack-zh-hans-base       | language-pack-zh-hans-base       | language-pack-zh-hans       | Language pack maintainers <language-packs@ubuntu.com>     |         1761244 |            6894
+libchewing3                      | libchewing                       | ibus-chewing                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51428 |             179
+libchewing3-data                 | libchewing                       | libchewing3                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1378312 |            3637
+libdebian-installer4             | libdebian-installer              | archdetect-deb              | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |           21760 |              84
+libhangul-data                   | libhangul                        | libhangul1                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1836796 |            6548
+libhangul1                       | libhangul                        | ibus-hangul                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           27700 |             132
+libm17n-0                        | m17n-lib                         | ibus-m17n                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          247508 |             645
+libotf0                          | libotf                           | libm17n-0                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           45188 |             114
+libpinyin-data                   | libpinyin                        | libpinyin13                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        11823836 |           50263
+libpinyin13                      | libpinyin                        | ibus-libpinyin              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          199916 |             786
+libreoffice-help-common          | libreoffice                      | libreoffice-help-en-gb      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2343200 |           10588
+libtimezonemap-data              | libtimezonemap                   | libtimezonemap1             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1926860 |            5629
+libtimezonemap1                  | libtimezonemap                   | gir1.2-timezonemap-1.0      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           27320 |             109
+m17n-db                          | m17n-db                          | libm17n-0                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1215124 |            7760
+mozc-data                        | mozc                             | ibus-mozc                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14944 |              42
+mozc-server                      | mozc                             | ibus-mozc                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        11801568 |           18912
+os-prober                        | os-prober                        | grub-common (Recommends)    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           20076 |             111
+python3-icu                      | pyicu                            | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          249896 |            1164
+python3-pam                      | python-pam                       | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9052 |              44
+rdate                            | rdate                            | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17648 |              60
+tegaki-zinnia-japanese           | tegaki-zinnia-japanese           | ibus-mozc                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        17263958 |           25544
+thunderbird-locale-zh-hant       | thunderbird                      | thunderbird-locale-zh-tw    | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          570696 |             737
+ubiquity                         | ubiquity                         | ubiquity-frontend-gtk       | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |         2929168 |           17448
+ubiquity-casper                  | casper                           | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11164 |             102
+--------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                              |        99411312 |          358462

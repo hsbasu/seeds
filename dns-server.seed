@@ -1,0 +1,6 @@
+Package   | Source | Why                           | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+----------+--------+-------------------------------+-----------------------------------------------------------+-----------------+-----------------
+bind9     | bind9  | Ubuntu.Bionic dns-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          232772 |             866
+bind9-doc | bind9  | Ubuntu.Bionic dns-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          253560 |            1830
+---------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                               |          486332 |            2696

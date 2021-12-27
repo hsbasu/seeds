@@ -1,0 +1,53 @@
+Package                  | Source                | Why                                | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-------------------------+-----------------------+------------------------------------+-----------------------------------------------------------+-----------------+-----------------
+blt-dev                  | blt                   | Rescued from blt                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1051344 |            4548
+doxygen                  | doxygen               | doxygen-doc (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         9629764 |           42376
+doxygen-doc              | doxygen               | Rescued from doxygen               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2289268 |           14324
+gir1.2-gladeui-2.0       | glade                 | Rescued from glade                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           24336 |             123
+libbytesize-dev          | libbytesize           | Rescued from libbytesize           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15880 |             144
+libclang1-10             | llvm-toolchain-10     | doxygen                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7570624 |           33501
+libdouble-conversion-dev | double-conversion     | Rescued from double-conversion     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           52716 |             239
+libfabric-dev            | libfabric             | Rescued from libfabric             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          595656 |            2526
+libfs6-dbg               | libfs                 | Rescued from libfs                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           69282 |             122
+libgladeui-dev           | glade                 | Rescued from glade                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           84640 |            1214
+libgladeui-doc           | glade                 | Rescued from glade                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           77796 |            1161
+libglm-doc               | glm                   | Rescued from glm                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          499232 |           12765
+libhidapi-dev            | hidapi                | Rescued from hidapi                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22604 |              87
+libhidapi-libusb0        | hidapi                | libhidapi-dev                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14508 |              60
+libixion-dev             | libixion              | Rescued from libixion              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          318320 |            2492
+libixion-doc             | libixion              | Rescued from libixion              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           75112 |             665
+libjs-highlight.js       | highlight.js          | mkdocs-doc                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          276748 |            1584
+libmdds-dev              | mdds                  | libixion-dev                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          104752 |             838
+libmetis-dev             | metis                 | Rescued from metis                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5794 |              26
+libmetis-doc             | metis                 | Rescued from metis                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         4329676 |            4290
+libmetis5-dbg            | metis                 | Rescued from metis                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          454066 |             548
+libnode-dev              | nodejs                | Rescued from nodejs                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          370312 |            1537
+libpfm4-dev              | libpfm4               | Rescued from libpfm4               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          397792 |            3366
+libpmemobj-cpp-dev       | libpmemobj-cpp        | Rescued from libpmemobj-cpp        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           84216 |             757
+libpsm-infinipath1-dbg   | infinipath-psm        | Rescued from infinipath-psm        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          975348 |            1028
+libpsm-infinipath1-dev   | infinipath-psm        | Rescued from infinipath-psm        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           18524 |              82
+libpsm2-dev              | libpsm2               | Rescued from libpsm2               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          246352 |            1114
+libpth-dev               | pth                   | Rescued from pth                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           90344 |             285
+libqt5svg5-dev           | qtsvg-opensource-src  | Rescued from qtsvg-opensource-src  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           10276 |              73
+libucpp-dev              | ucpp                  | Rescued from ucpp                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           50956 |             204
+libxml++2.6-dev          | libxml++2.6           | Rescued from libxml++2.6           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           29924 |             188
+libxml++2.6-doc          | libxml++2.6           | Rescued from libxml++2.6           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          647900 |            3717
+mkdocs-doc               | python-mkdocs         | Rescued from python-mkdocs         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          376472 |             977
+openexr-doc              | openexr               | Rescued from openexr               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2330356 |            2720
+python-livereload-doc    | python-livereload     | Rescued from python-livereload     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           27044 |             122
+python-tornado-doc       | python-tornado        | Rescued from python-tornado        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          534824 |            6896
+qtbase5-doc              | qtbase-opensource-src | Rescued from qtbase-opensource-src | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        30936148 |           40108
+qtbase5-doc-dev          | qtbase-opensource-src | Rescued from qtbase-opensource-src | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          409848 |           13758
+qtbase5-examples         | qtbase-opensource-src | Rescued from qtbase-opensource-src | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         5292452 |           23818
+qtbase5-private-dev      | qtbase-opensource-src | Rescued from qtbase-opensource-src | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1198816 |           10322
+qtsvg5-doc               | qtsvg-opensource-src  | Rescued from qtsvg-opensource-src  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          219872 |             338
+qtsvg5-examples          | qtsvg-opensource-src  | Rescued from qtsvg-opensource-src  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1706612 |            3480
+tcl8.6                   | tcl8.6                | tcl8.6-dev                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14764 |              49
+tcl8.6-dev               | tcl8.6                | tk8.6-dev                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          905008 |            4644
+tcl8.6-doc               | tcl8.6                | Rescued from tcl8.6                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1074732 |            2352
+tk8.6                    | tk8.6                 | tk8.6-dev                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           12480 |              45
+tk8.6-dev                | tk8.6                 | blt-dev                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          710864 |            3266
+tk8.6-doc                | tk8.6                 | Rescued from tk8.6                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1043968 |            2000
+xen-doc                  | xen                   | Rescued from xen                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          412692 |            3921
+--------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                  |        77691014 |          254800

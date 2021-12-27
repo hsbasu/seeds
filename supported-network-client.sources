@@ -1,0 +1,20 @@
+Source       | Maintainer                                                              
+-------------+--------------------------------------------------------------------------
+avahi        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+cyrus-sasl2  | Debian Cyrus Team <team+cyrus@tracker.debian.org>                       
+gpgme1.0     | Debian GnuPG Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>      
+heimdal      | Brian May <bam@debian.org>                                              
+irssi        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+jigit        | Steve McIntyre <93sam@debian.org>                                       
+lbdb         | Roland Rosenfeld <roland@debian.org>                                    
+libassuan    | Debian GnuPG-Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>      
+libdaemon    | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>
+libidn       | Debian Libidn Team <help-libidn@gnu.org>                                
+libksba      | Debian GnuTLS Maintainers <pkg-gnutls-maint@lists.alioth.debian.org>    
+libvformat   | Thomas Preud'homme <robotux@celest.fr>                                  
+mutt         | Mutt maintainers <mutt@packages.debian.org>                             
+npth         | Eric Dorland <eric@debian.org>                                          
+nss-mdns     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+openldap     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+pinentry     | Debian GnuPG Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>      
+tokyocabinet | Tobias Frost <tobi@debian.org>                                          

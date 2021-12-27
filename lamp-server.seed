@@ -1,0 +1,8 @@
+Package            | Source       | Why                            | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-------------------+--------------+--------------------------------+-----------------------------------------------------------+-----------------+-----------------
+apache2            | apache2      | Ubuntu.Bionic lamp-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           95504 |             528
+libapache2-mod-php | php-defaults | Ubuntu.Bionic lamp-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2836 |              17
+mysql-server       | mysql-8.0    | Ubuntu.Bionic lamp-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9544 |             107
+php-mysql          | php-defaults | Ubuntu.Bionic lamp-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2000 |              13
+-------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                               |          109884 |             665

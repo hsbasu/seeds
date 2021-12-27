@@ -1,0 +1,22 @@
+Package            | Source           | Why                                              | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-------------------+------------------+--------------------------------------------------+-----------------------------------------------------------+-----------------+-----------------
+auctex             | auctex           | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1188860 |            4516
+bbdb               | bbdb             | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3024 |              15
+emacs              | emacs            | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           12736 |              76
+emacs-goodies-el   | emacs-goodies-el | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15356 |              59
+indent             | indent           | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           86860 |             212
+libchart-perl      | libchart-perl    | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          447338 |             846
+libgd-graph-perl   | libgd-graph-perl | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          116076 |             349
+libtemplate-perl   | libtemplate-perl | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          513908 |            1465
+python-bsddb3-doc  | python-bsddb3    | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           62040 |             417
+python3-all-dbg    | python3-defaults | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            1116 |               6
+python3-all-dev    | python3-defaults | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            1112 |               6
+python3-bsddb3-dbg | python-bsddb3    | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          363368 |            1031
+python3-doc        | python3-defaults | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7208 |              41
+python3-examples   | python3-defaults | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            1076 |               6
+python3-gi-cairo   | pygobject        | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7664 |              53
+python3-setuptools | setuptools       | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          329744 |            1432
+valgrind           | valgrind         | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        20302528 |           87905
+vim                | vim              | Ubuntu.Bionic supported-development-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1237624 |            3038
+-----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                     |        24697638 |          101473

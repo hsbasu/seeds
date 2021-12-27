@@ -1,0 +1,45 @@
+Package                              | Source                | Why                                       | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-------------------------------------+-----------------------+-------------------------------------------+-----------------------------------------------------------+-----------------+-----------------
+amd64-microcode                      | amd64-microcode       | linux-image-generic                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           31752 |              76
+crda                                 | crda                  | linux-modules-extra-5.4.0-26-generic      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           63476 |             265
+efibootmgr                           | efibootmgr            | grub-efi-amd64-bin (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           28132 |              91
+grub-common                          | grub2                 | grub-pc                                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1852632 |           13272
+grub-efi-amd64                       | grub2                 | grub-efi                                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46624 |             178
+grub-efi-amd64-bin                   | grub2                 | grub-efi-amd64                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          701712 |            7279
+grub-efi-amd64-signed                | grub2-signed          | grub-efi-amd64-bin (Recommends)           | Colin Watson <cjwatson@ubuntu.com>                        |          468240 |            4448
+grub-gfxpayload-lists                | grub-gfxpayload-lists | grub-pc                                   | Colin Watson <cjwatson@ubuntu.com>                        |            3658 |              47
+grub-pc                              | grub2                 | linux-image-5.4.0-26-generic (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          124692 |             554
+grub-pc-bin                          | grub2                 | grub-pc                                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          969136 |            3102
+grub2-common                         | grub2                 | grub-pc                                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          589024 |            1310
+intel-microcode                      | intel-microcode       | linux-image-generic                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2407684 |            2962
+iucode-tool                          | iucode-tool           | intel-microcode                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           45600 |              98
+iw                                   | iw                    | crda                                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           93968 |             283
+kpartx-boot                          | multipath-tools       | multipath-tools-boot                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6256 |              39
+libdbus-glib-1-2                     | dbus-glib             | thermald                                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           59100 |             212
+libfreetype6                         | freetype              | grub-common                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          340708 |             836
+libnl-3-200                          | libnl3                | crda                                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           53864 |             180
+libnl-genl-3-200                     | libnl3                | crda                                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11140 |              57
+libnvpair1linux                      | zfs-linux             | zfsutils-linux                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           48400 |             174
+libuutil1linux                       | zfs-linux             | zfsutils-linux                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41780 |             144
+libwrap0                             | tcp-wrappers          | openssh-server                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46280 |             109
+libzfs2linux                         | zfs-linux             | zfsutils-linux                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          207008 |             596
+libzpool2linux                       | zfs-linux             | zfsutils-linux                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          805488 |            2825
+linux-firmware                       | linux-firmware        | linux-image-generic                       | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>         |        98718284 |          522910
+linux-headers-5.4.0-26               | linux                 | linux-headers-5.4.0-26-generic            | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>         |        10944024 |           69041
+linux-headers-5.4.0-26-generic       | linux                 | linux-headers-generic                     | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>         |         1221404 |           13975
+linux-headers-generic                | linux-meta            | linux-generic                             | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>         |            2680 |              17
+linux-image-5.4.0-26-generic         | linux-signed          | linux-image-generic                       | Canonical Kernel Team <kernel-team@lists.ubuntu.com>      |         8875784 |           11415
+linux-image-generic                  | linux-meta            | linux-generic                             | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>         |            2796 |              17
+linux-modules-5.4.0-26-generic       | linux                 | linux-image-5.4.0-26-generic              | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>         |        14285092 |           70717
+linux-modules-extra-5.4.0-26-generic | linux                 | linux-image-generic                       | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>         |        38614000 |          185508
+mokutil                              | mokutil               | shim-signed                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22584 |              70
+ncurses-term                         | ncurses               | openssh-server (Recommends)               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          249260 |            4183
+openssh-sftp-server                  | openssh               | openssh-server                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51500 |             141
+os-prober                            | os-prober             | grub-common (Recommends)                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           20076 |             111
+shim                                 | shim                  | shim-signed                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          574704 |            3744
+ssh-import-id                        | ssh-import-id         | openssh-server (Recommends)               | Dustin Kirkland <kirkland@ubuntu.com>                     |           10040 |              54
+thermald                             | thermald              | linux-image-generic (Recommends)          | Colin King <colin.king@canonical.com>                     |          196948 |             606
+wireless-regdb                       | wireless-regdb        | crda                                      | Seth Forshee <seth.forshee@canonical.com>                 |           11040 |              33
+zfs-zed                              | zfs-linux             | zfsutils-linux (Recommends)               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           59736 |             257
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                                     |       182906306 |          921936

@@ -1,0 +1,8 @@
+Source    | Maintainer                                               
+----------+-----------------------------------------------------------
+capnproto | Tom Lee <debian@tomlee.co>                               
+liburcu   | Jon Bernard <jbernard@debian.org>                        
+linux     | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>        
+mir       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+ust       | Jon Bernard <jbernard@debian.org>                        
+yaml-cpp  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>

@@ -1,0 +1,68 @@
+Package                      | Source                    | Why                            | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-----------------------------+---------------------------+--------------------------------+-----------------------------------------------------------+-----------------+-----------------
+accountsservice              | accountsservice           | language-selector-common       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           60940 |             452
+bind9-dnsutils               | bind9                     | dnsutils                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          134176 |             489
+bind9-host                   | bind9                     | bind9-dnsutils                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           42828 |             153
+bind9-libs                   | bind9                     | bind9-host                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1114228 |            3345
+bsdmainutils                 | bsdmainutils              | man-db                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          181204 |             637
+fuse                         | fuse                      | ntfs-3g                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           26028 |             113
+gettext-base                 | gettext                   | friendly-recovery (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           50244 |             364
+groff-base                   | groff                     | man-db                         | Colin Watson <cjwatson@debian.org>                        |          847204 |            3586
+install-info                 | texinfo                   | info                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           89840 |             235
+iso-codes                    | iso-codes                 | language-selector-common       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2694644 |           19553
+krb5-locales                 | krb5                      | libkrb5-3 (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11428 |             132
+libaccountsservice0          | accountsservice           | accountsservice                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           72468 |             366
+libcbor0.6                   | libcbor                   | libfido2-1                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           21092 |              82
+libdrm-common                | libdrm                    | libdrm2                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5540 |              41
+libdrm2                      | libdrm                    | plymouth                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           32364 |             119
+libedit2                     | libedit                   | bind9-dnsutils                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           86952 |             250
+libfido2-1                   | libfido2                  | openssh-client                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           47904 |             165
+libfuse2                     | fuse                      | fuse                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           81972 |             313
+libgdbm6                     | gdbm                      | man-db                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           27352 |              87
+libgssapi-krb5-2             | krb5                      | bind9-libs                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          120784 |             426
+libip6tc2                    | iptables                  | iptables                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           19172 |              82
+libk5crypto3                 | krb5                      | libgssapi-krb5-2               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           80192 |             299
+libkeyutils1                 | keyutils                  | libkrb5-3                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           10216 |              47
+libkrb5-3                    | krb5                      | libgssapi-krb5-2               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          329636 |            1121
+libkrb5support0              | krb5                      | libk5crypto3                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           30908 |             167
+liblmdb0                     | lmdb                      | bind9-libs                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           44640 |             109
+libmaxminddb0                | libmaxminddb              | bind9-libs                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           26016 |              65
+libnetfilter-conntrack3      | libnetfilter-conntrack    | iptables                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41420 |             142
+libnfnetlink0                | libnfnetlink              | libnetfilter-conntrack3        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           13776 |              48
+libnftnl11                   | libnftnl                  | iptables                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           57832 |             221
+libntfs-3g883                | ntfs-3g                   | ntfs-3g                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          146532 |             358
+libnuma1                     | numactl                   | irqbalance                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           20828 |              72
+libparted2                   | parted                    | parted                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          159128 |             457
+libpcap0.8                   | libpcap                   | tcpdump                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          127764 |             345
+libpci3                      | pciutils                  | pciutils                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           26844 |             117
+libpipeline1                 | libpipeline               | man-db                         | Colin Watson <cjwatson@debian.org>                        |           27716 |              84
+libplymouth5                 | plymouth                  | plymouth                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           98152 |             416
+libpng16-16                  | libpng1.6                 | libplymouth5                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          179076 |             341
+libpolkit-gobject-1-0        | policykit-1               | accountsservice                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           39208 |             156
+libpsl5                      | libpsl                    | wget                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51516 |              91
+libuchardet0                 | uchardet                  | groff-base                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           65240 |             184
+libunwind8                   | libunwind                 | strace                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           47624 |             188
+libusb-1.0-0                 | libusb-1.0                | usbutils                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46488 |             136
+libuv1                       | libuv1                    | bind9-libs                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           80416 |             250
+libx11-6                     | libx11                    | xauth                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          572868 |            1374
+libx11-data                  | libx11                    | libx11-6                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          113324 |            1506
+libxau6                      | libxau                    | libxcb1                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7488 |              35
+libxcb1                      | libxcb                    | libx11-6                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           44652 |             206
+libxdmcp6                    | libxdmcp                  | libxcb1                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           10580 |              43
+libxext6                     | libxext                   | xauth                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           29060 |             110
+libxmuu1                     | libxmu                    | xauth                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9728 |              41
+pci.ids                      | pci.ids                   | libpci3                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          216788 |            1193
+powermgmt-base               | powermgmt-base            | hdparm (Recommends)            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7000 |              25
+publicsuffix                 | publicsuffix              | libpsl5 (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          111036 |             309
+python-apt-common            | python-apt                | python3-apt                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17348 |             268
+python3-apt                  | python-apt                | language-selector-common       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          153772 |             714
+python3-commandnotfound      | command-not-found         | command-not-found              | Michael Vogt <michael.vogt@ubuntu.com>                    |            9960 |              54
+python3-distro-info          | distro-info               | python3-update-manager         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5924 |              32
+python3-distupgrade          | ubuntu-release-upgrader   | python3-update-manager         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          102556 |             625
+python3-gdbm                 | python3-stdlib-extensions | python3-commandnotfound        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           13124 |              56
+python3-update-manager       | update-manager            | update-manager-core            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           36568 |             243
+ubuntu-release-upgrader-core | ubuntu-release-upgrader   | update-manager-core            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           23524 |             332
+usb.ids                      | usb.ids                   | usbutils                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          176040 |             619
+xauth                        | xauth                     | openssh-client (Recommends)    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           24996 |              77
+------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                      |         9205868 |           44266

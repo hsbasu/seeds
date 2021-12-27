@@ -1,0 +1,7011 @@
+a52dec
+	liba52-0.7.4-dev
+
+a52dec-dev
+	liba52-0.7.4-dev
+
+aalib-bin
+	libaa-bin
+
+aalib1
+	libaa1
+
+acl-dev
+	libacl1-dev
+
+aide-binary
+	aide
+	aide-dynamic
+	aide-xen
+
+alsa
+	alsa-base
+	alsa-base-udeb
+
+amavis
+	amavisd-new
+
+apache2-api-20120211
+	apache2-bin
+
+apache2-api-20120211-openssl1.1
+	apache2-bin
+
+apache2-suexec
+	apache2-suexec-custom
+	apache2-suexec-pristine
+
+appmenu-gtk
+	appmenu-gtk2-module
+	unity-gtk2-module
+
+appmenu-gtk3
+	appmenu-gtk3-module
+	unity-gtk3-module
+
+appstream-index
+	appstream
+
+apt-mirror-setup
+	apt-cdrom-setup
+
+apt-transport-https
+	apt
+
+aptitude-doc
+	aptitude-doc-cs
+	aptitude-doc-en
+	aptitude-doc-es
+	aptitude-doc-fi
+	aptitude-doc-fr
+	aptitude-doc-it
+	aptitude-doc-ja
+	aptitude-doc-nl
+	aptitude-doc-ru
+
+arpd
+	iproute2
+
+aspell-bin
+	aspell
+
+aspell-dictionary
+	aspell-bg
+	aspell-ca
+	aspell-da
+	aspell-de
+	aspell-de-1901
+	aspell-en
+	aspell-eo
+	aspell-eo-cx7
+	aspell-et
+	aspell-eu
+	aspell-fo
+	aspell-gl-minimos
+	aspell-nl
+	aspell-pt-pt
+	aspell-uk
+
+aspell-eu-es
+	aspell-eu
+
+aspell6a-dictionary
+	aspell-no
+
+assembly-linker
+	mono-devel
+
+at-spi
+	libatk-adaptor
+
+atmel-firmware
+	linux-firmware
+
+attr-dev
+	libattr1-dev
+
+audio-mixer
+	alsa-utils
+	alsa-utils-udeb
+
+aufs-dev
+	linux-libc-dev
+
+aufs-dkms
+	linux-image-5.4.0-1009-aws
+	linux-image-5.4.0-1009-gcp
+	linux-image-5.4.0-1009-kvm
+	linux-image-5.4.0-1009-oracle
+	linux-image-5.4.0-1010-azure
+	linux-image-5.4.0-26-generic
+	linux-image-5.4.0-26-lowlatency
+	linux-image-unsigned-5.4.0-1009-gcp
+	linux-image-unsigned-5.4.0-1009-oracle
+	linux-image-unsigned-5.4.0-1010-azure
+	linux-image-unsigned-5.4.0-26-generic
+	linux-image-unsigned-5.4.0-26-lowlatency
+
+autofs5
+	autofs
+
+autofs5-hesiod
+	autofs-hesiod
+
+autofs5-ldap
+	autofs-ldap
+
+automake-1.16
+	automake
+
+automaken
+	automake
+
+autopilot-gtk
+	libautopilot-gtk
+
+awk
+	gawk
+	mawk
+
+base
+	base-files
+
+bbdb
+	bbdb3
+
+bind9
+	maas
+
+bind9utils
+	bind9-utils
+
+binutils-gold
+	binutils
+
+binutils-hppa64
+	binutils-hppa64-linux-gnu
+
+binutils-i586-gnu
+	binutils-i686-gnu
+
+binutils-i586-kfreebsd-gnu
+	binutils-i686-kfreebsd-gnu
+
+binutils-i586-linux-gnu
+	binutils-i686-linux-gnu
+
+block-modules
+	block-modules-5.4.0-26-generic-di
+
+bluez-test-scripts
+	bluez-tests
+
+bogofilter-db
+	bogofilter-bdb
+	bogofilter-sqlite
+
+bonnie
+	bonnie++
+
+bootable-system
+	grub-installer
+	lilo-installer
+	nobootloader
+
+brig-compiler
+	gccbrig-10
+	gccbrig-7
+	gccbrig-8
+	gccbrig-9
+
+brig-compiler-i686-linux-gnu
+	gccbrig-10-i686-linux-gnu
+	gccbrig-9-i686-linux-gnu
+
+btrfs-modules
+	fs-secondary-modules-5.4.0-26-generic-di
+
+busybox
+	busybox-static
+
+byobu-extras
+	byobu
+
+bzr
+	brz
+
+bzr-email
+	brz
+
+bzr-fastimport
+	brz
+
+bzr-git
+	brz
+
+bzr-stats
+	brz
+
+bzr-upload
+	brz
+
+c++-compiler
+	clang-10
+	clang-9
+	g++
+	g++-10
+	g++-7
+	g++-8
+	g++-9
+
+c++-compiler-aarch64-linux-gnu
+	g++-10-aarch64-linux-gnu
+	g++-9-aarch64-linux-gnu
+
+c++-compiler-arm-linux-gnueabi
+	g++-10-arm-linux-gnueabi
+	g++-9-arm-linux-gnueabi
+
+c++-compiler-arm-linux-gnueabihf
+	g++-10-arm-linux-gnueabihf
+	g++-9-arm-linux-gnueabihf
+
+c++-compiler-i686-linux-gnu
+	g++-10-i686-linux-gnu
+	g++-9-i686-linux-gnu
+
+c++-compiler-powerpc-linux-gnu
+	g++-10-powerpc-linux-gnu
+	g++-9-powerpc-linux-gnu
+
+c++-compiler-powerpc64le-linux-gnu
+	g++-10-powerpc64le-linux-gnu
+	g++-9-powerpc64le-linux-gnu
+
+c++-compiler-s390x-linux-gnu
+	g++-10-s390x-linux-gnu
+	g++-9-s390x-linux-gnu
+
+c++abi2-dev
+	g++-10
+	g++-7
+	g++-8
+	g++-9
+
+c-compiler
+	clang-10
+	clang-9
+	gcc
+	gcc-10
+	gcc-7
+	gcc-8
+	gcc-9
+
+c-compiler-aarch64-linux-gnu
+	gcc-10-aarch64-linux-gnu
+	gcc-9-aarch64-linux-gnu
+
+c-compiler-arm-linux-gnueabi
+	gcc-10-arm-linux-gnueabi
+	gcc-9-arm-linux-gnueabi
+
+c-compiler-arm-linux-gnueabihf
+	gcc-10-arm-linux-gnueabihf
+	gcc-9-arm-linux-gnueabihf
+
+c-compiler-i686-linux-gnu
+	gcc-10-i686-linux-gnu
+	gcc-9-i686-linux-gnu
+
+c-compiler-powerpc-linux-gnu
+	gcc-10-powerpc-linux-gnu
+	gcc-9-powerpc-linux-gnu
+
+c-compiler-powerpc64le-linux-gnu
+	gcc-10-powerpc64le-linux-gnu
+	gcc-9-powerpc64le-linux-gnu
+
+c-compiler-s390x-linux-gnu
+	gcc-10-s390x-linux-gnu
+	gcc-9-s390x-linux-gnu
+
+c-sharp-2.0-compiler
+	mono-devel
+
+c-sharp-3.0-compiler
+	mono-devel
+
+c-sharp-4.0-compiler
+	mono-devel
+
+c-sharp-4.5-compiler
+	mono-devel
+
+c-sharp-compiler
+	mono-devel
+
+camlp5-luac7
+	camlp5
+
+cdda2wav
+	icedax
+
+cdebconf-detect-keys
+	cdebconf-newt-detect-keys
+
+cdebconf-entropy
+	cdebconf-gtk-entropy
+	cdebconf-newt-entropy
+	cdebconf-text-entropy
+
+cdebconf-terminal
+	cdebconf-gtk-terminal
+	cdebconf-newt-terminal
+
+cdrecord
+	wodim
+
+cdrom-detect
+	iso-scan
+
+chrony
+	maas
+
+cil-disassembler
+	mono-utils
+
+cjk-latex
+	latex-cjk-common
+
+clamav-data
+	clamav-freshclam
+
+cli-runtime
+	mono-runtime-common
+
+cli-virtual-machine
+	mono-runtime-common
+
+cln-dev
+	libcln-dev
+
+cluster-messaging-framework
+	heartbeat
+
+cmake-gui
+	cmake-qt-gui
+
+cmap-adobe-cns1
+	poppler-data
+
+cmap-adobe-gb1
+	poppler-data
+
+cmap-adobe-japan1
+	poppler-data
+
+cmap-adobe-japan2
+	poppler-data
+
+cmap-adobe-korea1
+	poppler-data
+
+compiz-core-abiversion-20180221
+	compiz-core
+
+configured-network
+	netcfg
+	netcfg-static
+	ppp-udeb
+
+console-setup-ekmap
+	console-setup-amiga-ekmap
+	console-setup-ataritt-ekmap
+	console-setup-macintoshold-ekmap
+	console-setup-pc-ekbd
+	console-setup-pc-ekmap
+	console-setup-sun4-ekmap
+	console-setup-sun5-ekmap
+
+console-terminus
+	console-setup-linux
+
+console-utilities
+	kbd
+
+core-dump-handler
+	apport
+	systemd-coredump
+
+created-fstab
+	partman-base
+
+cron-daemon
+	cron
+
+crypto-dm-modules
+	md-modules-5.4.0-26-generic-di
+
+crypto-modules
+	crypto-modules-5.4.0-26-generic-di
+
+ctags
+	exuberant-ctags
+
+cups-filters-ippusbxd
+	ippusbxd
+
+cvs-doc
+	cvs
+
+d-compiler
+	gdc-10
+	gdc-7
+	gdc-8
+	gdc-9
+
+d-v2-compiler
+	gdc-10
+	gdc-7
+	gdc-8
+	gdc-9
+
+dash-el
+	elpa-dash
+
+dbus-bin
+	dbus
+
+dbus-session-bus
+	dbus-user-session
+	dbus-x11
+
+dbus-system-bus
+	dbus
+
+debconf-2.0
+	cdebconf
+	cdebconf-udeb
+	debconf
+
+debhelper-compat
+	debhelper
+
+default-dbus-session-bus
+	dbus-user-session
+
+default-logind
+	libpam-systemd
+
+default-mta
+	postfix
+
+dh-apache2
+	apache2-dev
+
+dh-sequence-cli
+	cli-common-dev
+
+dh-sequence-cme-upgrade
+	cme
+
+dh-sequence-dwz
+	debhelper
+
+dh-sequence-elf-tools
+	debhelper
+
+dh-sequence-gir
+	gobject-introspection
+
+dh-sequence-installinitramfs
+	debhelper
+
+dh-sequence-libva
+	libva-dev
+
+dh-sequence-perl-dbi
+	libdbi-perl
+
+dh-sequence-perl-openssl
+	perl-openssl-defaults
+
+dh-sequence-sphinxdoc
+	sphinx-common
+
+dh-sequence-systemd
+	debhelper
+
+dh-sequence-translations
+	dh-translations
+
+dhcp-client
+	isc-dhcp-client
+
+dhcpd
+	udhcpd
+
+dict-client
+	dict
+
+dict-server
+	dictd
+
+dict-web1913
+	dict-gcide
+
+dictd-dictionary
+	dict-de-en
+	dict-foldoc
+	dict-gcide
+	dict-jargon
+	dict-vera
+
+djvu-viewer
+	djview4
+	evince
+
+djvulibre-plugin
+	djview-plugin
+
+dnsmasq-base
+	dnsmasq-base
+	dnsmasq-base-lua
+
+dnsutils
+	bind9-dnsutils
+
+docbk-xml
+	docbook-xml
+
+docker.io-doc
+	docker-doc
+
+docutils
+	python-docutils
+	python3-docutils
+
+dovecot-abi-2.3.abiv7
+	dovecot-core
+
+dovecot-common
+	dovecot-core
+
+doxygen-docs
+	doxygen-doc
+
+dvipdfmx
+	texlive-base
+
+e2fslibs
+	libext2fs2
+
+e2fslibs-dev
+	libext2fs-dev
+
+editor
+	emacs-gtk
+	emacs-lucid
+	emacs-nox
+	vim
+	vim-athena
+	vim-gtk3
+	vim-nox
+	vim-tiny
+
+efi-modules
+	kernel-image-5.4.0-26-generic-di
+
+elf-binutils
+	binutils
+
+emacs
+	emacs-gtk
+	emacs-lucid
+	emacs-nox
+
+emacs-goodies-extra-el
+	emacs-goodies-el
+
+emacsen
+	emacs-gtk
+	emacs-lucid
+	emacs-nox
+
+erlang-abi-17.0
+	erlang-base
+	erlang-base-hipe
+
+erlang-doc-html
+	erlang-doc
+
+erlang-pcre-8.43
+	erlang-base
+	erlang-base-hipe
+
+espeak
+	espeak-ng-espeak
+
+ethernet-card-detection
+	ethdetect
+
+exim4-config-2
+	exim4-config
+
+exim4-localscanapi-3.1
+	exim4-daemon-heavy
+	exim4-daemon-light
+
+ext2-modules
+	fs-core-modules-5.4.0-26-generic-di
+
+ext3-modules
+	kernel-image-5.4.0-26-generic-di
+
+ext4-modules
+	kernel-image-5.4.0-26-generic-di
+
+fat-modules
+	fat-modules-5.4.0-26-generic-di
+
+fb-modules
+	fb-modules-5.4.0-26-generic-di
+
+fcitx-keyboard
+	fcitx-modules
+
+fcitx-ui-kimpanel
+	fcitx-module-kimpanel
+
+festival-voice
+	festvox-kallpc16k
+
+fetchmail-ssl
+	fetchmail
+
+fftw3
+	libfftw3-3
+
+fftw3-dev
+	libfftw3-dev
+
+fftw3-doc
+	libfftw3-doc
+
+firebird-server
+	firebird3.0-server
+
+firebird-utils
+	firebird3.0-utils
+
+firewire-core-modules
+	firewire-core-modules-5.4.0-26-generic-di
+
+flite-dev
+	flite1-dev
+
+floppy-modules
+	floppy-modules-5.4.0-26-generic-di
+
+font-hosny-amiri
+	fonts-hosny-amiri
+
+fonts-installer
+	fonts-khmeros-udeb
+
+fonts-japanese-gothic
+	fonts-ipaexfont-gothic
+	fonts-ipafont-gothic
+
+fonts-japanese-mincho
+	fonts-ipaexfont-mincho
+	fonts-ipafont-mincho
+
+foomatic-db
+	foomatic-db-compressed-ppds
+
+foomatic-filters
+	cups-filters
+
+foomatic-filters-beh
+	cups-filters
+
+fortran-compiler
+	gfortran
+
+fortran95-compiler
+	gfortran-10
+	gfortran-7
+	gfortran-8
+	gfortran-9
+
+freerdp
+	freerdp2-shadow-x11
+	freerdp2-x11
+
+fs-core-modules
+	fs-core-modules-5.4.0-26-generic-di
+
+fs-secondary-modules
+	fs-secondary-modules-5.4.0-26-generic-di
+
+fsck-backend
+	xfsprogs
+
+ftp-server
+	vsftpd
+
+fuse-module
+	linux-image-5.4.0-1009-aws
+	linux-image-5.4.0-1009-gcp
+	linux-image-5.4.0-1009-kvm
+	linux-image-5.4.0-1009-oracle
+	linux-image-5.4.0-1010-azure
+	linux-image-5.4.0-26-generic
+	linux-image-5.4.0-26-lowlatency
+	linux-image-unsigned-5.4.0-1009-gcp
+	linux-image-unsigned-5.4.0-1009-oracle
+	linux-image-unsigned-5.4.0-1010-azure
+	linux-image-unsigned-5.4.0-26-generic
+	linux-image-unsigned-5.4.0-26-lowlatency
+
+fwupdate
+	fwupd
+
+g++-x86-64-linux-gnu
+	g++
+
+gcc-x86-64-linux-gnu
+	gcc
+
+gdb-minimal
+	gdb
+
+gdc
+	gdc-10
+	gdc-7
+	gdc-8
+	gdc-9
+
+gfortran-mod-14
+	gfortran-7
+
+gfortran-mod-15
+	gfortran
+	gfortran-10
+	gfortran-8
+	gfortran-9
+
+gfxboot-theme
+	gfxboot-themes
+
+ghostscript-cups
+	cups-filters
+
+gir1.2-braseroburn-3.1
+	gir1.2-brasero-3.1
+
+gir1.2-braseromedia-3.1
+	gir1.2-brasero-3.1
+
+gir1.2-cairo-1.0
+	gir1.2-freedesktop
+
+gir1.2-cally-1.0
+	gir1.2-clutter-1.0
+
+gir1.2-cluttergdk-1.0
+	gir1.2-clutter-1.0
+
+gir1.2-cluttergst-3.0
+	gir1.2-clutter-gst-3.0
+
+gir1.2-clutterx11-1.0
+	gir1.2-clutter-1.0
+
+gir1.2-cogl-2.0
+	gir1.2-cogl-1.0
+
+gir1.2-coglpango-2.0
+	gir1.2-coglpango-1.0
+
+gir1.2-dbus-1.0
+	gir1.2-freedesktop
+
+gir1.2-dbusglib-1.0
+	gir1.2-freedesktop
+
+gir1.2-evincedocument-3.0
+	gir1.2-evince-3.0
+
+gir1.2-evinceview-3.0
+	gir1.2-evince-3.0
+
+gir1.2-fontconfig-2.0
+	gir1.2-freedesktop
+
+gir1.2-freetype2-2.0
+	gir1.2-freedesktop
+
+gir1.2-gcrui-3
+	gir1.2-gcr-3
+
+gir1.2-gdk-2.0
+	gir1.2-gtk-2.0
+
+gir1.2-gdk-3.0
+	gir1.2-gtk-3.0
+
+gir1.2-gdkpixdata-2.0
+	gir1.2-gdkpixbuf-2.0
+
+gir1.2-gdkx11-2.0
+	gir1.2-gtk-2.0
+
+gir1.2-gdkx11-3.0
+	gir1.2-gtk-3.0
+
+gir1.2-gio-2.0
+	gir1.2-glib-2.0
+
+gir1.2-girepository-2.0
+	gir1.2-glib-2.0
+
+gir1.2-gl-1.0
+	gir1.2-freedesktop
+
+gir1.2-gmodule-2.0
+	gir1.2-glib-2.0
+
+gir1.2-gobject-2.0
+	gir1.2-glib-2.0
+
+gir1.2-gupnpdlnagst-2.0
+	gir1.2-gupnpdlna-2.0
+
+gir1.2-icalglib-3.0
+	gir1.2-ical-3.0
+
+gir1.2-libxml2-2.0
+	gir1.2-freedesktop
+
+gir1.2-mpid-3.0
+	gir1.2-rb-3.0
+
+gir1.2-pangocairo-1.0
+	gir1.2-pango-1.0
+
+gir1.2-pangofc-1.0
+	gir1.2-pango-1.0
+
+gir1.2-pangoft2-1.0
+	gir1.2-pango-1.0
+
+gir1.2-pangoot-1.0
+	gir1.2-pango-1.0
+
+gir1.2-pangoxft-1.0
+	gir1.2-pango-1.0
+
+gir1.2-peasgtk-1.0
+	gir1.2-peas-1.0
+
+gir1.2-polkitagent-1.0
+	gir1.2-polkit-1.0
+
+gir1.2-soupgnome-2.4
+	gir1.2-soup-2.4
+
+gir1.2-totem-plparser-1.0
+	gir1.2-totemplparser-1.0
+
+gir1.2-trackercontrol-2.0
+	gir1.2-tracker-2.0
+
+gir1.2-trackerminer-2.0
+	gir1.2-tracker-2.0
+
+gir1.2-vulkan-1.0
+	gir1.2-freedesktop
+
+gir1.2-xfixes-4.0
+	gir1.2-freedesktop
+
+gir1.2-xft-2.0
+	gir1.2-freedesktop
+
+gir1.2-xlib-2.0
+	gir1.2-freedesktop
+
+gir1.2-xrandr-1.3
+	gir1.2-freedesktop
+
+git-completion
+	git
+
+git-core
+	git
+
+glibc-pic
+	libc6-pic
+
+global-assembly-cache-tool
+	mono-gac
+
+gm2
+	gm2-10
+	gm2-9
+
+gnome-control-center-unity
+	unity-control-center
+
+gnome-icon-theme-symbolic
+	adwaita-icon-theme-full
+
+gnome-settings-daemon-schemas
+	gnome-settings-daemon-common
+
+gnome-www-browser
+	firefox
+
+gnupg-agent
+	gpg-agent
+
+gnuplot
+	gnuplot-nox
+	gnuplot-qt
+	gnuplot-x11
+
+gnuplot-nox
+	gnuplot-qt
+	gnuplot-x11
+
+gnuplot-x11
+	gnuplot-qt
+
+gnutls-dev
+	libgnutls28-dev
+
+go-compiler
+	gccgo
+	gccgo-10
+	gccgo-7
+	gccgo-8
+	gccgo-9
+
+golang-blackfriday-dev
+	golang-github-russross-blackfriday-dev
+
+golang-check.v1-dev
+	golang-gopkg-check.v1-dev
+
+golang-docker-dev
+	golang-github-docker-docker-dev
+
+golang-github-coreos-etcd-dev
+	golang-etcd-server-dev
+
+golang-github-go-check-check-dev
+	golang-gopkg-check.v1-dev
+
+golang-github-godbus-dbus-dev
+	golang-dbus-dev
+
+golang-github-grpc-grpc-go-dev
+	golang-google-grpc-dev
+
+golang-go-md2man-dev
+	golang-github-cpuguy83-go-md2man-dev
+
+golang-go-semver-dev
+	golang-github-coreos-go-semver-dev
+
+golang-go-systemd-dev
+	golang-github-coreos-go-systemd-dev
+
+golang-go.net-dev
+	golang-golang-x-net-dev
+
+golang-logrus-dev
+	golang-github-sirupsen-logrus-dev
+
+golang-objx-dev
+	golang-github-stretchr-objx-dev
+
+golang-pretty-dev
+	golang-github-kr-pretty-dev
+
+golang-prometheus-client-dev
+	golang-github-prometheus-client-golang-dev
+
+golang-pty-dev
+	golang-github-kr-pty-dev
+
+golang-snappy-go-dev
+	golang-github-golang-snappy-dev
+
+golang-testify-dev
+	golang-github-stretchr-testify-dev
+
+golang-text-dev
+	golang-github-kr-text-dev
+
+golang-toml-dev
+	golang-github-burntsushi-toml-dev
+
+golang-yaml.v2-dev
+	golang-gopkg-yaml.v2-dev
+
+graphviz-dev
+	libgraphviz-dev
+
+gregorio
+	texlive-music
+
+gregoriotex
+	texlive-music
+
+grep-dctrl
+	dctrl-tools
+
+groff-x11
+	groff
+
+gs-cjk-resource
+	poppler-data
+
+gsettings-backend
+	dconf-gsettings-backend
+
+gstreamer1.0-audiosink
+	gstreamer1.0-alsa
+	gstreamer1.0-plugins-bad
+	gstreamer1.0-plugins-good
+	gstreamer1.0-pulseaudio
+
+gstreamer1.0-audiosource
+	gstreamer1.0-alsa
+	gstreamer1.0-plugins-bad
+	gstreamer1.0-plugins-base
+	gstreamer1.0-plugins-good
+	gstreamer1.0-pulseaudio
+
+gstreamer1.0-plugins-bad-faad
+	gstreamer1.0-plugins-bad
+
+gstreamer1.0-plugins-bad-videoparsers
+	gstreamer1.0-plugins-bad
+
+gstreamer1.0-plugins-ugly-amr
+	gstreamer1.0-plugins-ugly
+
+gstreamer1.0-videosink
+	gstreamer1.0-gl
+	gstreamer1.0-gtk3
+	gstreamer1.0-plugins-bad
+	gstreamer1.0-plugins-good
+	gstreamer1.0-qt5
+	gstreamer1.0-x
+
+gstreamer1.0-videosource
+	gstreamer1.0-gl
+	gstreamer1.0-plugins-bad
+	gstreamer1.0-plugins-base
+	gstreamer1.0-plugins-good
+	gstreamer1.0-qt5
+
+gstreamer1.0-visualization
+	gstreamer1.0-plugins-bad
+	gstreamer1.0-plugins-good
+
+gtk2.0-binver-2.10.0
+	libgtk2.0-0
+	libgtk2.0-0-udeb
+
+gtk3-binver-3.0.0
+	libgtk-3-0
+	libgtk-3-0-udeb
+
+guile
+	guile-2.0
+	guile-2.2
+
+guile-2.0-slib
+	guile-2.0-libs
+
+gvim
+	vim-athena
+	vim-gtk3
+
+harddrive-detection
+	disk-detect
+
+heimdal-hdb-api-8
+	libhdb9-heimdal
+
+hfs-modules
+	fs-secondary-modules-5.4.0-26-generic-di
+
+host
+	bind9-host
+
+hplip-ppds
+	hpijs-ppds
+
+httpd
+	apache2
+	nginx-core
+	nginx-extras
+	nginx-full
+	nginx-light
+
+httpd-cgi
+	apache2
+	nginx-core
+	nginx-extras
+	nginx-full
+	nginx-light
+
+httpd-wsgi
+	libapache2-mod-wsgi
+
+httpd-wsgi3
+	libapache2-mod-wsgi-py3
+
+hunspell-dictionary
+	hunspell-af
+	hunspell-an
+	hunspell-ar
+	hunspell-be
+	hunspell-bg
+	hunspell-bn
+	hunspell-bo
+	hunspell-br
+	hunspell-bs
+	hunspell-ca
+	hunspell-cs
+	hunspell-da
+	hunspell-de-at
+	hunspell-de-at-frami
+	hunspell-de-ch
+	hunspell-de-ch-frami
+	hunspell-de-de
+	hunspell-de-de-frami
+	hunspell-dz
+	hunspell-el
+	hunspell-en-au
+	hunspell-en-ca
+	hunspell-en-gb
+	hunspell-en-us
+	hunspell-en-za
+	hunspell-es
+	hunspell-eu
+	hunspell-fr-classical
+	hunspell-fr-comprehensive
+	hunspell-fr-modern
+	hunspell-fr-revised
+	hunspell-gd
+	hunspell-gl
+	hunspell-gu
+	hunspell-gug
+	hunspell-he
+	hunspell-hi
+	hunspell-hr
+	hunspell-hu
+	hunspell-id
+	hunspell-is
+	hunspell-it
+	hunspell-kk
+	hunspell-kmr
+	hunspell-ko
+	hunspell-lo
+	hunspell-lt
+	hunspell-lv
+	hunspell-ne
+	hunspell-nl
+	hunspell-no
+	hunspell-oc
+	hunspell-pl
+	hunspell-pt-br
+	hunspell-pt-pt
+	hunspell-ro
+	hunspell-ru
+	hunspell-se
+	hunspell-si
+	hunspell-sk
+	hunspell-sl
+	hunspell-sr
+	hunspell-sv
+	hunspell-sw
+	hunspell-te
+	hunspell-th
+	hunspell-tr
+	hunspell-uk
+	hunspell-uz
+	hunspell-vi
+	myspell-eo
+	myspell-et
+	myspell-fo
+
+hunspell-dictionary-af
+	hunspell-af
+
+hunspell-dictionary-an
+	hunspell-an
+
+hunspell-dictionary-ar
+	hunspell-ar
+
+hunspell-dictionary-be
+	hunspell-be
+
+hunspell-dictionary-bg
+	hunspell-bg
+
+hunspell-dictionary-bn
+	hunspell-bn
+
+hunspell-dictionary-bo
+	hunspell-bo
+
+hunspell-dictionary-br
+	hunspell-br
+
+hunspell-dictionary-bs
+	hunspell-bs
+
+hunspell-dictionary-ca
+	hunspell-ca
+
+hunspell-dictionary-cs
+	hunspell-cs
+
+hunspell-dictionary-da
+	hunspell-da
+
+hunspell-dictionary-de
+	hunspell-de-at
+	hunspell-de-ch
+	hunspell-de-de
+
+hunspell-dictionary-de-at-frami
+	hunspell-de-at-frami
+
+hunspell-dictionary-de-ch-frami
+	hunspell-de-ch-frami
+
+hunspell-dictionary-de-de-frami
+	hunspell-de-de-frami
+
+hunspell-dictionary-dz
+	hunspell-dz
+
+hunspell-dictionary-el
+	hunspell-el
+
+hunspell-dictionary-en
+	hunspell-en-us
+
+hunspell-dictionary-en-au
+	hunspell-en-au
+
+hunspell-dictionary-en-ca
+	hunspell-en-ca
+
+hunspell-dictionary-en-gb
+	hunspell-en-gb
+
+hunspell-dictionary-en-us
+	hunspell-en-us
+
+hunspell-dictionary-en-za
+	hunspell-en-za
+
+hunspell-dictionary-eo
+	myspell-eo
+
+hunspell-dictionary-es
+	hunspell-es
+
+hunspell-dictionary-et
+	myspell-et
+
+hunspell-dictionary-eu
+	hunspell-eu
+
+hunspell-dictionary-fo
+	myspell-fo
+
+hunspell-dictionary-fr
+	hunspell-fr-classical
+	hunspell-fr-comprehensive
+	hunspell-fr-modern
+	hunspell-fr-revised
+
+hunspell-dictionary-gd
+	hunspell-gd
+
+hunspell-dictionary-gl
+	hunspell-gl
+
+hunspell-dictionary-gu
+	hunspell-gu
+
+hunspell-dictionary-gug
+	hunspell-gug
+
+hunspell-dictionary-he
+	hunspell-he
+
+hunspell-dictionary-hi
+	hunspell-hi
+
+hunspell-dictionary-hr
+	hunspell-hr
+
+hunspell-dictionary-hu
+	hunspell-hu
+
+hunspell-dictionary-id
+	hunspell-id
+
+hunspell-dictionary-is
+	hunspell-is
+
+hunspell-dictionary-it
+	hunspell-it
+
+hunspell-dictionary-kk
+	hunspell-kk
+
+hunspell-dictionary-kmr
+	hunspell-kmr
+
+hunspell-dictionary-ko
+	hunspell-ko
+
+hunspell-dictionary-lo
+	hunspell-lo
+
+hunspell-dictionary-lt
+	hunspell-lt
+
+hunspell-dictionary-lv
+	hunspell-lv
+
+hunspell-dictionary-ne
+	hunspell-ne
+
+hunspell-dictionary-nl
+	hunspell-nl
+
+hunspell-dictionary-no
+	hunspell-no
+
+hunspell-dictionary-oc
+	hunspell-oc
+
+hunspell-dictionary-pl
+	hunspell-pl
+
+hunspell-dictionary-pt-br
+	hunspell-pt-br
+
+hunspell-dictionary-pt-pt
+	hunspell-pt-pt
+
+hunspell-dictionary-ro
+	hunspell-ro
+
+hunspell-dictionary-ru
+	hunspell-ru
+
+hunspell-dictionary-se
+	hunspell-se
+
+hunspell-dictionary-si
+	hunspell-si
+
+hunspell-dictionary-sk
+	hunspell-sk
+
+hunspell-dictionary-sl
+	hunspell-sl
+
+hunspell-dictionary-sr
+	hunspell-sr
+
+hunspell-dictionary-sv
+	hunspell-sv
+
+hunspell-dictionary-sw
+	hunspell-sw
+
+hunspell-dictionary-te
+	hunspell-te
+
+hunspell-dictionary-th
+	hunspell-th
+
+hunspell-dictionary-tr
+	hunspell-tr
+
+hunspell-dictionary-uk
+	hunspell-uk
+
+hunspell-dictionary-uz
+	hunspell-uz
+
+hunspell-dictionary-vi
+	hunspell-vi
+
+hunspell-eo
+	myspell-eo
+
+hunspell-et
+	myspell-et
+
+hunspell-eu-es
+	hunspell-eu
+
+hunspell-fo
+	myspell-fo
+
+hunspell-ku
+	hunspell-kmr
+
+hunspell-lv
+	hunspell-lv
+
+hybrid-graphics
+	nvidia-prime
+
+hyphen-en-au
+	hyphen-en-gb
+
+hyphen-en-za
+	hyphen-en-gb
+
+hyphen-et
+	myspell-et
+
+hyphen-hyphenation-patterns
+	hyphen-af
+	hyphen-bg
+	hyphen-ca
+	hyphen-cs
+	hyphen-da
+	hyphen-de
+	hyphen-el
+	hyphen-en-gb
+	hyphen-en-us
+	hyphen-es
+	hyphen-fr
+	hyphen-gl
+	hyphen-hr
+	hyphen-hu
+	hyphen-id
+	hyphen-is
+	hyphen-it
+	hyphen-lt
+	hyphen-lv
+	hyphen-nl
+	hyphen-no
+	hyphen-pl
+	hyphen-pt-br
+	hyphen-pt-pt
+	hyphen-ro
+	hyphen-ru
+	hyphen-sk
+	hyphen-sl
+	hyphen-sr
+	hyphen-sv
+	hyphen-uk
+	hyphen-zu
+	myspell-et
+
+hyphen-hyphenation-patterns-af
+	hyphen-af
+
+hyphen-hyphenation-patterns-bg
+	hyphen-bg
+
+hyphen-hyphenation-patterns-ca
+	hyphen-ca
+
+hyphen-hyphenation-patterns-cs
+	hyphen-cs
+
+hyphen-hyphenation-patterns-da
+	hyphen-da
+
+hyphen-hyphenation-patterns-de
+	hyphen-de
+
+hyphen-hyphenation-patterns-el
+	hyphen-el
+
+hyphen-hyphenation-patterns-en
+	hyphen-en-us
+
+hyphen-hyphenation-patterns-en-gb
+	hyphen-en-gb
+
+hyphen-hyphenation-patterns-en-us
+	hyphen-en-us
+
+hyphen-hyphenation-patterns-es
+	hyphen-es
+
+hyphen-hyphenation-patterns-et
+	myspell-et
+
+hyphen-hyphenation-patterns-fr
+	hyphen-fr
+
+hyphen-hyphenation-patterns-gl
+	hyphen-gl
+
+hyphen-hyphenation-patterns-hr
+	hyphen-hr
+
+hyphen-hyphenation-patterns-hu
+	hyphen-hu
+
+hyphen-hyphenation-patterns-id
+	hyphen-id
+
+hyphen-hyphenation-patterns-is
+	hyphen-is
+
+hyphen-hyphenation-patterns-it
+	hyphen-it
+
+hyphen-hyphenation-patterns-lt
+	hyphen-lt
+
+hyphen-hyphenation-patterns-lv
+	hyphen-lv
+
+hyphen-hyphenation-patterns-nl
+	hyphen-nl
+
+hyphen-hyphenation-patterns-no
+	hyphen-no
+
+hyphen-hyphenation-patterns-pl
+	hyphen-pl
+
+hyphen-hyphenation-patterns-pt-br
+	hyphen-pt-br
+
+hyphen-hyphenation-patterns-pt-pt
+	hyphen-pt-pt
+
+hyphen-hyphenation-patterns-ro
+	hyphen-ro
+
+hyphen-hyphenation-patterns-ru
+	hyphen-ru
+
+hyphen-hyphenation-patterns-sk
+	hyphen-sk
+
+hyphen-hyphenation-patterns-sl
+	hyphen-sl
+
+hyphen-hyphenation-patterns-sr
+	hyphen-sr
+
+hyphen-hyphenation-patterns-sv
+	hyphen-sv
+
+hyphen-hyphenation-patterns-uk
+	hyphen-uk
+
+hyphen-hyphenation-patterns-zu
+	hyphen-zu
+
+iceweasel
+	firefox
+
+iiwusynth
+	fluidsynth
+
+ike-server
+	strongswan-charon
+
+im-switch
+	im-config
+
+imagemagick
+	graphicsmagick-imagemagick-compat
+	imagemagick-6.q16
+
+imagemagick-6.defaultquantum
+	imagemagick-6.q16
+
+imagemagick-common
+	imagemagick-6-common
+
+imagemagick-doc
+	imagemagick-6-doc
+
+imap-client
+	evolution
+	mutt
+
+imap-server
+	dovecot-imapd
+
+indicator-renderer
+	ubiquity-frontend-gtk-panel
+	unity-services
+
+inet-superserver
+	openbsd-inetd
+
+info-browser
+	emacs-gtk
+	emacs-lucid
+	emacs-nox
+	info
+
+input-modules
+	input-modules-5.4.0-26-generic-di
+
+installed-base
+	bootstrap-base
+	live-installer
+
+ipmi-modules
+	ipmi-modules-5.4.0-26-generic-di
+
+ipset-7.5
+	ipset
+
+iptraf
+	iptraf-ng
+
+irb
+	ruby
+
+irda-tools
+	irda-utils
+
+irqbalance
+	gce-compute-image-packages
+
+irssi-abi-20
+	irssi
+
+isc-dhcp-server
+	maas
+
+ispell-dictionary
+	iamerican
+	iamerican-huge
+	iamerican-insane
+	iamerican-large
+	iamerican-small
+	ibrazilian
+	ibritish
+	ibritish-huge
+	ibritish-insane
+	ibritish-large
+	ibritish-small
+	ibulgarian
+	icatalan
+	idanish
+	idutch
+	iesperanto
+	iestonian
+	ifaroese
+	igalician-minimos
+	iirish
+	imanx
+	ingerman
+	inorwegian
+	iogerman
+	ipolish
+	iportuguese
+	iswedish
+	iswiss
+	iukrainian
+
+ivtv-modules
+	linux-image-5.4.0-1009-oracle
+	linux-image-5.4.0-1010-azure
+	linux-image-5.4.0-26-generic
+	linux-image-5.4.0-26-lowlatency
+	linux-image-unsigned-5.4.0-1009-oracle
+	linux-image-unsigned-5.4.0-1010-azure
+	linux-image-unsigned-5.4.0-26-generic
+	linux-image-unsigned-5.4.0-26-lowlatency
+
+jack-daemon
+	jackd2
+
+jackd-firewire
+	jackd2-firewire
+
+jadetex
+	texlive-formats-extra
+
+java-compiler
+	openjdk-11-jdk
+	openjdk-11-jdk-headless
+
+java-runtime
+	default-jre
+	openjdk-11-jre
+
+java-runtime-headless
+	default-jre-headless
+	openjdk-11-jre-headless
+
+java-sdk
+	default-jdk
+	openjdk-11-jdk
+
+java-sdk-headless
+	default-jdk-headless
+	openjdk-11-jdk-headless
+
+java10-runtime
+	default-jre
+	openjdk-11-jre
+
+java10-runtime-headless
+	default-jre-headless
+	openjdk-11-jre-headless
+
+java10-sdk
+	default-jdk
+	openjdk-11-jdk
+
+java10-sdk-headless
+	default-jdk-headless
+	openjdk-11-jdk-headless
+
+java11-runtime
+	default-jre
+	openjdk-11-jre
+
+java11-runtime-headless
+	default-jre-headless
+	openjdk-11-jre-headless
+
+java11-sdk
+	default-jdk
+	openjdk-11-jdk
+
+java11-sdk-headless
+	default-jdk-headless
+	openjdk-11-jdk-headless
+
+java2-runtime
+	default-jre
+	openjdk-11-jre
+
+java2-runtime-headless
+	default-jre-headless
+	openjdk-11-jre-headless
+
+java2-sdk
+	default-jdk
+	openjdk-11-jdk
+
+java2-sdk-headless
+	default-jdk-headless
+	openjdk-11-jdk-headless
+
+java5-runtime
+	default-jre
+	openjdk-11-jre
+
+java5-runtime-headless
+	default-jre-headless
+	openjdk-11-jre-headless
+
+java5-sdk
+	default-jdk
+	openjdk-11-jdk
+
+java5-sdk-headless
+	default-jdk-headless
+	openjdk-11-jdk-headless
+
+java6-runtime
+	default-jre
+	openjdk-11-jre
+
+java6-runtime-headless
+	default-jre-headless
+	openjdk-11-jre-headless
+
+java6-sdk
+	default-jdk
+	openjdk-11-jdk
+
+java6-sdk-headless
+	default-jdk-headless
+	openjdk-11-jdk-headless
+
+java7-runtime
+	default-jre
+	openjdk-11-jre
+
+java7-runtime-headless
+	default-jre-headless
+	openjdk-11-jre-headless
+
+java7-sdk
+	default-jdk
+	openjdk-11-jdk
+
+java7-sdk-headless
+	default-jdk-headless
+	openjdk-11-jdk-headless
+
+java8-runtime
+	default-jre
+	openjdk-11-jre
+
+java8-runtime-headless
+	default-jre-headless
+	openjdk-11-jre-headless
+
+java8-sdk
+	default-jdk
+	openjdk-11-jdk
+
+java8-sdk-headless
+	default-jdk-headless
+	openjdk-11-jdk-headless
+
+java9-runtime
+	default-jre
+	openjdk-11-jre
+
+java9-runtime-headless
+	default-jre-headless
+	openjdk-11-jre-headless
+
+java9-sdk
+	default-jdk
+	openjdk-11-jdk
+
+java9-sdk-headless
+	default-jdk-headless
+	openjdk-11-jdk-headless
+
+jfs-modules
+	fs-core-modules-5.4.0-26-generic-di
+
+jgroff
+	groff
+
+jmpost
+	texlive-binaries
+
+jockey-common
+	ubuntu-drivers-common
+
+jockey-gtk
+	ubuntu-drivers-common
+
+jockey-kde
+	ubuntu-drivers-common
+
+kernel-image
+	kernel-image-5.4.0-26-generic-di
+
+kernel-installer
+	bootstrap-base
+	live-installer
+
+kernel-signed-image
+	kernel-signed-image-5.4.0-26-generic-di
+
+kernel-testing--linux--full--generic
+	linux-generic
+
+kernel-testing--linux--full--lowlatency
+	linux-lowlatency
+
+kernel-testing--linux--full--preferred
+	linux-generic
+
+kernel-testing--linux--full--virtual
+	linux-virtual
+
+kernel-testing--linux--modules-extra--virtual
+	linux-image-extra-virtual
+
+kernel-testing--linux-aws--full--aws
+	linux-aws
+
+kernel-testing--linux-aws--full--preferred
+	linux-aws
+
+kernel-testing--linux-aws--modules-extra--aws
+	linux-modules-extra-aws
+
+kernel-testing--linux-azure--full--azure
+	linux-azure
+
+kernel-testing--linux-azure--full--preferred
+	linux-azure
+
+kernel-testing--linux-azure--modules-extra--azure
+	linux-modules-extra-azure
+
+kernel-testing--linux-gcp--full--gcp
+	linux-gcp
+
+kernel-testing--linux-gcp--full--gke
+	linux-gke
+
+kernel-testing--linux-gcp--full--preferred
+	linux-gcp
+
+kernel-testing--linux-gcp--modules-extra--gcp
+	linux-modules-extra-gcp
+
+kernel-testing--linux-gcp--modules-extra--gke
+	linux-modules-extra-gke
+
+kernel-testing--linux-kvm--full--kvm
+	linux-kvm
+
+kernel-testing--linux-kvm--full--preferred
+	linux-kvm
+
+kernel-testing--linux-oracle--full--oracle
+	linux-oracle
+
+kernel-testing--linux-oracle--full--preferred
+	linux-oracle
+
+kerneloops-daemon
+	kerneloops
+
+keyboard-setup
+	console-setup-udeb
+
+knfs
+	nfs-kernel-server
+
+ko.tex
+	texlive-lang-korean
+
+kvm-api-4
+	linux-image-5.4.0-1009-oracle
+	linux-image-5.4.0-1010-azure
+	linux-image-5.4.0-26-generic
+	linux-image-5.4.0-26-lowlatency
+	linux-image-unsigned-5.4.0-1009-oracle
+	linux-image-unsigned-5.4.0-1010-azure
+	linux-image-unsigned-5.4.0-26-generic
+	linux-image-unsigned-5.4.0-26-lowlatency
+
+kwin
+	kwin-wayland
+	kwin-x11
+
+kwin-wayland-backend
+	kwin-wayland-backend-drm
+	kwin-wayland-backend-fbdev
+	kwin-wayland-backend-virtual
+	kwin-wayland-backend-wayland
+	kwin-wayland-backend-x11
+
+ldap-client
+	ldap-utils
+
+ldap-server
+	slapd
+
+lib32c-dev
+	libc6-dev-i386
+
+lib32c-dev-amd64-cross
+	libc6-dev-i386-amd64-cross
+
+lib32c-dev-s390x-cross
+	libc6-dev-s390-s390x-cross
+
+lib32gcc-s1-amd64-dcv1
+	lib32gcc-s1-amd64-cross
+
+lib32gcc-s1-s390x-dcv1
+	lib32gcc-s1-s390x-cross
+
+lib32gcc1-amd64-cross
+	lib32gcc-s1-amd64-cross
+
+lib32gcc1-s390x-cross
+	lib32gcc-s1-s390x-cross
+
+lib32ncurses5-dev
+	lib32ncurses-dev
+
+lib32ncursesw5-dev
+	lib32ncurses-dev
+
+lib32readline6-dev
+	lib32readline-dev
+
+lib32stdc++6-amd64-dcv1
+	lib32stdc++6-amd64-cross
+
+lib32stdc++6-dbg-amd64-dcv1
+	lib32stdc++6-10-dbg-amd64-cross
+
+lib32stdc++6-dbg-s390x-dcv1
+	lib32stdc++6-10-dbg-s390x-cross
+
+lib32stdc++6-s390x-dcv1
+	lib32stdc++6-s390x-cross
+
+lib32tinfo-dev
+	lib32ncurses-dev
+
+lib32z-dev
+	lib32z1-dev
+
+lib64c-dev-i386-cross
+	libc6-dev-amd64-i386-cross
+
+lib64c-dev-powerpc-cross
+	libc6-dev-ppc64-powerpc-cross
+
+lib64gcc-s1-i386-dcv1
+	lib64gcc-s1-i386-cross
+
+lib64gcc-s1-powerpc-dcv1
+	lib64gcc-s1-powerpc-cross
+
+lib64gcc1-i386-cross
+	lib64gcc-s1-i386-cross
+
+lib64gcc1-powerpc-cross
+	lib64gcc-s1-powerpc-cross
+
+lib64stdc++6-dbg-i386-dcv1
+	lib64stdc++6-10-dbg-i386-cross
+
+lib64stdc++6-dbg-powerpc-dcv1
+	lib64stdc++6-10-dbg-powerpc-cross
+
+lib64stdc++6-i386-dcv1
+	lib64stdc++6-i386-cross
+
+lib64stdc++6-powerpc-dcv1
+	lib64stdc++6-powerpc-cross
+
+liba52-dev
+	liba52-0.7.4-dev
+
+libansicolor-perl
+	perl
+
+libapache2-mod-php
+	libapache2-mod-php7.4
+
+libapt-pkg
+	libapt-pkg6.0
+
+libarchive-tar-perl
+	perl
+
+libargon2-0-dev
+	libargon2-dev
+
+libasound-dev
+	libasound2-dev
+
+libatm-dev
+	libatm1-dev
+
+libatopology-dev
+	libatopology-dev
+
+libattribute-handlers-perl
+	perl
+
+libautodie-perl
+	perl
+
+libautopilot-gtk0
+	libautopilot-gtk
+
+libavcodec58
+	libavcodec-extra58
+
+libavfilter7
+	libavfilter-extra7
+
+libbabeltrace-ctf-dev
+	libbabeltrace-dev
+
+libbabeltrace-ctf1
+	libbabeltrace1
+
+libbfd-dev
+	binutils-dev
+
+libblas.so
+	libblas-dev
+
+libblas.so.3
+	libblas3
+
+libblas64.so
+	libblas64-dev
+
+libblas64.so.3
+	libblas64-3
+
+libbluetooth3-dev
+	libbluetooth-dev
+
+libboost-mpi-python1.71.0-py38
+	libboost-mpi-python1.71.0
+
+libboost-numpy1.71.0-py38
+	libboost-numpy1.71.0
+
+libboost-python1.71.0-py38
+	libboost-python1.71.0
+
+libboost-regex1.71.0-icu66
+	libboost-regex1.71.0
+
+libc++-x.y
+	libc++1-10
+	libc++1-9
+
+libc++-x.y-dev
+	libc++-10-dev
+	libc++-9-dev
+
+libc++abi-x.y
+	libc++abi1-10
+	libc++abi1-9
+
+libc++abi-x.y-dev
+	libc++abi-10-dev
+	libc++abi-9-dev
+
+libc-client-dev
+	libc-client2007e-dev
+
+libc-dbg
+	libc6-dbg
+
+libc-dbg-amd64-cross
+	libc6-dbg-amd64-cross
+
+libc-dbg-arm64-cross
+	libc6-dbg-arm64-cross
+
+libc-dbg-armel-cross
+	libc6-dbg-armel-cross
+
+libc-dbg-armhf-cross
+	libc6-dbg-armhf-cross
+
+libc-dbg-i386-cross
+	libc6-dbg-i386-cross
+
+libc-dbg-powerpc-cross
+	libc6-dbg-powerpc-cross
+
+libc-dbg-ppc64el-cross
+	libc6-dbg-ppc64el-cross
+
+libc-dbg-s390x-cross
+	libc6-dbg-s390x-cross
+
+libc-dev
+	libc6-dev
+
+libc-dev-amd64-cross
+	libc6-dev-amd64-cross
+
+libc-dev-arm64-cross
+	libc6-dev-arm64-cross
+
+libc-dev-armel-cross
+	libc6-dev-armel-cross
+
+libc-dev-armhf-cross
+	libc6-dev-armhf-cross
+
+libc-dev-i386-cross
+	libc6-dev-i386-cross
+
+libc-dev-powerpc-cross
+	libc6-dev-powerpc-cross
+
+libc-dev-ppc64el-cross
+	libc6-dev-ppc64el-cross
+
+libc-dev-s390x-cross
+	libc6-dev-s390x-cross
+
+libc-pic
+	libc6-pic
+
+libc-udeb
+	libc6-udeb
+
+libc6
+	libc6-udeb
+
+libc6-amd64-dcv1
+	libc6-amd64-cross
+
+libc6-amd64-i386-dcv1
+	libc6-amd64-i386-cross
+
+libc6-arm64-dcv1
+	libc6-arm64-cross
+
+libc6-armel-armel-cross
+	libc6-armel-cross
+
+libc6-armel-dcv1
+	libc6-armel-cross
+
+libc6-armhf-armhf-cross
+	libc6-armhf-cross
+
+libc6-armhf-dcv1
+	libc6-armhf-cross
+
+libc6-dbg-amd64-dcv1
+	libc6-dbg-amd64-cross
+
+libc6-dbg-arm64-dcv1
+	libc6-dbg-arm64-cross
+
+libc6-dbg-armel-dcv1
+	libc6-dbg-armel-cross
+
+libc6-dbg-armhf-dcv1
+	libc6-dbg-armhf-cross
+
+libc6-dbg-i386-dcv1
+	libc6-dbg-i386-cross
+
+libc6-dbg-powerpc-dcv1
+	libc6-dbg-powerpc-cross
+
+libc6-dbg-ppc64el-dcv1
+	libc6-dbg-ppc64el-cross
+
+libc6-dbg-s390x-dcv1
+	libc6-dbg-s390x-cross
+
+libc6-dev-amd64-dcv1
+	libc6-dev-amd64-cross
+
+libc6-dev-amd64-i386-dcv1
+	libc6-dev-amd64-i386-cross
+
+libc6-dev-arm64-dcv1
+	libc6-dev-arm64-cross
+
+libc6-dev-armel-armel-cross
+	libc6-dev-armel-cross
+
+libc6-dev-armel-dcv1
+	libc6-dev-armel-cross
+
+libc6-dev-armhf-armhf-cross
+	libc6-dev-armhf-cross
+
+libc6-dev-armhf-dcv1
+	libc6-dev-armhf-cross
+
+libc6-dev-i386-amd64-dcv1
+	libc6-dev-i386-amd64-cross
+
+libc6-dev-i386-dcv1
+	libc6-dev-i386-cross
+
+libc6-dev-powerpc-dcv1
+	libc6-dev-powerpc-cross
+
+libc6-dev-ppc64-powerpc-dcv1
+	libc6-dev-ppc64-powerpc-cross
+
+libc6-dev-ppc64el-dcv1
+	libc6-dev-ppc64el-cross
+
+libc6-dev-s390-s390x-dcv1
+	libc6-dev-s390-s390x-cross
+
+libc6-dev-s390x-dcv1
+	libc6-dev-s390x-cross
+
+libc6-dev-x32-amd64-dcv1
+	libc6-dev-x32-amd64-cross
+
+libc6-dev-x32-i386-dcv1
+	libc6-dev-x32-i386-cross
+
+libc6-i386-amd64-dcv1
+	libc6-i386-amd64-cross
+
+libc6-i386-dcv1
+	libc6-i386-cross
+
+libc6-i686-i386-cross
+	libc6-i386-cross
+
+libc6-powerpc-dcv1
+	libc6-powerpc-cross
+
+libc6-ppc64-powerpc-dcv1
+	libc6-ppc64-powerpc-cross
+
+libc6-ppc64el-dcv1
+	libc6-ppc64el-cross
+
+libc6-s390-s390x-dcv1
+	libc6-s390-s390x-cross
+
+libc6-s390x-dcv1
+	libc6-s390x-cross
+
+libc6-x32-amd64-dcv1
+	libc6-x32-amd64-cross
+
+libc6-x32-i386-dcv1
+	libc6-x32-i386-cross
+
+libc6-xen-i386-cross
+	libc6-i386-cross
+
+libcairo-dev
+	libcairo2-dev
+
+libcap2-dev
+	libcap-dev
+
+libcddb-dev
+	libcddb2-dev
+
+libcdparanoia0-dev
+	libcdparanoia-dev
+
+libchewing
+	libchewing3
+
+libchewing-data
+	libchewing3-data
+
+libclass-xsaccessor-array-perl
+	libclass-xsaccessor-perl
+
+libcomerr2
+	libcom-err2
+
+libcompress-raw-bzip2-perl
+	perl
+
+libcompress-raw-zlib-perl
+	perl
+
+libcompress-zlib-perl
+	perl
+
+libcpan-meta-perl
+	perl
+
+libcpan-meta-requirements-perl
+	perl
+
+libcpan-meta-yaml-perl
+	perl
+
+libcrypt1-dev
+	libcrypt-dev
+
+libctypes-ocaml-dev-mhhn1
+	libctypes-ocaml-dev
+
+libctypes-ocaml-mhhn1
+	libctypes-ocaml
+
+libcuda-10.0-1
+	libnvidia-compute-435
+	libnvidia-compute-440
+
+libcuda-10.1-1
+	libnvidia-compute-435
+	libnvidia-compute-440
+
+libcuda-10.2-1
+	libnvidia-compute-440
+
+libcuda-5.0-1
+	libcuda1-340
+	libnvidia-compute-390
+	libnvidia-compute-435
+	libnvidia-compute-440
+
+libcuda-5.5-1
+	libcuda1-340
+	libnvidia-compute-390
+	libnvidia-compute-435
+	libnvidia-compute-440
+
+libcuda-6.0-1
+	libcuda1-340
+	libnvidia-compute-390
+	libnvidia-compute-435
+	libnvidia-compute-440
+
+libcuda-6.5-1
+	libcuda1-340
+	libnvidia-compute-390
+	libnvidia-compute-435
+	libnvidia-compute-440
+
+libcuda-7.0-1
+	libnvidia-compute-390
+	libnvidia-compute-435
+	libnvidia-compute-440
+
+libcuda-7.5-1
+	libnvidia-compute-390
+	libnvidia-compute-435
+	libnvidia-compute-440
+
+libcuda-8.0-1
+	libnvidia-compute-390
+	libnvidia-compute-435
+	libnvidia-compute-440
+
+libcuda-9.0-1
+	libnvidia-compute-390
+	libnvidia-compute-435
+	libnvidia-compute-440
+
+libcuda-9.1-1
+	libnvidia-compute-390
+	libnvidia-compute-435
+	libnvidia-compute-440
+
+libcuda-9.2-1
+	libnvidia-compute-435
+	libnvidia-compute-440
+
+libcuda1
+	libnvidia-compute-390
+	libnvidia-compute-435
+	libnvidia-compute-440
+
+libcurl-dev
+	libcurl4-gnutls-dev
+	libcurl4-nss-dev
+	libcurl4-openssl-dev
+
+libcurl-ssl-dev
+	libcurl4-gnutls-dev
+	libcurl4-nss-dev
+	libcurl4-openssl-dev
+
+libcurl3-dev
+	libcurl4-openssl-dev
+
+libcurl3-gnutls-dev
+	libcurl4-gnutls-dev
+
+libcurl3-nss-dev
+	libcurl4-nss-dev
+
+libcurl3-openssl-dev
+	libcurl4-openssl-dev
+
+libcurl4-dev
+	libcurl4-gnutls-dev
+	libcurl4-nss-dev
+	libcurl4-openssl-dev
+
+libdbi0-dev
+	libdbi-dev
+
+libdebconfclient-dev
+	libdebconfclient0-dev
+
+libdebian-installer-dev
+	libdebian-installer4-dev
+
+libdebian-installer-extra4
+	libdebian-installer-extra4-udeb
+
+libdigest-md5-perl
+	perl
+
+libdigest-perl
+	perl
+
+libdigest-sha-perl
+	perl
+
+libdshconfig-dev
+	libdshconfig1-dev
+
+libdv-dev
+	libdv4-dev
+
+libefa1
+	ibverbs-providers
+
+libegl-vendor
+	libegl-mesa0
+	libnvidia-gl-390
+	libnvidia-gl-435
+	libnvidia-gl-440
+
+libencode-perl
+	perl
+
+libengine-pkcs11-openssl1.1
+	libengine-pkcs11-openssl
+
+libespeak-dev
+	libespeak-ng-libespeak-dev
+
+libespeak1
+	libespeak-ng-libespeak1
+
+libestools2.1-dev
+	libestools-dev
+
+libevas1-engine
+	libevas1-engines-drm
+	libevas1-engines-fb
+	libevas1-engines-wayland
+	libevas1-engines-x
+
+libevas1-engine-gl-x11
+	libevas1-engines-x
+
+libevas1-engine-software-x11
+	libevas1-engines-x
+
+libexpat-dev
+	libexpat1-dev
+
+libexperimental-perl
+	perl
+
+libextutils-cbuilder-perl
+	perl
+
+libextutils-command-perl
+	perl
+
+libextutils-install-perl
+	perl
+
+libextutils-parsexs-perl
+	perl
+
+libfam0c102
+	libfam0
+
+libfcgi
+	libfcgi0ldbl
+
+libfile-path-perl
+	perl-base
+
+libfile-spec-perl
+	perl
+
+libfile-temp-perl
+	perl-base
+
+libfindlib-ocaml-dev-rhvc3
+	libfindlib-ocaml-dev
+
+libfindlib-ocaml-rhvc3
+	libfindlib-ocaml
+
+libfltk-dev
+	libfltk1.1-dev
+	libfltk1.3-dev
+
+libfontconfig
+	libfontconfig1
+
+libfontconfig-dev
+	libfontconfig1-dev
+
+libgcc-s1-amd64-dcv1
+	libgcc-s1-amd64-cross
+
+libgcc-s1-arm64-dcv1
+	libgcc-s1-arm64-cross
+
+libgcc-s1-armel-dcv1
+	libgcc-s1-armel-cross
+
+libgcc-s1-armhf-dcv1
+	libgcc-s1-armhf-cross
+
+libgcc-s1-i386-dcv1
+	libgcc-s1-i386-cross
+
+libgcc-s1-powerpc-dcv1
+	libgcc-s1-powerpc-cross
+
+libgcc-s1-ppc64el-dcv1
+	libgcc-s1-ppc64el-cross
+
+libgcc-s1-s390x-dcv1
+	libgcc-s1-s390x-cross
+
+libgcc1
+	libgcc-s1
+
+libgcc1-amd64-cross
+	libgcc-s1-amd64-cross
+
+libgcc1-arm64-cross
+	libgcc-s1-arm64-cross
+
+libgcc1-armel-cross
+	libgcc-s1-armel-cross
+
+libgcc1-armhf-cross
+	libgcc-s1-armhf-cross
+
+libgcc1-i386-cross
+	libgcc-s1-i386-cross
+
+libgcc1-powerpc-cross
+	libgcc-s1-powerpc-cross
+
+libgcc1-ppc64el-cross
+	libgcc-s1-ppc64el-cross
+
+libgcc1-s390x-cross
+	libgcc-s1-s390x-cross
+
+libgcrypt-dev
+	libgcrypt20-dev
+
+libgd-gd2-noxpm-perl
+	libgd-perl
+
+libgd-gd2-perl
+	libgd-perl
+
+libgegl-0.0-dev
+	libgegl-dev
+
+libgenders-dev
+	libgenders0-dev
+
+libglew1.5-dev
+	libglew-dev
+
+libglew1.6-dev
+	libglew-dev
+
+libglewmx1.5-dev
+	libglewmx-dev
+
+libglewmx1.6-dev
+	libglewmx-dev
+
+libglu-dev
+	libglu1-mesa-dev
+
+libglu1
+	libglu1-mesa
+
+libglx-vendor
+	libglx-mesa0
+	libnvidia-gl-390
+	libnvidia-gl-435
+	libnvidia-gl-440
+
+libgmp10-dev
+	libgmp-dev
+
+libgnutls-openssl-dev
+	libgnutls28-dev
+
+libgpgme11-dev
+	libgpgme-dev
+
+libgpmg1-dev
+	libgpm-dev
+
+libgraphicsmagick++-dev
+	libgraphicsmagick++1-dev
+
+libgraphicsmagick-dev
+	libgraphicsmagick1-dev
+
+libgraphite2-2.0.0
+	libgraphite2-3
+
+libgsl0-dbg
+	libgsl-dbg
+
+libgsl0-dev
+	libgsl-dev
+
+libguile-dev
+	guile-2.0-dev
+	guile-2.2-dev
+
+libhdf4g-doc
+	libhdf4-doc
+
+libhdf5-serial-dev
+	libhdf5-dev
+
+libhfgcc-s1-armel-dcv1
+	libhfgcc-s1-armel-cross
+
+libhfgcc1-armel-cross
+	libhfgcc-s1-armel-cross
+
+libhfstdc++6-armel-dcv1
+	libhfstdc++6-armel-cross
+
+libhfstdc++6-dbg-armel-dcv1
+	libhfstdc++6-10-dbg-armel-cross
+
+libhfstospell
+	libhfstospell10
+
+libhttp-tiny-perl
+	perl
+
+libi18n-langtags-perl
+	perl
+
+libical3-dev
+	libical-dev
+
+libidn2-0-dev
+	libidn2-dev
+
+libimage-magick-defaultquantum-perl
+	libimage-magick-q16-perl
+
+libintegers-ocaml-dev-lues0
+	libintegers-ocaml-dev
+
+libintegers-ocaml-lues0
+	libintegers-ocaml
+
+libio-compress-base-perl
+	perl
+
+libio-compress-bzip2-perl
+	perl
+
+libio-compress-perl
+	perl
+
+libio-compress-zlib-perl
+	perl
+
+libio-socket-ip-perl
+	perl-base
+
+libio-tty-perl
+	libio-pty-perl
+
+libio-zlib-perl
+	perl
+
+libipathverbs1
+	ibverbs-providers
+
+libjack-0.116
+	libjack-jackd2-0
+
+libjack-0.125
+	libjack-jackd2-0
+
+libjack-dev
+	libjack-jackd2-dev
+
+libjack-dev-session
+	libjack-jackd2-dev
+
+libjack0.100.0-dev
+	libjack-jackd2-dev
+
+libjayatana
+	jayatana
+
+libjayatana-java
+	jayatana
+
+libjayatanaag
+	jayatana
+
+libjayatanaag-java
+	jayatana
+
+libjbig2dec-dev
+	libjbig2dec0-dev
+
+libjpeg-dbg
+	libjpeg8-dbg
+
+libjpeg-dev
+	libjpeg-turbo8-dev
+
+libjpeg-progs
+	libjpeg-turbo-progs
+
+libjs-highlight
+	libjs-highlight.js
+
+libjson-pp-perl
+	perl
+
+liblapack.so
+	liblapack-dev
+
+liblapack.so.3
+	liblapack3
+
+liblapack64.so
+	liblapack64-dev
+
+liblapack64.so.3
+	liblapack64-3
+
+liblapacke.so.3
+	liblapacke
+
+liblapacke64.so.3
+	liblapacke64
+
+liblasso-dev
+	liblasso3-dev
+
+liblcms-dev
+	liblcms2-dev
+
+libldap-dev
+	libldap2-dev
+
+libledit-ocaml-dev-9o0t0
+	libledit-ocaml-dev
+
+liblircclient-dev
+	liblirc-dev
+
+libllvm-10-ocaml-dev-kh939
+	libllvm-10-ocaml-dev
+
+libllvm-9-ocaml-dev-7sys5
+	libllvm-9-ocaml-dev
+
+libllvm-x.y-ocaml-dev
+	libllvm-10-ocaml-dev
+	libllvm-9-ocaml-dev
+
+liblocale-maketext-perl
+	perl
+
+liblocale-maketext-simple-perl
+	perl
+
+liblog-any-adapter-perl
+	liblog-any-perl
+
+liblqr-dev
+	liblqr-1-0-dev
+
+libltdl3-dev
+	libltdl-dev
+
+libltdl7-dev
+	libltdl-dev
+
+liblua5.1-bitop-dev
+	lua-bitop-dev
+
+liblua5.1-bitop0
+	lua-bitop
+
+liblua5.1-dev
+	liblua5.1-0-dev
+
+liblua5.1-json
+	lua-json
+
+liblua5.1-rrd-dev
+	lua-rrd-dev
+
+liblua5.1-rrd0
+	lua-rrd
+
+liblz4-tool
+	lz4
+
+libmagick++-6.defaultquantum-dev
+	libmagick++-6.q16-dev
+
+libmagick++-dev
+	graphicsmagick-libmagick-dev-compat
+	libmagick++-6.q16-dev
+
+libmagick-dev
+	graphicsmagick-libmagick-dev-compat
+
+libmagickcore-6.defaultquantum-dev
+	libmagickcore-6.q16-dev
+
+libmagickcore-6.q16-1-extra
+	libmagickcore-6.q16-6-extra
+
+libmagickcore-6.q16-2-extra
+	libmagickcore-6.q16-6-extra
+
+libmagickcore-6.q16-3-extra
+	libmagickcore-6.q16-6-extra
+
+libmagickcore-6.q16-4-extra
+	libmagickcore-6.q16-6-extra
+
+libmagickcore-6.q16-5-extra
+	libmagickcore-6.q16-6-extra
+
+libmagickcore-6.q16hdri-1-extra
+	libmagickcore-6.q16hdri-6-extra
+
+libmagickcore-6.q16hdri-2-extra
+	libmagickcore-6.q16hdri-6-extra
+
+libmagickcore-6.q16hdri-3-extra
+	libmagickcore-6.q16hdri-6-extra
+
+libmagickcore-6.q16hdri-4-extra
+	libmagickcore-6.q16hdri-6-extra
+
+libmagickcore-6.q16hdri-5-extra
+	libmagickcore-6.q16hdri-6-extra
+
+libmagickcore-dev
+	libmagickcore-6.q16-dev
+
+libmagickcore-extra
+	libmagickcore-6.q16-6-extra
+	libmagickcore-6.q16hdri-6-extra
+
+libmagickwand-6.defaultquantum-dev
+	libmagickwand-6.q16-dev
+
+libmagickwand-dev
+	libmagickwand-6.q16-dev
+
+libmail-spamassassin-perl
+	spamassassin
+
+libmatedesktop
+	libmate-desktop-2-17
+
+libmatekbd
+	libmatekbd4
+
+libmath-bigint-perl
+	perl
+
+libmath-complex-perl
+	perl
+
+libmime-base64-perl
+	perl
+
+libmirclientcpp-dev
+	libmirclient-dev
+
+libmlx4-1
+	ibverbs-providers
+
+libmlx5-1
+	ibverbs-providers
+
+libmodule-corelist-perl
+	perl
+
+libmodule-load-conditional-perl
+	perl
+
+libmodule-load-perl
+	perl
+
+libmodule-metadata-perl
+	perl
+
+libmthca1
+	ibverbs-providers
+
+libncurses5-dev
+	libncurses-dev
+
+libncursesw5-dev
+	libncurses-dev
+
+libneon-dev
+	libneon27-dev
+	libneon27-gnutls-dev
+
+libnet-dev
+	libnet1-dev
+
+libnet-perl
+	perl
+
+libnet-ping-perl
+	perl
+
+libnpth-dev
+	libnpth0-dev
+
+libnss-dns-udeb
+	libc6-udeb
+
+libnss-files-udeb
+	libc6-udeb
+
+libnux-abiversion-20140307.0
+	libnux-4.0-0
+
+libnvidia-cfg1-any
+	libnvidia-cfg1-390
+	libnvidia-cfg1-435
+	libnvidia-cfg1-440
+	nvidia-340
+
+libnvidia-common
+	libnvidia-common-390
+	libnvidia-common-435
+	libnvidia-common-440
+
+libnvidia-decode
+	libnvidia-decode-390
+	libnvidia-decode-435
+	libnvidia-decode-440
+	nvidia-340
+
+libnvidia-encode
+	libnvidia-encode-390
+	libnvidia-encode-435
+	libnvidia-encode-440
+	nvidia-340
+
+libnvidia-extra
+	libnvidia-extra-440
+
+libnvidia-fbc1
+	libnvidia-fbc1-390
+	libnvidia-fbc1-435
+	libnvidia-fbc1-440
+	nvidia-340
+
+libnvidia-gl
+	libnvidia-gl-390
+	libnvidia-gl-435
+	libnvidia-gl-440
+	nvidia-340
+
+libnvidia-ifr1
+	libnvidia-ifr1-390
+	libnvidia-ifr1-435
+	libnvidia-ifr1-440
+	nvidia-340
+
+libnvidia-ml1
+	libnvidia-compute-390
+	libnvidia-compute-435
+	libnvidia-compute-440
+
+libnvpair-dev
+	libzfslinux-dev
+
+libnx-x11-6-dev
+	libnx-x11-dev
+
+libomp-x.y
+	libomp5-10
+	libomp5-9
+
+libomp-x.y-dev
+	libomp-10-dev
+	libomp-9-dev
+
+libopencl-1.1-1
+	ocl-icd-libopencl1
+
+libopencl-1.2-1
+	ocl-icd-libopencl1
+
+libopencl-2.0-1
+	ocl-icd-libopencl1
+
+libopencl-2.1-1
+	ocl-icd-libopencl1
+
+libopencl1
+	ocl-icd-libopencl1
+
+libopenobex-dev
+	libopenobex2-dev
+
+libopensc-openssl
+	libengine-pkcs11-openssl
+
+liborc-dev
+	liborc-0.4-dev
+
+liborc-dev-bin
+	liborc-0.4-dev-bin
+
+libosmesa-dev
+	libosmesa6-dev
+
+libpam-dev
+	libpam0g-dev
+
+libpam-mkhomedir
+	libpam-modules
+
+libpam-motd
+	libpam-modules
+
+libpam-opensc
+	libpam-p11
+
+libpam-umask
+	libpam-modules
+
+libpango1.0-0
+	libpango-1.0-0
+
+libpaperg
+	libpaper1
+
+libpaperg-dev
+	libpaper-dev
+
+libparams-check-perl
+	perl
+
+libparent-perl
+	perl
+
+libparse-cpan-meta-perl
+	perl
+
+libparted
+	libparted2
+
+libperl-ostype-perl
+	perl
+
+libphobos-dev
+	libgphobos-dev
+
+libphp-embed
+	libphp7.4-embed
+
+libpinyin
+	libpinyin13
+
+libpinyin-dev
+	libpinyin13-dev
+
+libpkcs11-helper-dev
+	libpkcs11-helper1-dev
+
+libpod-escapes-perl
+	perl
+
+libpod-parser-perl
+	perl
+
+libpod-simple-perl
+	perl
+
+libprelude-ruby
+	ruby-libprelude
+
+libpypy-dev
+	pypy-dev
+
+libqt5opengl5-desktop-dev
+	libqt5opengl5-dev
+
+librasqal-dev
+	librasqal3-dev
+
+librdf-dev
+	librdf0-dev
+
+libreadline-dbg
+	libreadline5-dbg
+
+libreadline6-dev
+	libreadline-dev
+
+libreadonly-xs-perl
+	libreadonly-perl
+
+libreoffice-bundled
+	libreoffice-core
+	libreoffice-core-nogui
+
+libreoffice-grammarcheck
+	libreoffice-lightproof-pt-br
+
+libreoffice-grammarcheck-fi
+	libreoffice-voikko
+
+libreoffice-grammarcheck-pt-br
+	libreoffice-lightproof-pt-br
+
+libreoffice-gtk-gnome
+	libreoffice-gnome
+
+libreoffice-help
+	libreoffice-help-ca
+	libreoffice-help-cs
+	libreoffice-help-da
+	libreoffice-help-de
+	libreoffice-help-dz
+	libreoffice-help-el
+	libreoffice-help-en-gb
+	libreoffice-help-en-us
+	libreoffice-help-es
+	libreoffice-help-et
+	libreoffice-help-eu
+	libreoffice-help-fi
+	libreoffice-help-fr
+	libreoffice-help-gl
+	libreoffice-help-hi
+	libreoffice-help-hu
+	libreoffice-help-id
+	libreoffice-help-it
+	libreoffice-help-ja
+	libreoffice-help-km
+	libreoffice-help-ko
+	libreoffice-help-nl
+	libreoffice-help-om
+	libreoffice-help-pl
+	libreoffice-help-pt
+	libreoffice-help-pt-br
+	libreoffice-help-ru
+	libreoffice-help-sk
+	libreoffice-help-sl
+	libreoffice-help-sv
+	libreoffice-help-tr
+	libreoffice-help-vi
+	libreoffice-help-zh-cn
+	libreoffice-help-zh-tw
+
+libreoffice-hyphenation-fi
+	libreoffice-voikko
+
+libreoffice-l10n
+	libreoffice-l10n-af
+	libreoffice-l10n-am
+	libreoffice-l10n-ar
+	libreoffice-l10n-as
+	libreoffice-l10n-ast
+	libreoffice-l10n-be
+	libreoffice-l10n-bg
+	libreoffice-l10n-bn
+	libreoffice-l10n-br
+	libreoffice-l10n-bs
+	libreoffice-l10n-ca
+	libreoffice-l10n-cs
+	libreoffice-l10n-cy
+	libreoffice-l10n-da
+	libreoffice-l10n-de
+	libreoffice-l10n-dz
+	libreoffice-l10n-el
+	libreoffice-l10n-en-gb
+	libreoffice-l10n-en-za
+	libreoffice-l10n-eo
+	libreoffice-l10n-es
+	libreoffice-l10n-et
+	libreoffice-l10n-eu
+	libreoffice-l10n-fa
+	libreoffice-l10n-fi
+	libreoffice-l10n-fr
+	libreoffice-l10n-ga
+	libreoffice-l10n-gd
+	libreoffice-l10n-gl
+	libreoffice-l10n-gu
+	libreoffice-l10n-gug
+	libreoffice-l10n-he
+	libreoffice-l10n-hi
+	libreoffice-l10n-hr
+	libreoffice-l10n-hu
+	libreoffice-l10n-id
+	libreoffice-l10n-is
+	libreoffice-l10n-it
+	libreoffice-l10n-ja
+	libreoffice-l10n-ka
+	libreoffice-l10n-kk
+	libreoffice-l10n-km
+	libreoffice-l10n-kmr
+	libreoffice-l10n-kn
+	libreoffice-l10n-ko
+	libreoffice-l10n-lt
+	libreoffice-l10n-lv
+	libreoffice-l10n-mk
+	libreoffice-l10n-ml
+	libreoffice-l10n-mn
+	libreoffice-l10n-mr
+	libreoffice-l10n-nb
+	libreoffice-l10n-ne
+	libreoffice-l10n-nl
+	libreoffice-l10n-nn
+	libreoffice-l10n-nr
+	libreoffice-l10n-nso
+	libreoffice-l10n-oc
+	libreoffice-l10n-om
+	libreoffice-l10n-or
+	libreoffice-l10n-pa-in
+	libreoffice-l10n-pl
+	libreoffice-l10n-pt
+	libreoffice-l10n-pt-br
+	libreoffice-l10n-ro
+	libreoffice-l10n-ru
+	libreoffice-l10n-rw
+	libreoffice-l10n-si
+	libreoffice-l10n-sk
+	libreoffice-l10n-sl
+	libreoffice-l10n-sr
+	libreoffice-l10n-ss
+	libreoffice-l10n-st
+	libreoffice-l10n-sv
+	libreoffice-l10n-szl
+	libreoffice-l10n-ta
+	libreoffice-l10n-te
+	libreoffice-l10n-tg
+	libreoffice-l10n-th
+	libreoffice-l10n-tn
+	libreoffice-l10n-tr
+	libreoffice-l10n-ts
+	libreoffice-l10n-ug
+	libreoffice-l10n-uk
+	libreoffice-l10n-uz
+	libreoffice-l10n-ve
+	libreoffice-l10n-vi
+	libreoffice-l10n-xh
+	libreoffice-l10n-zh-cn
+	libreoffice-l10n-zh-tw
+	libreoffice-l10n-zu
+
+libreoffice-l10n-en-us
+	libreoffice-common
+
+libreoffice-ogltrans
+	libreoffice-impress
+
+libreoffice-reportdesigner
+	libreoffice-report-builder
+
+libreoffice-spellcheck-fi
+	libreoffice-voikko
+
+libreoffice-style
+	libreoffice-style-breeze
+	libreoffice-style-colibre
+	libreoffice-style-elementary
+	libreoffice-style-karasa-jaga
+	libreoffice-style-sifr
+	libreoffice-style-tango
+
+libreoffice-style-hicontrast
+	libreoffice-style-sifr
+
+libsamplerate-dev
+	libsamplerate0-dev
+
+libsane1
+	libsane
+
+libscalar-list-utils-perl
+	perl-base
+
+libsdl-dev
+	libsdl1.2-dev
+
+libselinux-dev
+	libselinux1-dev
+
+libsemanage-dev
+	libsemanage1-dev
+
+libsensors-dev
+	libsensors4-dev
+
+libsepol-dev
+	libsepol1-dev
+
+libseq-ocaml
+	ocaml-base-nox
+
+libseq-ocaml-dev
+	ocaml-nox
+
+libservlet3.1-java
+	libservlet3.1-java
+
+libservlet3.1-java-doc
+	libservlet-api-java-doc
+
+libsfgcc-s1-armhf-dcv1
+	libsfgcc-s1-armhf-cross
+
+libsfgcc1-armhf-cross
+	libsfgcc-s1-armhf-cross
+
+libsfstdc++6-armhf-dcv1
+	libsfstdc++6-armhf-cross
+
+libsfstdc++6-dbg-armhf-dcv1
+	libsfstdc++6-10-dbg-armhf-cross
+
+libshout-dev
+	libshout3-dev
+
+libsidplay2v5
+	libsidplay2
+
+libslapi-2.4-2
+	slapd
+
+libsmbios-bin
+	smbios-utils
+
+libsmbios2
+	libsmbios-c2
+
+libsmbios2v5
+	libsmbios-c2
+
+libsndfile-dev
+	libsndfile1-dev
+
+libsocket-perl
+	perl-base
+
+libsqlite-dev
+	libsqlite0-dev
+
+libstdc++-dev
+	libstdc++-10-dev
+	libstdc++-7-dev
+	libstdc++-8-dev
+	libstdc++-9-dev
+
+libstdc++-dev-amd64-cross
+	libstdc++-10-dev-amd64-cross
+	libstdc++-9-dev-amd64-cross
+
+libstdc++-dev-amd64-dcv1
+	libstdc++-10-dev-amd64-cross
+	libstdc++-9-dev-amd64-cross
+
+libstdc++-dev-arm64-cross
+	libstdc++-10-dev-arm64-cross
+	libstdc++-9-dev-arm64-cross
+
+libstdc++-dev-arm64-dcv1
+	libstdc++-10-dev-arm64-cross
+	libstdc++-9-dev-arm64-cross
+
+libstdc++-dev-armel-cross
+	libstdc++-10-dev-armel-cross
+	libstdc++-9-dev-armel-cross
+
+libstdc++-dev-armel-dcv1
+	libstdc++-10-dev-armel-cross
+	libstdc++-9-dev-armel-cross
+
+libstdc++-dev-armhf-cross
+	libstdc++-10-dev-armhf-cross
+	libstdc++-9-dev-armhf-cross
+
+libstdc++-dev-armhf-dcv1
+	libstdc++-10-dev-armhf-cross
+	libstdc++-9-dev-armhf-cross
+
+libstdc++-dev-i386-cross
+	libstdc++-10-dev-i386-cross
+	libstdc++-9-dev-i386-cross
+
+libstdc++-dev-i386-dcv1
+	libstdc++-10-dev-i386-cross
+	libstdc++-9-dev-i386-cross
+
+libstdc++-dev-powerpc-cross
+	libstdc++-10-dev-powerpc-cross
+	libstdc++-9-dev-powerpc-cross
+
+libstdc++-dev-powerpc-dcv1
+	libstdc++-10-dev-powerpc-cross
+	libstdc++-9-dev-powerpc-cross
+
+libstdc++-dev-ppc64el-cross
+	libstdc++-10-dev-ppc64el-cross
+	libstdc++-9-dev-ppc64el-cross
+
+libstdc++-dev-ppc64el-dcv1
+	libstdc++-10-dev-ppc64el-cross
+	libstdc++-9-dev-ppc64el-cross
+
+libstdc++-dev-s390x-cross
+	libstdc++-10-dev-s390x-cross
+	libstdc++-9-dev-s390x-cross
+
+libstdc++-dev-s390x-dcv1
+	libstdc++-10-dev-s390x-cross
+	libstdc++-9-dev-s390x-cross
+
+libstdc++-pic-amd64-dcv1
+	libstdc++-10-pic-amd64-cross
+	libstdc++-9-pic-amd64-cross
+
+libstdc++-pic-arm64-dcv1
+	libstdc++-10-pic-arm64-cross
+	libstdc++-9-pic-arm64-cross
+
+libstdc++-pic-armel-dcv1
+	libstdc++-10-pic-armel-cross
+	libstdc++-9-pic-armel-cross
+
+libstdc++-pic-armhf-dcv1
+	libstdc++-10-pic-armhf-cross
+	libstdc++-9-pic-armhf-cross
+
+libstdc++-pic-i386-dcv1
+	libstdc++-10-pic-i386-cross
+	libstdc++-9-pic-i386-cross
+
+libstdc++-pic-powerpc-dcv1
+	libstdc++-10-pic-powerpc-cross
+	libstdc++-9-pic-powerpc-cross
+
+libstdc++-pic-ppc64el-dcv1
+	libstdc++-10-pic-ppc64el-cross
+	libstdc++-9-pic-ppc64el-cross
+
+libstdc++-pic-s390x-dcv1
+	libstdc++-10-pic-s390x-cross
+	libstdc++-9-pic-s390x-cross
+
+libstdc++6-amd64-dcv1
+	libstdc++6-amd64-cross
+
+libstdc++6-arm64-dcv1
+	libstdc++6-arm64-cross
+
+libstdc++6-armel-dcv1
+	libstdc++6-armel-cross
+
+libstdc++6-armhf-dcv1
+	libstdc++6-armhf-cross
+
+libstdc++6-dbg-amd64-dcv1
+	libstdc++6-10-dbg-amd64-cross
+
+libstdc++6-dbg-arm64-dcv1
+	libstdc++6-10-dbg-arm64-cross
+
+libstdc++6-dbg-armel-dcv1
+	libstdc++6-10-dbg-armel-cross
+
+libstdc++6-dbg-armhf-dcv1
+	libstdc++6-10-dbg-armhf-cross
+
+libstdc++6-dbg-i386-dcv1
+	libstdc++6-10-dbg-i386-cross
+
+libstdc++6-dbg-powerpc-dcv1
+	libstdc++6-10-dbg-powerpc-cross
+
+libstdc++6-dbg-ppc64el-dcv1
+	libstdc++6-10-dbg-ppc64el-cross
+
+libstdc++6-dbg-s390x-dcv1
+	libstdc++6-10-dbg-s390x-cross
+
+libstdc++6-i386-dcv1
+	libstdc++6-i386-cross
+
+libstdc++6-powerpc-dcv1
+	libstdc++6-powerpc-cross
+
+libstdc++6-ppc64el-dcv1
+	libstdc++6-ppc64el-cross
+
+libstdc++6-s390x-dcv1
+	libstdc++6-s390x-cross
+
+libstdlib-shims-ocaml
+	ocaml-base-nox
+
+libstdlib-shims-ocaml-dev
+	ocaml-nox
+
+libstorable-perl
+	perl
+
+libsubunit-diff-perl
+	libsubunit-perl
+
+libsys-syslog-perl
+	perl
+
+libtasn1-dev
+	libtasn1-6-dev
+
+libtcl
+	libtcl8.6
+
+libtest-harness-perl
+	perl
+
+libtest-simple-perl
+	perl
+
+libtest-tester-perl
+	perl
+
+libtest-use-ok-perl
+	perl
+
+libthread-queue-perl
+	perl
+
+libthreads-perl
+	perl
+
+libthreads-shared-perl
+	perl
+
+libtime-hires-perl
+	perl
+
+libtime-local-perl
+	perl
+
+libtime-piece-perl
+	perl
+
+libtinfo-dev
+	libncurses-dev
+
+libtinyxml2-6
+	libtinyxml2-6a
+
+libtk
+	libtk8.6
+
+libtk-perl
+	perl-tk
+
+libtk-png-perl
+	perl-tk
+
+libturbojpeg-dev
+	libturbojpeg0-dev
+
+libuchar-ocaml
+	ocaml-base-nox
+
+libuchar-ocaml-dev
+	ocaml-nox
+
+libungif-bin
+	giflib-tools
+
+libunicode-collate-perl
+	perl
+
+libunity-common
+	libunity-scopes-json-def-desktop
+	libunity-scopes-json-def-phone
+
+libunwind8-dev
+	libunwind-dev
+
+libuutil-dev
+	libzfslinux-dev
+
+libv8-dev
+	libnode-dev
+
+libva-driver-abi-1.0
+	libva2
+
+libva-driver-abi-1.1
+	libva2
+
+libva-driver-abi-1.2
+	libva2
+
+libva-driver-abi-1.3
+	libva2
+
+libva-driver-abi-1.4
+	libva2
+
+libva-driver-abi-1.5
+	libva2
+
+libva-driver-abi-1.6
+	libva2
+
+libva-driver-abi-1.7
+	libva2
+
+libversion-perl
+	perl
+
+libversion-requirements-perl
+	perl
+
+libwayland-egl1-mesa
+	libwayland-egl1
+
+libx32gcc-s1-amd64-dcv1
+	libx32gcc-s1-amd64-cross
+
+libx32gcc-s1-i386-dcv1
+	libx32gcc-s1-i386-cross
+
+libx32gcc1-amd64-cross
+	libx32gcc-s1-amd64-cross
+
+libx32gcc1-i386-cross
+	libx32gcc-s1-i386-cross
+
+libx32stdc++6-amd64-dcv1
+	libx32stdc++6-amd64-cross
+
+libx32stdc++6-dbg-amd64-dcv1
+	libx32stdc++6-10-dbg-amd64-cross
+
+libx32stdc++6-dbg-i386-dcv1
+	libx32stdc++6-10-dbg-i386-cross
+
+libx32stdc++6-i386-dcv1
+	libx32stdc++6-i386-cross
+
+libx32z-dev
+	libx32z1-dev
+
+libxcb-sync0-dev
+	libxcb-sync-dev
+
+libxcomp3-dev
+	libxcomp-dev
+
+libxcompshad3-dev
+	libxcompshad-dev
+
+libxerces-c3-dev
+	libxerces-c-dev
+
+libxerces-c3-doc
+	libxerces-c-doc
+
+libxerces-c3-samples
+	libxerces-c-samples
+
+libxft2-dev
+	libxft-dev
+
+libxsloader-perl
+	perl-base
+
+libxslt-dev
+	libxslt1-dev
+
+libytnef-dev
+	libytnef0-dev
+
+libz-dev
+	zlib1g-dev
+
+libz1
+	zlib1g
+
+libzhuyin
+	libzhuyin13
+
+libzmq5-dev
+	libzmq3-dev
+
+lightdm-greeter
+	lightdm-gtk-greeter
+	unity-greeter
+
+linux-cloud-tools
+	linux-cloud-tools-generic
+	linux-cloud-tools-generic-hwe-20.04
+	linux-cloud-tools-lowlatency
+	linux-cloud-tools-lowlatency-hwe-20.04
+	linux-cloud-tools-virtual
+	linux-cloud-tools-virtual-hwe-20.04
+
+linux-headers
+	linux-headers-5.4.0-1009-aws
+	linux-headers-5.4.0-1009-gcp
+	linux-headers-5.4.0-1009-kvm
+	linux-headers-5.4.0-1009-oracle
+	linux-headers-5.4.0-1010-azure
+	linux-headers-5.4.0-26-generic
+	linux-headers-5.4.0-26-lowlatency
+
+linux-headers-3.0
+	linux-headers-5.4.0-1009-aws
+	linux-headers-5.4.0-1009-gcp
+	linux-headers-5.4.0-1009-kvm
+	linux-headers-5.4.0-1009-oracle
+	linux-headers-5.4.0-1010-azure
+	linux-headers-5.4.0-26-generic
+	linux-headers-5.4.0-26-lowlatency
+
+linux-image
+	linux-image-5.4.0-1009-aws
+	linux-image-5.4.0-1009-gcp
+	linux-image-5.4.0-1009-kvm
+	linux-image-5.4.0-1009-oracle
+	linux-image-5.4.0-1010-azure
+	linux-image-5.4.0-26-generic
+	linux-image-5.4.0-26-lowlatency
+	linux-image-unsigned-5.4.0-1009-gcp
+	linux-image-unsigned-5.4.0-1009-oracle
+	linux-image-unsigned-5.4.0-1010-azure
+	linux-image-unsigned-5.4.0-26-generic
+	linux-image-unsigned-5.4.0-26-lowlatency
+
+linux-initramfs-tool
+	dracut
+	initramfs-tools
+
+linux-kernel-headers
+	linux-libc-dev
+
+linux-kernel-headers-amd64-cross
+	linux-libc-dev-amd64-cross
+
+linux-kernel-headers-arm64-cross
+	linux-libc-dev-arm64-cross
+
+linux-kernel-headers-armel-cross
+	linux-libc-dev-armel-cross
+
+linux-kernel-headers-armhf-cross
+	linux-libc-dev-armhf-cross
+
+linux-kernel-headers-i386-cross
+	linux-libc-dev-i386-cross
+
+linux-kernel-headers-powerpc-cross
+	linux-libc-dev-powerpc-cross
+
+linux-kernel-headers-ppc64el-cross
+	linux-libc-dev-ppc64el-cross
+
+linux-kernel-headers-s390x-cross
+	linux-libc-dev-s390x-cross
+
+linux-kernel-log-daemon
+	busybox-syslogd
+	rsyslog
+
+linux-libc-dev-amd64-dcv1
+	linux-libc-dev-amd64-cross
+
+linux-libc-dev-arm64-dcv1
+	linux-libc-dev-arm64-cross
+
+linux-libc-dev-armel-dcv1
+	linux-libc-dev-armel-cross
+
+linux-libc-dev-armhf-dcv1
+	linux-libc-dev-armhf-cross
+
+linux-libc-dev-i386-dcv1
+	linux-libc-dev-i386-cross
+
+linux-libc-dev-powerpc-dcv1
+	linux-libc-dev-powerpc-cross
+
+linux-libc-dev-ppc64el-dcv1
+	linux-libc-dev-ppc64el-cross
+
+linux-libc-dev-s390x-dcv1
+	linux-libc-dev-s390x-cross
+
+linux-source
+	linux-source-5.4.0
+
+linux-tools
+	linux-tools-aws
+	linux-tools-gcp
+	linux-tools-generic
+	linux-tools-generic-hwe-20.04
+	linux-tools-gke
+	linux-tools-lowlatency
+	linux-tools-lowlatency-hwe-20.04
+	linux-tools-oracle
+	linux-tools-virtual
+	linux-tools-virtual-hwe-20.04
+
+logind
+	libpam-systemd
+
+loop-modules
+	storage-core-modules-5.4.0-26-generic-di
+
+lpr
+	cups-bsd
+
+lsb-core-noarch
+	lsb-core
+
+lsb-printing-noarch
+	lsb-printing
+
+lsb-security-noarch
+	lsb-security
+
+lua
+	lua5.1
+	lua5.2
+	lua5.3
+
+lua5.1-bitop
+	lua-bitop
+
+lua5.1-bitop-dev
+	lua-bitop-dev
+
+lua5.1-expat
+	lua-expat
+
+lua5.1-expat-dev
+	lua-expat-dev
+
+lua5.1-json
+	lua-json
+
+lua5.1-lpeg
+	lua-lpeg
+
+lua5.1-lpeg-dev
+	lua-lpeg-dev
+
+lua5.1-rrd
+	lua-rrd
+
+lua5.1-rrd-dev
+	lua-rrd-dev
+
+lua5.1-socket
+	lua-socket
+
+lua5.1-socket-dev
+	lua-socket-dev
+
+lua5.2-bitop
+	lua-bitop
+
+lua5.2-bitop-dev
+	lua-bitop-dev
+
+lua5.2-expat
+	lua-expat
+
+lua5.2-expat-dev
+	lua-expat-dev
+
+lua5.2-json
+	lua-json
+
+lua5.2-lpeg
+	lua-lpeg
+
+lua5.2-lpeg-dev
+	lua-lpeg-dev
+
+lua5.2-rrd
+	lua-rrd
+
+lua5.2-rrd-dev
+	lua-rrd-dev
+
+lua5.2-socket
+	lua-socket
+
+lua5.2-socket-dev
+	lua-socket-dev
+
+lua5.3-expat
+	lua-expat
+
+lua5.3-expat-dev
+	lua-expat-dev
+
+lua5.3-json
+	lua-json
+
+lua5.3-lpeg
+	lua-lpeg
+
+lua5.3-lpeg-dev
+	lua-lpeg-dev
+
+lua5.3-rrd
+	lua-rrd
+
+lua5.3-rrd-dev
+	lua-rrd-dev
+
+lua5.3-socket
+	lua-socket
+
+lua5.3-socket-dev
+	lua-socket-dev
+
+luatex
+	texlive-binaries
+
+lv2-host
+	lilv-utils
+
+lv2-plugin
+	lv2-examples
+
+lzma
+	xz-utils
+
+m-tx
+	texlive-music
+
+m2-compiler
+	gm2-10
+	gm2-9
+
+maas-cli
+	maas
+
+maas-common
+	maas
+
+maas-dhcp
+	maas
+
+maas-dns
+	maas
+
+maas-proxy
+	maas
+
+maas-rack-controller
+	maas
+
+maas-region-api
+	maas
+
+maas-region-controller
+	maas
+
+made-filesystems
+	partman-base
+
+magit
+	elpa-magit
+
+mail-reader
+	bsd-mailx
+	emacs-gtk
+	emacs-lucid
+	emacs-nox
+	evolution
+	mutt
+	thunderbird
+
+mail-transport-agent
+	exim4-daemon-heavy
+	exim4-daemon-light
+	lsb-invalid-mta
+	postfix
+	sendmail-bin
+
+mailx
+	bsd-mailx
+
+make
+	make-guile
+
+makejvf
+	texlive-binaries
+
+man
+	man-db
+
+man-browser
+	man-db
+
+md-modules
+	md-modules-5.4.0-26-generic-di
+
+mendexk
+	texlive-binaries
+
+message-modules
+	message-modules-5.4.0-26-generic-di
+
+miral-examples
+	mir-demos
+
+mkisofs
+	genisoimage
+
+monodoc-viewer
+	monodoc-http
+
+mounted-partitions
+	partman-base
+
+mouse-modules
+	mouse-modules-5.4.0-26-generic-di
+
+mp3-decoder
+	vlc
+
+mpg123-oss-3dnow
+	mpg123
+
+mplayer-skin
+	mplayer-skin-blue
+
+multipath-modules
+	multipath-modules-5.4.0-26-generic-di
+
+musixtex
+	texlive-music
+
+myspell-an
+	hunspell-an
+
+myspell-dictionary
+	hunspell-kk
+	myspell-da
+	myspell-de-de-1901
+	myspell-en-au
+	myspell-eo
+	myspell-et
+	myspell-fa
+	myspell-fo
+	myspell-ga
+	myspell-gv
+	myspell-hy
+	myspell-nb
+	myspell-nn
+	myspell-uk
+
+myspell-dictionary-da
+	myspell-da
+
+myspell-dictionary-de
+	myspell-de-de-1901
+
+myspell-dictionary-en
+	myspell-en-au
+
+myspell-dictionary-eo
+	myspell-eo
+
+myspell-dictionary-et
+	myspell-et
+
+myspell-dictionary-fa
+	myspell-fa
+
+myspell-dictionary-fo
+	myspell-fo
+
+myspell-dictionary-ga
+	myspell-ga
+
+myspell-dictionary-gv
+	myspell-gv
+
+myspell-dictionary-hy
+	myspell-hy
+
+myspell-dictionary-kk
+	hunspell-kk
+
+myspell-dictionary-nb
+	myspell-nb
+
+myspell-dictionary-nn
+	myspell-nn
+
+myspell-dictionary-uk
+	myspell-uk
+
+myspell-eu-es
+	hunspell-eu
+
+myspell-fo-fo
+	myspell-fo
+
+myspell-nl
+	hunspell-nl
+
+mysql-common-5.6
+	mysql-common
+
+mythes-thesaurus
+	mythes-ar
+	mythes-bg
+	mythes-ca
+	mythes-cs
+	mythes-da
+	mythes-de
+	mythes-de-ch
+	mythes-en-us
+	mythes-es
+	mythes-fr
+	mythes-gl
+	mythes-gug
+	mythes-hu
+	mythes-id
+	mythes-is
+	mythes-it
+	mythes-lv
+	mythes-ne
+	mythes-no
+	mythes-pl
+	mythes-pt-pt
+	mythes-ro
+	mythes-ru
+	mythes-sk
+	mythes-sl
+	mythes-sv
+	mythes-uk
+
+mythes-thesaurus-ar
+	mythes-ar
+
+mythes-thesaurus-bg
+	mythes-bg
+
+mythes-thesaurus-ca
+	mythes-ca
+
+mythes-thesaurus-cs
+	mythes-cs
+
+mythes-thesaurus-da
+	mythes-da
+
+mythes-thesaurus-de
+	mythes-de
+	mythes-de-ch
+
+mythes-thesaurus-en-us
+	mythes-en-us
+
+mythes-thesaurus-es
+	mythes-es
+
+mythes-thesaurus-fr
+	mythes-fr
+
+mythes-thesaurus-gl
+	mythes-gl
+
+mythes-thesaurus-gug
+	mythes-gug
+
+mythes-thesaurus-hu
+	mythes-hu
+
+mythes-thesaurus-id
+	mythes-id
+
+mythes-thesaurus-is
+	mythes-is
+
+mythes-thesaurus-it
+	mythes-it
+
+mythes-thesaurus-lv
+	mythes-lv
+
+mythes-thesaurus-ne
+	mythes-ne
+
+mythes-thesaurus-no
+	mythes-no
+
+mythes-thesaurus-pl
+	mythes-pl
+
+mythes-thesaurus-pt-pt
+	mythes-pt-pt
+
+mythes-thesaurus-ro
+	mythes-ro
+
+mythes-thesaurus-ru
+	mythes-ru
+
+mythes-thesaurus-sk
+	mythes-sk
+
+mythes-thesaurus-sl
+	mythes-sl
+
+mythes-thesaurus-sv
+	mythes-sv
+
+mythes-thesaurus-uk
+	mythes-uk
+
+nas-dev
+	libaudio-dev
+
+nas-lib
+	libaudio2
+
+nbd-modules
+	block-modules-5.4.0-26-generic-di
+
+ncurses-dev
+	libncurses-dev
+
+ncurses-runtime
+	ncurses-base
+
+netcat
+	netcat-openbsd
+
+netpbm-dev
+	libnetpbm10-dev
+	libnetpbm9-dev
+
+neutron-plugin
+	neutron-plugin-ml2
+
+news-reader
+	emacs-gtk
+	emacs-lucid
+	emacs-nox
+
+nfs-client
+	nfs-common
+
+nfs-modules
+	nfs-modules-5.4.0-26-generic-di
+
+nfs-server
+	nfs-kernel-server
+
+nginx
+	nginx-core
+	nginx-extras
+	nginx-full
+	nginx-light
+
+nic-modules
+	nic-modules-5.4.0-26-generic-di
+
+nic-pcmcia-modules
+	nic-pcmcia-modules-5.4.0-26-generic-di
+
+nic-shared-modules
+	nic-shared-modules-5.4.0-26-generic-di
+
+nic-usb-modules
+	nic-usb-modules-5.4.0-26-generic-di
+
+node-highlight
+	node-highlight.js
+
+node-types-source-map
+	node-source-map
+
+notification-daemon
+	gnome-shell
+	plasma-workspace
+
+nova-compute-hypervisor
+	nova-compute-kvm
+	nova-compute-lxc
+	nova-compute-qemu
+	nova-compute-vmware
+	nova-compute-xen
+
+nplan
+	netplan.io
+
+ntfs-modules
+	fs-secondary-modules-5.4.0-26-generic-di
+
+nvidia-384
+	nvidia-headless-no-dkms-390
+	nvidia-headless-no-dkms-435
+	nvidia-headless-no-dkms-440
+
+nvidia-common
+	ubuntu-drivers-common
+
+nvidia-dkms-kernel
+	nvidia-340
+	nvidia-dkms-390
+	nvidia-dkms-435
+	nvidia-dkms-440
+
+nvidia-driver-binary
+	nvidia-340
+	xserver-xorg-video-nvidia-390
+	xserver-xorg-video-nvidia-435
+	xserver-xorg-video-nvidia-440
+
+nvidia-kernel-common
+	nvidia-kernel-common-390
+	nvidia-kernel-common-435
+	nvidia-kernel-common-440
+
+nvidia-kernel-source
+	nvidia-kernel-source-390
+	nvidia-kernel-source-435
+	nvidia-kernel-source-440
+
+nvidia-opencl-icd
+	libnvidia-compute-390
+	libnvidia-compute-435
+	libnvidia-compute-440
+	nvidia-opencl-icd-340
+
+nvidia-persistenced
+	nvidia-340
+	nvidia-compute-utils-390
+	nvidia-compute-utils-435
+	nvidia-compute-utils-440
+
+nvidia-settings-binary
+	nvidia-settings
+
+nvidia-smi
+	nvidia-utils-390
+	nvidia-utils-435
+	nvidia-utils-440
+
+nvidia-utils
+	nvidia-utils-390
+	nvidia-utils-435
+	nvidia-utils-440
+
+objc++-compiler
+	gobjc++
+	gobjc++-10
+	gobjc++-7
+	gobjc++-8
+	gobjc++-9
+
+objc++-compiler-aarch64-linux-gnu
+	gobjc++-10-aarch64-linux-gnu
+	gobjc++-9-aarch64-linux-gnu
+
+objc++-compiler-arm-linux-gnueabi
+	gobjc++-10-arm-linux-gnueabi
+	gobjc++-9-arm-linux-gnueabi
+
+objc++-compiler-arm-linux-gnueabihf
+	gobjc++-10-arm-linux-gnueabihf
+	gobjc++-9-arm-linux-gnueabihf
+
+objc++-compiler-i686-linux-gnu
+	gobjc++-10-i686-linux-gnu
+	gobjc++-9-i686-linux-gnu
+
+objc++-compiler-powerpc-linux-gnu
+	gobjc++-10-powerpc-linux-gnu
+	gobjc++-9-powerpc-linux-gnu
+
+objc++-compiler-powerpc64le-linux-gnu
+	gobjc++-10-powerpc64le-linux-gnu
+	gobjc++-9-powerpc64le-linux-gnu
+
+objc++-compiler-s390x-linux-gnu
+	gobjc++-10-s390x-linux-gnu
+	gobjc++-9-s390x-linux-gnu
+
+objc-compiler
+	clang-10
+	clang-9
+	gobjc
+	gobjc-10
+	gobjc-7
+	gobjc-8
+	gobjc-9
+
+objc-compiler-aarch64-linux-gnu
+	gobjc-10-aarch64-linux-gnu
+	gobjc-9-aarch64-linux-gnu
+
+objc-compiler-arm-linux-gnueabi
+	gobjc-10-arm-linux-gnueabi
+	gobjc-9-arm-linux-gnueabi
+
+objc-compiler-arm-linux-gnueabihf
+	gobjc-10-arm-linux-gnueabihf
+	gobjc-9-arm-linux-gnueabihf
+
+objc-compiler-i686-linux-gnu
+	gobjc-10-i686-linux-gnu
+	gobjc-9-i686-linux-gnu
+
+objc-compiler-powerpc-linux-gnu
+	gobjc-10-powerpc-linux-gnu
+	gobjc-9-powerpc-linux-gnu
+
+objc-compiler-powerpc64le-linux-gnu
+	gobjc-10-powerpc64le-linux-gnu
+	gobjc-9-powerpc64le-linux-gnu
+
+objc-compiler-s390x-linux-gnu
+	gobjc-10-s390x-linux-gnu
+	gobjc-9-s390x-linux-gnu
+
+ocaml-4.08.1
+	ocaml
+
+ocaml-base-4.08.1
+	ocaml-base
+
+ocaml-base-nox-4.08.1
+	ocaml-base-nox
+
+ocaml-best-compilers
+	ocaml-nox
+
+ocaml-compiler-libs-4.08.1
+	ocaml-compiler-libs
+
+ocaml-interp-4.08.1
+	ocaml-interp
+
+ocaml-native-compilers
+	ocaml-nox
+
+ocaml-nox-4.08.1
+	ocaml-nox
+
+ocaml-source-4.08.1
+	ocaml-source
+
+oem-config-frontend-20.04.15
+	oem-config-debconf
+	oem-config-gtk
+	oem-config-kde
+
+oem-config-slideshow
+	oem-config-slideshow-ubuntu
+	oem-config-slideshow-ubuntu-budgie
+	oem-config-slideshow-ubuntu-mate
+
+okumura-clsfiles
+	texlive-lang-japanese
+
+opencl-dev
+	ocl-icd-opencl-dev
+
+opencl-icd
+	libnvidia-compute-390
+	libnvidia-compute-435
+	libnvidia-compute-440
+	mesa-opencl-icd
+	nvidia-opencl-icd-340
+
+openldap-utils
+	ldap-utils
+
+openoffice.org-hyphenation-pl
+	hyphen-pl
+
+openoffice.org-hyphenation-ru
+	hyphen-ru
+
+openoffice.org-spellcheck-an
+	hunspell-an
+
+openoffice.org-spellcheck-ca
+	hunspell-ca
+
+openoffice.org-spellcheck-eo
+	myspell-eo
+
+openoffice.org-spellcheck-eu
+	hunspell-eu
+
+openoffice.org-spellcheck-fo
+	myspell-fo
+
+openoffice.org-spellcheck-nb
+	myspell-nb
+
+openoffice.org-spellcheck-nn
+	myspell-nn
+
+openoffice.org-spellcheck-nr
+	myspell-nr
+
+openoffice.org-spellcheck-ns
+	myspell-ns
+
+openoffice.org-spellcheck-ss
+	myspell-ss
+
+openoffice.org-spellcheck-st
+	myspell-st
+
+openoffice.org-spellcheck-tn
+	myspell-tn
+
+openoffice.org-spellcheck-uz
+	hunspell-uz
+
+openoffice.org-spellcheck-ve
+	myspell-ve
+
+openoffice.org-spellcheck-xh
+	myspell-xh
+
+openoffice.org-spellcheck-zu
+	myspell-zu
+
+openoffice.org-thesaurus-de
+	mythes-de
+
+openoffice.org-thesaurus-de-ch
+	mythes-de-ch
+
+openoffice.org-thesaurus-en-au
+	mythes-en-au
+
+openoffice.org-thesaurus-pl
+	mythes-pl
+
+openoffice.org-updatedicts
+	dictionaries-common
+
+openoffice.org2-thesaurus
+	mythes-en-au
+
+openstack-guest-agents
+	rax-nova-agent
+
+os-prober
+	os-prober-udeb
+
+oss-compat
+	osspd
+
+osspd-backend
+	osspd-alsa
+	osspd-pulseaudio
+
+ostree-grub2
+	ostree-boot
+
+otf-stix
+	fonts-stix
+
+packagekit-installer
+	ubuntu-desktop
+	ubuntu-desktop-minimal
+
+pam-doc
+	libpam-doc
+
+parport-modules
+	parport-modules-5.4.0-26-generic-di
+
+partitioned-harddrives
+	partman-base
+
+partman-filesystem
+	partman-basicfilesystems
+	partman-btrfs
+	partman-ext3
+	partman-jfs
+	partman-xfs
+
+partman-method
+	partman-basicmethods
+
+pata-modules
+	pata-modules-5.4.0-26-generic-di
+
+pbmwbmp
+	netpbm
+
+pcmcia-modules
+	pcmcia-modules-5.4.0-26-generic-di
+
+pcmcia-storage-modules
+	pcmcia-storage-modules-5.4.0-26-generic-di
+
+pcsc-ifd-handler
+	libccid
+
+pdf-viewer
+	evince
+	gv
+
+pdftohtml
+	poppler-utils
+
+perl-dbdabi-94
+	libdbi-perl
+
+perl-modules
+	perl-modules-5.30
+
+perl-openssl-abi-1.1
+	perl-openssl-defaults
+
+perl-xs-dev
+	libperl-dev
+
+perlapi-5.30.0
+	perl-base
+
+perlmagick
+	graphicsmagick-libmagick-dev-compat
+	libimage-magick-perl
+	libimage-magick-q16-perl
+
+phonon4qt5-backend
+	phonon4qt5-backend-null
+	phonon4qt5-backend-vlc
+
+phonon4qt5experimental-abi-1
+	libphonon4qt5experimental4
+
+php
+	php7.4
+
+php-bcmath
+	php7.4-bcmath
+
+php-bz2
+	php7.4-bz2
+
+php-calendar
+	php7.4-common
+
+php-cgi
+	php7.4-cgi
+
+php-cli
+	php7.4-cli
+
+php-console-getopt
+	php-pear
+
+php-ctype
+	php7.4-common
+
+php-curl
+	php7.4-curl
+
+php-dba
+	php7.4-dba
+
+php-dom
+	php7.4-xml
+
+php-enchant
+	php7.4-enchant
+
+php-exif
+	php7.4-common
+
+php-ffi
+	php7.4-common
+
+php-fileinfo
+	php7.4-common
+
+php-fpm
+	php7.4-fpm
+
+php-ftp
+	php7.4-common
+
+php-gd
+	php7.4-gd
+
+php-gmp
+	php7.4-gmp
+
+php-iconv
+	php7.4-common
+
+php-imap
+	php7.4-imap
+
+php-intl
+	php7.4-intl
+
+php-json
+	php7.4-json
+
+php-ldap
+	php7.4-ldap
+
+php-mbstring
+	php7.4-mbstring
+
+php-mysqli
+	php7.4-mysql
+
+php-mysqlnd
+	php7.4-mysql
+
+php-odbc
+	php7.4-odbc
+
+php-opcache
+	php7.4-opcache
+
+php-pdo
+	php7.4-common
+
+php-pdo-dblib
+	php7.4-sybase
+
+php-pdo-firebird
+	php7.4-interbase
+
+php-pdo-mysql
+	php7.4-mysql
+
+php-pdo-odbc
+	php7.4-odbc
+
+php-pdo-pgsql
+	php7.4-pgsql
+
+php-pdo-sqlite
+	php7.4-sqlite3
+
+php-pgsql
+	php7.4-pgsql
+
+php-phar
+	php7.4-common
+
+php-phpdbg
+	php7.4-phpdbg
+
+php-posix
+	php7.4-common
+
+php-pspell
+	php7.4-pspell
+
+php-readline
+	php7.4-readline
+
+php-shmop
+	php7.4-common
+
+php-simplexml
+	php7.4-xml
+
+php-snmp
+	php7.4-snmp
+
+php-soap
+	php7.4-soap
+
+php-sockets
+	php7.4-common
+
+php-sqlite3
+	php7.4-sqlite3
+
+php-structures-graph
+	php-pear
+
+php-sysvmsg
+	php7.4-common
+
+php-sysvsem
+	php7.4-common
+
+php-sysvshm
+	php7.4-common
+
+php-tidy
+	php7.4-tidy
+
+php-tokenizer
+	php7.4-common
+
+php-xml
+	php7.4-xml
+
+php-xml-util
+	php-pear
+
+php-xmlreader
+	php7.4-xml
+
+php-xmlrpc
+	php7.4-xmlrpc
+
+php-xmlwriter
+	php7.4-xml
+
+php-xsl
+	php7.4-xml
+
+php-zip
+	php7.4-zip
+
+php7.4-calendar
+	php7.4-common
+
+php7.4-ctype
+	php7.4-common
+
+php7.4-dom
+	php7.4-xml
+
+php7.4-exif
+	php7.4-common
+
+php7.4-ffi
+	php7.4-common
+
+php7.4-fileinfo
+	php7.4-common
+
+php7.4-ftp
+	php7.4-common
+
+php7.4-gettext
+	php7.4-common
+
+php7.4-iconv
+	php7.4-common
+
+php7.4-mysqli
+	php7.4-mysql
+
+php7.4-mysqlnd
+	php7.4-mysql
+
+php7.4-pdo
+	php7.4-common
+
+php7.4-pdo-dblib
+	php7.4-sybase
+
+php7.4-pdo-firebird
+	php7.4-interbase
+
+php7.4-pdo-mysql
+	php7.4-mysql
+
+php7.4-pdo-odbc
+	php7.4-odbc
+
+php7.4-pdo-pgsql
+	php7.4-pgsql
+
+php7.4-pdo-sqlite
+	php7.4-sqlite3
+
+php7.4-phar
+	php7.4-common
+
+php7.4-posix
+	php7.4-common
+
+php7.4-shmop
+	php7.4-common
+
+php7.4-simplexml
+	php7.4-xml
+
+php7.4-sockets
+	php7.4-common
+
+php7.4-sysvmsg
+	php7.4-common
+
+php7.4-sysvsem
+	php7.4-common
+
+php7.4-sysvshm
+	php7.4-common
+
+php7.4-tokenizer
+	php7.4-common
+
+php7.4-xmlreader
+	php7.4-xml
+
+php7.4-xmlwriter
+	php7.4-xml
+
+php7.4-xsl
+	php7.4-xml
+
+phpapi-20190902
+	libapache2-mod-php7.4
+	libphp7.4-embed
+	php7.4-cgi
+	php7.4-cli
+	php7.4-fpm
+	php7.4-phpdbg
+
+pinentry
+	pinentry-curses
+	pinentry-fltk
+	pinentry-gnome3
+	pinentry-gtk2
+	pinentry-qt
+	pinentry-tty
+
+pinentry-x11
+	pinentry-fltk
+	pinentry-gnome3
+	pinentry-gtk2
+	pinentry-qt
+
+ping
+	iputils-ping
+
+pkg-config-mingw-w64-i686
+	mingw-w64-tools
+
+pkg-config-mingw-w64-x86-64
+	mingw-w64-tools
+
+plip-modules
+	plip-modules-5.4.0-26-generic-di
+
+plymouth-theme
+	plymouth-theme-spinner
+	plymouth-theme-ubuntu-logo
+	plymouth-theme-ubuntu-mate-logo
+	plymouth-theme-ubuntu-mate-text
+	plymouth-theme-ubuntu-text
+	plymouth-themes
+
+plymouth-themes-all
+	plymouth-themes
+
+plymouth-themes-fade-in
+	plymouth-themes
+
+plymouth-themes-glow
+	plymouth-themes
+
+plymouth-themes-script
+	plymouth-themes
+
+plymouth-themes-solar
+	plymouth-themes
+
+plymouth-themes-spinfinity
+	plymouth-themes
+
+plymouth-themes-spinner
+	plymouth-themes
+
+pmx
+	texlive-music
+
+pnmtopng
+	netpbm
+
+podlators-perl
+	perl
+
+polkit-1-auth-agent
+	gnome-shell
+	mate-polkit
+	policykit-1-gnome
+	polkit-kde-agent-1
+
+pop3-server
+	dovecot-pop3d
+
+popcon
+	popularity-contest
+
+portmap
+	rpcbind
+
+postgresql-client
+	postgresql-client-12
+
+postgresql-contrib-12
+	postgresql-12
+
+postgresql-plperl
+	postgresql-plperl-12
+
+postgresql-plpython3
+	postgresql-plpython3-12
+
+postgresql-pltcl
+	postgresql-pltcl-12
+
+postscript-viewer
+	evince
+	ghostscript
+	gv
+
+ppp-modules
+	ppp-modules-5.4.0-26-generic-di
+
+preview-latex
+	auctex
+
+ptex-jisfonts
+	texlive-lang-japanese
+
+publicsuffix-dafsa
+	publicsuffix
+
+pypy-abi-73
+	pypy
+
+pypy-cffi
+	pypy-lib
+
+pypy-cffi-backend-api-10241
+	pypy-lib
+
+pypy-cffi-backend-api-max
+	pypy-lib
+
+pypy-cffi-backend-api-min
+	pypy-lib
+
+python
+	python-is-python2
+
+python-argparse
+	libpython2.7-stdlib
+
+python-cffi-backend-api-9729
+	python-cffi-backend
+
+python-cffi-backend-api-max
+	python-cffi-backend
+
+python-cffi-backend-api-min
+	python-cffi-backend
+
+python-clang-x.y
+	python3-clang-10
+	python3-clang-9
+
+python-ctypes
+	python2
+
+python-deb822
+	python-debian
+
+python-dev
+	python-dev-is-python2
+
+python-distribute
+	python-setuptools
+
+python-django-common
+	python3-django
+
+python-email
+	python2
+
+python-imaging-dbg
+	python-pil-dbg
+
+python-imaging-tk
+	python-pil.imagetk
+
+python-imaging-tk-dbg
+	python-pil.imagetk-dbg
+
+python-importlib
+	python2
+
+python-libvoikko
+	python3-libvoikko
+
+python-pillow
+	python-pil
+
+python-ply-lex-3.10
+	python-ply
+
+python-ply-yacc-3.10
+	python-ply
+
+python-profiler
+	python2
+
+python-wsgiref
+	python2
+
+python-zope
+	python-zope.interface
+
+python-zopeinterface
+	python-zope.interface
+
+python-zopeinterface-dbg
+	python-zope.interface-dbg
+
+python2.7-alabaster
+	python-alabaster
+
+python2.7-apt
+	python-apt
+
+python2.7-apt-dbg
+	python-apt-dbg
+
+python2.7-argparse
+	libpython2.7-stdlib
+
+python2.7-avahi
+	python-avahi
+
+python2.7-cairo
+	python-cairo
+
+python2.7-cairo-dbg
+	python-cairo-dbg
+
+python2.7-celementtree
+	libpython2.7-stdlib
+
+python2.7-cjkcodecs
+	libpython2.7-stdlib
+
+python2.7-crypto
+	python-crypto
+
+python2.7-crypto-dbg
+	python-crypto-dbg
+
+python2.7-ctypes
+	libpython2.7-stdlib
+
+python2.7-dbus
+	python-dbus
+
+python2.7-elementtree
+	libpython2.7-stdlib
+
+python2.7-gdbm
+	python-gdbm
+
+python2.7-gi
+	python-gi
+
+python2.7-greenlet
+	python-greenlet
+
+python2.7-greenlet-dbg
+	python-greenlet-dbg
+
+python2.7-ieee1284
+	python-ieee1284
+
+python2.7-iso8601
+	python-iso8601
+
+python2.7-lxml
+	python-lxml
+
+python2.7-magic
+	python-magic
+
+python2.7-markupsafe
+	python-markupsafe
+
+python2.7-netifaces
+	python-netifaces
+
+python2.7-pil
+	python-pil
+
+python2.7-pil.imagetk
+	python-pil.imagetk
+
+python2.7-ply
+	python-ply
+
+python2.7-presage
+	python-presage
+
+python2.7-profiler
+	libpython2.7-stdlib
+
+python2.7-protobuf
+	python-protobuf
+
+python2.7-pyinotify
+	python-pyinotify
+
+python2.7-pyparsing
+	python-pyparsing
+
+python2.7-rpm
+	python-rpm
+
+python2.7-simplejson
+	python-simplejson
+
+python2.7-sqlalchemy-ext
+	python-sqlalchemy-ext
+
+python2.7-subversion
+	python-subversion
+
+python2.7-tk
+	python-tk
+
+python2.7-wsgiref
+	libpython2.7-stdlib
+
+python2.7-wxgtk-media3.0
+	python-wxgtk-media3.0
+
+python2.7-wxgtk-webview3.0
+	python-wxgtk-webview3.0
+
+python2.7-wxgtk3.0
+	python-wxgtk3.0
+
+python2.7-xapian
+	python-xapian
+
+python2.7-xlib
+	python-xlib
+
+python2.7-zope.interface
+	python-zope.interface
+
+python3-cffi-backend-api-9729
+	python3-cffi-backend
+
+python3-cffi-backend-api-max
+	python3-cffi-backend
+
+python3-cffi-backend-api-min
+	python3-cffi-backend
+
+python3-f2py
+	python3-numpy
+
+python3-lldb-x.y
+	python3-lldb-10
+	python3-lldb-9
+
+python3-numpy-abi9
+	python3-numpy
+
+python3-numpy-api13
+	python3-numpy
+
+python3-numpy-dev
+	python3-numpy
+
+python3-openstack-auth
+	python3-django-openstack-auth
+
+python3-pillow
+	python3-pil
+
+python3-ply-lex-3.10
+	python3-ply
+
+python3-ply-yacc-3.10
+	python3-ply
+
+python3-profiler
+	python3
+
+python3-pyldap
+	python3-ldap
+
+python3-pyxattr
+	python3-xattr
+
+python3-xattr
+	python3-xattr
+
+python3-zope
+	python3-zope.interface
+
+python3.8-apt
+	python3-apt
+
+python3.8-apt-dbg
+	python3-apt-dbg
+
+python3.8-audit
+	python3-audit
+
+python3.8-breezy
+	python3-breezy
+
+python3.8-bsddb3
+	python3-bsddb3
+
+python3.8-bsddb3-dbg
+	python3-bsddb3-dbg
+
+python3.8-cairo
+	python3-cairo
+
+python3.8-cairo-dbg
+	python3-cairo-dbg
+
+python3.8-cap-ng
+	python3-cap-ng
+
+python3.8-compizconfig
+	python3-compizconfig
+
+python3.8-cracklib
+	python3-cracklib
+
+python3.8-crypto
+	python3-crypto
+
+python3.8-crypto-dbg
+	python3-crypto-dbg
+
+python3.8-cups
+	python3-cups
+
+python3.8-dbus
+	python3-dbus
+
+python3.8-distutils
+	python3-distutils
+
+python3.8-ftdi1
+	python3-ftdi1
+
+python3.8-gdbm
+	python3-gdbm
+
+python3.8-gpg
+	python3-gpg
+
+python3.8-gps
+	python3-gps
+
+python3.8-greenlet
+	python3-greenlet
+
+python3.8-greenlet-dbg
+	python3-greenlet-dbg
+
+python3.8-icu
+	python3-icu
+
+python3.8-icu-dbg
+	python3-icu-dbg
+
+python3.8-imobiledevice
+	python3-imobiledevice
+
+python3.8-ldap
+	python3-ldap
+
+python3.8-ldap-dbg
+	python3-ldap-dbg
+
+python3.8-lib2to3
+	python3-lib2to3
+
+python3.8-libnatpmp
+	python3-libnatpmp
+
+python3.8-lxml
+	python3-lxml
+
+python3.8-lxml-dbg
+	python3-lxml-dbg
+
+python3.8-miniupnpc
+	python3-miniupnpc
+
+python3.8-mysqldb
+	python3-mysqldb
+
+python3.8-newt
+	python3-newt
+
+python3.8-numpy
+	python3-numpy
+
+python3.8-parted
+	python3-parted
+
+python3.8-prelude
+	python3-prelude
+
+python3.8-protobuf
+	python3-protobuf
+
+python3.8-pylibacl
+	python3-pylibacl
+
+python3.8-pylibacl-dbg
+	python3-pylibacl-dbg
+
+python3.8-pyverbs
+	python3-pyverbs
+
+python3.8-pyxattr
+	python3-pyxattr
+
+python3.8-pyxattr-dbg
+	python3-pyxattr-dbg
+
+python3.8-renderpm
+	python3-renderpm
+
+python3.8-reportlab-accel
+	python3-reportlab-accel
+
+python3.8-rpm
+	python3-rpm
+
+python3.8-rrdtool
+	python3-rrdtool
+
+python3.8-rrdtool-dbg
+	python3-rrdtool-dbg
+
+python3.8-samba
+	python3-samba
+
+python3.8-selinux
+	python3-selinux
+
+python3.8-sklearn-lib
+	python3-sklearn-lib
+
+python3.8-sss
+	python3-sss
+
+python3.8-talloc
+	python3-talloc
+
+python3.8-tdb
+	python3-tdb
+
+python3.8-tk
+	python3-tk
+
+python3.8-volume-key
+	python3-volume-key
+
+python3.8-xapian
+	python3-xapian
+
+python3.8-xattr
+	python3-xattr
+
+python3.8-zope.interface
+	python3-zope.interface
+
+qemu-keymaps
+	qemu-system-data
+
+qemu-skiboot
+	qemu-system-data
+
+qemu-system-aarch64
+	qemu-system-arm
+
+qemu-system-alpha
+	qemu-system-misc
+
+qemu-system-cris
+	qemu-system-misc
+
+qemu-system-hppa
+	qemu-system-misc
+
+qemu-system-i386
+	qemu-system-x86
+
+qemu-system-lm32
+	qemu-system-misc
+
+qemu-system-m68k
+	qemu-system-misc
+
+qemu-system-microblaze
+	qemu-system-misc
+
+qemu-system-microblazeel
+	qemu-system-misc
+
+qemu-system-mips64
+	qemu-system-mips
+
+qemu-system-mips64el
+	qemu-system-mips
+
+qemu-system-mipsel
+	qemu-system-mips
+
+qemu-system-moxie
+	qemu-system-misc
+
+qemu-system-nios2
+	qemu-system-misc
+
+qemu-system-or1k
+	qemu-system-misc
+
+qemu-system-ppc64
+	qemu-system-ppc
+
+qemu-system-riscv32
+	qemu-system-misc
+
+qemu-system-riscv64
+	qemu-system-misc
+
+qemu-system-sh4
+	qemu-system-misc
+
+qemu-system-sh4eb
+	qemu-system-misc
+
+qemu-system-sparc64
+	qemu-system-sparc
+
+qemu-system-tricore
+	qemu-system-misc
+
+qemu-system-unicore32
+	qemu-system-misc
+
+qemu-system-x86-64
+	qemu-system-x86
+
+qemu-system-xtensa
+	qemu-system-misc
+
+qemu-system-xtensaeb
+	qemu-system-misc
+
+qemu-user-binfmt
+	qemu-user-static
+
+qtbase-abi-5-12-8
+	libqt5core5a
+
+qtdeclarative-abi-5-12-8
+	libqt5qml5
+
+qtscript-abi-5-6-0
+	libqt5script5
+
+qtsvg-abi-5-12-8
+	libqt5svg5
+
+qtwebengine-abi-5-12-8
+	libqt5webenginecore5
+
+radius-server
+	freeradius
+
+rdoc
+	ruby
+
+readline-editor
+	ledit
+	rlfe
+
+redhat-cluster-modules
+	linux-image-5.4.0-1009-oracle
+	linux-image-5.4.0-1010-azure
+	linux-image-5.4.0-26-generic
+	linux-image-5.4.0-26-lowlatency
+	linux-image-unsigned-5.4.0-1009-oracle
+	linux-image-unsigned-5.4.0-1010-azure
+	linux-image-unsigned-5.4.0-26-generic
+	linux-image-unsigned-5.4.0-26-lowlatency
+
+reiserfs-modules
+	fs-core-modules-5.4.0-26-generic-di
+
+resource-agents-dev
+	resource-agents
+
+resource-file-generator
+	mono-devel
+
+retriever
+	cdrom-retriever
+	media-retriever
+	net-retriever
+
+rgrep
+	grep
+
+rsh-client
+	openssh-client
+
+ruby-benchmark
+	libruby2.7
+
+ruby-bigdecimal
+	libruby2.7
+
+ruby-bundler
+	libruby2.7
+
+ruby-cgi
+	libruby2.7
+
+ruby-csv
+	libruby2.7
+
+ruby-date
+	libruby2.7
+
+ruby-dbm
+	libruby2.7
+
+ruby-delegate
+	libruby2.7
+
+ruby-did-you-mean
+	libruby2.7
+
+ruby-etc
+	libruby2.7
+
+ruby-fcntl
+	libruby2.7
+
+ruby-fiddle
+	libruby2.7
+
+ruby-fileutils
+	libruby2.7
+
+ruby-forwardable
+	libruby2.7
+
+ruby-gdbm
+	libruby2.7
+
+ruby-getoptlong
+	libruby2.7
+
+ruby-io-console
+	libruby2.7
+
+ruby-ipaddr
+	libruby2.7
+
+ruby-irb
+	libruby2.7
+
+ruby-json
+	libruby2.7
+
+ruby-logger
+	libruby2.7
+
+ruby-matrix
+	libruby2.7
+
+ruby-mutex-m
+	libruby2.7
+
+ruby-net-pop
+	libruby2.7
+
+ruby-net-smtp
+	libruby2.7
+
+ruby-observer
+	libruby2.7
+
+ruby-open3
+	libruby2.7
+
+ruby-openssl
+	libruby2.7
+
+ruby-ostruct
+	libruby2.7
+
+ruby-prime
+	libruby2.7
+
+ruby-pstore
+	libruby2.7
+
+ruby-psych
+	libruby2.7
+
+ruby-racc
+	libruby2.7
+
+ruby-rdoc
+	libruby2.7
+
+ruby-readline
+	libruby2.7
+
+ruby-readline-ext
+	libruby2.7
+
+ruby-reline
+	libruby2.7
+
+ruby-rexml
+	libruby2.7
+
+ruby-rss
+	libruby2.7
+
+ruby-sdbm
+	libruby2.7
+
+ruby-singleton
+	libruby2.7
+
+ruby-stringio
+	libruby2.7
+
+ruby-strscan
+	libruby2.7
+
+ruby-timeout
+	libruby2.7
+
+ruby-tracer
+	libruby2.7
+
+ruby-uri
+	libruby2.7
+
+ruby-webrick
+	libruby2.7
+
+ruby-yaml
+	libruby2.7
+
+ruby-zlib
+	libruby2.7
+
+rubygems
+	ruby
+
+samba-client
+	smbclient
+
+sata-modules
+	sata-modules-5.4.0-26-generic-di
+
+scim-bridge-agent
+	scim-im-agent
+
+scim-gtk-immodule
+	scim-gtk-immodule
+
+scim-gtk2-immodule
+	scim-gtk-immodule
+
+screen-profiles
+	byobu
+
+screen-profiles-extras
+	byobu
+
+scsi-modules
+	scsi-modules-5.4.0-26-generic-di
+
+sddm-theme
+	sddm-theme-breeze
+	sddm-theme-debian-elarun
+	sddm-theme-debian-maui
+	sddm-theme-elarun
+	sddm-theme-maldives
+	sddm-theme-maui
+	sddm-theme-maya
+
+serial-modules
+	serial-modules-5.4.0-26-generic-di
+
+sf2-soundfont-gm
+	timgm6mb-soundfont
+
+sf3-soundfont-gm
+	timgm6mb-soundfont
+
+sgabios
+	qemu-system-data
+
+sip-api-12.0
+	python-sip
+
+sip-api-12.1
+	python-sip
+
+sip-api-12.2
+	python-sip
+
+sip-api-12.3
+	python-sip
+
+sip-api-12.4
+	python-sip
+
+sip-api-12.5
+	python-sip
+
+sip-api-12.6
+	python-sip
+
+sip-api-12.7
+	python-sip
+
+sip-py3api-12.0
+	python3-sip
+
+sip-py3api-12.1
+	python3-sip
+
+sip-py3api-12.2
+	python3-sip
+
+sip-py3api-12.3
+	python3-sip
+
+sip-py3api-12.4
+	python3-sip
+
+sip-py3api-12.5
+	python3-sip
+
+sip-py3api-12.6
+	python3-sip
+
+sip-py3api-12.7
+	python3-sip
+
+slang-histogram
+	libslang2-modules
+
+slapd-smbk5pwd
+	slapd-contrib
+
+spl-dkms
+	linux-image-5.4.0-1009-aws
+	linux-image-5.4.0-1009-gcp
+	linux-image-5.4.0-1009-kvm
+	linux-image-5.4.0-1009-oracle
+	linux-image-5.4.0-1010-azure
+	linux-image-5.4.0-26-generic
+	linux-image-5.4.0-26-lowlatency
+	linux-image-unsigned-5.4.0-1009-gcp
+	linux-image-unsigned-5.4.0-1009-oracle
+	linux-image-unsigned-5.4.0-1010-azure
+	linux-image-unsigned-5.4.0-26-generic
+	linux-image-unsigned-5.4.0-26-lowlatency
+
+spl-modules
+	linux-image-5.4.0-1009-aws
+	linux-image-5.4.0-1009-gcp
+	linux-image-5.4.0-1009-kvm
+	linux-image-5.4.0-1009-oracle
+	linux-image-5.4.0-1010-azure
+	linux-image-5.4.0-26-generic
+	linux-image-5.4.0-26-lowlatency
+	linux-image-unsigned-5.4.0-1009-gcp
+	linux-image-unsigned-5.4.0-1009-oracle
+	linux-image-unsigned-5.4.0-1010-azure
+	linux-image-unsigned-5.4.0-26-generic
+	linux-image-unsigned-5.4.0-26-lowlatency
+
+squashfs-modules
+	kernel-image-5.4.0-26-generic-di
+
+squid3
+	squid
+
+squid3-cgi
+	squid-cgi
+
+squid3-client
+	squidclient
+
+squid3-common
+	squid-common
+
+ssh-askpass
+	ksshaskpass
+	ssh-askpass-gnome
+
+ssh-client
+	openssh-client
+
+ssh-server
+	openssh-server
+
+storage-core-modules
+	storage-core-modules-5.4.0-26-generic-di
+
+strong-name-tool
+	mono-devel
+
+strongswan-tnc-base
+	libcharon-extra-plugins
+
+sudo
+	sudo-ldap
+
+system-log-daemon
+	busybox-syslogd
+	rsyslog
+
+tcldoc
+	tcl8.6-doc
+
+tclsh
+	tcl
+
+tdb-dev
+	libtdb-dev
+
+teamd
+	libteam-utils
+
+telnet-client
+	telnet
+
+telnet-server
+	telnetd
+
+templatetoolkit-perl
+	libtemplate-perl
+
+tesseract-ocr-lang
+	tesseract-ocr-afr
+	tesseract-ocr-amh
+	tesseract-ocr-ara
+	tesseract-ocr-asm
+	tesseract-ocr-aze
+	tesseract-ocr-aze-cyrl
+	tesseract-ocr-bel
+	tesseract-ocr-ben
+	tesseract-ocr-bod
+	tesseract-ocr-bos
+	tesseract-ocr-bre
+	tesseract-ocr-bul
+	tesseract-ocr-cat
+	tesseract-ocr-ceb
+	tesseract-ocr-ces
+	tesseract-ocr-chi-sim
+	tesseract-ocr-chi-sim-vert
+	tesseract-ocr-chi-tra
+	tesseract-ocr-chi-tra-vert
+	tesseract-ocr-chr
+	tesseract-ocr-cos
+	tesseract-ocr-cym
+	tesseract-ocr-dan
+	tesseract-ocr-deu
+	tesseract-ocr-div
+	tesseract-ocr-dzo
+	tesseract-ocr-ell
+	tesseract-ocr-eng
+	tesseract-ocr-enm
+	tesseract-ocr-epo
+	tesseract-ocr-est
+	tesseract-ocr-eus
+	tesseract-ocr-fao
+	tesseract-ocr-fas
+	tesseract-ocr-fil
+	tesseract-ocr-fin
+	tesseract-ocr-fra
+	tesseract-ocr-frk
+	tesseract-ocr-frm
+	tesseract-ocr-fry
+	tesseract-ocr-gla
+	tesseract-ocr-gle
+	tesseract-ocr-glg
+	tesseract-ocr-grc
+	tesseract-ocr-guj
+	tesseract-ocr-hat
+	tesseract-ocr-heb
+	tesseract-ocr-hin
+	tesseract-ocr-hrv
+	tesseract-ocr-hun
+	tesseract-ocr-hye
+	tesseract-ocr-iku
+	tesseract-ocr-ind
+	tesseract-ocr-isl
+	tesseract-ocr-ita
+	tesseract-ocr-ita-old
+	tesseract-ocr-jav
+	tesseract-ocr-jpn
+	tesseract-ocr-jpn-vert
+	tesseract-ocr-kan
+	tesseract-ocr-kat
+	tesseract-ocr-kat-old
+	tesseract-ocr-kaz
+	tesseract-ocr-khm
+	tesseract-ocr-kir
+	tesseract-ocr-kmr
+	tesseract-ocr-kor
+	tesseract-ocr-kor-vert
+	tesseract-ocr-lao
+	tesseract-ocr-lat
+	tesseract-ocr-lav
+	tesseract-ocr-lit
+	tesseract-ocr-ltz
+	tesseract-ocr-mal
+	tesseract-ocr-mar
+	tesseract-ocr-mkd
+	tesseract-ocr-mlt
+	tesseract-ocr-mon
+	tesseract-ocr-mri
+	tesseract-ocr-msa
+	tesseract-ocr-mya
+	tesseract-ocr-nep
+	tesseract-ocr-nld
+	tesseract-ocr-nor
+	tesseract-ocr-oci
+	tesseract-ocr-ori
+	tesseract-ocr-osd
+	tesseract-ocr-pan
+	tesseract-ocr-pol
+	tesseract-ocr-por
+	tesseract-ocr-pus
+	tesseract-ocr-que
+	tesseract-ocr-ron
+	tesseract-ocr-rus
+	tesseract-ocr-san
+	tesseract-ocr-script-arab
+	tesseract-ocr-script-armn
+	tesseract-ocr-script-beng
+	tesseract-ocr-script-cans
+	tesseract-ocr-script-cher
+	tesseract-ocr-script-cyrl
+	tesseract-ocr-script-deva
+	tesseract-ocr-script-ethi
+	tesseract-ocr-script-frak
+	tesseract-ocr-script-geor
+	tesseract-ocr-script-grek
+	tesseract-ocr-script-gujr
+	tesseract-ocr-script-guru
+	tesseract-ocr-script-hang
+	tesseract-ocr-script-hang-vert
+	tesseract-ocr-script-hans
+	tesseract-ocr-script-hans-vert
+	tesseract-ocr-script-hant
+	tesseract-ocr-script-hant-vert
+	tesseract-ocr-script-hebr
+	tesseract-ocr-script-jpan
+	tesseract-ocr-script-jpan-vert
+	tesseract-ocr-script-khmr
+	tesseract-ocr-script-knda
+	tesseract-ocr-script-laoo
+	tesseract-ocr-script-latn
+	tesseract-ocr-script-mlym
+	tesseract-ocr-script-mymr
+	tesseract-ocr-script-orya
+	tesseract-ocr-script-sinh
+	tesseract-ocr-script-syrc
+	tesseract-ocr-script-taml
+	tesseract-ocr-script-telu
+	tesseract-ocr-script-thaa
+	tesseract-ocr-script-thai
+	tesseract-ocr-script-tibt
+	tesseract-ocr-script-viet
+	tesseract-ocr-sin
+	tesseract-ocr-slk
+	tesseract-ocr-slv
+	tesseract-ocr-snd
+	tesseract-ocr-spa
+	tesseract-ocr-spa-old
+	tesseract-ocr-sqi
+	tesseract-ocr-srp
+	tesseract-ocr-srp-latn
+	tesseract-ocr-sun
+	tesseract-ocr-swa
+	tesseract-ocr-swe
+	tesseract-ocr-syr
+	tesseract-ocr-tam
+	tesseract-ocr-tat
+	tesseract-ocr-tel
+	tesseract-ocr-tgk
+	tesseract-ocr-tha
+	tesseract-ocr-tir
+	tesseract-ocr-ton
+	tesseract-ocr-tur
+	tesseract-ocr-uig
+	tesseract-ocr-ukr
+	tesseract-ocr-urd
+	tesseract-ocr-uzb
+	tesseract-ocr-uzb-cyrl
+	tesseract-ocr-vie
+	tesseract-ocr-yid
+	tesseract-ocr-yor
+
+tesseract-ocr-language
+	tesseract-ocr-afr
+	tesseract-ocr-amh
+	tesseract-ocr-ara
+	tesseract-ocr-asm
+	tesseract-ocr-aze
+	tesseract-ocr-aze-cyrl
+	tesseract-ocr-bel
+	tesseract-ocr-ben
+	tesseract-ocr-bod
+	tesseract-ocr-bos
+	tesseract-ocr-bre
+	tesseract-ocr-bul
+	tesseract-ocr-cat
+	tesseract-ocr-ceb
+	tesseract-ocr-ces
+	tesseract-ocr-chi-sim
+	tesseract-ocr-chi-sim-vert
+	tesseract-ocr-chi-tra
+	tesseract-ocr-chi-tra-vert
+	tesseract-ocr-chr
+	tesseract-ocr-cos
+	tesseract-ocr-cym
+	tesseract-ocr-dan
+	tesseract-ocr-deu
+	tesseract-ocr-div
+	tesseract-ocr-dzo
+	tesseract-ocr-ell
+	tesseract-ocr-eng
+	tesseract-ocr-enm
+	tesseract-ocr-epo
+	tesseract-ocr-est
+	tesseract-ocr-eus
+	tesseract-ocr-fao
+	tesseract-ocr-fas
+	tesseract-ocr-fil
+	tesseract-ocr-fin
+	tesseract-ocr-fra
+	tesseract-ocr-frk
+	tesseract-ocr-frm
+	tesseract-ocr-fry
+	tesseract-ocr-gla
+	tesseract-ocr-gle
+	tesseract-ocr-glg
+	tesseract-ocr-grc
+	tesseract-ocr-guj
+	tesseract-ocr-hat
+	tesseract-ocr-heb
+	tesseract-ocr-hin
+	tesseract-ocr-hrv
+	tesseract-ocr-hun
+	tesseract-ocr-hye
+	tesseract-ocr-iku
+	tesseract-ocr-ind
+	tesseract-ocr-isl
+	tesseract-ocr-ita
+	tesseract-ocr-ita-old
+	tesseract-ocr-jav
+	tesseract-ocr-jpn
+	tesseract-ocr-jpn-vert
+	tesseract-ocr-kan
+	tesseract-ocr-kat
+	tesseract-ocr-kat-old
+	tesseract-ocr-kaz
+	tesseract-ocr-khm
+	tesseract-ocr-kir
+	tesseract-ocr-kmr
+	tesseract-ocr-kor
+	tesseract-ocr-kor-vert
+	tesseract-ocr-lao
+	tesseract-ocr-lat
+	tesseract-ocr-lav
+	tesseract-ocr-lit
+	tesseract-ocr-ltz
+	tesseract-ocr-mal
+	tesseract-ocr-mar
+	tesseract-ocr-mkd
+	tesseract-ocr-mlt
+	tesseract-ocr-mon
+	tesseract-ocr-mri
+	tesseract-ocr-msa
+	tesseract-ocr-mya
+	tesseract-ocr-nep
+	tesseract-ocr-nld
+	tesseract-ocr-nor
+	tesseract-ocr-oci
+	tesseract-ocr-ori
+	tesseract-ocr-osd
+	tesseract-ocr-pan
+	tesseract-ocr-pol
+	tesseract-ocr-por
+	tesseract-ocr-pus
+	tesseract-ocr-que
+	tesseract-ocr-ron
+	tesseract-ocr-rus
+	tesseract-ocr-san
+	tesseract-ocr-script-arab
+	tesseract-ocr-script-armn
+	tesseract-ocr-script-beng
+	tesseract-ocr-script-cans
+	tesseract-ocr-script-cher
+	tesseract-ocr-script-cyrl
+	tesseract-ocr-script-deva
+	tesseract-ocr-script-ethi
+	tesseract-ocr-script-frak
+	tesseract-ocr-script-geor
+	tesseract-ocr-script-grek
+	tesseract-ocr-script-gujr
+	tesseract-ocr-script-guru
+	tesseract-ocr-script-hang
+	tesseract-ocr-script-hang-vert
+	tesseract-ocr-script-hans
+	tesseract-ocr-script-hans-vert
+	tesseract-ocr-script-hant
+	tesseract-ocr-script-hant-vert
+	tesseract-ocr-script-hebr
+	tesseract-ocr-script-jpan
+	tesseract-ocr-script-jpan-vert
+	tesseract-ocr-script-khmr
+	tesseract-ocr-script-knda
+	tesseract-ocr-script-laoo
+	tesseract-ocr-script-latn
+	tesseract-ocr-script-mlym
+	tesseract-ocr-script-mymr
+	tesseract-ocr-script-orya
+	tesseract-ocr-script-sinh
+	tesseract-ocr-script-syrc
+	tesseract-ocr-script-taml
+	tesseract-ocr-script-telu
+	tesseract-ocr-script-thaa
+	tesseract-ocr-script-thai
+	tesseract-ocr-script-tibt
+	tesseract-ocr-script-viet
+	tesseract-ocr-sin
+	tesseract-ocr-slk
+	tesseract-ocr-slv
+	tesseract-ocr-snd
+	tesseract-ocr-spa
+	tesseract-ocr-spa-old
+	tesseract-ocr-sqi
+	tesseract-ocr-srp
+	tesseract-ocr-srp-latn
+	tesseract-ocr-sun
+	tesseract-ocr-swa
+	tesseract-ocr-swe
+	tesseract-ocr-syr
+	tesseract-ocr-tam
+	tesseract-ocr-tat
+	tesseract-ocr-tel
+	tesseract-ocr-tgk
+	tesseract-ocr-tha
+	tesseract-ocr-tir
+	tesseract-ocr-ton
+	tesseract-ocr-tur
+	tesseract-ocr-uig
+	tesseract-ocr-ukr
+	tesseract-ocr-urd
+	tesseract-ocr-uzb
+	tesseract-ocr-uzb-cyrl
+	tesseract-ocr-vie
+	tesseract-ocr-yid
+	tesseract-ocr-yor
+
+tex4ht
+	texlive-plain-generic
+
+texlive-base-bin
+	texlive-binaries
+
+texlive-context
+	context
+
+tfm-arphic-bkai00mp
+	latex-cjk-chinese-arphic-bkai00mp
+
+tfm-arphic-bsmi00lp
+	latex-cjk-chinese-arphic-bsmi00lp
+
+tfm-arphic-gbsn00lp
+	latex-cjk-chinese-arphic-gbsn00lp
+
+tfm-arphic-gkai00mp
+	latex-cjk-chinese-arphic-gkai00mp
+
+tftp-server
+	tftpd-hpa
+
+time-daemon
+	chrony
+	systemd-timesyncd
+
+timedate
+	libtimedate-perl
+
+tkdoc
+	tk8.6-doc
+
+translation-dictionary
+	trans-de-en
+
+ttf-installer
+	fonts-farsiweb-udeb
+	fonts-freefont-udeb
+	fonts-sil-abyssinica-udeb
+	fonts-sil-padauk-udeb
+	fonts-sil-scheherazade-udeb
+	fonts-tibetan-machine-udeb
+
+ttf-opensymbol
+	fonts-opensymbol
+
+ttf-sil-scheherazade
+	fonts-sil-scheherazade
+
+tzdata-bullseye
+	tzdata
+
+ubiquity-artwork-20.04.15
+	ubiquity-ubuntu-artwork
+
+ubiquity-frontend-20.04.15
+	ubiquity-frontend-debconf
+	ubiquity-frontend-gtk
+	ubiquity-frontend-kde
+
+ubiquity-slideshow
+	ubiquity-slideshow-edubuntu
+	ubiquity-slideshow-kubuntu
+	ubiquity-slideshow-ubuntu
+	ubiquity-slideshow-ubuntu-budgie
+	ubiquity-slideshow-ubuntu-mate
+	ubiquity-slideshow-ubuntukylin
+	ubiquity-slideshow-ubuntustudio
+	ubiquity-slideshow-xubuntu
+
+ubuntu-mobile
+	ubuntu-mobile-icons
+
+unity-common
+	libunity-core-6.0-9
+
+unity-common-7.0
+	libunity-core-6.0-9
+
+unity-control-center-datetime
+	unity-control-center
+
+unity-control-center-faces
+	gnome-control-center-faces
+
+unity-icon-theme
+	unity-asset-pool
+
+unity-lens-shopping
+	unity-scope-home
+
+unity-scope-asklibreoffice
+	unity-scope-home
+
+unity-scope-askubuntu
+	unity-scope-home
+
+unity-scope-deviantart
+	unity-scope-home
+
+unity-scope-gallica
+	unity-scope-home
+
+unity-scope-github
+	unity-scope-home
+
+unity-scope-googlenews
+	unity-scope-home
+
+unity-scope-openweathermap
+	unity-scope-home
+
+unity-scope-soundcloud
+	unity-scope-home
+
+unity-scope-sumo
+	unity-scope-home
+
+unity-scope-yahoostock
+	unity-scope-home
+
+unity-scopes-json-def
+	libunity-scopes-json-def-desktop
+	libunity-scopes-json-def-phone
+
+unity-scopes-master
+	unity-scopes-master-default
+
+ups-monitor
+	nut-client
+
+upstart-app-launch
+	ubuntu-app-launch
+
+upstart-app-launch-tools
+	ubuntu-app-launch-tools
+
+usb-modeswitch-data-packed
+	usb-modeswitch-data
+
+usb-modules
+	usb-modules-5.4.0-26-generic-di
+
+va-driver
+	i965-va-driver
+	intel-media-va-driver
+	mesa-va-drivers
+
+vdpau-driver
+	mesa-vdpau-drivers
+
+vfdata-morisawa5
+	texlive-lang-japanese
+
+vim
+	vim-athena
+	vim-gtk3
+	vim-nox
+
+vim-lua
+	vim-athena
+	vim-gtk3
+	vim-nox
+
+vim-perl
+	vim-athena
+	vim-gtk3
+	vim-nox
+
+vim-python3
+	vim-athena
+	vim-gtk3
+	vim-nox
+
+vim-ruby
+	vim-athena
+	vim-nox
+
+vim-tcl
+	vim-athena
+	vim-gtk3
+	vim-nox
+
+virtio-modules
+	virtio-modules-5.4.0-26-generic-di
+
+virtual-mysql-client
+	mysql-client-8.0
+
+virtual-mysql-client-core
+	mysql-client-core-8.0
+
+virtual-mysql-server
+	mysql-server-8.0
+
+virtual-mysql-server-core
+	mysql-server-core-8.0
+
+virtual-mysql-testsuite
+	mysql-testsuite-8.0
+
+virtualbox-guest-dkms
+	linux-image-5.4.0-1009-gcp
+	linux-image-5.4.0-1009-kvm
+	linux-image-5.4.0-1009-oracle
+	linux-image-5.4.0-26-generic
+	linux-image-5.4.0-26-lowlatency
+	linux-image-unsigned-5.4.0-1009-gcp
+	linux-image-unsigned-5.4.0-1009-oracle
+	linux-image-unsigned-5.4.0-26-generic
+	linux-image-unsigned-5.4.0-26-lowlatency
+
+virtualbox-guest-modules
+	linux-image-5.4.0-1009-oracle
+	linux-image-5.4.0-1010-azure
+	linux-image-5.4.0-26-generic
+	linux-image-5.4.0-26-lowlatency
+	linux-image-aws
+	linux-image-azure
+	linux-image-gcp
+	linux-image-generic
+	linux-image-generic-hwe-20.04
+	linux-image-gke
+	linux-image-kvm
+	linux-image-lowlatency
+	linux-image-lowlatency-hwe-20.04
+	linux-image-oracle
+	linux-image-unsigned-5.4.0-1009-oracle
+	linux-image-unsigned-5.4.0-1010-azure
+	linux-image-unsigned-5.4.0-26-generic
+	linux-image-unsigned-5.4.0-26-lowlatency
+	linux-image-virtual
+	linux-image-virtual-hwe-20.04
+
+vlan-modules
+	vlan-modules-5.4.0-26-generic-di
+
+vlc-plugin-abi-3-0-0f
+	libvlccore9
+
+vnc-server
+	tigervnc-scraping-server
+	tigervnc-standalone-server
+	tigervnc-xorg-extension
+
+vnc-viewer
+	tigervnc-viewer
+
+vnc-xorg-extension
+	tigervnc-xorg-extension
+
+vncviewer
+	tigervnc-viewer
+
+vulkan-icd
+	mesa-vulkan-drivers
+
+watch
+	procps
+
+wireguard-modules
+	linux-image-generic
+	linux-image-generic-hwe-20.04
+	linux-image-lowlatency
+	linux-image-lowlatency-hwe-20.04
+	linux-image-virtual
+	linux-image-virtual-hwe-20.04
+
+wish
+	tk
+
+wordlist
+	miscfiles
+	wamerican
+	wamerican-huge
+	wamerican-insane
+	wamerican-large
+	wamerican-small
+	wbrazilian
+	wbritish
+	wbritish-huge
+	wbritish-insane
+	wbritish-large
+	wbritish-small
+	wbulgarian
+	wcanadian
+	wcanadian-huge
+	wcanadian-insane
+	wcanadian-large
+	wcanadian-small
+	wcatalan
+	wdanish
+	wdutch
+	wesperanto
+	wfaroese
+	wfrench
+	wgalician-minimos
+	witalian
+	wngerman
+	wnorwegian
+	wogerman
+	wpolish
+	wportuguese
+	wspanish
+	wswedish
+	wswiss
+	wukrainian
+
+www-browser
+	firefox
+	w3m
+	wslu
+
+wx-i18n
+	wx3.0-i18n
+
+wxperl-gtk-3-0-4-uni-gcc-3-4
+	libalien-wxwidgets-perl
+
+x-display-manager
+	gdm3
+	lightdm
+	sddm
+
+x-session-manager
+	gnome-session
+	plasma-workspace
+	ubuntu-session
+	unity-session
+
+x-terminal-emulator
+	gnome-terminal
+	pterm
+	xterm
+
+x-window-manager
+	compiz
+	kwin-x11
+	metacity
+	mutter
+
+x-window-system
+	xorg
+
+x-window-system-core
+	xorg
+
+x11proto-bigreqs-dev
+	x11proto-dev
+
+x11proto-composite-dev
+	x11proto-dev
+
+x11proto-core-dev
+	x11proto-dev
+
+x11proto-damage-dev
+	x11proto-dev
+
+x11proto-dmx-dev
+	x11proto-dev
+
+x11proto-dri2-dev
+	x11proto-dev
+
+x11proto-dri3-dev
+	x11proto-dev
+
+x11proto-fixes-dev
+	x11proto-dev
+
+x11proto-fonts-dev
+	x11proto-dev
+
+x11proto-gl-dev
+	x11proto-dev
+
+x11proto-input-dev
+	x11proto-dev
+
+x11proto-kb-dev
+	x11proto-dev
+
+x11proto-present-dev
+	x11proto-dev
+
+x11proto-randr-dev
+	x11proto-dev
+
+x11proto-record-dev
+	x11proto-dev
+
+x11proto-render-dev
+	x11proto-dev
+
+x11proto-resource-dev
+	x11proto-dev
+
+x11proto-scrnsaver-dev
+	x11proto-dev
+
+x11proto-video-dev
+	x11proto-dev
+
+x11proto-xcmisc-dev
+	x11proto-dev
+
+x11proto-xext-dev
+	x11proto-dev
+
+x11proto-xf86bigfont-dev
+	x11proto-dev
+
+x11proto-xf86dga-dev
+	x11proto-dev
+
+x11proto-xf86dri-dev
+	x11proto-dev
+
+x11proto-xf86vidmode-dev
+	x11proto-dev
+
+x11proto-xinerama-dev
+	x11proto-dev
+
+xdg-desktop-portal-backend
+	xdg-desktop-portal-gtk
+	xdg-desktop-portal-kde
+
+xen-hypervisor
+	xen-hypervisor-4.11-amd64
+
+xen-hypervisor-4.11
+	xen-hypervisor-4.11-amd64
+
+xen-hypervisor-amd64
+	xen-hypervisor-4.11-amd64
+
+xen-system
+	xen-system-amd64
+
+xen-utils
+	xen-utils-4.11
+
+xfs-modules
+	fs-core-modules-5.4.0-26-generic-di
+
+xlibmesa-glu-dev
+	libglu1-mesa-dev
+
+xml-i18n-tools
+	intltool
+
+xmltex
+	texlive-formats-extra
+
+xorg-driver-binary
+	nvidia-340
+	xserver-xorg-video-nvidia-390
+	xserver-xorg-video-nvidia-435
+	xserver-xorg-video-nvidia-440
+
+xorg-driver-input
+	xserver-xorg-input-libinput
+	xserver-xorg-input-libinput-udeb
+	xserver-xorg-input-wacom
+
+xorg-driver-video
+	nvidia-340
+	xserver-xorg-video-amdgpu
+	xserver-xorg-video-ati
+	xserver-xorg-video-fbdev
+	xserver-xorg-video-fbdev-udeb
+	xserver-xorg-video-intel
+	xserver-xorg-video-nouveau
+	xserver-xorg-video-nvidia-390
+	xserver-xorg-video-nvidia-435
+	xserver-xorg-video-nvidia-440
+	xserver-xorg-video-qxl
+	xserver-xorg-video-radeon
+	xserver-xorg-video-vesa
+	xserver-xorg-video-vmware
+
+xorg-input-abi-24
+	xserver-xorg-core
+	xserver-xorg-core-udeb
+
+xorg-video-abi-24
+	xserver-xorg-core
+	xserver-xorg-core-udeb
+
+xpdf-utils
+	poppler-utils
+
+xserver
+	tigervnc-standalone-server
+	xnest
+	xserver-xephyr
+	xserver-xorg
+	xvfb
+
+xserver-xorg-video-modesetting
+	xserver-xorg-core
+
+zcav
+	bonnie++
+
+zeitgeist-extension-fts
+	zeitgeist-core
+
+zfs-dkms
+	linux-image-5.4.0-1009-aws
+	linux-image-5.4.0-1009-gcp
+	linux-image-5.4.0-1009-kvm
+	linux-image-5.4.0-1009-oracle
+	linux-image-5.4.0-1010-azure
+	linux-image-5.4.0-26-generic
+	linux-image-5.4.0-26-lowlatency
+	linux-image-unsigned-5.4.0-1009-gcp
+	linux-image-unsigned-5.4.0-1009-oracle
+	linux-image-unsigned-5.4.0-1010-azure
+	linux-image-unsigned-5.4.0-26-generic
+	linux-image-unsigned-5.4.0-26-lowlatency
+
+zfs-modules
+	linux-image-5.4.0-1009-aws
+	linux-image-5.4.0-1009-gcp
+	linux-image-5.4.0-1009-kvm
+	linux-image-5.4.0-1009-oracle
+	linux-image-5.4.0-1010-azure
+	linux-image-5.4.0-26-generic
+	linux-image-5.4.0-26-lowlatency
+	linux-image-aws
+	linux-image-azure
+	linux-image-gcp
+	linux-image-generic
+	linux-image-generic-hwe-20.04
+	linux-image-gke
+	linux-image-kvm
+	linux-image-lowlatency
+	linux-image-lowlatency-hwe-20.04
+	linux-image-oracle
+	linux-image-unsigned-5.4.0-1009-gcp
+	linux-image-unsigned-5.4.0-1009-oracle
+	linux-image-unsigned-5.4.0-1010-azure
+	linux-image-unsigned-5.4.0-26-generic
+	linux-image-unsigned-5.4.0-26-lowlatency
+	linux-image-virtual
+	linux-image-virtual-hwe-20.04
+	zfs-dkms
+
+zfsutils
+	zfsutils-linux
+

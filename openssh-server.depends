@@ -1,0 +1,15 @@
+Package             | Source         | Why                         | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+--------------------+----------------+-----------------------------+-----------------------------------------------------------+-----------------+-----------------
+libwrap0            | tcp-wrappers   | openssh-server              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46280 |             109
+ncurses-term        | ncurses        | openssh-server (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          249260 |            4183
+openssh-sftp-server | openssh        | openssh-server              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51500 |             141
+python3-certifi     | python-certifi | python3-requests            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          148736 |             319
+python3-chardet     | chardet        | python3-requests            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           80440 |             411
+python3-distro      | python-distro  | ssh-import-id               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14600 |              69
+python3-idna        | python-idna    | python3-requests            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           34600 |             289
+python3-requests    | requests       | ssh-import-id               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           47064 |             228
+python3-six         | six            | python3-urllib3             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           12088 |              58
+python3-urllib3     | python-urllib3 | python3-requests            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           88056 |             413
+ssh-import-id       | ssh-import-id  | openssh-server (Recommends) | Dustin Kirkland <kirkland@ubuntu.com>                     |           10040 |              54
+-------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                               |          782664 |            6274

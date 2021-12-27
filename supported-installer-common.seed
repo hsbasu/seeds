@@ -1,0 +1,20 @@
+Package                  | Source               | Why                                           | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-------------------------+----------------------+-----------------------------------------------+-----------------------------------------------------------+-----------------+-----------------
+debian-installer         | debian-installer     | Ubuntu.Bionic supported-installer-common seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |          674028 |            1291
+debian-installer-udebs   | debian-installer     | Ubuntu.Bionic supported-installer-common seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |            1632 |               2
+gfxboot                  | gfxboot              | Ubuntu.Bionic supported-installer-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           20332 |              89
+gfxboot-theme-ubuntu     | gfxboot-theme-ubuntu | Ubuntu.Bionic supported-installer-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          509552 |            3890
+grub-efi                 | grub2                | Ubuntu.Bionic supported-installer-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2588 |              16
+grub-efi-amd64           | grub2                | Ubuntu.Bionic supported-installer-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46624 |             178
+grub-efi-amd64-signed    | grub2-signed         | Ubuntu.Bionic supported-installer-common seed | Colin Watson <cjwatson@ubuntu.com>                        |          468240 |            4448
+grub-efi-ia32            | grub2                | Ubuntu.Bionic supported-installer-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46652 |             178
+grub-xen                 | grub2                | Ubuntu.Bionic supported-installer-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46548 |             178
+installation-guide-amd64 | installation-guide   | Ubuntu.Bionic supported-installer-common seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |         1283936 |            1941
+isolinux                 | syslinux             | Ubuntu.Bionic supported-installer-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           59668 |             211
+lilo                     | lilo                 | Ubuntu.Bionic supported-installer-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          263380 |             694
+lilo-installer           | lilo-installer       | Ubuntu.Bionic supported-installer-common seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |           86898 |             250
+live-installer           | live-installer       | Ubuntu.Bionic supported-installer-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           34194 |             115
+ppp-udeb                 | ppp                  | Ubuntu.Bionic supported-installer-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          117720 |             364
+sbsigntool               | sbsigntool           | Ubuntu.Bionic supported-installer-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           64060 |             412
+------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                            |         3726052 |           14257

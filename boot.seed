@@ -1,0 +1,10 @@
+Package                       | Source     | Why                     | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+------------------------------+------------+-------------------------+-----------------------------------------------------------+-----------------+-----------------
+grub-pc                       | grub2      | Ubuntu.Bionic boot seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          124692 |             554
+linux-generic                 | linux-meta | Ubuntu.Bionic boot seed | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>         |            1900 |              17
+linux-generic-hwe-18.04       | linux-meta | Ubuntu.Bionic boot seed | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>         |            1888 |              17
+linux-image-generic           | linux-meta | Ubuntu.Bionic boot seed | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>         |            2796 |              17
+linux-image-generic-hwe-18.04 | linux-meta | Ubuntu.Bionic boot seed | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>         |            1884 |              17
+mawk                          | mawk       | Ubuntu.Bionic boot seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           95992 |             233
+---------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                 |          229152 |             855

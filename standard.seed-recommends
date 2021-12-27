@@ -1,0 +1,23 @@
+Package                    | Source            | Why                         | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+---------------------------+-------------------+-----------------------------+-----------------------------------------------------------+-----------------+-----------------
+apparmor                   | apparmor          | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          494300 |            1948
+bash-completion            | bash-completion   | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          177752 |            1487
+command-not-found          | command-not-found | Ubuntu.Bionic standard seed | Michael Vogt <michael.vogt@ubuntu.com>                    |            5240 |              35
+friendly-recovery          | friendly-recovery | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            8956 |              45
+iputils-tracepath          | iputils           | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           20068 |              72
+irqbalance                 | irqbalance        | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           43864 |             141
+manpages                   | manpages          | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1314408 |            1557
+mlocate                    | mlocate           | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           50136 |             252
+mtr-tiny                   | mtr               | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           53372 |             164
+nano                       | nano              | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          269332 |             848
+ntfs-3g                    | ntfs-3g           | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          389180 |            1488
+openssh-client             | openssh           | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          673724 |            4117
+plymouth                   | plymouth          | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          118012 |             876
+plymouth-theme-ubuntu-text | plymouth          | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9512 |              79
+tcpdump                    | tcpdump           | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          369804 |            1087
+telnet                     | netkit-telnet     | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           64016 |             159
+ufw                        | ufw               | Ubuntu.Bionic standard seed | Jamie Strandboge <jamie@ubuntu.com>                       |          147384 |             826
+update-manager-core        | update-manager    | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11252 |             192
+uuid-runtime               | util-linux        | Ubuntu.Bionic standard seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           35292 |             212
+-----------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                         |         4255604 |           15585

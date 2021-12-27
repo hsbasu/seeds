@@ -1,0 +1,20 @@
+Package               | Source              | Why                                 | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+----------------------+---------------------+-------------------------------------+-----------------------------------------------------------+-----------------+-----------------
+aptitude              | aptitude            | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1322812 |            4562
+cryptsetup            | cryptsetup          | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          158920 |             397
+dmraid                | dmraid              | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22892 |             100
+grub-efi              | grub2               | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2588 |              16
+grub-efi-amd64-signed | grub2-signed        | Ubuntu.Bionic d-i-requirements seed | Colin Watson <cjwatson@ubuntu.com>                        |          468240 |            4448
+installation-report   | installation-report | Ubuntu.Bionic d-i-requirements seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |            7632 |              48
+jfsutils              | jfsutils            | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          194920 |            1578
+lupin-support         | lupin               | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14032 |              67
+lvm2                  | lvm2                | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1052640 |            3860
+mdadm                 | mdadm               | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          415664 |            1222
+mouseemu              | mouseemu            | Ubuntu.Bionic d-i-requirements seed | Colin Watson <cjwatson@ubuntu.com>                        |           16558 |              58
+reiserfsprogs         | reiserfsprogs       | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          235272 |             900
+shim-signed           | shim-signed         | Ubuntu.Bionic d-i-requirements seed | Steve Langasek <steve.langasek@ubuntu.com>                |          343812 |            1357
+tasksel               | tasksel             | Ubuntu.Bionic d-i-requirements seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |           28620 |             244
+unifont               | unifont             | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1478116 |            4968
+xfsprogs              | xfsprogs            | Ubuntu.Bionic d-i-requirements seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          773180 |            2676
+----------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                              |         6535898 |           26501

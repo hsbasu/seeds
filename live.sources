@@ -1,0 +1,82 @@
+Source                           | Maintainer                                                         
+---------------------------------+---------------------------------------------------------------------
+apt-clone                        | Michael Vogt <michael.vogt@ubuntu.com>                             
+br.ispell                        | Agustin Martin Domingo <agmartin@debian.org>                       
+btrfs-progs                      | Adam Borowski <kilobyte@angband.pl>                                
+casper                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+cifs-utils                       | Debian Samba Maintainers <pkg-samba-maint@lists.alioth.debian.org> 
+dctrl-tools                      | Rhonda D'Vine <rhonda@debian.org>                                  
+dpkg-repack                      | Dpkg Developers <debian-dpkg@lists.debian.org>                     
+fonts-arphic-ukai                | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>  
+fonts-arphic-uming               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+gparted                          | Phillip Susi <psusi@ubuntu.com>                                    
+grub-gfxpayload-lists            | Colin Watson <cjwatson@ubuntu.com>                                 
+grub2                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+gtk-im-libthai                   | Theppitak Karoonboonyanan <thep@debian.org>                        
+hkgerman                         | Roland Rosenfeld <roland@debian.org>                               
+hunspell-fr                      | Sébastien Villemot <sebastien@debian.org>                          
+hw-detect                        | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>          
+hyphen-ru                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+ibus-chewing                     | Debian Input Method Team <debian-input-method@lists.debian.org>    
+ibus-hangul                      | Debian Input Method Team <debian-input-method@lists.debian.org>    
+ibus-libpinyin                   | Debian Input Method Team <debian-input-method@lists.debian.org>    
+ibus-m17n                        | Debian Input Method Team <debian-input-method@lists.debian.org>    
+ibus-table-chinese               | Debian Input Method Team <debian-input-method@lists.debian.org>    
+ibus-unikey                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+igerman98                        | Roland Rosenfeld <roland@debian.org>                               
+ispell.pt                        | Agustin Martin Domingo <agmartin@debian.org>                       
+language-pack-de                 | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-de-base            | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-en                 | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-en-base            | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-es                 | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-es-base            | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-fr                 | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-fr-base            | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-de           | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-de-base      | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-en           | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-en-base      | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-es           | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-es-base      | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-fr           | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-fr-base      | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-it           | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-it-base      | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-pt           | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-pt-base      | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-ru           | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-ru-base      | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-zh-hans      | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-gnome-zh-hans-base | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-it                 | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-it-base            | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-pt                 | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-pt-base            | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-ru                 | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-ru-base            | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-zh-hans            | Language pack maintainers <language-packs@ubuntu.com>              
+language-pack-zh-hans-base       | Language pack maintainers <language-packs@ubuntu.com>              
+libchewing                       | Debian Input Method Team <debian-input-method@lists.debian.org>    
+libdebian-installer              | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>          
+libhangul                        | Debian Korean L10N <debian-l10n-korean@lists.debian.org>           
+libotf                           | Harshula Jayasuriya <harshula@debian.org>                          
+libpinyin                        | Debian Input Method Team <debian-input-method@lists.debian.org>    
+libreoffice-dictionaries         | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>
+libtimezonemap                   | Debian Cinnamon Team <debian-cinnamon@lists.debian.org>            
+m17n-db                          | Harshula Jayasuriya <harshula@debian.org>                          
+m17n-lib                         | Harshula Jayasuriya <harshula@debian.org>                          
+mozc                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+openoffice.org-en-au             | John Steele Scott <toojays@toojays.net>                            
+openoffice.org-hyphenation       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+openthesaurus                    | Rene Engelhard <rene@debian.org>                                   
+os-prober                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+pyicu                            | Laszlo Boszormenyi (GCS) <gcs@debian.org>                          
+python-pam                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+rdate                            | Thiago Andrade Marques <thmarques@gmail.com>                       
+tegaki-zinnia-japanese           | LI Daobing <lidaobing@debian.org>                                  
+ubiquity                         | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>          
+ubiquity-slideshow-ubuntu        | Ubiquity Slideshow Team <ubiquity-slideshow@lists.launchpad.net>   
+wfrench                          | guillaume pernot <gpernot@praksys.org>                             
+witalian                         | Davide G. M. Salvetti <salve@debian.org>                           
+wspanish                         | Agustin Martin Domingo <agmartin@debian.org>                       

@@ -1,0 +1,74 @@
+Package                  | Source           | Why                            | Maintainer                                                     | Deb Size (B)    | Inst Size (KB) 
+-------------------------+------------------+--------------------------------+----------------------------------------------------------------+-----------------+-----------------
+attr                     | attr             | samba (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           21944 |             136
+dirmngr                  | gnupg2           | gnupg                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          329332 |             918
+gnupg                    | gnupg2           | libgpgme11                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          258936 |             413
+gnupg-l10n               | gnupg2           | gnupg                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           51748 |             380
+gnupg-utils              | gnupg2           | gnupg                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          481072 |            1550
+gpg                      | gnupg2           | gnupg-utils (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          482096 |            1135
+gpg-agent                | gnupg2           | gnupg-utils (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          232000 |             911
+gpg-wks-client           | gnupg2           | gnupg                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           97660 |             275
+gpg-wks-server           | gnupg2           | gnupg                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           90268 |             255
+gpgconf                  | gnupg2           | dirmngr                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          123744 |             409
+gpgsm                    | gnupg2           | gnupg-utils (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          216812 |             568
+ibverbs-providers        | rdma-core        | libibverbs1 (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          232488 |             889
+libarchive13             | libarchive       | smbclient                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          326636 |             841
+libasn1-8-heimdal        | heimdal          | libgssapi3-heimdal             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          181044 |             798
+libassuan0               | libassuan        | gpgconf                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           35668 |             105
+libavahi-client3         | avahi            | samba-libs                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           25500 |             129
+libavahi-common-data     | avahi            | libavahi-common3               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           21352 |             112
+libavahi-common3         | avahi            | libavahi-client3               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           21728 |             109
+libboost-iostreams1.71.0 | boost1.71        | librados2                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          236640 |            2110
+libboost-thread1.71.0    | boost1.71        | librados2                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          248696 |            2130
+libcephfs2               | ceph             | samba-vfs-modules (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          471024 |            1491
+libcups2                 | cups             | samba-libs                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          233040 |             769
+libgpgme11               | gpgme1.0         | python3-gpg                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          120900 |             355
+libgssapi3-heimdal       | heimdal          | libldap-2.4-2                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           96132 |             324
+libhcrypto4-heimdal      | heimdal          | libgssapi3-heimdal             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           87864 |             274
+libheimbase1-heimdal     | heimdal          | libhcrypto4-heimdal            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           29716 |             113
+libheimntlm0-heimdal     | heimdal          | libgssapi3-heimdal             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           15088 |              85
+libhx509-5-heimdal       | heimdal          | libkrb5-26-heimdal             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          106632 |             360
+libibverbs1              | rdma-core        | librados2                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           53568 |             175
+libjansson4              | jansson          | samba-libs                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           28944 |              79
+libkrb5-26-heimdal       | heimdal          | libheimntlm0-heimdal           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          207648 |             665
+libksba8                 | libksba          | dirmngr                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           92566 |             259
+libldap-2.4-2            | openldap         | libldb2                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          155528 |             522
+libldap-common           | openldap         | libldap-2.4-2                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           17288 |             101
+libldb2                  | ldb              | python3-ldb                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          139752 |             594
+libnl-3-200              | libnl3           | libibverbs1                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           53864 |             180
+libnl-route-3-200        | libnl3           | libibverbs1                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          149452 |             533
+libnpth0                 | npth             | dirmngr                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7736 |              36
+libpython3.8             | python3.8        | python3-ldb                    | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1619972 |            5371
+librados2                | ceph             | libcephfs2                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         3236236 |           13959
+librdmacm1               | rdma-core        | librados2                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           64852 |             204
+libroken18-heimdal       | heimdal          | libasn1-8-heimdal              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           41848 |             144
+libsasl2-2               | cyrus-sasl2      | libldap-2.4-2                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           49324 |             152
+libsasl2-modules         | cyrus-sasl2      | libsasl2-2 (Recommends)        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           49064 |             236
+libsasl2-modules-db      | cyrus-sasl2      | libsasl2-2                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14932 |              66
+libsmbclient             | samba            | smbclient                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           59208 |             328
+libtalloc2               | talloc           | libldb2                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           29512 |             105
+libtdb1                  | tdb              | libldb2                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           44144 |             139
+libtevent0               | tevent           | libldb2                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           35492 |             117
+libwbclient0             | samba            | samba-libs                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          221280 |             891
+libwind0-heimdal         | heimdal          | libhx509-5-heimdal             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           48048 |             205
+pinentry-curses          | pinentry         | gpg-agent                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           36296 |             100
+python3-crypto           | python-crypto    | python3-samba                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          237348 |            1451
+python3-dnspython        | dnspython        | samba                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           89132 |             618
+python3-gpg              | gpgme1.0         | python3-samba (Recommends)     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          164612 |            1084
+python3-ldb              | ldb              | python3-samba                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           37612 |             176
+python3-markdown         | python-markdown  | samba (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           59316 |             287
+python3-packaging        | python-packaging | python3-markdown               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           26844 |             129
+python3-pygments         | pygments         | python3-markdown (Recommends)  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          579300 |            3169
+python3-pyparsing        | pyparsing        | python3-packaging              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           61300 |             298
+python3-samba            | samba            | samba-common-bin               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2403880 |           18922
+python3-six              | six              | python3-packaging              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12088 |              58
+python3-talloc           | talloc           | samba-libs                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12160 |              76
+python3-tdb              | tdb              | python3-samba                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           13432 |              72
+samba-common             | samba            | libpam-winbind                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           69780 |             305
+samba-common-bin         | samba            | samba-common (Recommends)      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          521740 |            1579
+samba-dsdb-modules       | samba            | samba-common-bin (Recommends)  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          288292 |            1741
+samba-libs               | samba            | python3-samba                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         5262228 |           23416
+samba-vfs-modules        | samba            | samba (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          366312 |            1873
+tdb-tools                | tdb              | samba                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           24896 |             114
+----------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                              |        21562586 |           98473

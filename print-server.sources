@@ -1,0 +1,65 @@
+Source           | Maintainer                                                                   
+-----------------+-------------------------------------------------------------------------------
+avahi            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+bc               | Ryan Kavanagh <rak@debian.org>                                               
+brotli           | Tomasz Buchert <tomasz@debian.org>                                           
+cairo            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+colord           | Christopher James Halse Rogers <raof@ubuntu.com>                             
+cups             | Debian Printing Team <debian-printing@lists.debian.org>                      
+cups-filters     | Debian Printing Team <debian-printing@lists.debian.org>                      
+curl             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+cyrus-sasl2      | Debian Cyrus Team <team+cyrus@tracker.debian.org>                            
+dconf            | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>     
+fontconfig       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+fonts-android    | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>            
+fonts-dejavu     | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>            
+fonts-noto       | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>            
+fonts-urw-base35 | Debian Fonts Task Force <debian-fonts@lists.debian.org>                      
+foomatic-db      | Debian Printing Group <debian-printing@lists.debian.org>                     
+freetype         | Hugh McMaster <hugh.mcmaster@outlook.com>                                    
+ghostscript      | Debian Printing Team <debian-printing@lists.debian.org>                      
+gutenprint       | Debian Printing Group <debian-printing@lists.debian.org>                     
+heimdal          | Brian May <bam@debian.org>                                                   
+hplip            | Debian Printing Team <debian-printing@lists.debian.org>                      
+ijs              | Debian Printing Team <debian-printing@lists.debian.org>                      
+jbig2dec         | Debian Printing Team <debian-printing@lists.debian.org>                      
+jbigkit          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+lcms2            | Thomas Weber <tweber@debian.org>                                             
+libdaemon        | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>     
+libexif          | Debian PhotoTools Maintainers <pkg-phototools-devel@lists.alioth.debian.org> 
+libgd2           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+libgphoto2       | Debian PhotoTools Maintainers <pkg-phototools-devel@lists.alioth.debian.org> 
+libgudev         | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>     
+libgusb          | Michal Čihař <nijel@debian.org>                                              
+libidn           | Debian Libidn Team <help-libidn@gnu.org>                                     
+libieee1284      | Laszlo Boszormenyi (GCS) <gcs@debian.org>                                    
+libjpeg-turbo    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+libjpeg8-empty   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+liblouis         | Debian Accessibility Team <pkg-a11y-devel@lists.alioth.debian.org>           
+liblouisutdml    | Debian Accessibility Team <pkg-a11y-devel@lists.alioth.debian.org>           
+libpaper         | Giuseppe Sacco <eppesuig@debian.org>                                         
+libssh           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+libtool          | Alastair McKinstry <mckinstry@debian.org>                                    
+libwebp          | Jeff Breidenbach <jab@debian.org>                                            
+libxpm           | Debian X Strike Force <debian-x@lists.debian.org>                            
+libxrender       | Debian X Strike Force <debian-x@lists.debian.org>                            
+lm-sensors       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+mysql-8.0        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+mysql-defaults   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+net-snmp         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+nghttp2          | Tomasz Buchert <tomasz@debian.org>                                           
+nspr             | Maintainers of Mozilla-related packages <team+pkg-mozilla@tracker.debian.org>
+nss              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+nss-mdns         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+openjpeg2        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+openldap         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+pixman           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+poppler          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+poppler-data     | Hideki Yamane <henrich@debian.org>                                           
+qpdf             | Jay Berkenbilt <qjb@debian.org>                                              
+rtmpdump         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+sane-backends    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                    
+ssl-cert         | Debian Apache Maintainers <debian-apache@lists.debian.org>                   
+tcp-wrappers     | Marco d'Itri <md@linux.it>                                                   
+tiff             | Laszlo Boszormenyi (GCS) <gcs@debian.org>                                    
+update-inetd     | Guillem Jover <guillem@debian.org>                                           

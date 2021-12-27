@@ -1,0 +1,299 @@
+Source                           | Maintainer                                                                     
+---------------------------------+---------------------------------------------------------------------------------
+advancecomp                      | Piotr Ożarowski <piotr@debian.org>                                             
+backports.functools-lru-cache    | Sandro Tosi <morph@debian.org>                                                 
+bgoffice                         | Damyan Ivanov <dmn@debian.org>                                                 
+binfmt-support                   | Colin Watson <cjwatson@debian.org>                                             
+binutils-mingw-w64               | Stephen Kitt <skitt@debian.org>                                                
+blt                              | Sergei Golovan <sgolovan@debian.org>                                           
+boost-defaults                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                      
+culmus                           | Debian Hebrew Packaging Team <team+hebrew@tracker.debian.org>                  
+curtin                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                      
+dict-foldoc                      | Iustin Pop <iustin@debian.org>                                                 
+dict-gcide                       | Ritesh Raj Sarraf <rrs@debian.org>                                             
+dict-jargon                      | Ruben Molina <ruben.molina@udea.edu.co>                                        
+dict-nr                          | Matthias Klose <doko@ubuntu.com>                                               
+dict-ns                          | Matthias Klose <doko@ubuntu.com>                                               
+dict-ss                          | Matthias Klose <doko@ubuntu.com>                                               
+dict-st                          | Matthias Klose <doko@ubuntu.com>                                               
+dict-tn                          | Matthias Klose <doko@ubuntu.com>                                               
+dict-ts                          | Matthias Klose <doko@ubuntu.com>                                               
+dict-ve                          | Matthias Klose <doko@ubuntu.com>                                               
+dict-xh                          | Matthias Klose <doko@ubuntu.com>                                               
+dict-zu                          | Matthias Klose <doko@ubuntu.com>                                               
+dictd                            | Robert Luberda <robert@debian.org>                                             
+doc-base                         | Robert Luberda <robert@debian.org>                                             
+double-conversion                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                      
+dsdo                             | Jonas Smedegaard <dr@jones.dk>                                                 
+dutch                            | Thijs Kinkhorst <thijs@debian.org>                                             
+enchant                          | Prach Pongpanich <prach@debian.org>                                            
+eo-spell                         | Agustin Martin Domingo <agmartin@debian.org>                                   
+fonts-arabeyes                   | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>              
+fonts-farsiweb                   | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>              
+fonts-font-awesome               | Debian Fonts Task Force <debian-fonts@lists.debian.org>                        
+fonts-hosny-amiri                | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>              
+fonts-manchufont                 | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>              
+fonts-nafees                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                      
+fonts-roboto-slab                | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>              
+fonts-sil-ezra                   | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>              
+fonts-sil-nuosusil               | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>              
+fonts-sil-scheherazade           | Debian Fonts Task Force <debian-fonts@lists.debian.org>                        
+fonts-ukij-uyghur                | Debian Fonts Task Force <pkg-fonts-devel@lists.alioth.debian.org>              
+gcc-mingw-w64                    | Stephen Kitt <skitt@debian.org>                                                
+glade                            | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>       
+glibc-doc-reference              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                      
+glm                              | Debian Science Maintainers <debian-science-maintainers@lists.alioth.debian.org>
+gtkmm-documentation              | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>       
+hfst-ospell                      | Debian Science Team <debian-science-maintainers@lists.alioth.debian.org>       
+hidapi                           | Scott Talbert <swt@techie.net>                                                 
+hunspell-an                      | Jordi Mallach <jordi@debian.org>                                               
+hunspell-ar                      | Lior Kaplan <kaplan@debian.org>                                                
+hunspell-be                      | Hleb Valoshka <375gnu@gmail.com>                                               
+hunspell-bo                      | Elie Roux <elie.roux@telecom-bretagne.eu>                                      
+hunspell-br                      | Elie Roux <elie.roux@telecom-bretagne.eu>                                      
+hunspell-ca                      | Jordi Mallach <jordi@debian.org>                                               
+hunspell-dict-ko                 | Debian Korean L10N <debian-l10n-korean@lists.debian.org>                       
+hunspell-dz                      | Elie Roux <elie.roux@telecom-bretagne.eu>                                      
+hunspell-kk                      | Timur Birsh <taem@linukz.org>                                                  
+hunspell-lv                      | Aigars Mahinovs <aigarius@debian.org>                                          
+hunspell-ml                      | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                     
+hunspell-se                      | Petter Reinholdtsen <pere@debian.org>                                          
+hyphen-indic                     | Debian-IN Team <debian-in-workers@lists.alioth.debian.org>                     
+iirish                           | Alastair McKinstry <mckinstry@debian.org>                                      
+ilmbase                          | Debian PhotoTools Maintainers <pkg-phototools-devel@lists.alioth.debian.org>   
+imanx                            | Alastair McKinstry <mckinstry@debian.org>                                      
+infinipath-psm                   | Debian HPC Team <debian-hpc@lists.debian.org>                                  
+intel-ipsec-mb                   | Colin Ian King <colin.king@canonical.com>                                      
+ipolish                          | Robert Luberda <robert@debian.org>                                             
+ispell-et                        | Agustin Martin Domingo <agmartin@debian.org>                                   
+ispell-fo                        | Agustin Martin Domingo <agmartin@debian.org>                                   
+ispell-gl                        | Agustin Martin Domingo <agmartin@debian.org>                                   
+ispell-uk                        | Євгеній Мещеряков <eugen@debian.org>                                           
+khronos-opencl-headers           | Debian OpenCL Maintainers <pkg-opencl-devel@lists.alioth.debian.org>           
+language-pack-gnome-af           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-af-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-am           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-am-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-an           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-an-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ar           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ar-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-as           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-as-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ast          | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ast-base     | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-az           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-az-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-be           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-be-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-bg           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-bg-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-bn           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-bn-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-br           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-br-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-bs           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-bs-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ca           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ca-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ckb          | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ckb-base     | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-crh          | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-crh-base     | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-cs           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-cs-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-cy           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-cy-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-da           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-da-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-dz           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-dz-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-el           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-el-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-eo           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-eo-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-et           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-et-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-eu           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-eu-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-fa           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-fa-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-fi           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-fi-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-fur          | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-fur-base     | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ga           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ga-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-gd           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-gd-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-gl           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-gl-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-gu           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-gu-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-he           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-he-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-hi           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-hi-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-hr           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-hr-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-hu           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-hu-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ia           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ia-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-id           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-id-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-is           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-is-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ja           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ja-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ka           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ka-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-kk           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-kk-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-km           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-km-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-kn           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-kn-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ko           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ko-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ku           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ku-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-lt           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-lt-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-lv           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-lv-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-mk           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-mk-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ml           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ml-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-mr           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-mr-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ms           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ms-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-my           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-my-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-nb           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-nb-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-nds          | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-nds-base     | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ne           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ne-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-nl           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-nl-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-nn           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-nn-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-oc           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-oc-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-or           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-or-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-pa           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-pa-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-pl           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-pl-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ro           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ro-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-si           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-si-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-sk           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-sk-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-sl           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-sl-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-sq           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-sq-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-sr           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-sr-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-sv           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-sv-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-szl          | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-szl-base     | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ta           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ta-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-te           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-te-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-tg           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-tg-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-th           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-th-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-tr           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-tr-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ug           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-ug-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-uk           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-uk-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-vi           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-vi-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-xh           | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-xh-base      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-zh-hant      | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-gnome-zh-hant-base | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-zh-hant            | Language pack maintainers <language-packs@ubuntu.com>                          
+language-pack-zh-hant-base       | Language pack maintainers <language-packs@ubuntu.com>                          
+less.js                          | Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>   
+libaal                           | Felix Zielcke <fzielcke@z-51.de>                                               
+libbytesize                      | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>       
+libdmx                           | Debian X Strike Force <debian-x@lists.debian.org>                              
+libfabric                        | Debian HPC Team <debian-hpc@lists.debian.org>                                  
+libfs                            | Debian X Strike Force <debian-x@lists.debian.org>                              
+libisal                          | Debian OpenStack <team+openstack@tracker.debian.org>                           
+libixion                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                      
+libjs-bootswatch                 | Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>   
+libmaa                           | Robert Luberda <robert@debian.org>                                             
+libpfm4                          | Debian HPC Team <debian-hpc@lists.debian.org>                                  
+libpmemobj-cpp                   | Adam Borowski <kilobyte@angband.pl>                                            
+libpsm2                          | Debian HPC team <debian-hpc@lists.debian.org>                                  
+libreoffice-voikko               | Timo Jyrinki <timo@debian.org>                                                 
+libtommath                       | Debian Rakudo Maintainers <pkg-rakudo-devel@lists.alioth.debian.org>           
+libuuid-perl                     | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>               
+libverto                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                      
+libvoikko                        | Timo Jyrinki <timo@debian.org>                                                 
+libxml++2.6                      | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>       
+libyaml-tiny-perl                | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>               
+mathjax                          | Dmitry Shachnev <mitya57@debian.org>                                           
+metis                            | Debian Science Maintainers <debian-science-maintainers@lists.alioth.debian.org>
+mingw-w64                        | Stephen Kitt <skitt@debian.org>                                                
+miscfiles                        | Robert Luberda <robert@debian.org>                                             
+mkdocs-nature                    | Dmitry Shachnev <mitya57@debian.org>                                           
+modernizr                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                      
+myspell-fa                       | Lior Kaplan <kaplan@debian.org>                                                
+myspell-hy                       | Alan Baghumian <alan@technotux.org>                                            
+ndctl                            | Adam Borowski <kilobyte@angband.pl>                                            
+node-lunr                        | Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>   
+node-source-map                  | Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>   
+nodejs                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                      
+norwegian                        | Tollef Fog Heen <tfheen@debian.org>                                            
+openexr                          | Debian PhotoTools Maintainers <pkg-phototools-devel@lists.alioth.debian.org>   
+openoffice.org-hyphenation-pl    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                      
+openoffice.org-thesaurus-pl      | Mateusz Skowronski <skowri@gmail.com>                                          
+optipng                          | Debian PhotoTools Maintainers <pkg-phototools-devel@lists.alioth.debian.org>   
+pkg-php-tools                    | Debian PHP PEAR Maintainers <pkg-php-pear@lists.alioth.debian.org>             
+pkgbinarymangler                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                      
+probert                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                      
+pth                              | NIIBE Yutaka <gniibe@fsij.org>                                                 
+python-livereload                | Agustin Henze <tin@debian.org>                                                 
+python-mkdocs                    | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>       
+python-setuptools                | Matthias Klose <doko@debian.org>                                               
+python-tornado                   | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>       
+qtbase-opensource-src            | Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>                     
+qtchooser                        | Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>                     
+qtsvg-opensource-src             | Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>                     
+qttranslations-opensource-src    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                      
+recode                           | Santiago Vila <sanvila@debian.org>                                             
+shtool                           | Giovani Augusto Ferreira <giovani@debian.org>                                  
+softcatala-spell                 | Jordi Mallach <jordi@debian.org>                                               
+sphinx-rtd-theme                 | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>       
+spice-protocol                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                      
+swedish                          | Jeremiah C. Foster <jeremiah@jeremiahfoster.com>                               
+tcl8.6                           | Debian Tcl/Tk Packagers <pkg-tcltk-devel@lists.alioth.debian.org>              
+tk8.6                            | Debian Tcl/Tk Packagers <pkg-tcltk-devel@lists.alioth.debian.org>              
+tmispell-voikko                  | Timo Jyrinki <timo@debian.org>                                                 
+twitter-bootstrap3               | Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>   
+ucpp                             | Debian LibreOffice Maintainers <debian-openoffice@lists.debian.org>            
+uzbek-wordlist                   | Debian QA Group <packages@qa.debian.org>                                       
+vera                             | Ryan Kavanagh <rak@debian.org>                                                 
+voikko-fi                        | Timo Jyrinki <timo@debian.org>                                                 
+w3m                              | Tatsuya Kinoshita <tats@debian.org>                                            
+wayland-protocols                | Debian X Strike Force <debian-x@lists.debian.org>                              
+what-is-python                   | Dimitri John Ledkov <xnox@ubuntu.com>                                          
+xen                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                      
+xuxen-eu-spell                   | Agustin Martin Domingo <agmartin@debian.org>                                   
+z3                               | LLVM Packaging Team <pkg-llvm-team@lists.alioth.debian.org>                    

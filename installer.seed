@@ -1,0 +1,126 @@
+Package                           | Source                   | Why                          | Maintainer                                                     | Deb Size (B)    | Inst Size (KB) 
+----------------------------------+--------------------------+------------------------------+----------------------------------------------------------------+-----------------+-----------------
+anna                              | anna                     | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           71396 |             190
+apt-cdrom-setup                   | apt-setup                | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           73528 |             322
+apt-mirror-setup                  | apt-setup                | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |          183404 |            1819
+apt-setup-udeb                    | apt-setup                | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           72348 |             246
+archdetect                        | hw-detect                | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            2680 |              17
+base-installer                    | base-installer           | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |          105976 |             415
+bogl-bterm-udeb                   | bogl                     | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18224 |              52
+brltty-udeb                       | brltty                   | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          346388 |            1611
+bterm-unifont                     | bterm-unifont            | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          440100 |            2449
+busybox-udeb                      | busybox                  | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          173048 |             464
+cdebconf-newt-entropy             | cdebconf-entropy         | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           16800 |              58
+cdebconf-newt-terminal            | cdebconf-terminal        | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            4636 |              22
+cdebconf-newt-udeb                | cdebconf                 | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           19768 |              76
+cdebconf-priority                 | cdebconf                 | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            2932 |               8
+cdebconf-text-entropy             | cdebconf-entropy         | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           16484 |              54
+cdebconf-text-udeb                | cdebconf                 | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22816 |              91
+cdebconf-udeb                     | cdebconf                 | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           73588 |             295
+cdrom-checker                     | cdrom-checker            | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           46264 |             143
+cdrom-detect                      | cdrom-detect             | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           91424 |             331
+cdrom-retriever                   | cdrom-retriever          | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            4628 |              14
+choose-mirror                     | choose-mirror            | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            1120 |               3
+clock-setup                       | clock-setup              | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           63322 |             176
+console-setup-linux-charmaps-udeb | console-setup            | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22344 |             121
+console-setup-linux-fonts-udeb    | console-setup            | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           57012 |              72
+console-setup-pc-ekbd             | console-setup            | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          115924 |             120
+debootstrap-udeb                  | debootstrap              | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           26872 |             243
+di-utils                          | debian-installer-utils   | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           31420 |             118
+di-utils-mapdevfs                 | debian-installer-utils   | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            2476 |               9
+di-utils-reboot                   | debian-installer-utils   | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            8880 |              24
+di-utils-shell                    | debian-installer-utils   | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           19568 |              55
+di-utils-terminfo                 | debian-installer-utils   | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            2904 |              18
+disk-detect                       | hw-detect                | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           27372 |              86
+dmraid-udeb                       | dmraid                   | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           10684 |              40
+download-installer                | net-retriever            | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            3456 |               9
+driver-injection-disk-detect      | hw-detect                | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           11940 |              37
+e2fsprogs-udeb                    | e2fsprogs                | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          390940 |            1184
+eject-udeb                        | eject                    | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           33420 |             217
+env-preseed                       | preseed                  | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            1876 |              13
+ethdetect                         | hw-detect                | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           27244 |              92
+fbset-udeb                        | fbset                    | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           21116 |              91
+fdisk-udeb                        | util-linux               | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          705308 |            3392
+file-preseed                      | preseed                  | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            3780 |              11
+finish-install                    | finish-install           | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           23272 |              90
+gpgv-udeb                         | gnupg2                   | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          190540 |             444
+grub-installer                    | grub-installer           | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |          161852 |             750
+hdparm-udeb                       | hdparm                   | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           54128 |             144
+hw-detect                         | hw-detect                | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           84924 |             310
+initrd-kickseed                   | kickseed                 | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            4148 |              34
+initrd-preseed                    | preseed                  | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |             996 |               5
+installation-locale               | installation-locale      | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7076 |             135
+isc-dhcp-client-udeb              | isc-dhcp                 | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          207572 |             545
+iso-scan                          | iso-scan                 | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           65124 |             277
+jfsutils-udeb                     | jfsutils                 | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          176036 |            1528
+libfribidi0-udeb                  | fribidi                  | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           16796 |             117
+libkmod2-udeb                     | kmod                     | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           52492 |             141
+linux-udebs-generic               | linux                    | Ubuntu.Bionic installer seed | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>              |            1016 |               2
+load-cdrom                        | cdrom-retriever          | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            1616 |               5
+load-iso                          | iso-scan                 | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            3904 |              11
+load-media                        | media-retriever          | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           33712 |             127
+localechooser                     | localechooser            | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |          216408 |             948
+lowmem                            | lowmem                   | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            1616 |               8
+lowmemcheck                       | lowmem                   | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            5572 |              25
+lsb-release-udeb                  | base-files               | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |             904 |               4
+lvm2-udeb                         | lvm2                     | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          688160 |            2881
+main-menu                         | main-menu                | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           25414 |              72
+mdadm-udeb                        | mdadm                    | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          289904 |             927
+media-retriever                   | media-retriever          | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14116 |              43
+mkreiserfs-udeb                   | reiserfsprogs            | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          108692 |             473
+nano-udeb                         | nano                     | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           60732 |             138
+net-retriever                     | net-retriever            | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           22764 |              64
+netcfg                            | netcfg                   | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          303540 |            1278
+network-console                   | network-console          | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           63104 |             222
+network-preseed                   | preseed                  | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           26768 |              94
+nic-firmware                      | linux-firmware           | Ubuntu.Bionic installer seed | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>              |        10773260 |           46670
+nobootloader                      | nobootloader             | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           51368 |             215
+oem-config-udeb                   | ubiquity                 | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           24036 |              79
+openssh-client-udeb               | openssh                  | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          295088 |             901
+os-prober-udeb                    | os-prober                | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           15040 |              89
+partconf-find-partitions          | partconf                 | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6416 |              28
+partconf-mkfstab                  | partconf                 | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6064 |              38
+parted-udeb                       | parted                   | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           25404 |              78
+partman-auto                      | partman-auto             | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           73908 |             326
+partman-auto-crypto               | partman-auto-crypto      | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            5732 |              20
+partman-auto-loop                 | partman-auto-loop        | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            4216 |              38
+partman-auto-lvm                  | partman-auto-lvm         | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           81068 |             295
+partman-auto-raid                 | partman-auto-raid        | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           20410 |              58
+partman-base                      | partman-base             | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |          138196 |             685
+partman-basicfilesystems          | partman-basicfilesystems | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |          184584 |             697
+partman-basicmethods              | partman-basicmethods     | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18596 |              85
+partman-btrfs                     | partman-btrfs            | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            9916 |              53
+partman-crypto-dm                 | partman-crypto           | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            1464 |              25
+partman-efi                       | partman-efi              | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           23004 |              90
+partman-ext3                      | partman-ext3             | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           85920 |             259
+partman-jfs                       | partman-jfs              | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           21032 |             104
+partman-lvm                       | partman-lvm              | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          187536 |            1009
+partman-md                        | partman-md               | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          140044 |             618
+partman-multipath                 | partman-multipath        | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            2284 |              16
+partman-partitioning              | partman-partitioning     | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |          131836 |             585
+partman-swapfile                  | partman-swapfile         | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            2176 |              10
+partman-target                    | partman-target           | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |          138870 |             434
+partman-xfs                       | partman-xfs              | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            5300 |              39
+pciutils-udeb                     | pciutils                 | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          199952 |             258
+pcmciautils-udeb                  | pcmciautils              | Ubuntu.Bionic installer seed | Colin Watson <cjwatson@debian.org>                             |           14408 |              56
+pkgsel                            | pkgsel                   | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           42888 |             123
+preseed-common                    | preseed                  | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           19376 |              81
+reiserfsprogs-udeb                | reiserfsprogs            | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           98136 |             275
+rescue-check                      | rescue                   | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            2528 |              11
+rescue-mode                       | rescue                   | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          100260 |             408
+rootskel                          | rootskel                 | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |            9636 |             103
+save-logs                         | installation-report      | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           59740 |             188
+scsi-firmware                     | linux-firmware           | Ubuntu.Bionic installer seed | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>              |          373116 |            1066
+strace-udeb                       | strace                   | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          292624 |            1375
+tzsetup-udeb                      | tzsetup                  | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |           60600 |             257
+ubuntu-keyring-udeb               | ubuntu-keyring           | Ubuntu.Bionic installer seed | Dimitri John Ledkov <dimitri.ledkov@canonical.com>             |            8220 |              14
+udev-udeb                         | systemd                  | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          461192 |            1837
+udpkg                             | udpkg                    | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            8884 |              39
+usb-discover                      | usb-discover             | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            1648 |              12
+user-setup-udeb                   | user-setup               | Ubuntu.Bionic installer seed | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>      |          134928 |             512
+util-linux-udeb                   | util-linux               | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          421956 |            1241
+wget-udeb                         | wget                     | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          175388 |             436
+wireless-tools-udeb               | wireless-tools           | Ubuntu.Bionic installer seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           25080 |             108
+xfsprogs-udeb                     | xfsprogs                 | Ubuntu.Bionic installer seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          135208 |             318
+-------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                             |        21406844 |           88912

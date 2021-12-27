@@ -1,0 +1,7 @@
+Source       | Maintainer                                                                  
+-------------+------------------------------------------------------------------------------
+alabaster    | Jeremy T. Bouse <jbouse@debian.org>                                         
+doxygen      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+highlight.js | Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+mdds         | Debian LibreOffice Maintaners <debian-openoffice@lists.debian.org>          
+unicode-data | Alastair McKinstry <mckinstry@debian.org>                                   

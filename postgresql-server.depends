@@ -1,0 +1,34 @@
+Package                  | Source            | Why                        | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-------------------------+-------------------+----------------------------+-----------------------------------------------------------+-----------------+-----------------
+libasn1-8-heimdal        | heimdal           | libgssapi3-heimdal         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          181044 |             798
+libgdbm-compat4          | gdbm              | libperl5.30                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6244 |              40
+libgssapi3-heimdal       | heimdal           | libldap-2.4-2              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           96132 |             324
+libhcrypto4-heimdal      | heimdal           | libgssapi3-heimdal         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           87864 |             274
+libheimbase1-heimdal     | heimdal           | libhcrypto4-heimdal        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           29716 |             113
+libheimntlm0-heimdal     | heimdal           | libgssapi3-heimdal         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15088 |              85
+libhx509-5-heimdal       | heimdal           | libkrb5-26-heimdal         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106632 |             360
+libkrb5-26-heimdal       | heimdal           | libheimntlm0-heimdal       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          207648 |             665
+libldap-2.4-2            | openldap          | libpq5                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          155528 |             522
+libldap-common           | openldap          | libldap-2.4-2              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17288 |             101
+libllvm10                | llvm-toolchain-10 | postgresql-12              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        15312900 |           71983
+libperl5.30              | perl              | perl                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         3942624 |           27081
+libpq5                   | postgresql-12     | postgresql-client-12       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          113008 |             396
+libroken18-heimdal       | heimdal           | libasn1-8-heimdal          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41848 |             144
+libsasl2-2               | cyrus-sasl2       | libldap-2.4-2              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49324 |             152
+libsasl2-modules         | cyrus-sasl2       | libsasl2-2 (Recommends)    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49064 |             236
+libsasl2-modules-db      | cyrus-sasl2       | libsasl2-2                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14932 |              66
+libsensors-config        | lm-sensors        | libsensors5                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6092 |              42
+libsensors5              | lm-sensors        | sysstat                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           27364 |             100
+libwind0-heimdal         | heimdal           | libhx509-5-heimdal         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           48048 |             205
+libxslt1.1               | libxslt           | postgresql-12              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          151660 |             495
+perl                     | perl              | postgresql-common          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          224080 |             745
+perl-modules-5.30        | perl              | perl                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2737008 |           17226
+postgresql-12            | postgresql-12     | postgresql                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        13425876 |           40008
+postgresql-client-12     | postgresql-12     | postgresql-12              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1041704 |            3660
+postgresql-client-common | postgresql-common | postgresql-client-12       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           28244 |             178
+postgresql-common        | postgresql-common | postgresql-12              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          169312 |             678
+postgresql-doc-12        | postgresql-12     | postgresql-doc             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1833068 |           14205
+ssl-cert                 | ssl-cert          | postgresql-common          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           16952 |              63
+sysstat                  | sysstat           | postgresql-12 (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          452852 |            1488
+--------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                      |        40589144 |          182433

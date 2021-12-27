@@ -1,0 +1,33 @@
+Package                     | Source                      | Why                             | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+----------------------------+-----------------------------+---------------------------------+-----------------------------------------------------------+-----------------+-----------------
+apparmor                    | apparmor                    | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          494300 |            1948
+cloud-init                  | cloud-init                  | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          406084 |            2013
+dosfstools                  | dosfstools                  | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           59004 |             211
+fwupdate                    | fwupdate                    | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3252 |              13
+gdbserver                   | gdb                         | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          221680 |             825
+gdisk                       | gdisk                       | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          214516 |             860
+grub-efi-amd64-signed       | grub2-signed                | Ubuntu.Bionic system-image seed | Colin Watson <cjwatson@ubuntu.com>                        |          468240 |            4448
+grub-xen-bin                | grub2                       | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          989188 |            5445
+init                        | init-system-helpers         | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6088 |              21
+initramfs-tools-ubuntu-core | initramfs-tools-ubuntu-core | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           10780 |              51
+iptables                    | iptables                    | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          390328 |            2639
+isc-dhcp-client             | isc-dhcp                    | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          246084 |             730
+libnss-extrausers           | libnss-extrausers           | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15700 |              56
+libnss-myhostname           | systemd                     | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           44252 |             259
+libpam-systemd              | systemd                     | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          185500 |             615
+netbase                     | netbase                     | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           13144 |              43
+openssh-server              | openssh                     | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          376932 |            1491
+ppp                         | ppp                         | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          327004 |            1037
+python3-libapparmor         | apparmor                    | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           26680 |             202
+rsyslog                     | rsyslog                     | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          427240 |            1655
+seccomp                     | libseccomp                  | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5272 |              33
+shim-signed                 | shim-signed                 | Ubuntu.Bionic system-image seed | Steve Langasek <steve.langasek@ubuntu.com>                |          343812 |            1357
+snapd                       | snapd                       | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        23199936 |          102132
+squashfs-tools              | squashfs-tools              | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          120832 |             356
+systemd                     | systemd                     | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         3795776 |           15084
+ubuntu-core-snapd-units     | snapd                       | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            1608 |             130
+ubuntu-fan                  | ubuntu-fan                  | Ubuntu.Bionic system-image seed | Andy Whitcroft <apw@ubuntu.com>                           |           34540 |             146
+wpasupplicant               | wpa                         | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1182616 |            3406
+xz-utils                    | xz-utils                    | Ubuntu.Bionic system-image seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           82468 |             348
+--------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                        |        33692856 |          147554

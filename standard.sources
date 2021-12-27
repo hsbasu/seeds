@@ -1,0 +1,82 @@
+Source                    | Maintainer                                                                  
+--------------------------+------------------------------------------------------------------------------
+accountsservice           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+bash-completion           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+bind9                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+bsdmainutils              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+command-not-found         | Michael Vogt <michael.vogt@ubuntu.com>                                      
+cron                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+distro-info               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+dmidecode                 | Jörg Frings-Fürst <debian@jff.email>                                        
+dosfstools                | Andreas Bombe <aeb@debian.org>                                              
+ed                        | Martin Zobel-Helas <zobel@debian.org>                                       
+friendly-recovery         | Debian QA Group <packages@qa.debian.org>                                    
+fuse                      | Laszlo Boszormenyi (GCS) <gcs@debian.org>                                   
+gdbm                      | Dmitry Bogatov <KAction@debian.org>                                         
+gettext                   | Santiago Vila <sanvila@debian.org>                                          
+groff                     | Colin Watson <cjwatson@debian.org>                                          
+hdparm                    | Alexandre Mestiashvili <mestia@debian.org>                                  
+irqbalance                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+iso-codes                 | Dr. Tobias Quathamer <toddy@debian.org>                                     
+keyutils                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+krb5                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+language-selector         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libcbor                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libdrm                    | Debian X Strike Force <debian-x@lists.debian.org>                           
+libedit                   | LLVM Packaging Team <pkg-llvm-team@lists.alioth.debian.org>                 
+libfido2                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libmaxminddb              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libnetfilter-conntrack    | Debian Netfilter Packaging Team <pkg-netfilter-team@lists.alioth.debian.org>
+libnfnetlink              | Alexander Wirt <formorer@debian.org>                                        
+libnftnl                  | Debian Netfilter Packaging Team <pkg-netfilter-team@lists.alioth.debian.org>
+libpcap                   | Romain Francoise <rfrancoise@debian.org>                                    
+libpipeline               | Colin Watson <cjwatson@debian.org>                                          
+libpng1.6                 | Maintainers of libpng1.6 packages <libpng1.6@packages.debian.org>           
+libpsl                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libunwind                 | Adrian Bunk <bunk@debian.org>                                               
+libusb-1.0                | Aurelien Jarno <aurel32@debian.org>                                         
+libuv1                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libx11                    | Debian X Strike Force <debian-x@lists.debian.org>                           
+libxau                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libxcb                    | Debian X Strike Force <debian-x@lists.debian.org>                           
+libxdmcp                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libxext                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+libxmu                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+lmdb                      | LMDB <lmdb@packages.debian.org>                                             
+lshw                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+lsof                      | Andres Salomon <dilinger@debian.org>                                        
+ltrace                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+man-db                    | Colin Watson <cjwatson@debian.org>                                          
+manpages                  | Dr. Tobias Quathamer <toddy@debian.org>                                     
+mlocate                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+mtr                       | Robert Woodcock <rcw@debian.org>                                            
+nano                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+netkit-ftp                | Mats Erik Andersson <mats.andersson@gisladisker.se>                         
+netkit-telnet             | Mats Erik Andersson <mats.andersson@gisladisker.se>                         
+ntfs-3g                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+numactl                   | Ian Wienand <ianw@debian.org>                                               
+openssh                   | Debian OpenSSH Maintainers <debian-ssh@lists.debian.org>                    
+parted                    | Parted Maintainer Team <parted-maintainers@alioth-lists.debian.net>         
+pci.ids                   | Guillem Jover <guillem@debian.org>                                          
+pciutils                  | Guillem Jover <guillem@debian.org>                                          
+plymouth                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+policykit-1               | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>    
+popularity-contest        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+powermgmt-base            | Adam Borowski <kilobyte@angband.pl>                                         
+psmisc                    | Craig Small <csmall@debian.org>                                             
+publicsuffix              | Daniel Kahn Gillmor <dkg@fifthhorseman.net>                                 
+python-apt                | APT Development Team <deity@lists.debian.org>                               
+python3-stdlib-extensions | Matthias Klose <doko@debian.org>                                            
+rsync                     | Paul Slootman <paul@debian.org>                                             
+strace                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+tcpdump                   | Romain Francoise <rfrancoise@debian.org>                                    
+texinfo                   | Debian TeX maintainers <debian-tex-maint@lists.debian.org>                  
+time                      | Bob Proulx <bob@proulx.com>                                                 
+ubuntu-release-upgrader   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+uchardet                  | James Cowgill <jcowgill@debian.org>                                         
+ufw                       | Jamie Strandboge <jamie@ubuntu.com>                                         
+update-manager            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+usb.ids                   | Aurelien Jarno <aurel32@debian.org>                                         
+usbutils                  | Aurelien Jarno <aurel32@debian.org>                                         
+wget                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   
+xauth                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                   

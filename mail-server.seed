@@ -1,0 +1,10 @@
+Package       | Source    | Why                            | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+--------------+-----------+--------------------------------+-----------------------------------------------------------+-----------------+-----------------
+bsd-mailx     | bsd-mailx | Ubuntu.Bionic mail-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           67196 |             174
+dovecot-imapd | dovecot   | Ubuntu.Bionic mail-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          159792 |             642
+dovecot-pop3d | dovecot   | Ubuntu.Bionic mail-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           33136 |             170
+mutt          | mutt      | Ubuntu.Bionic mail-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          949988 |            4084
+postfix       | postfix   | Ubuntu.Bionic mail-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1197944 |            4433
+procmail      | procmail  | Ubuntu.Bionic mail-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          140228 |             302
+-----------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                       |         2548284 |            9805

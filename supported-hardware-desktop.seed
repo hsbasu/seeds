@@ -1,0 +1,7 @@
+Package     | Source      | Why                                           | Maintainer                                                     | Deb Size (B)    | Inst Size (KB) 
+------------+-------------+-----------------------------------------------+----------------------------------------------------------------+-----------------+-----------------
+gobi-loader | gobi-loader | Ubuntu.Bionic supported-hardware-desktop seed | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>              |            8168 |              33
+hfsplus     | hfsplus     | Ubuntu.Bionic supported-hardware-desktop seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           40946 |             219
+irda-utils  | irda-utils  | Ubuntu.Bionic supported-hardware-desktop seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           81544 |             260
+-------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                           |          130658 |             512

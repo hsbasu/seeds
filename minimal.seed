@@ -1,0 +1,33 @@
+Package                | Source                 | Why                        | Maintainer                                                     | Deb Size (B)    | Inst Size (KB) 
+-----------------------+------------------------+----------------------------+----------------------------------------------------------------+-----------------+-----------------
+adduser                | adduser                | Ubuntu.Bionic minimal seed | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          162792 |             624
+apt                    | apt                    | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1288960 |            4182
+apt-utils              | apt                    | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          213336 |             832
+bzip2                  | bzip2                  | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           34064 |             195
+console-setup          | console-setup          | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           99984 |             428
+debconf-i18n           | debconf                | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          206284 |             781
+eject                  | eject                  | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           23760 |             172
+init                   | init-system-helpers    | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6088 |              21
+initramfs-tools        | initramfs-tools        | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9212 |             143
+iproute2               | iproute2               | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          857960 |            2730
+iputils-ping           | iputils                | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           40120 |             105
+isc-dhcp-client        | isc-dhcp               | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          246084 |             730
+kbd                    | kbd                    | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          212556 |            1340
+kmod                   | kmod                   | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           93904 |             255
+less                   | less                   | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          125868 |             308
+locales                | glibc                  | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         3869800 |           17196
+lsb-release            | lsb                    | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           10568 |              66
+netbase                | netbase                | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           13144 |              43
+netcat-openbsd         | netcat-openbsd         | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           37788 |             108
+netplan.io             | netplan.io             | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           70760 |             280
+python3                | python3-defaults       | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           47616 |             189
+sudo                   | sudo                   | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          512808 |            2200
+tzdata                 | tzdata                 | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          293692 |            3928
+ubuntu-advantage-tools | ubuntu-advantage-tools | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           47592 |             218
+ubuntu-keyring         | ubuntu-keyring         | Ubuntu.Bionic minimal seed | Dimitri John Ledkov <dimitri.ledkov@canonical.com>             |           22244 |              46
+ubuntu-minimal         | ubuntu-meta            | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            3872 |              51
+udev                   | systemd                | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1361960 |            9111
+vim-tiny               | vim                    | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          577712 |            1530
+whiptail               | newt                   | Ubuntu.Bionic minimal seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           16960 |              75
+----------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                              |        10507488 |           47887

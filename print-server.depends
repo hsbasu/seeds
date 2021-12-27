@@ -1,0 +1,123 @@
+Package                   | Source           | Why                               | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+--------------------------+------------------+-----------------------------------+-----------------------------------------------------------+-----------------+-----------------
+acl                       | acl              | libsane                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           37756 |             192
+avahi-daemon              | avahi            | cups-browsed (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           60988 |             275
+bc                        | bc               | cups-daemon                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           86272 |             226
+colord                    | colord           | cups-daemon (Recommends)          | Christopher James Halse Rogers <raof@ubuntu.com>          |          191752 |             957
+colord-data               | colord           | colord                            | Christopher James Halse Rogers <raof@ubuntu.com>          |         1093124 |            2504
+cups-browsed              | cups-filters     | cups-daemon (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          109196 |             444
+cups-common               | cups             | cups                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          196100 |            3832
+cups-core-drivers         | cups             | cups                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           28116 |             223
+cups-daemon               | cups             | cups-core-drivers                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          307808 |             935
+cups-filters              | cups-filters     | cups                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          409900 |            1810
+cups-filters-core-drivers | cups-filters     | cups-core-drivers                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          163460 |             697
+cups-ipp-utils            | cups             | cups-filters-core-drivers         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          141136 |             933
+cups-ppdc                 | cups             | cups                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           91332 |             634
+cups-server-common        | cups             | cups                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          402860 |            2398
+dbus-user-session         | dbus             | dconf-service                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9424 |             126
+dconf-gsettings-backend   | dconf            | colord                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22468 |              87
+dconf-service             | dconf            | dconf-gsettings-backend           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           29780 |             114
+fontconfig-config         | fontconfig       | libfontconfig1                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           28780 |             170
+fonts-dejavu-core         | fonts-dejavu     | fontconfig-config                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1040712 |            2954
+fonts-droid-fallback      | fonts-android    | libgs9-common (Recommends)        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1804596 |            7347
+fonts-noto-mono           | fonts-noto       | fonts-droid-fallback (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           80796 |             149
+fonts-urw-base35          | fonts-urw-base35 | libgs9-common                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         6332592 |           11058
+ghostscript               | ghostscript      | cups                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51416 |             226
+libasn1-8-heimdal         | heimdal          | libgssapi3-heimdal                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          181044 |             798
+libavahi-client3          | avahi            | cups                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           25500 |             129
+libavahi-common-data      | avahi            | libavahi-common3                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           21352 |             112
+libavahi-common3          | avahi            | libavahi-client3                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           21728 |             109
+libavahi-core7            | avahi            | avahi-daemon                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           81732 |             277
+libavahi-glib1            | avahi            | cups-browsed                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7804 |              74
+libbrotli1                | brotli           | libcurl3-gnutls                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          269864 |             767
+libcairo2                 | cairo            | poppler-utils                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          583488 |            1330
+libcolord2                | colord           | colord                            | Christopher James Halse Rogers <raof@ubuntu.com>          |          133436 |             608
+libcolorhug2              | colord           | colord                            | Christopher James Halse Rogers <raof@ubuntu.com>          |           38412 |             150
+libcups2                  | cups             | cups                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          233040 |             769
+libcupsfilters1           | cups-filters     | cups-browsed                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          115968 |             368
+libcurl3-gnutls           | curl             | libsane                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          230612 |             684
+libdaemon0                | libdaemon        | avahi-daemon                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           13908 |              46
+libdconf1                 | dconf            | dconf-service                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           37384 |             107
+libexif12                 | libexif          | libgphoto2-6                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           77424 |             360
+libfontconfig1            | fontconfig       | libgd3                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          114072 |             318
+libfontembed1             | cups-filters     | cups-filters                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           50216 |             177
+libfreetype6              | freetype         | libfontconfig1                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          340708 |             836
+libgd3                    | libgd2           | libgphoto2-6                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          117852 |             452
+libgdbm-compat4           | gdbm             | libperl5.30                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6244 |              40
+libgphoto2-6              | libgphoto2       | libsane                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          643480 |            3176
+libgphoto2-l10n           | libgphoto2       | libgphoto2-6 (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           12144 |             120
+libgphoto2-port12         | libgphoto2       | libgphoto2-6                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51780 |             336
+libgs9                    | ghostscript      | ghostscript                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2170636 |           16159
+libgs9-common             | ghostscript      | libgs9                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          680736 |            2999
+libgssapi3-heimdal        | heimdal          | libldap-2.4-2                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           96132 |             324
+libgudev-1.0-0            | libgudev         | colord                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           13988 |              65
+libgusb2                  | libgusb          | libcolorhug2                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22096 |              93
+libgutenprint-common      | gutenprint       | libgutenprint9                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          583380 |            6074
+libgutenprint9            | gutenprint       | printer-driver-gutenprint         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          488212 |            2739
+libhcrypto4-heimdal       | heimdal          | libgssapi3-heimdal                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           87864 |             274
+libheimbase1-heimdal      | heimdal          | libhcrypto4-heimdal               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           29716 |             113
+libheimntlm0-heimdal      | heimdal          | libgssapi3-heimdal                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15088 |              85
+libhpmud0                 | hplip            | printer-driver-hpijs              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106556 |             430
+libhx509-5-heimdal        | heimdal          | libkrb5-26-heimdal                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106632 |             360
+libidn11                  | libidn           | libgs9                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46180 |             244
+libieee1284-3             | libieee1284      | libsane                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           20976 |              74
+libijs-0.35               | ijs              | libgs9                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15700 |              50
+libjbig0                  | jbigkit          | libtiff5                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           26696 |              73
+libjbig2dec0              | jbig2dec         | libgs9                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           60000 |             173
+libjpeg-turbo8            | libjpeg-turbo    | libjpeg8                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          117588 |             558
+libjpeg8                  | libjpeg8-empty   | libgd3                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2194 |              26
+libkrb5-26-heimdal        | heimdal          | libheimntlm0-heimdal              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          207648 |             665
+liblcms2-2                | lcms2            | libcolord2                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          140296 |             389
+libldap-2.4-2             | openldap         | libcurl3-gnutls                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          155528 |             522
+libldap-common            | openldap         | libldap-2.4-2                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17288 |             101
+liblouis-data             | liblouis         | liblouis20                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1623888 |            9547
+liblouis20                | liblouis         | liblouisutdml-bin                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           72252 |             180
+liblouisutdml-bin         | liblouisutdml    | cups-filters (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9732 |              44
+liblouisutdml-data        | liblouisutdml    | liblouisutdml9                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           40968 |             223
+liblouisutdml9            | liblouisutdml    | liblouisutdml-bin                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           82916 |             218
+libltdl7                  | libtool          | libgphoto2-port12                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           38536 |             418
+libmysqlclient21          | mysql-8.0        | libsnmp35                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1217972 |            7204
+libnghttp2-14             | nghttp2          | libcurl3-gnutls                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           78688 |             212
+libnspr4                  | nspr             | libpoppler97                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          107016 |             314
+libnss-mdns               | nss-mdns         | avahi-daemon (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22904 |             149
+libnss3                   | nss              | libpoppler97                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1171304 |            3841
+libopenjp2-7              | openjpeg2        | libpoppler97                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          140944 |             399
+libpaper-utils            | libpaper         | libpaper1 (Recommends)            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            8400 |              43
+libpaper1                 | libpaper         | cups-daemon                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           12964 |              64
+libperl5.30               | perl             | libsnmp35                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         3942624 |           27081
+libpixman-1-0             | pixman           | libcairo2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          226588 |             692
+libpolkit-agent-1-0       | policykit-1      | policykit-1                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15268 |              78
+libpoppler-cpp0v5         | poppler          | cups-filters-core-drivers         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           35612 |             141
+libpoppler97              | poppler          | libpoppler-cpp0v5                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          915100 |            3432
+libqpdf26                 | qpdf             | cups-filters-core-drivers         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          420740 |            1284
+libroken18-heimdal        | heimdal          | libasn1-8-heimdal                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41848 |             144
+librtmp1                  | rtmpdump         | libcurl3-gnutls                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           54916 |             144
+libsane                   | sane-backends    | colord                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2403832 |           12638
+libsane-common            | sane-backends    | libsane                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          276836 |            1232
+libsasl2-2                | cyrus-sasl2      | libldap-2.4-2                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49324 |             152
+libsasl2-modules          | cyrus-sasl2      | libsasl2-2 (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49064 |             236
+libsasl2-modules-db       | cyrus-sasl2      | libsasl2-2                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14932 |              66
+libsensors-config         | lm-sensors       | libsensors5                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6092 |              42
+libsensors5               | lm-sensors       | libsnmp35                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           27364 |             100
+libsnmp-base              | net-snmp         | libsnmp35                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          206028 |             710
+libsnmp35                 | net-snmp         | libsane                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          981380 |            3581
+libssh-4                  | libssh           | libcurl3-gnutls                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          169892 |             490
+libtiff5                  | tiff             | libgd3                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          161488 |             552
+libwebp6                  | libwebp          | libtiff5                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          185380 |             430
+libwind0-heimdal          | heimdal          | libhx509-5-heimdal                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           48048 |             205
+libwrap0                  | tcp-wrappers     | libsnmp35                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46280 |             109
+libxcb-render0            | libxcb           | libcairo2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14840 |              86
+libxcb-shm0               | libxcb           | libcairo2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5584 |              36
+libxpm4                   | libxpm           | libgd3                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           34050 |              89
+libxrender1               | libxrender       | libcairo2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           18706 |              60
+mysql-common              | mysql-defaults   | libmysqlclient21                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7496 |              34
+perl                      | perl             | perl-modules-5.30 (Recommends)    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          224080 |             745
+perl-modules-5.30         | perl             | libperl5.30                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2737008 |           17226
+policykit-1               | policykit-1      | colord                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           84040 |             556
+poppler-data              | poppler-data     | libpoppler97 (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1474528 |           12219
+poppler-utils             | poppler          | cups-filters-core-drivers         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          173700 |             736
+sane-utils                | sane-backends    | libsane (Recommends)              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          201108 |             632
+ssl-cert                  | ssl-cert         | cups-daemon                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           16952 |              63
+update-inetd              | update-inetd     | sane-utils                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           24788 |              82
+---------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                             |        41264686 |          191983

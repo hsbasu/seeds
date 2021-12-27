@@ -1,0 +1,130 @@
+Source                   | Maintainer                                                              
+-------------------------+--------------------------------------------------------------------------
+alsa-lib                 | Debian ALSA Maintainers <pkg-alsa-devel@lists.alioth.debian.org>        
+anna                     | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+apt-setup                | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+argon2                   | Luca Bruno <lucab@debian.org>                                           
+base-files               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+base-installer           | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+bind9-libs               | Debian DNS Team <team+dns@tracker.debian.org>                           
+bogl                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+brltty                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+bterm-unifont            | Debian Install System Team <debian-boot@lists.debian.org>               
+btrfs-progs              | Adam Borowski <kilobyte@angband.pl>                                     
+busybox                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+cdebconf                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+cdebconf-entropy         | Debian Install System Team <debian-boot@lists.debian.org>               
+cdebconf-terminal        | Debian Install System Team <debian-boot@lists.debian.org>               
+cdrom-checker            | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+cdrom-detect             | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+cdrom-retriever          | Debian Install System Team <debian-boot@lists.debian.org>               
+choose-mirror            | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+clock-setup              | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+console-setup            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+cryptsetup               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+debian-installer-utils   | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+debootstrap              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+dmidecode                | Jörg Frings-Fürst <debian@jff.email>                                    
+dmraid                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+dosfstools               | Andreas Bombe <aeb@debian.org>                                          
+e2fsprogs                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+eject                    | Debian QA Group <packages@qa.debian.org>                                
+fbset                    | Sudip Mukherjee <sudipm.mukherjee@gmail.com>                            
+finish-install           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+fribidi                  | Debian Hebrew Packaging Team <team+hebrew@tracker.debian.org>           
+fuse                     | Laszlo Boszormenyi (GCS) <gcs@debian.org>                               
+glibc                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+gnupg2                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+grub-installer           | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+grub2                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+hdparm                   | Alexandre Mestiashvili <mestia@debian.org>                              
+hw-detect                | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+installation-locale      | Debian Install System Team <debian-boot@lists.debian.org>               
+installation-report      | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+isc-dhcp                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+iso-scan                 | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+jfsutils                 | Laszlo Boszormenyi (GCS) <gcs@debian.org>                               
+json-c                   | Debian QA Group <packages@qa.debian.org>                                
+kbd                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+kickseed                 | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+kmod                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+libaio                   | Guillem Jover <guillem@debian.org>                                      
+libbsd                   | Guillem Jover <guillem@debian.org>                                      
+libdebian-installer      | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+libgcrypt20              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+libgpg-error             | Debian GnuPG Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>      
+libnl3                   | Heiko Stuebner <mmind@debian.org>                                       
+libtextwrap              | Anibal Monsalve Salazar <anibal@debian.org>                             
+liburcu                  | Jon Bernard <jbernard@debian.org>                                       
+libxcrypt                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+libzstd                  | Debian Med Packaging Team <debian-med-packaging@lists.alioth.debian.org>
+linux                    | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>                       
+linux-firmware           | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>                       
+localechooser            | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+lowmem                   | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+lvm2                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+lzo2                     | Stephen Kitt <skitt@debian.org>                                         
+main-menu                | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+mdadm                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+media-retriever          | Debian Install System Team <debian-boot@lists.debian.org>               
+mountmedia               | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+multipath-tools          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+nano                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+ndisc6                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+net-retriever            | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+netcfg                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+network-console          | Debian Install System Team <debian-boot@lists.debian.org>               
+newt                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+nobootloader             | Debian Install System Team <debian-boot@lists.debian.org>               
+ntfs-3g                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+openssh                  | Debian OpenSSH Maintainers <debian-ssh@lists.debian.org>                
+openssl                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+os-prober                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+partconf                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+parted                   | Parted Maintainer Team <parted-maintainers@alioth-lists.debian.net>     
+partman-auto             | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+partman-auto-crypto      | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+partman-auto-loop        | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+partman-auto-lvm         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+partman-auto-raid        | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+partman-base             | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+partman-basicfilesystems | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+partman-basicmethods     | Debian Install System Team <debian-boot@lists.debian.org>               
+partman-btrfs            | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+partman-crypto           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+partman-efi              | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+partman-ext3             | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+partman-jfs              | Debian Install System Team <debian-boot@lists.debian.org>               
+partman-lvm              | Debian Install System Team <debian-boot@lists.debian.org>               
+partman-md               | Debian Install System Team <debian-boot@lists.debian.org>               
+partman-multipath        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+partman-partitioning     | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+partman-swapfile         | Debian Install System Team <debian-boot@lists.debian.org>               
+partman-target           | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+partman-xfs              | Debian Install System Team <debian-boot@lists.debian.org>               
+pciutils                 | Guillem Jover <guillem@debian.org>                                      
+pcmciautils              | Colin Watson <cjwatson@debian.org>                                      
+pcre2                    | Matthew Vernon <matthew@debian.org>                                     
+pkgsel                   | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+popt                     | Michael Jeanson <mjeanson@debian.org>                                   
+preseed                  | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+rdate                    | Thiago Andrade Marques <thmarques@gmail.com>                            
+reiserfsprogs            | Felix Zielcke <fzielcke@z-51.de>                                        
+rescue                   | Debian Install System Team <debian-boot@lists.debian.org>               
+rootskel                 | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+sg3-utils                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+slang2                   | Alastair McKinstry <mckinstry@debian.org>                               
+strace                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+systemd                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+tzsetup                  | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+ubiquity                 | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+ubuntu-keyring           | Dimitri John Ledkov <dimitri.ledkov@canonical.com>                      
+udpkg                    | Debian Install System Team <debian-boot@lists.debian.org>               
+usb-discover             | Debian Install System Team <debian-boot@lists.debian.org>               
+user-setup               | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+util-linux               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+wget                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+wireless-tools           | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+wpa                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+xfsprogs                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+zlib                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               

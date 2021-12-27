@@ -1,0 +1,20 @@
+Source               | Maintainer                                               
+---------------------+-----------------------------------------------------------
+cdebconf-keystep     | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>
+debian-installer     | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>
+efibootmgr           | Debian UEFI Maintainers <debian-efi@lists.debian.org>    
+efivar               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+freetype             | Hugh McMaster <hugh.mcmaster@outlook.com>                
+gfxboot              | Debian QA Group <packages@qa.debian.org>                 
+gfxboot-theme-ubuntu | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+grub2-signed         | Colin Watson <cjwatson@ubuntu.com>                       
+installation-guide   | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>
+lilo                 | Joachim Wiedorn <joodebian@joonet.de>                    
+lilo-installer       | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>
+linux-signed         | Canonical Kernel Team <kernel-team@lists.ubuntu.com>     
+live-installer       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+ppp                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+sbsigntool           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+secureboot-db        | Steve Langasek <steve.langasek@ubuntu.com>               
+syslinux             | Debian CD Group <debian-cd@lists.debian.org>             
+vlan                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>

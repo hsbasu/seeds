@@ -1,0 +1,368 @@
+Package                        | Source                     | Why                                | Maintainer                                                     | Deb Size (B)    | Inst Size (KB) 
+-------------------------------+----------------------------+------------------------------------+----------------------------------------------------------------+-----------------+-----------------
+adwaita-icon-theme             | adwaita-icon-theme         | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         3170144 |            4295
+alsa-topology-conf             | alsa-topology-conf         | libasound2-data (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7364 |             160
+alsa-ucm-conf                  | alsa-ucm-conf              | libasound2-data (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           20764 |             274
+aspell                         | aspell                     | aspell-en                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           88328 |             380
+aspell-en                      | aspell-en                  | libaspell15 (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          298756 |             424
+at-spi2-core                   | at-spi2-core               | libatspi2.0-0 (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           48668 |             284
+bbdb3                          | bbdb3                      | bbdb                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          116032 |             624
+bubblewrap                     | bubblewrap                 | libgnome-desktop-3-19              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           35376 |             107
+cpp                            | gcc-defaults               | x11-xserver-utils                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           27588 |              64
+cpp-9                          | gcc-9                      | cpp                                | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7490736 |           26218
+dbus-user-session              | dbus                       | dconf-service                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9424 |             126
+dconf-gsettings-backend        | dconf                      | gsettings-desktop-schemas          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22468 |              87
+dconf-service                  | dconf                      | dconf-gsettings-backend            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           29780 |             114
+dh-elpa-helper                 | dh-elpa                    | elpa-htmlize                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7496 |              26
+dictionaries-common            | dictionaries-common        | hunspell-en-us                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          178492 |             758
+dirmngr                        | gnupg2                     | gnupg                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          329332 |             918
+dvisvgm                        | dvisvgm                    | texlive-binaries (Recommends)      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1048052 |            4108
+elpa-apache-mode               | apache-mode-el             | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12244 |              71
+elpa-async                     | emacs-async                | elpa-helm                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18280 |              82
+elpa-bar-cursor                | bar-cursor-el              | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            5328 |              32
+elpa-bm                        | bm-el                      | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           19632 |              91
+elpa-boxquote                  | boxquote-el                | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            8424 |              51
+elpa-browse-kill-ring          | browse-kill-ring-el        | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           15080 |              79
+elpa-csv-mode                  | csv-mode                   | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22184 |             105
+elpa-diminish                  | diminish-el                | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9728 |              46
+elpa-eproject                  | eproject-el                | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           26216 |             114
+elpa-folding                   | folding-mode-el            | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           62080 |             254
+elpa-graphviz-dot-mode         | graphviz-dot-mode          | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           40836 |              98
+elpa-helm                      | helm                       | elpa-eproject                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1325752 |            2321
+elpa-helm-core                 | helm                       | elpa-helm                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           91844 |             458
+elpa-htmlize                   | emacs-htmlize              | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           36272 |             263
+elpa-initsplit                 | initsplit-el               | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            8508 |              44
+elpa-markdown-mode             | markdown-mode              | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           95616 |             443
+elpa-mutt-alias                | mutt-alias-el              | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6288 |              36
+elpa-muttrc-mode               | muttrc-mode-el             | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18580 |              84
+elpa-pod-mode                  | emacs-pod-mode             | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           10652 |              58
+elpa-popup                     | popup-el                   | elpa-helm                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           20840 |              97
+elpa-session                   | emacs-session              | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22860 |             102
+elpa-tabbar                    | tabbar-el                  | emacs-goodies-el                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           50240 |             247
+emacs-bin-common               | emacs                      | emacs-gtk                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          111504 |             470
+emacs-common                   | emacs                      | emacs-bin-common                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |        13307940 |           66816
+emacs-el                       | emacs                      | emacs-common (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |        15899736 |           16167
+emacs-gtk                      | emacs                      | emacs                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         3587836 |           41906
+emacsen-common                 | emacsen-common             | emacs-common                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14892 |              62
+enchant-2                      | enchant-2                  | libenchant-2-2 (Recommends)        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12040 |              64
+evince                         | evince                     | auctex (Recommends)                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          249460 |             932
+evince-common                  | evince                     | evince                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          129092 |            1584
+fontconfig                     | fontconfig                 | libpango-1.0-0                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          171216 |             369
+fontconfig-config              | fontconfig                 | libfontconfig1                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           28780 |             170
+fonts-dejavu-core              | fonts-dejavu               | fontconfig-config                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1040712 |            2954
+fonts-droid-fallback           | fonts-android              | libgs9-common (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1804596 |            7347
+fonts-lmodern                  | lmodern                    | lmodern                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         4532284 |           10756
+fonts-noto-mono                | fonts-noto                 | fonts-droid-fallback (Recommends)  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           80796 |             149
+fonts-urw-base35               | fonts-urw-base35           | libgs9-common                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         6332592 |           11058
+gcc-9-base                     | gcc-9                      | cpp-9                              | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |           19316 |             262
+gdb                            | gdb                        | valgrind (Recommends)              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         3218448 |            9530
+gdbserver                      | gdb                        | gdb (Recommends)                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          221680 |             825
+ghostscript                    | ghostscript                | libmagickcore-6.q16-6 (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           51416 |             226
+glib-networking                | glib-networking            | libsoup2.4-1                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           58104 |             209
+glib-networking-common         | glib-networking            | glib-networking-services           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            4840 |              52
+glib-networking-services       | glib-networking            | glib-networking                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           10460 |              51
+gnome-desktop3-data            | gnome-desktop3             | libgnome-desktop-3-19              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           21748 |             520
+gnupg                          | gnupg2                     | libgpgme11                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          258936 |             413
+gnupg-l10n                     | gnupg2                     | gnupg                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           51748 |             380
+gnupg-utils                    | gnupg2                     | gnupg                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          481072 |            1550
+gpg                            | gnupg2                     | gnupg-utils (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          482096 |            1135
+gpg-agent                      | gnupg2                     | gnupg-utils (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          232000 |             911
+gpg-wks-client                 | gnupg2                     | gnupg                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           97660 |             275
+gpg-wks-server                 | gnupg2                     | gnupg                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           90268 |             255
+gpgconf                        | gnupg2                     | dirmngr                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          123744 |             409
+gpgsm                          | gnupg2                     | gnupg-utils (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          216812 |             568
+gsettings-desktop-schemas      | gsettings-desktop-schemas  | glib-networking                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           28976 |             284
+gsfonts                        | gsfonts                    | libmagickcore-6.q16-6 (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         3120092 |            4439
+gstreamer1.0-plugins-base      | gst-plugins-base1.0        | libevview3-3                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          619120 |            2341
+gtk-update-icon-cache          | gtk+3.0                    | adwaita-icon-theme                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           29176 |             154
+hicolor-icon-theme             | hicolor-icon-theme         | adwaita-icon-theme                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9976 |             440
+humanity-icon-theme            | humanity-icon-theme        | ubuntu-mono                        | Ubuntu MOTU Developers <ubuntu-motu@lists.ubuntu.com>          |         1250380 |           20754
+hunspell-en-us                 | scowl                      | libenchant-2-2                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          169668 |             572
+imagemagick-6-common           | imagemagick                | libmagickcore-6.q16-6              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           60816 |             480
+javascript-common              | javascript-common          | libjs-jquery (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6066 |              68
+libappconfig-perl              | appconfig                  | libtemplate-perl                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           64448 |             185
+libarchive13                   | libarchive                 | libevdocument3-4                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          326636 |             841
+libasn1-8-heimdal              | heimdal                    | libgssapi3-heimdal                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          181044 |             798
+libasound2                     | alsa-lib                   | libcanberra0                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          328372 |            1104
+libasound2-data                | alsa-lib                   | libasound2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           19028 |             213
+libaspell15                    | aspell                     | libenchant-2-2                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          326808 |            2268
+libassuan0                     | libassuan                  | gpgconf                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           35668 |             105
+libatk-bridge2.0-0             | at-spi2-atk                | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           58336 |             242
+libatk1.0-0                    | atk1.0                     | libatk-bridge2.0-0                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           45520 |             196
+libatk1.0-data                 | atk1.0                     | libatk1.0-0                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            2964 |              44
+libatspi2.0-0                  | at-spi2-core               | libatk-bridge2.0-0                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           64244 |             239
+libauthen-sasl-perl            | libauthen-sasl-perl        | libnet-smtp-ssl-perl (Recommends)  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           48684 |             153
+libavahi-client3               | avahi                      | libcups2                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           25500 |             129
+libavahi-common-data           | avahi                      | libavahi-common3                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           21352 |             112
+libavahi-common3               | avahi                      | libavahi-client3                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           21728 |             109
+libbabeltrace1                 | babeltrace                 | gdb                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          155664 |             550
+libbrotli1                     | brotli                     | libsoup2.4-1                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          269864 |             767
+libc-dev-bin                   | glibc                      | libc6-dev                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           71820 |             440
+libc6-dbg                      | glibc                      | valgrind                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         5671352 |           44055
+libc6-dev                      | glibc                      | libexpat1-dev                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2519944 |           19070
+libcairo-gobject2              | cairo                      | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           17196 |              98
+libcairo2                      | cairo                      | emacs-gtk                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          583488 |            1330
+libcanberra0                   | libcanberra                | vim                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           38108 |             121
+libcc1-0                       | gcc-10                     | gdb (Recommends)                   | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41100 |             140
+libcdparanoia0                 | cdparanoia                 | gstreamer1.0-plugins-base          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           46656 |             130
+libcolord2                     | colord                     | libgtk-3-0                         | Christopher James Halse Rogers <raof@ubuntu.com>               |          133436 |             608
+libcrypt-dev                   | libxcrypt                  | libc6-dev                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          104104 |             321
+libcups2                       | cups                       | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          233040 |             769
+libdata-dump-perl              | libdata-dump-perl          | libwww-perl (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           26994 |              94
+libdatrie1                     | libdatrie                  | libthai0                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18692 |              62
+libdconf1                      | dconf                      | dconf-service                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           37384 |             107
+libdjvulibre-text              | djvulibre                  | libdjvulibre21                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           48924 |             349
+libdjvulibre21                 | djvulibre                  | libevdocument3-4                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          577236 |            1743
+libdrm-amdgpu1                 | libdrm                     | libgl1-mesa-dri                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18280 |              83
+libdrm-intel1                  | libdrm                     | libgl1-mesa-dri                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           60220 |             185
+libdrm-nouveau2                | libdrm                     | libgl1-mesa-dri                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           16388 |              81
+libdrm-radeon1                 | libdrm                     | libgl1-mesa-dri                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           19664 |              94
+libdw1                         | elfutils                   | libbabeltrace1                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          225604 |             945
+libenchant-2-2                 | enchant-2                  | libgspell-1-2                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           45656 |             186
+libencode-locale-perl          | libencode-locale-perl      | libwww-perl                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12274 |              32
+libepoxy0                      | libepoxy                   | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          190748 |            1372
+libevdocument3-4               | evince                     | evince                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          197932 |             764
+libevview3-3                   | evince                     | evince                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          125232 |             456
+libexpat1-dev                  | expat                      | libpython3.8-dev                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          115656 |             847
+libfftw3-double3               | fftw3                      | libmagickcore-6.q16-6              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          727520 |            2170
+libfile-basedir-perl           | libfile-basedir-perl       | libfile-mimeinfo-perl              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           16944 |              39
+libfile-desktopentry-perl      | libfile-desktopentry-perl  | libfile-mimeinfo-perl              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18162 |              48
+libfile-listing-perl           | libfile-listing-perl       | libwww-perl                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9774 |              55
+libfile-mimeinfo-perl          | libfile-mimeinfo-perl      | xdg-utils (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           41540 |             104
+libfont-afm-perl               | libfont-afm-perl           | libhtml-format-perl                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           13224 |              69
+libfontconfig1                 | fontconfig                 | libcairo2                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          114072 |             318
+libfontenc1                    | libfontenc                 | x11-utils                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14040 |              50
+libfreetype6                   | freetype                   | libfontconfig1                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          340708 |             836
+libgd-perl                     | libgd-perl                 | libchart-perl                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          130124 |             390
+libgd-text-perl                | libgd-text-perl            | libgd-graph-perl                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           36286 |             123
+libgd3                         | libgd2                     | libm17n-0                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          117852 |             452
+libgdbm-compat4                | gdbm                       | libperl5.30                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6244 |              40
+libgdk-pixbuf2.0-0             | gdk-pixbuf                 | emacs-gtk                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          168604 |             620
+libgdk-pixbuf2.0-bin           | gdk-pixbuf                 | libgdk-pixbuf2.0-0 (Recommends)    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14132 |              82
+libgdk-pixbuf2.0-common        | gdk-pixbuf                 | libgdk-pixbuf2.0-0                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            4896 |              52
+libgif7                        | giflib                     | emacs-gtk                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           32220 |              72
+libgl1                         | libglvnd                   | x11-utils                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           87548 |             657
+libgl1-mesa-dri                | mesa                       | libglx-mesa0                       | Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>                      |         9453084 |          266517
+libglapi-mesa                  | mesa                       | libglx-mesa0                       | Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>                      |           26792 |             304
+libglvnd0                      | libglvnd                   | libgl1                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           52436 |             725
+libglx-mesa0                   | mesa                       | libglx0                            | Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>                      |          138956 |             608
+libglx0                        | libglvnd                   | libgl1                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           32644 |             163
+libgnome-desktop-3-19          | gnome-desktop3             | evince                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          114392 |             346
+libgomp1                       | gcc-10                     | libfftw3-double3                   | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          100872 |             286
+libgpgme11                     | gpgme1.0                   | mutt                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          120900 |             355
+libgpm2                        | gpm                        | vim                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           15076 |              59
+libgraphite2-3                 | graphite2                  | libharfbuzz0b                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           73548 |             203
+libgs9                         | ghostscript                | ghostscript                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2170636 |           16159
+libgs9-common                  | ghostscript                | libgs9                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          680736 |            2999
+libgspell-1-2                  | gspell                     | libevview3-3                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           52408 |             181
+libgspell-1-common             | gspell                     | libgspell-1-2                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6020 |              48
+libgssapi3-heimdal             | heimdal                    | libldap-2.4-2                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           96132 |             324
+libgstreamer-plugins-base1.0-0 | gst-plugins-base1.0        | gstreamer1.0-plugins-base          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          735080 |            2572
+libgstreamer1.0-0              | gstreamer1.0               | libgstreamer-plugins-base1.0-0     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          890328 |            3932
+libgtk-3-0                     | gtk+3.0                    | emacs-gtk                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2619732 |            9815
+libgtk-3-bin                   | gtk+3.0                    | libgtk-3-0 (Recommends)            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           61908 |             330
+libgtk-3-common                | gtk+3.0                    | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          234476 |             420
+libgxps2                       | libgxps                    | libevdocument3-4                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           53508 |             159
+libharfbuzz-icu0               | harfbuzz                   | texlive-binaries                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            5580 |              34
+libharfbuzz0b                  | harfbuzz                   | libpango-1.0-0                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          391188 |            1075
+libhcrypto4-heimdal            | heimdal                    | libgssapi3-heimdal                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           87864 |             274
+libheimbase1-heimdal           | heimdal                    | libhcrypto4-heimdal                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           29716 |             113
+libheimntlm0-heimdal           | heimdal                    | libgssapi3-heimdal                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           15088 |              85
+libhtml-form-perl              | libhtml-form-perl          | libwww-perl (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22240 |              62
+libhtml-format-perl            | libhtml-format-perl        | libhtml-tree-perl (Recommends)     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           41264 |             126
+libhtml-parser-perl            | libhtml-parser-perl        | libwww-perl                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           86256 |             221
+libhtml-tagset-perl            | libhtml-tagset-perl        | libhtml-parser-perl                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12456 |              31
+libhtml-tree-perl              | libhtml-tree-perl          | libwww-perl                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          199660 |             481
+libhttp-cookies-perl           | libhttp-cookies-perl       | libwww-perl                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18276 |              50
+libhttp-daemon-perl            | libhttp-daemon-perl        | libwww-perl (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           21356 |              56
+libhttp-date-perl              | libhttp-date-perl          | libfile-listing-perl               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9920 |              29
+libhttp-message-perl           | libhttp-message-perl       | libhtml-parser-perl (Recommends)   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           76116 |             191
+libhttp-negotiate-perl         | libhttp-negotiate-perl     | libwww-perl                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12520 |              34
+libhunspell-1.7-0              | hunspell                   | libenchant-2-2                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          146812 |             517
+libhx509-5-heimdal             | heimdal                    | libkrb5-26-heimdal                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          106632 |             360
+libice6                        | libice                     | emacs-gtk                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           40976 |             120
+libidn11                       | libidn                     | libgs9                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           46180 |             244
+libijs-0.35                    | ijs                        | libgs9                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           15700 |              50
+libio-html-perl                | libio-html-perl            | libhttp-message-perl               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14860 |              70
+libio-socket-ssl-perl          | libio-socket-ssl-perl      | liblwp-protocol-https-perl         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          176348 |             536
+libio-stringy-perl             | io-stringy                 | libfile-mimeinfo-perl (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           55756 |             134
+libipc-system-simple-perl      | libipc-system-simple-perl  | libfile-basedir-perl               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22816 |              59
+libisl22                       | isl                        | cpp-9                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          591960 |            1926
+libjbig0                       | jbigkit                    | libtiff5                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           26696 |              73
+libjbig2dec0                   | jbig2dec                   | libgs9                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           60000 |             173
+libjpeg-turbo8                 | libjpeg-turbo              | libjpeg8                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          117588 |             558
+libjpeg8                       | libjpeg8-empty             | libgdk-pixbuf2.0-0                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            2194 |              26
+libjs-jquery                   | jquery                     | python3.8-doc                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          329128 |             729
+libjs-sphinxdoc                | sphinx                     | python-bsddb3-doc                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           97120 |             142
+libjs-underscore               | underscore                 | python3.8-doc                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           98568 |             295
+libjson-glib-1.0-0             | json-glib                  | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           59396 |             195
+libjson-glib-1.0-common        | json-glib                  | libjson-glib-1.0-0                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            3468 |              40
+libkpathsea6                   | texlive-bin                | libptexenc1                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           56996 |             251
+libkrb5-26-heimdal             | heimdal                    | libheimntlm0-heimdal               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          207648 |             665
+libksba8                       | libksba                    | dirmngr                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           92566 |             259
+liblcms2-2                     | lcms2                      | libcolord2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          140296 |             389
+libldap-2.4-2                  | openldap                   | dirmngr                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          155528 |             522
+libldap-common                 | openldap                   | libldap-2.4-2                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           17288 |             101
+libllvm9                       | llvm-toolchain-9           | libgl1-mesa-dri                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |        14817900 |           67657
+liblqr-1-0                     | liblqr                     | libmagickcore-6.q16-6              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           27744 |              74
+libltdl7                       | libtool                    | libcanberra0                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           38536 |             418
+liblwp-mediatypes-perl         | liblwp-mediatypes-perl     | libhttp-message-perl               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           19472 |              72
+liblwp-protocol-https-perl     | liblwp-protocol-https-perl | libwww-perl                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            8560 |              24
+libm17n-0                      | m17n-lib                   | emacs-gtk                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          247508 |             645
+libmagickcore-6.q16-6          | imagemagick                | emacs-gtk                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1644844 |            7025
+libmagickwand-6.q16-6          | imagemagick                | emacs-gtk                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          304732 |            1340
+libmailtools-perl              | libmailtools-perl          | libwww-perl (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           80684 |             223
+libmpc3                        | mpclib3                    | cpp-9                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           40784 |             110
+libmpfr6                       | mpfr4                      | gdb                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          240292 |            1096
+libnautilus-extension1a        | nautilus                   | evince                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           15188 |              84
+libnet-dbus-perl               | libnet-dbus-perl           | xdg-utils (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          177204 |             618
+libnet-http-perl               | libnet-http-perl           | liblwp-protocol-https-perl         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22840 |              59
+libnet-smtp-ssl-perl           | libnet-smtp-ssl-perl       | libmailtools-perl                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            5948 |              19
+libnet-ssleay-perl             | libnet-ssleay-perl         | libio-socket-ssl-perl              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          290820 |            1291
+libnpth0                       | npth                       | dirmngr                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7736 |              36
+libnspr4                       | nspr                       | libpoppler97                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          107016 |             314
+libnss3                        | nss                        | libpoppler97                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1171304 |            3841
+libogg0                        | libogg                     | libvorbisfile3                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           23952 |              70
+libopenjp2-7                   | openjpeg2                  | libgs9                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          140944 |             399
+libopus0                       | opus                       | gstreamer1.0-plugins-base          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          191092 |             396
+liborc-0.4-0                   | orc                        | libgstreamer-plugins-base1.0-0     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          188024 |            1079
+libotf0                        | libotf                     | libm17n-0                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           45188 |             114
+libpango-1.0-0                 | pango1.0                   | librsvg2-2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          162008 |             418
+libpangocairo-1.0-0            | pango1.0                   | librsvg2-2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           24812 |             116
+libpangoft2-1.0-0              | pango1.0                   | libpangocairo-1.0-0                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           34928 |             145
+libpaper-utils                 | libpaper                   | libpaper1 (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            8400 |              43
+libpaper1                      | libpaper                   | libgs9                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12964 |              64
+libpciaccess0                  | libpciaccess               | libdrm-intel1                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           17940 |              61
+libperl5.30                    | perl                       | perl                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         3942624 |           27081
+libpixman-1-0                  | pixman                     | libcairo2                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          226588 |             692
+libpoppler-glib8               | poppler                    | libevdocument3-4                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          109432 |             445
+libpoppler97                   | poppler                    | libpoppler-glib8                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          915100 |            3432
+libproxy1v5                    | libproxy                   | glib-networking                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           50568 |             160
+libptexenc1                    | texlive-bin                | texlive-binaries                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           35480 |             120
+libpython3-all-dbg             | python3-defaults           | python3-all-dbg                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            1112 |               6
+libpython3-all-dev             | python3-defaults           | python3-all-dev                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            1116 |               6
+libpython3-dbg                 | python3-defaults           | libpython3-all-dbg                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7220 |              52
+libpython3-dev                 | python3-defaults           | libpython3-all-dev                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7236 |              48
+libpython3.8                   | python3.8                  | gdb                                | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1619972 |            5371
+libpython3.8-dbg               | python3.8                  | libpython3-dbg                     | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        13374396 |           69469
+libpython3.8-dev               | python3.8                  | libpython3-dev                     | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         3940160 |           19515
+librest-0.7-0                  | librest                    | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           32152 |             115
+libroken18-heimdal             | heimdal                    | libasn1-8-heimdal                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           41848 |             144
+librsvg2-2                     | librsvg                    | librsvg2-common                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1338732 |            4524
+librsvg2-common                | librsvg                    | adwaita-icon-theme                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9188 |              62
+libsasl2-2                     | cyrus-sasl2                | libldap-2.4-2                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           49324 |             152
+libsasl2-modules               | cyrus-sasl2                | libsasl2-2 (Recommends)            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           49064 |             236
+libsasl2-modules-db            | cyrus-sasl2                | libsasl2-2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14932 |              66
+libsecret-1-0                  | libsecret                  | evince                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          109064 |             413
+libsecret-common               | libsecret                  | libsecret-1-0                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            3988 |              44
+libsensors-config              | lm-sensors                 | libsensors5                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6092 |              42
+libsensors5                    | lm-sensors                 | libgl1-mesa-dri                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           27364 |             100
+libsm6                         | libsm                      | libxt6                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           16144 |              55
+libsoup-gnome2.4-1             | libsoup2.4                 | librest-0.7-0                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6136 |              48
+libsoup2.4-1                   | libsoup2.4                 | libsoup-gnome2.4-1                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          261660 |             729
+libspectre1                    | libspectre                 | libevdocument3-4                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           31300 |              89
+libsynctex2                    | texlive-bin                | texlive-binaries                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           54980 |             189
+libtdb1                        | tdb                        | libcanberra0                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           44144 |             139
+libteckit0                     | teckit                     | texlive-binaries                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          319940 |            2531
+libtexlua53                    | texlive-bin                | texlive-binaries                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          104896 |             299
+libtexluajit2                  | texlive-bin                | texlive-binaries                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          234916 |             563
+libthai-data                   | libthai                    | libthai0                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          134404 |             586
+libthai0                       | libthai                    | libpango-1.0-0                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18124 |              96
+libtheora0                     | libtheora                  | gstreamer1.0-plugins-base          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          162300 |             707
+libtie-ixhash-perl             | libtie-ixhash-perl         | libxml-twig-perl (Recommends)      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           11200 |              61
+libtiff5                       | tiff                       | libgdk-pixbuf2.0-0                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          161488 |             552
+libtimedate-perl               | libtimedate-perl           | libhttp-date-perl                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           33956 |             123
+libtokyocabinet9               | tokyocabinet               | mutt                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          359116 |            1091
+libtry-tiny-perl               | libtry-tiny-perl           | libwww-perl                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           20540 |              47
+liburi-perl                    | liburi-perl                | libfile-desktopentry-perl          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           77528 |             220
+libvisual-0.4-0                | libvisual                  | gstreamer1.0-plugins-base          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           99760 |             356
+libvorbis0a                    | libvorbis                  | libvorbisfile3                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           86980 |             210
+libvorbisenc2                  | libvorbis                  | gstreamer1.0-plugins-base          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           70684 |             704
+libvorbisfile3                 | libvorbis                  | libcanberra0                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           16140 |              63
+libvulkan1                     | vulkan-loader              | libgl1-mesa-dri                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           93332 |             361
+libwayland-client0             | wayland                    | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           23936 |              84
+libwayland-cursor0             | wayland                    | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           10296 |              57
+libwayland-egl1                | wayland                    | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            5692 |              33
+libwebp6                       | libwebp                    | libtiff5                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          185380 |             430
+libwebpmux3                    | libwebp                    | libmagickcore-6.q16-6              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           19584 |              56
+libwind0-heimdal               | heimdal                    | libhx509-5-heimdal                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           48048 |             205
+libwoff1                       | woff2                      | dvisvgm                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           41972 |             141
+libwww-perl                    | libwww-perl                | libxml-parser-perl                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          139992 |             378
+libwww-robotrules-perl         | libwww-robotrules-perl     | libwww-perl                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12600 |              35
+libx11-protocol-perl           | libx11-protocol-perl       | xdg-utils (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          148776 |             395
+libx11-xcb1                    | libx11                     | libglx-mesa0                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            9156 |              84
+libxaw7                        | libxaw                     | texlive-binaries                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          173220 |             487
+libxcb-dri2-0                  | libxcb                     | libglx-mesa0                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6920 |              46
+libxcb-dri3-0                  | libxcb                     | libglx-mesa0                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6552 |              42
+libxcb-glx0                    | libxcb                     | libglx-mesa0                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           22068 |             154
+libxcb-present0                | libxcb                     | libglx-mesa0                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            5560 |              36
+libxcb-randr0                  | libxcb                     | mesa-vulkan-drivers                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           16316 |             106
+libxcb-render0                 | libxcb                     | libcairo2                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           14840 |              86
+libxcb-shape0                  | libxcb                     | x11-utils                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            5928 |              37
+libxcb-shm0                    | libxcb                     | libcairo2                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            5584 |              36
+libxcb-sync1                   | libxcb                     | libglx-mesa0                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            8884 |              59
+libxcomposite1                 | libxcomposite              | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6976 |              32
+libxcursor1                    | libxcursor                 | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           20068 |              67
+libxdamage1                    | libxdamage                 | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6996 |              31
+libxfixes3                     | libxfixes                  | libxcursor1                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           10932 |              47
+libxft2                        | xft                        | libm17n-0                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           39192 |             118
+libxi6                         | libxi                      | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           29896 |              92
+libxinerama1                   | libxinerama                | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6904 |              33
+libxkbcommon0                  | libxkbcommon               | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           98444 |             281
+libxkbfile1                    | libxkbfile                 | x11-utils                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           65300 |             170
+libxml-parser-perl             | libxml-parser-perl         | libxml-twig-perl                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          192612 |             691
+libxml-twig-perl               | libxml-twig-perl           | libnet-dbus-perl                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          155356 |             541
+libxml-xpathengine-perl        | libxml-xpathengine-perl    | libxml-twig-perl (Recommends)      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           31780 |             127
+libxmu6                        | libxmu                     | libxaw7                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           45832 |             127
+libxpm4                        | libxpm                     | libgd3                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           34050 |              89
+libxrandr2                     | libxrandr                  | libgtk-3-0                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18544 |              69
+libxrender1                    | libxrender                 | libcairo2                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           18706 |              60
+libxshmfence1                  | libxshmfence               | libglx-mesa0                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            5028 |              22
+libxt6                         | libxt                      | libm17n-0                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          159658 |             451
+libxtst6                       | libxtst                    | at-spi2-core                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12818 |              44
+libxv1                         | libxv                      | x11-utils                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           10702 |              36
+libxxf86dga1                   | libxxf86dga                | x11-utils                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12020 |              43
+libxxf86vm1                    | libxxf86vm                 | libglx-mesa0                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           10164 |              39
+libzzip-0-13                   | zziplib                    | texlive-binaries                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           26172 |             121
+linux-libc-dev                 | linux                      | libc6-dev                          | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>              |         1106280 |            5725
+lmodern                        | lmodern                    | texlive-base (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         9473864 |           33270
+m17n-db                        | m17n-db                    | libm17n-0                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1215124 |            7760
+manpages-dev                   | manpages                   | libc-dev-bin (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2265524 |            3879
+markdown                       | markdown                   | elpa-markdown-mode (Recommends)    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           17464 |              57
+mesa-vulkan-drivers            | mesa                       | libvulkan1 (Recommends)            | Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>                      |         3346396 |           15173
+mutt                           | mutt                       | elpa-mutt-alias (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          949988 |            4084
+perl                           | perl                       | markdown                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          224080 |             745
+perl-modules-5.30              | perl                       | perl                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2737008 |           17226
+perl-openssl-defaults          | perl-openssl-defaults      | libnet-ssleay-perl                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            7192 |              27
+pinentry-curses                | pinentry                   | gpg-agent                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           36296 |             100
+poppler-data                   | poppler-data               | libgs9                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1474528 |           12219
+preview-latex-style            | auctex                     | auctex                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          184400 |             251
+python3-all                    | python3-defaults           | python3-all-dev                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            1104 |               6
+python3-bsddb3                 | python-bsddb3              | python3-bsddb3-dbg                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          105836 |             583
+python3-cairo                  | pycairo                    | python3-gi-cairo                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           56824 |             264
+python3-dbg                    | python3-defaults           | python3-all-dbg                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            1280 |              20
+python3-dev                    | python3-defaults           | python3-all-dev                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            1212 |              11
+python3-distutils              | python3-stdlib-extensions  | python3-all                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          139720 |             700
+python3-lib2to3                | python3-stdlib-extensions  | python3-distutils                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           74104 |             363
+python3.8-dbg                  | python3.8                  | python3-dbg                        | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        19350576 |           39212
+python3.8-dev                  | python3.8                  | python3-dev                        | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          514908 |             517
+python3.8-doc                  | python3.8                  | python3-doc                        | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         9896240 |           50218
+python3.8-examples             | python3.8                  | python3-examples                   | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          428764 |            1761
+sound-theme-freedesktop        | sound-theme-freedesktop    | libcanberra0                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          383992 |             537
+t1utils                        | t1utils                    | texlive-binaries                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           56132 |             326
+tex-common                     | tex-common                 | preview-latex-style                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           32724 |             162
+texlive-base                   | texlive-base               | texlive-latex-recommended          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |        20816360 |           73164
+texlive-binaries               | texlive-bin                | texlive-base                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         8041100 |           34469
+texlive-latex-base             | texlive-base               | texlive-latex-recommended          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          989560 |           10095
+texlive-latex-recommended      | texlive-base               | auctex (Recommends)                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |        15695520 |           31566
+ubuntu-mono                    | ubuntu-themes              | adwaita-icon-theme                 | Ubuntu Artwork Team <ubuntu-art@lists.ubuntu.com>              |          147204 |            5591
+vim-runtime                    | vim                        | vim                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         5873148 |           30765
+x11-common                     | xorg                       | libxtst6                           | Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>                      |           22344 |             313
+x11-utils                      | x11-utils                  | xdg-utils (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          198512 |             725
+x11-xserver-utils              | x11-xserver-utils          | xdg-utils (Recommends)             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          161792 |             505
+xdg-utils                      | xdg-utils                  | texlive-base                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           61628 |             320
+xfonts-encodings               | xfonts-encodings           | xfonts-utils                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          572804 |             664
+xfonts-utils                   | xfonts-utils               | lmodern                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           91476 |             416
+zlib1g-dev                     | zlib                       | python3.8-dev                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          155508 |             591
+------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                                  |       266912694 |         1279228

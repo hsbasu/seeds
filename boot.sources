@@ -1,0 +1,95 @@
+Source                 | Maintainer                                                                              
+-----------------------+------------------------------------------------------------------------------------------
+acl                    | Guillem Jover <guillem@debian.org>                                                      
+adduser                | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>                          
+amd64-microcode        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+apparmor               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+apt                    | APT Development Team <deity@lists.debian.org>                                           
+attr                   | Guillem Jover <guillem@debian.org>                                                      
+audit                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+busybox                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+bzip2                  | Anibal Monsalve Salazar <anibal@debian.org>                                             
+ca-certificates        | Michael Shuler <michael@pbandjelly.org>                                                 
+coreutils              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+cpio                   | Anibal Monsalve Salazar <anibal@debian.org>                                             
+crda                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+db5.3                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+dbus                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+dbus-glib              | Utopia Maintenance Team <pkg-utopia-maintainers@lists.alioth.debian.org>                
+debconf                | Debconf Developers <debconf-devel@lists.alioth.debian.org>                              
+dpkg                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+e2fsprogs              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+efivar                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+elfutils               | Kurt Roeckx <kurt@roeckx.be>                                                            
+expat                  | Laszlo Boszormenyi (GCS) <gcs@debian.org>                                               
+freetype               | Hugh McMaster <hugh.mcmaster@outlook.com>                                               
+fuse                   | Laszlo Boszormenyi (GCS) <gcs@debian.org>                                               
+gcc-10                 | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>                          
+gettext                | Santiago Vila <sanvila@debian.org>                                                      
+glib2.0                | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>                
+glibc                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gmp                    | Debian Science Team <debian-science-maintainers@lists.alioth.debian.org>                
+gnupg2                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+gnutls28               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+grub-gfxpayload-lists  | Colin Watson <cjwatson@ubuntu.com>                                                      
+grub2                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+icu                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+initramfs-tools        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+intel-microcode        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+iucode-tool            | Henrique de Moraes Holschuh <hmh@debian.org>                                            
+iw                     | Paride Legovini <pl@ninthfloor.org>                                                     
+klibc                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+kmod                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libcap-ng              | Pierre Chifflier <pollux@debian.org>                                                    
+libffi                 | Debian GCC Maintainers <debian-gcc@lists.debian.org>                                    
+libgcrypt20            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libgpg-error           | Debian GnuPG Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>                      
+libidn2                | Debian Libidn team <help-libidn@gnu.org>                                                
+liblocale-gettext-perl | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>                        
+libnl3                 | Heiko Stuebner <mmind@debian.org>                                                       
+libpng1.6              | Maintainers of libpng1.6 packages <libpng1.6@packages.debian.org>                       
+libseccomp             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libselinux             | Debian SELinux maintainers <selinux-devel@lists.alioth.debian.org>                      
+libsemanage            | Debian SELinux maintainers <selinux-devel@lists.alioth.debian.org>                      
+libsepol               | Debian SELinux maintainers <selinux-devel@lists.alioth.debian.org>                      
+libtasn1-6             | Debian GnuTLS Maintainers <pkg-gnutls-maint@lists.alioth.debian.org>                    
+libtext-charwidth-perl | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>                        
+libtext-iconv-perl     | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>                        
+libtext-wrapi18n-perl  | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>                        
+libunistring           | Jörg Frings-Fürst <debian@jff.email>                                                    
+libxcrypt              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+libxml2                | Debian XML/SGML Group <debian-xml-sgml-pkgs@lists.alioth.debian.org>                    
+libzstd                | Debian Med Packaging Team <debian-med-packaging@lists.alioth.debian.org>                
+linux                  | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>                                       
+linux-base             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+linux-firmware         | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>                                       
+linux-meta             | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>                                       
+linux-signed           | Canonical Kernel Team <kernel-team@lists.ubuntu.com>                                    
+lsb                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+lvm2                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+lz4                    | Nobuhiro Iwamatsu <iwamatsu@debian.org>                                                 
+mawk                   | Boyuan Yang <byang@debian.org>                                                          
+ncurses                | Craig Small <csmall@debian.org>                                                         
+nettle                 | Magnus Holmgren <holmgren@debian.org>                                                   
+openssl                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+os-prober              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+p11-kit                | Debian GnuTLS Maintainers <pkg-gnutls-maint@lists.alioth.debian.org>                    
+pam                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+pcre2                  | Matthew Vernon <matthew@debian.org>                                                     
+pcre3                  | Matthew Vernon <matthew@debian.org>                                                     
+perl                   | Niko Tyni <ntyni@debian.org>                                                            
+sensible-utils         | Anibal Monsalve Salazar <anibal@debian.org>                                             
+shadow                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+shared-mime-info       | Debian freedesktop.org maintainers <pkg-freedesktop-maintainers@lists.alioth.debian.org>
+systemd                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+tar                    | Bdale Garbee <bdale@gag.com>                                                            
+thermald               | Colin King <colin.king@canonical.com>                                                   
+tzdata                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+ubuntu-keyring         | Dimitri John Ledkov <dimitri.ledkov@canonical.com>                                      
+ucf                    | Manoj Srivastava <srivasta@debian.org>                                                  
+update-motd            | Dustin Kirkland <kirkland@ubuntu.com>                                                   
+util-linux             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+wireless-regdb         | Seth Forshee <seth.forshee@canonical.com>                                               
+xdg-user-dirs          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               
+xz-utils               | Jonathan Nieder <jrnieder@gmail.com>                                                    
+zlib                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>                               

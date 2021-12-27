@@ -1,0 +1,130 @@
+Package                       | Source                     | Why                                      | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+------------------------------+----------------------------+------------------------------------------+-----------------------------------------------------------+-----------------+-----------------
+acpid                         | acpid                      | ec2-hibinit-agent                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           37688 |             155
+cloud-init                    | cloud-init                 | gce-compute-image-packages               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          406084 |            2013
+crda                          | crda                       | linux-modules-extra-5.4.0-1009-aws       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           63476 |             265
+curl                          | curl                       | ec2-instance-connect                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          161312 |             401
+dbus-user-session             | dbus                       | dconf-service                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9424 |             126
+dconf-gsettings-backend       | dconf                      | gsettings-desktop-schemas                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22468 |              87
+dconf-service                 | dconf                      | dconf-gsettings-backend                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           29780 |             114
+dirmngr                       | gnupg2                     | gnupg                                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          329332 |             918
+eatmydata                     | libeatmydata               | cloud-init (Recommends)                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5516 |              24
+efibootmgr                    | efibootmgr                 | grub-efi-amd64-bin (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           28132 |              91
+gdisk                         | gdisk                      | cloud-init (Recommends)                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          214516 |             860
+gir1.2-packagekitglib-1.0     | packagekit                 | software-properties-common               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           21596 |             121
+glib-networking               | glib-networking            | libsoup2.4-1                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           58104 |             209
+glib-networking-common        | glib-networking            | glib-networking-services                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4840 |              52
+glib-networking-services      | glib-networking            | glib-networking                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           10460 |              51
+gnupg                         | gnupg2                     | gpg (Recommends)                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          258936 |             413
+gnupg-l10n                    | gnupg2                     | gnupg                                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51748 |             380
+gnupg-utils                   | gnupg2                     | gnupg                                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          481072 |            1550
+google-compute-engine-oslogin | gce-compute-image-packages | gce-compute-image-packages               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          383268 |            3995
+gpg                           | gnupg2                     | python3-software-properties              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          482096 |            1135
+gpg-agent                     | gnupg2                     | gnupg-utils (Recommends)                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          232000 |             911
+gpg-wks-client                | gnupg2                     | gnupg                                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           97660 |             275
+gpg-wks-server                | gnupg2                     | gnupg                                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           90268 |             255
+gpgconf                       | gnupg2                     | gpg                                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          123744 |             409
+gpgsm                         | gnupg2                     | gnupg-utils (Recommends)                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          216812 |             568
+grub-common                   | grub2                      | grub2-common                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1852632 |           13272
+grub-efi-amd64-bin            | grub2                      | grub-efi-amd64-signed                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          701712 |            7279
+grub2-common                  | grub2                      | ec2-hibinit-agent                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          589024 |            1310
+gsettings-desktop-schemas     | gsettings-desktop-schemas  | glib-networking                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           28976 |             284
+iw                            | iw                         | crda                                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           93968 |             283
+libappstream4                 | appstream                  | packagekit                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          128704 |             428
+libasn1-8-heimdal             | heimdal                    | libgssapi3-heimdal                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          181044 |             798
+libassuan0                    | libassuan                  | gpgconf                                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           35668 |             105
+libbrotli1                    | brotli                     | libcurl4                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          269864 |             767
+libcurl4                      | curl                       | curl                                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          233000 |             688
+libdconf1                     | dconf                      | dconf-service                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           37384 |             107
+libdw1                        | elfutils                   | linux-aws-tools-5.4.0-1009               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          225604 |             945
+libeatmydata1                 | libeatmydata               | eatmydata                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7012 |              37
+libefiboot1                   | efivar                     | grub-common                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           38120 |             117
+libefivar1                    | efivar                     | libefiboot1                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           47756 |             170
+libfreetype6                  | freetype                   | grub-common                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          340708 |             836
+libglib2.0-bin                | glib2.0                    | packagekit                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           72704 |             332
+libgssapi3-heimdal            | heimdal                    | libldap-2.4-2                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           96132 |             324
+libgstreamer1.0-0             | gstreamer1.0               | packagekit                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          890328 |            3932
+libhcrypto4-heimdal           | heimdal                    | libgssapi3-heimdal                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           87864 |             274
+libheimbase1-heimdal          | heimdal                    | libhcrypto4-heimdal                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           29716 |             113
+libheimntlm0-heimdal          | heimdal                    | libgssapi3-heimdal                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15088 |              85
+libhx509-5-heimdal            | heimdal                    | libkrb5-26-heimdal                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106632 |             360
+libkrb5-26-heimdal            | heimdal                    | libheimntlm0-heimdal                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          207648 |             665
+libksba8                      | libksba                    | dirmngr                                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           92566 |             259
+libldap-2.4-2                 | openldap                   | libcurl4                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          155528 |             522
+libldap-common                | openldap                   | libldap-2.4-2                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17288 |             101
+libnghttp2-14                 | nghttp2                    | libcurl4                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           78688 |             212
+libnl-3-200                   | libnl3                     | crda                                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           53864 |             180
+libnl-genl-3-200              | libnl3                     | crda                                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11140 |              57
+libnpth0                      | npth                       | dirmngr                                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7736 |              36
+libpackagekit-glib2-18        | packagekit                 | gir1.2-packagekitglib-1.0                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          102436 |             438
+libpolkit-agent-1-0           | policykit-1                | policykit-1                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15268 |              78
+libproxy1v5                   | libproxy                   | glib-networking                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           50568 |             160
+libroken18-heimdal            | heimdal                    | libasn1-8-heimdal                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41848 |             144
+librtmp1                      | rtmpdump                   | libcurl4                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           54916 |             144
+libsasl2-2                    | cyrus-sasl2                | libldap-2.4-2                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49324 |             152
+libsasl2-modules              | cyrus-sasl2                | libsasl2-2 (Recommends)                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49064 |             236
+libsasl2-modules-db           | cyrus-sasl2                | libsasl2-2                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14932 |              66
+libsoup2.4-1                  | libsoup2.4                 | libappstream4                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          261660 |             729
+libssh-4                      | libssh                     | libcurl4                                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          169892 |             490
+libstemmer0d                  | snowball                   | libappstream4                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           61696 |             357
+libsysfs2                     | sysfsutils                 | sysfsutils                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           18812 |              67
+libtalloc2                    | talloc                     | cifs-utils                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           29512 |             105
+libtevent0                    | tevent                     | libwbclient0                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           35492 |             117
+libwbclient0                  | samba                      | cifs-utils                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          221280 |             891
+libwind0-heimdal              | heimdal                    | libhx509-5-heimdal                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           48048 |             205
+libwrap0                      | tcp-wrappers               | openssh-server                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46280 |             109
+linux-base-sgx                | linux-base                 | linux-modules-5.4.0-1010-azure           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4608 |              17
+linux-cloud-tools-common      | linux                      | linux-azure-cloud-tools-5.4.0-1010       | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>         |           44208 |             300
+linux-image-5.4.0-1009-gcp    | linux-signed-gcp           | linux-image-gcp                          | Canonical Kernel Team <kernel-team@lists.ubuntu.com>      |         8853836 |           11384
+linux-tools-common            | linux                      | linux-aws-tools-5.4.0-1009               | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>         |          193596 |             477
+mokutil                       | mokutil                    | shim-signed                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           22584 |              70
+ncurses-term                  | ncurses                    | openssh-server (Recommends)              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          249260 |            4183
+openssh-server                | openssh                    | ec2-instance-connect                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          376932 |            1491
+openssh-sftp-server           | openssh                    | openssh-server                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51500 |             141
+os-prober                     | os-prober                  | grub-common (Recommends)                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           20076 |             111
+packagekit                    | packagekit                 | libpackagekit-glib2-18 (Recommends)      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          408788 |            1580
+packagekit-tools              | packagekit                 | packagekit (Recommends)                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           32916 |             138
+pinentry-curses               | pinentry                   | gpg-agent                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           36296 |             100
+policykit-1                   | policykit-1                | packagekit                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           84040 |             556
+python3-attr                  | python-attrs               | python3-jsonschema                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           33880 |             159
+python3-blinker               | blinker                    | python3-oauthlib                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           13244 |              55
+python3-certifi               | python-certifi             | python3-requests                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          148736 |             319
+python3-cffi-backend          | python-cffi                | python3-cryptography                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           68708 |             209
+python3-chardet               | chardet                    | python3-requests                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           80440 |             411
+python3-configobj             | configobj                  | cloud-init                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           34092 |             160
+python3-crypto                | python-crypto              | python3-novaagent                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          237348 |            1451
+python3-cryptography          | python-cryptography        | python3-oauthlib                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          211212 |            1545
+python3-distro                | python-distro              | ssh-import-id                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14600 |              69
+python3-distutils             | python3-stdlib-extensions  | python3-setuptools                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          139720 |             700
+python3-google-compute-engine | gce-compute-image-packages | gce-compute-image-packages               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           34292 |             276
+python3-idna                  | python-idna                | python3-requests                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           34600 |             289
+python3-importlib-metadata    | python-importlib-metadata  | python3-jsonschema                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9992 |              43
+python3-jinja2                | jinja2                     | cloud-init                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           95544 |             482
+python3-json-pointer          | python-json-pointer        | python3-jsonpatch                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            8320 |              44
+python3-jsonpatch             | python-json-patch          | cloud-init                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11964 |              56
+python3-jsonschema            | python-jsonschema          | cloud-init                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           43072 |             259
+python3-jwt                   | pyjwt                      | python3-oauthlib                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17404 |              85
+python3-lib2to3               | python3-stdlib-extensions  | python3-distutils                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           74104 |             363
+python3-markupsafe            | markupsafe                 | python3-jinja2                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           13928 |              57
+python3-more-itertools        | more-itertools             | python3-zipp                             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           39360 |             197
+python3-novaagent             | rax-nova-agent             | rax-nova-agent                           | Balint Reczey <rbalint@ubuntu.com>                        |           15756 |              83
+python3-oauthlib              | python-oauthlib            | cloud-init                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           84844 |             540
+python3-pyrsistent            | pyrsistent                 | python3-jsonschema                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           52120 |             253
+python3-pyxs                  | pyxs                       | python3-novaagent                        | Balint Reczey <rbalint@ubuntu.com>                        |           14660 |              67
+python3-requests              | requests                   | ssh-import-id                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           47064 |             228
+python3-requests-unixsocket   | python-requests-unixsocket | software-properties-common               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7272 |              34
+python3-serial                | pyserial                   | cloud-init                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           72432 |             467
+python3-setuptools            | setuptools                 | python3-jsonschema                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          329744 |            1432
+python3-six                   | six                        | python3-urllib3                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           12088 |              58
+python3-software-properties   | software-properties        | software-properties-common               | Michael Vogt <michael.vogt@ubuntu.com>                    |           25324 |             148
+python3-urllib3               | python-urllib3             | python3-requests                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           88056 |             413
+python3-zipp                  | python-zipp                | python3-importlib-metadata               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5312 |              25
+sbsigntool                    | sbsigntool                 | secureboot-db                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           64060 |             412
+secureboot-db                 | secureboot-db              | grub-efi-amd64-signed (Recommends)       | Steve Langasek <steve.langasek@ubuntu.com>                |            9080 |              28
+shim                          | shim                       | shim-signed                              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          574704 |            3744
+software-properties-common    | software-properties        | cloud-init (Recommends)                  | Michael Vogt <michael.vogt@ubuntu.com>                    |           10548 |             196
+ssh-import-id                 | ssh-import-id              | openssh-server (Recommends)              | Dustin Kirkland <kirkland@ubuntu.com>                     |           10040 |              54
+unattended-upgrades           | unattended-upgrades        | python3-software-properties (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49320 |             440
+wireless-regdb                | wireless-regdb             | crda                                     | Seth Forshee <seth.forshee@canonical.com>                 |           11040 |              33
+------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                                  |        25052122 |           91176

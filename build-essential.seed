@@ -1,0 +1,11 @@
+Package         | Source          | Why                                | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+----------------+-----------------+------------------------------------+-----------------------------------------------------------+-----------------+-----------------
+apt             | apt             | Ubuntu.Bionic build-essential seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1288960 |            4182
+build-essential | build-essential | Ubuntu.Bionic build-essential seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4624 |              20
+dpkg-dev        | dpkg            | Ubuntu.Bionic build-essential seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          679036 |            2074
+g++             | gcc-defaults    | Ubuntu.Bionic build-essential seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            1604 |              16
+gcc             | gcc-defaults    | Ubuntu.Bionic build-essential seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5208 |              50
+libc6-dev       | glibc           | Ubuntu.Bionic build-essential seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2519944 |           19070
+make            | make-dfsg       | Ubuntu.Bionic build-essential seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          162292 |             384
+-----------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                   |         4661668 |           25796

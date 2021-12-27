@@ -1,0 +1,34 @@
+Package                        | Source       | Why                                | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-------------------------------+--------------+------------------------------------+-----------------------------------------------------------+-----------------+-----------------
+libboost-program-options1.71.0 | boost1.71    | libmirplatform17                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          341824 |            2526
+libc-dev-bin                   | glibc        | libc6-dev                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           71820 |             440
+libc6-dev                      | glibc        | zlib1g-dev                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2519944 |           19070
+libcapnp-0.7.0                 | capnproto    | libmirclient9                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1046644 |            4667
+libcrypt-dev                   | libxcrypt    | libc6-dev                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          104104 |             321
+liblttng-ust-ctl4              | ust          | liblttng-ust0                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           80872 |             330
+liblttng-ust0                  | ust          | libmirserver53                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          159756 |             783
+libmiral-dev                   | mir          | Ubuntu.Bionic supported-kiosk seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           20392 |             209
+libmiral3                      | mir          | libmiral-dev                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          183992 |             722
+libmirclient-dev               | mir          | libmiral-dev                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           48992 |             460
+libmirclient9                  | mir          | libmiral3                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          225076 |             882
+libmircommon-dev               | mir          | libmirclient-dev                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15464 |             185
+libmircommon7                  | mir          | libmirclient9                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           85772 |             387
+libmircookie-dev               | mir          | libmirclient-dev                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5784 |             107
+libmircookie2                  | mir          | libmirserver53                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           18936 |             139
+libmircore-dev                 | mir          | libmircommon-dev                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           20268 |             178
+libmircore1                    | mir          | libmircommon7                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           24660 |             155
+libmirplatform17               | mir          | libmiral3                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           72420 |             335
+libmirprotobuf3                | mir          | libmirclient9                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          130944 |             653
+libmirserver53                 | mir          | libmiral3                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          722316 |            2863
+libmirwayland0                 | mir          | libmirserver53                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49536 |             329
+libprotobuf-dev                | protobuf     | libmircommon-dev                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1155436 |           10366
+libprotobuf-lite17             | protobuf     | libmirprotobuf3                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          131780 |             492
+liburcu6                       | liburcu      | liblttng-ust0                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           54180 |             361
+libxcb-composite0              | libxcb       | libmirserver53                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5180 |              36
+libxkbcommon-dev               | libxkbcommon | libmircommon-dev                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           45424 |             313
+libyaml-cpp0.6                 | yaml-cpp     | libmiral3                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          124160 |             390
+linux-libc-dev                 | linux        | libc6-dev                          | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>         |         1106280 |            5725
+manpages-dev                   | manpages     | libc-dev-bin (Recommends)          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2265524 |            3879
+zlib1g-dev                     | zlib         | libprotobuf-dev                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          155508 |             591
+-----------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                               |        10992988 |           57894

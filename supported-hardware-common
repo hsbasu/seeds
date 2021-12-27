@@ -1,0 +1,24 @@
+Package          | Source         | Why                                          | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-----------------+----------------+----------------------------------------------+-----------------------------------------------------------+-----------------+-----------------
+efivar           | efivar         | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            8656 |              44
+ethtool          | ethtool        | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          133644 |             450
+hfsutils         | hfsutils       | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           71864 |            1827
+libefiboot1      | efivar         | efivar                                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           38120 |             117
+libefivar1       | efivar         | efivar                                       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           47756 |             170
+liblzo2-2        | lzo2           | squashfs-tools                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           50768 |             175
+libnl-3-200      | libnl3         | powertop                                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           53864 |             180
+libnl-genl-3-200 | libnl3         | powertop                                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11140 |              57
+libnvpair1linux  | zfs-linux      | zfsutils-linux                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           48400 |             174
+libreadline5     | readline5      | xfsprogs                                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          100296 |             328
+libuutil1linux   | zfs-linux      | zfsutils-linux                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41780 |             144
+libzfs2linux     | zfs-linux      | zfsutils-linux                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          207008 |             596
+libzpool2linux   | zfs-linux      | zfsutils-linux                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          805488 |            2825
+powertop         | powertop       | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          194880 |             644
+reiser4progs     | reiser4progs   | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          232028 |            1388
+squashfs-tools   | squashfs-tools | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          120832 |             356
+xfsdump          | xfsdump        | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          214828 |             740
+xfsprogs         | xfsprogs       | xfsdump                                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          773180 |            2676
+zfs-zed          | zfs-linux      | zfsutils-linux (Recommends)                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           59736 |             257
+zfsutils-linux   | zfs-linux      | Ubuntu.Bionic supported-hardware-common seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          353508 |            1265
+---------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                             |         3567776 |           14413

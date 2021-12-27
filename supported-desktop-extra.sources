@@ -1,0 +1,28 @@
+Source                      | Maintainer                                                            
+----------------------------+------------------------------------------------------------------------
+binutils                    | Matthias Klose <doko@debian.org>                                      
+build-essential             | Matthias Klose <doko@debian.org>                                      
+ca-certificates-java        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>             
+dkms                        | Dynamic Kernel Modules Support Team <dkms@packages.debian.org>        
+fakeroot                    | Clint Adams <clint@debian.org>                                        
+icc-profiles-free           | Oleksandr Moskalenko <malex@debian.org>                               
+java-atk-wrapper            | Debian Accessibility Team <pkg-a11y-devel@lists.alioth.debian.org>    
+java-common                 | Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>
+libalgorithm-diff-perl      | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>      
+libalgorithm-diff-xs-perl   | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>      
+libalgorithm-merge-perl     | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>      
+libvdpau                    | Debian NVIDIA Maintainers <pkg-nvidia-devel@lists.alioth.debian.org>  
+linux                       | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>                     
+linux-meta                  | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>                     
+make-dfsg                   | Manoj Srivastava <srivasta@debian.org>                                
+nvidia-graphics-drivers-340 | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>        
+nvidia-graphics-drivers-390 | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>        
+nvidia-graphics-drivers-430 | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>        
+nvidia-graphics-drivers-435 | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>        
+nvidia-graphics-drivers-440 | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>        
+nvidia-prime                | Alberto Milone <alberto.milone@canonical.com>                         
+nvidia-settings             | Ubuntu MOTU Developers <ubuntu-motu@lists.ubuntu.com>                 
+ocl-icd                     | Vincent Danjean <vdanjean@debian.org>                                 
+openjdk-lts                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>             
+screen-resolution-extra     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>             
+tar-doc                     | Bdale Garbee <bdale@gag.com>                                          

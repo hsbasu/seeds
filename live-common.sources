@@ -1,0 +1,13 @@
+Source                  | Maintainer                                               
+------------------------+-----------------------------------------------------------
+dmraid                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+efivar                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+jfsutils                | Laszlo Boszormenyi (GCS) <gcs@debian.org>                
+libaio                  | Guillem Jover <guillem@debian.org>                       
+mokutil                 | Simon Quigley <tsimonq2@debian.org>                      
+multipath-tools         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+readline5               | Debian QA Group <packages@qa.debian.org>                 
+reiserfsprogs           | Felix Zielcke <fzielcke@z-51.de>                         
+scowl                   | Don Armstrong <don@debian.org>                           
+thin-provisioning-tools | Debian LVM Team <team+lvm@tracker.debian.org>            
+xfsprogs                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>

@@ -1,0 +1,64 @@
+Source                        | Maintainer                                                              
+------------------------------+--------------------------------------------------------------------------
+aptitude                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+boost1.71                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+cwidget                       | Manuel A. Fernandez Montecelo <mafm@debian.org>                         
+dmidecode                     | Jörg Frings-Fürst <debian@jff.email>                                    
+dmraid                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+efibootmgr                    | Debian UEFI Maintainers <debian-efi@lists.debian.org>                   
+efivar                        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+finalrd                       | Dimitri John Ledkov <xnox@ubuntu.com>                                   
+freetype                      | Hugh McMaster <hugh.mcmaster@outlook.com>                               
+fuse                          | Laszlo Boszormenyi (GCS) <gcs@debian.org>                               
+gdbm                          | Dmitry Bogatov <KAction@debian.org>                                     
+gettext                       | Santiago Vila <sanvila@debian.org>                                      
+grub2                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+grub2-signed                  | Colin Watson <cjwatson@ubuntu.com>                                      
+installation-report           | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+jfsutils                      | Laszlo Boszormenyi (GCS) <gcs@debian.org>                               
+laptop-detect                 | Simó Albert i Beltran <sim6@probeta.net>                                
+libaio                        | Guillem Jover <guillem@debian.org>                                      
+libcgi-fast-perl              | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libcgi-pm-perl                | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libclass-accessor-perl        | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libdrm                        | Debian X Strike Force <debian-x@lists.debian.org>                       
+libencode-locale-perl         | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libfcgi-perl                  | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libfontenc                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+libhtml-parser-perl           | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libhtml-tagset-perl           | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libhttp-date-perl             | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libhttp-message-perl          | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libio-html-perl               | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libio-string-perl             | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+liblwp-mediatypes-perl        | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libparse-debianchangelog-perl | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libpng1.6                     | Maintainers of libpng1.6 packages <libpng1.6@packages.debian.org>       
+libsigc++-2.0                 | Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+libsub-name-perl              | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libtimedate-perl              | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+liburi-perl                   | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+lupin                         | Agostino Russo <agostino.russo@gmail.com>                               
+mdadm                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+mokutil                       | Simon Quigley <tsimonq2@debian.org>                                     
+mouseemu                      | Colin Watson <cjwatson@ubuntu.com>                                      
+multipath-tools               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+os-prober                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+pci.ids                       | Guillem Jover <guillem@debian.org>                                      
+pciutils                      | Guillem Jover <guillem@debian.org>                                      
+plymouth                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+readline5                     | Debian QA Group <packages@qa.debian.org>                                
+reiserfsprogs                 | Felix Zielcke <fzielcke@z-51.de>                                        
+sbsigntool                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+secureboot-db                 | Steve Langasek <steve.langasek@ubuntu.com>                              
+shim                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+shim-signed                   | Steve Langasek <steve.langasek@ubuntu.com>                              
+tasksel                       | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+thin-provisioning-tools       | Debian LVM Team <team+lvm@tracker.debian.org>                           
+unifont                       | Debian QA Group <packages@qa.debian.org>                                
+user-setup                    | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+xapian-core                   | Olly Betts <olly@survex.com>                                            
+xfonts-encodings              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+xfonts-utils                  | Debian X Strike Force <debian-x@lists.debian.org>                       
+xfsprogs                      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+xorg                          | Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>                               

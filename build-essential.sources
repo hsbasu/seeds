@@ -1,0 +1,26 @@
+Source          | Maintainer                                                              
+----------------+--------------------------------------------------------------------------
+adduser         | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+apt             | APT Development Team <deity@lists.debian.org>                           
+binutils        | Matthias Klose <doko@debian.org>                                        
+build-essential | Matthias Klose <doko@debian.org>                                        
+gcc-9           | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+gcc-defaults    | Debian GCC Maintainers <debian-gcc@lists.debian.org>                    
+gdbm            | Dmitry Bogatov <KAction@debian.org>                                     
+gmp             | Debian Science Team <debian-science-maintainers@lists.alioth.debian.org>
+gnupg2          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+gnutls28        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+isl             | Debian GCC Maintainers <debian-gcc@lists.debian.org>                    
+libffi          | Debian GCC Maintainers <debian-gcc@lists.debian.org>                    
+libidn2         | Debian Libidn team <help-libidn@gnu.org>                                
+libseccomp      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+libtasn1-6      | Debian GnuTLS Maintainers <pkg-gnutls-maint@lists.alioth.debian.org>    
+libunistring    | Jörg Frings-Fürst <debian@jff.email>                                    
+linux           | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>                       
+make-dfsg       | Manoj Srivastava <srivasta@debian.org>                                  
+mpclib3         | Debian GCC Maintainers <debian-gcc@lists.debian.org>                    
+mpfr4           | Debian GCC Maintainers <debian-gcc@lists.debian.org>                    
+nettle          | Magnus Holmgren <holmgren@debian.org>                                   
+p11-kit         | Debian GnuTLS Maintainers <pkg-gnutls-maint@lists.alioth.debian.org>    
+patch           | Laszlo Boszormenyi (GCS) <gcs@debian.org>                               
+ubuntu-keyring  | Dimitri John Ledkov <dimitri.ledkov@canonical.com>                      

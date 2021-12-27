@@ -1,0 +1,579 @@
+Package                          | Source                           | Why                          | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+---------------------------------+----------------------------------+------------------------------+-----------------------------------------------------------+-----------------+-----------------
+apparmor-notify                  | apparmor                         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           12428 |             118
+apparmor-profiles                | apparmor                         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           32716 |             350
+apparmor-utils                   | apparmor                         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51104 |             219
+apt-config-icons-hidpi           | appstream                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2776 |              21
+apt-config-icons-large           | appstream                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2868 |              21
+apt-config-icons-large-hidpi     | appstream                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2852 |              21
+auditd                           | audit                            | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          196200 |             688
+curtin                           | curtin                           | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2496 |              27
+dict-foldoc                      | dict-foldoc                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2398720 |            2539
+dict-gcide                       | dict-gcide                       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        14796068 |           17099
+dict-jargon                      | dict-jargon                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          615994 |             634
+dict-vera                        | vera                             | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          278534 |             375
+dictd                            | dictd                            | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          107000 |             308
+e2fslibs                         | e2fsprogs                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2716 |              73
+fglrx-pxpress                    | ubuntu-drivers-common            | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            1388 |              30
+firefox-locale-af                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          398636 |             663
+firefox-locale-an                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          453036 |             716
+firefox-locale-ar                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          515944 |             780
+firefox-locale-as                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |           14796 |             235
+firefox-locale-ast               | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          439880 |             705
+firefox-locale-az                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          469520 |             735
+firefox-locale-be                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          564112 |             825
+firefox-locale-bg                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          530804 |             794
+firefox-locale-bn                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          558736 |             821
+firefox-locale-br                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          480404 |             746
+firefox-locale-bs                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          448848 |             713
+firefox-locale-ca                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          848232 |            1256
+firefox-locale-cak               | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          508972 |             774
+firefox-locale-cs                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          505056 |             768
+firefox-locale-csb               | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |           14804 |             235
+firefox-locale-cy                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          488132 |             753
+firefox-locale-da                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          470412 |             736
+firefox-locale-el                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          572388 |             834
+firefox-locale-eo                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          483692 |             749
+firefox-locale-et                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          469864 |             735
+firefox-locale-eu                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          484840 |             750
+firefox-locale-fa                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          525804 |             789
+firefox-locale-fi                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          477516 |             742
+firefox-locale-fy                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          485356 |             752
+firefox-locale-ga                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          459028 |             726
+firefox-locale-gd                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          480608 |             746
+firefox-locale-gl                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          451192 |             716
+firefox-locale-gn                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          504472 |             769
+firefox-locale-gu                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          534968 |             800
+firefox-locale-he                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          494824 |             758
+firefox-locale-hi                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          543280 |             808
+firefox-locale-hr                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          484872 |             750
+firefox-locale-hsb               | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          504688 |             770
+firefox-locale-hu                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          510656 |             774
+firefox-locale-hy                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          555044 |             820
+firefox-locale-ia                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          473016 |             739
+firefox-locale-id                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          475460 |             740
+firefox-locale-is                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          462592 |             728
+firefox-locale-ja                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          526048 |             790
+firefox-locale-ka                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          528508 |             792
+firefox-locale-kab               | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          489300 |             754
+firefox-locale-kk                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          556760 |             818
+firefox-locale-km                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          509356 |             771
+firefox-locale-kn                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          503632 |             766
+firefox-locale-ko                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          512204 |             775
+firefox-locale-ku                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |           14796 |             235
+firefox-locale-lg                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |           14776 |             235
+firefox-locale-lt                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          508164 |             773
+firefox-locale-lv                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          461748 |             725
+firefox-locale-mai               | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |           14808 |             235
+firefox-locale-mk                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          432936 |             697
+firefox-locale-ml                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |           14796 |             235
+firefox-locale-mn                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |           14792 |             235
+firefox-locale-mr                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          534444 |             798
+firefox-locale-ms                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          446532 |             712
+firefox-locale-my                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          505576 |             768
+firefox-locale-nb                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          471344 |             740
+firefox-locale-ne                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          473572 |             739
+firefox-locale-nl                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          476536 |             741
+firefox-locale-nn                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          473336 |             742
+firefox-locale-nso               | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |           14804 |             235
+firefox-locale-oc                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          490568 |             754
+firefox-locale-or                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |           14804 |             235
+firefox-locale-pa                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          520464 |             786
+firefox-locale-pl                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          487424 |             752
+firefox-locale-ro                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          494020 |             759
+firefox-locale-si                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          480012 |             744
+firefox-locale-sk                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          506640 |             770
+firefox-locale-sl                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          487064 |             751
+firefox-locale-sq                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          499288 |             764
+firefox-locale-sr                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          512080 |             776
+firefox-locale-sv                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          482220 |             749
+firefox-locale-sw                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |           14792 |             235
+firefox-locale-ta                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          509312 |             773
+firefox-locale-te                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          527444 |             790
+firefox-locale-th                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          545016 |             808
+firefox-locale-tr                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          498836 |             763
+firefox-locale-uk                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          554928 |             817
+firefox-locale-ur                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          529660 |             793
+firefox-locale-uz                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          448460 |             713
+firefox-locale-vi                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          510496 |             773
+firefox-locale-xh                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          419680 |             682
+firefox-locale-zh-hant           | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          509344 |             775
+firefox-locale-zu                | firefox                          | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |           14808 |             235
+fonts-arabeyes                   | fonts-arabeyes                   | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          685014 |            5338
+fonts-farsiweb                   | fonts-farsiweb                   | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          110950 |             294
+fonts-khmeros                    | fonts-khmeros                    | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          247000 |            2050
+fonts-manchufont                 | fonts-manchufont                 | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1135758 |            1428
+fonts-nafees                     | fonts-nafees                     | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          224632 |             713
+fonts-noto-cjk-extra             | fonts-noto-cjk                   | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |       131010632 |          211714
+fonts-sil-ezra                   | fonts-sil-ezra                   | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          130774 |             428
+fonts-sil-nuosusil               | fonts-sil-nuosusil               | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          191186 |             573
+fonts-sil-scheherazade           | fonts-sil-scheherazade           | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          955772 |            1817
+fonts-ukij-uyghur                | fonts-ukij-uyghur                | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         5229700 |           20627
+gnome-getting-started-docs-as    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106580 |            1388
+gnome-getting-started-docs-ca    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106072 |            1378
+gnome-getting-started-docs-cs    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7412944 |            8773
+gnome-getting-started-docs-da    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          105640 |            1373
+gnome-getting-started-docs-el    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          107248 |            1394
+gnome-getting-started-docs-eo    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          105592 |            1374
+gnome-getting-started-docs-fa    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106036 |            1382
+gnome-getting-started-docs-fi    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          105824 |            1371
+gnome-getting-started-docs-gl    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7416468 |            8778
+gnome-getting-started-docs-gu    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106556 |            1389
+gnome-getting-started-docs-he    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          105920 |            1378
+gnome-getting-started-docs-hi    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106596 |            1389
+gnome-getting-started-docs-hr    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          105848 |            1372
+gnome-getting-started-docs-hu    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7428716 |            8792
+gnome-getting-started-docs-id    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          105888 |            1374
+gnome-getting-started-docs-ja    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106044 |            1380
+gnome-getting-started-docs-kn    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106884 |            1395
+gnome-getting-started-docs-ko    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106208 |            1376
+gnome-getting-started-docs-lt    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106588 |            1377
+gnome-getting-started-docs-lv    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          105916 |            1374
+gnome-getting-started-docs-mr    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106652 |            1390
+gnome-getting-started-docs-nl    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          105872 |            1375
+gnome-getting-started-docs-pa    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106792 |            1389
+gnome-getting-started-docs-pl    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7421820 |            8784
+gnome-getting-started-docs-ro    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106112 |            1377
+gnome-getting-started-docs-sk    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106456 |            1376
+gnome-getting-started-docs-sr    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          114452 |            2701
+gnome-getting-started-docs-sv    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          105952 |            1376
+gnome-getting-started-docs-ta    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106944 |            1402
+gnome-getting-started-docs-te    | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106924 |            1391
+gnome-getting-started-docs-zh-hk | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106100 |            1373
+gnome-getting-started-docs-zh-tw | gnome-getting-started-docs       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106108 |            1373
+gnome-user-docs-as               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          156448 |            1218
+gnome-user-docs-ca               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          173572 |            1403
+gnome-user-docs-cs               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          315088 |            1517
+gnome-user-docs-da               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          150304 |            1096
+gnome-user-docs-el               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          168012 |            1746
+gnome-user-docs-fi               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          157676 |            1185
+gnome-user-docs-gl               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          286744 |            1433
+gnome-user-docs-gu               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          158476 |            1249
+gnome-user-docs-he               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          144208 |            1049
+gnome-user-docs-hi               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          145204 |            1062
+gnome-user-docs-hr               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          405140 |            1306
+gnome-user-docs-hu               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          347076 |            1880
+gnome-user-docs-id               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          151068 |            1184
+gnome-user-docs-ja               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          157940 |            1584
+gnome-user-docs-kn               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          145492 |            1054
+gnome-user-docs-ko               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           34592 |             227
+gnome-user-docs-lt               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          147444 |            1054
+gnome-user-docs-lv               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          333524 |            1237
+gnome-user-docs-mr               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          159952 |            1352
+gnome-user-docs-nl               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          152820 |            1204
+gnome-user-docs-pa               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          145408 |            1054
+gnome-user-docs-pl               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          704252 |            1737
+gnome-user-docs-ro               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          146952 |            1118
+gnome-user-docs-sl               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          152928 |            1050
+gnome-user-docs-sr               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          403232 |            2484
+gnome-user-docs-sv               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          168224 |            1463
+gnome-user-docs-ta               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          162900 |            1479
+gnome-user-docs-te               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          154552 |            1276
+gnome-user-docs-vi               | gnome-user-docs                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          235844 |            1200
+hunspell-af                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          396320 |            1615
+hunspell-an                      | hunspell-an                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           75392 |             297
+hunspell-ar                      | hunspell-ar                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          537260 |            3861
+hunspell-be                      | hunspell-be                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          363532 |            1761
+hunspell-bg                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          265520 |            1964
+hunspell-bn                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          294704 |            2916
+hunspell-bo                      | hunspell-bo                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6572 |              35
+hunspell-br                      | hunspell-br                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          723186 |            5535
+hunspell-bs                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          138360 |             727
+hunspell-ca                      | hunspell-ca                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          586584 |            5990
+hunspell-cs                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          535040 |            2631
+hunspell-da                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          566476 |            3280
+hunspell-de-at                   | igerman98                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          285224 |            1133
+hunspell-de-ch                   | igerman98                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          285024 |            1135
+hunspell-de-de                   | igerman98                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          284396 |            1134
+hunspell-dz                      | hunspell-dz                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6936 |              35
+hunspell-el                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1617772 |           10282
+hunspell-eu                      | xuxen-eu-spell                   | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          564108 |            5350
+hunspell-gd                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          836092 |            5081
+hunspell-gl                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1295756 |            9944
+hunspell-gl-es                   | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41164 |             376
+hunspell-gu                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          539528 |            4082
+hunspell-gug                     | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           55440 |             411
+hunspell-he                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          702808 |            8069
+hunspell-hi                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           92164 |             675
+hunspell-hr                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          227672 |            1186
+hunspell-hu                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          631524 |            4049
+hunspell-id                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          143836 |             700
+hunspell-is                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          598588 |            3077
+hunspell-kk                      | hunspell-kk                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          216156 |            2256
+hunspell-kmr                     | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           57704 |             430
+hunspell-ko                      | hunspell-dict-ko                 | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          627484 |           13719
+hunspell-lo                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           77800 |             577
+hunspell-lt                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          313312 |            1528
+hunspell-lv                      | hunspell-lv                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          283464 |            1949
+hunspell-ml                      | hunspell-ml                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          738970 |            5300
+hunspell-ne                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          176524 |            1245
+hunspell-nl                      | dutch                            | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          678300 |            2438
+hunspell-no                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1875248 |            8761
+hunspell-oc                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          200016 |            1061
+hunspell-pl                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          998192 |            5052
+hunspell-ro                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          527808 |            2576
+hunspell-se                      | hunspell-se                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         3323480 |           25440
+hunspell-si                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          264380 |            1402
+hunspell-sk                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          688016 |            3688
+hunspell-sl                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          988512 |            3291
+hunspell-sr                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1692336 |           11398
+hunspell-sv                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          642752 |            4946
+hunspell-sv-se                   | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41144 |             376
+hunspell-sw                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          232324 |             997
+hunspell-te                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          465380 |            3701
+hunspell-th                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          235384 |            1601
+hunspell-tools                   | hunspell                         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           44608 |             219
+hunspell-tr                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1696632 |            9456
+hunspell-uk                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          435180 |            3057
+hunspell-uz                      | uzbek-wordlist                   | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          223600 |            2208
+hunspell-vi                      | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51036 |             417
+hyphen-af                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           63560 |             440
+hyphen-as                        | hyphen-indic                     | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3806 |              21
+hyphen-bg                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           47868 |             435
+hyphen-bn                        | hyphen-indic                     | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3810 |              21
+hyphen-ca                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           48848 |             396
+hyphen-cs                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51388 |             398
+hyphen-da                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           45576 |             384
+hyphen-el                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           43460 |             382
+hyphen-es                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           45168 |             403
+hyphen-fi                        | openoffice.org-hyphenation       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           10452 |              35
+hyphen-ga                        | openoffice.org-hyphenation       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           26210 |              71
+hyphen-gl                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           43148 |             379
+hyphen-gu                        | hyphen-indic                     | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3780 |              21
+hyphen-hi                        | hyphen-indic                     | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3774 |              21
+hyphen-hr                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           44552 |             386
+hyphen-hu                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          288284 |            1219
+hyphen-id                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           74084 |             479
+hyphen-is                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           63840 |             426
+hyphen-kn                        | hyphen-indic                     | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3786 |              21
+hyphen-lt                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           45932 |             386
+hyphen-lv                        | hunspell-lv                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           34376 |             109
+hyphen-ml                        | hyphen-indic                     | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3808 |              22
+hyphen-mr                        | hyphen-indic                     | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3778 |              21
+hyphen-nl                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           90056 |             493
+hyphen-no                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          120800 |             743
+hyphen-or                        | hyphen-indic                     | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3764 |              21
+hyphen-pa                        | hyphen-indic                     | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3762 |              21
+hyphen-pl                        | openoffice.org-hyphenation-pl    | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           12720 |              56
+hyphen-ro                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           48328 |             412
+hyphen-sk                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           47684 |             396
+hyphen-sl                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46236 |             387
+hyphen-sr                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           56796 |             433
+hyphen-sv                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           85200 |             479
+hyphen-ta                        | hyphen-indic                     | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3764 |              22
+hyphen-te                        | hyphen-indic                     | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3782 |              21
+hyphen-uk                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           47852 |             398
+hyphen-zu                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           43200 |             380
+ipxe                             | ipxe                             | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1294632 |            2607
+language-pack-gnome-af           | language-pack-gnome-af           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-am           | language-pack-gnome-am           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-an           | language-pack-gnome-an           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-ar           | language-pack-gnome-ar           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-as           | language-pack-gnome-as           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1928 |               9
+language-pack-gnome-ast          | language-pack-gnome-ast          | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1928 |               9
+language-pack-gnome-az           | language-pack-gnome-az           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1850 |               9
+language-pack-gnome-be           | language-pack-gnome-be           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-bg           | language-pack-gnome-bg           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1916 |               9
+language-pack-gnome-bn           | language-pack-gnome-bn           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-br           | language-pack-gnome-br           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1928 |               9
+language-pack-gnome-bs           | language-pack-gnome-bs           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-ca           | language-pack-gnome-ca           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1928 |               9
+language-pack-gnome-ckb          | language-pack-gnome-ckb          | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1936 |               9
+language-pack-gnome-crh          | language-pack-gnome-crh          | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1932 |               9
+language-pack-gnome-cs           | language-pack-gnome-cs           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-cy           | language-pack-gnome-cy           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-da           | language-pack-gnome-da           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1916 |               9
+language-pack-gnome-dz           | language-pack-gnome-dz           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1928 |               9
+language-pack-gnome-el           | language-pack-gnome-el           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1936 |               9
+language-pack-gnome-eo           | language-pack-gnome-eo           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-et           | language-pack-gnome-et           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-eu           | language-pack-gnome-eu           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-fa           | language-pack-gnome-fa           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-fi           | language-pack-gnome-fi           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-fur          | language-pack-gnome-fur          | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1936 |               9
+language-pack-gnome-ga           | language-pack-gnome-ga           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1916 |               9
+language-pack-gnome-gd           | language-pack-gnome-gd           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1932 |               9
+language-pack-gnome-gl           | language-pack-gnome-gl           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-gu           | language-pack-gnome-gu           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-he           | language-pack-gnome-he           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1928 |               9
+language-pack-gnome-hi           | language-pack-gnome-hi           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1916 |               9
+language-pack-gnome-hr           | language-pack-gnome-hr           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-hu           | language-pack-gnome-hu           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-ia           | language-pack-gnome-ia           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1944 |               9
+language-pack-gnome-id           | language-pack-gnome-id           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-is           | language-pack-gnome-is           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-ja           | language-pack-gnome-ja           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-ka           | language-pack-gnome-ka           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1842 |               9
+language-pack-gnome-kk           | language-pack-gnome-kk           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-km           | language-pack-gnome-km           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-kn           | language-pack-gnome-kn           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1916 |               9
+language-pack-gnome-ko           | language-pack-gnome-ko           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-ku           | language-pack-gnome-ku           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-lt           | language-pack-gnome-lt           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-lv           | language-pack-gnome-lv           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1928 |               9
+language-pack-gnome-mk           | language-pack-gnome-mk           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-ml           | language-pack-gnome-ml           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-mr           | language-pack-gnome-mr           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-ms           | language-pack-gnome-ms           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-my           | language-pack-gnome-my           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-nb           | language-pack-gnome-nb           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1940 |               9
+language-pack-gnome-nds          | language-pack-gnome-nds          | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1850 |               9
+language-pack-gnome-ne           | language-pack-gnome-ne           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-nl           | language-pack-gnome-nl           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-nn           | language-pack-gnome-nn           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1928 |               9
+language-pack-gnome-oc           | language-pack-gnome-oc           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1944 |               9
+language-pack-gnome-or           | language-pack-gnome-or           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1916 |               9
+language-pack-gnome-pa           | language-pack-gnome-pa           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-pl           | language-pack-gnome-pl           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1916 |               9
+language-pack-gnome-ro           | language-pack-gnome-ro           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1932 |               9
+language-pack-gnome-si           | language-pack-gnome-si           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |          176388 |             847
+language-pack-gnome-sk           | language-pack-gnome-sk           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-sl           | language-pack-gnome-sl           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-sq           | language-pack-gnome-sq           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-sr           | language-pack-gnome-sr           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1912 |               9
+language-pack-gnome-sv           | language-pack-gnome-sv           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1916 |               9
+language-pack-gnome-szl          | language-pack-gnome-szl          | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-ta           | language-pack-gnome-ta           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1912 |               9
+language-pack-gnome-te           | language-pack-gnome-te           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1916 |               9
+language-pack-gnome-tg           | language-pack-gnome-tg           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-th           | language-pack-gnome-th           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1916 |               9
+language-pack-gnome-tr           | language-pack-gnome-tr           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-ug           | language-pack-gnome-ug           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-uk           | language-pack-gnome-uk           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-vi           | language-pack-gnome-vi           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-xh           | language-pack-gnome-xh           | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1838 |               9
+language-pack-gnome-zh-hant      | language-pack-gnome-zh-hant      | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1956 |               9
+language-pack-gnome-zh-hant-base | language-pack-gnome-zh-hant-base | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |         1791724 |            9943
+language-pack-zh-hant            | language-pack-zh-hant            | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |            1944 |               9
+language-pack-zh-hant-base       | language-pack-zh-hant-base       | Ubuntu.Bionic supported seed | Language pack maintainers <language-packs@ubuntu.com>     |         1419668 |            6298
+libapache2-mod-apparmor          | apparmor                         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15140 |             124
+libcomerr2                       | e2fsprogs                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            2708 |              73
+libenchant-voikko                | enchant                          | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5580 |              35
+libpam-apparmor                  | apparmor                         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7400 |             100
+libreoffice-help-ca              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         3936720 |           42968
+libreoffice-help-cs              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2171864 |           21473
+libreoffice-help-da              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2154424 |           21401
+libreoffice-help-dz              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2305424 |           26927
+libreoffice-help-el              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2463908 |           26113
+libreoffice-help-et              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2141412 |           21213
+libreoffice-help-eu              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2104984 |           21588
+libreoffice-help-fi              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2132948 |           21320
+libreoffice-help-gl              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2177048 |           21462
+libreoffice-help-hi              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2122988 |           21710
+libreoffice-help-hu              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2248212 |           21920
+libreoffice-help-id              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2098584 |           21213
+libreoffice-help-ja              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2365624 |           22513
+libreoffice-help-km              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2352720 |           26402
+libreoffice-help-ko              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2122608 |           21562
+libreoffice-help-nl              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2195840 |           21712
+libreoffice-help-om              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2189180 |           21289
+libreoffice-help-pl              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2267508 |           21705
+libreoffice-help-sk              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           28468 |             562
+libreoffice-help-sl              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2151832 |           21400
+libreoffice-help-sv              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2144164 |           21283
+libreoffice-help-tr              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2174384 |           21556
+libreoffice-help-vi              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2131484 |           21818
+libreoffice-l10n-af              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          404876 |            2364
+libreoffice-l10n-am              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          530888 |            3245
+libreoffice-l10n-ar              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          453104 |            2727
+libreoffice-l10n-as              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          368356 |            2648
+libreoffice-l10n-ast             | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          350376 |            2127
+libreoffice-l10n-be              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          476588 |            2943
+libreoffice-l10n-bg              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          665540 |            3710
+libreoffice-l10n-bn              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          289448 |            2219
+libreoffice-l10n-br              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          464700 |            2663
+libreoffice-l10n-bs              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          373536 |            2228
+libreoffice-l10n-ca              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          703732 |            5647
+libreoffice-l10n-cs              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          654884 |            3223
+libreoffice-l10n-cy              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          550340 |            2995
+libreoffice-l10n-da              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          628200 |            3140
+libreoffice-l10n-dz              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          260280 |            2251
+libreoffice-l10n-el              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          586608 |            3638
+libreoffice-l10n-eo              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          543840 |            2979
+libreoffice-l10n-et              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          548864 |            3010
+libreoffice-l10n-eu              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          551696 |            3060
+libreoffice-l10n-fa              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          234664 |            1733
+libreoffice-l10n-fi              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          531412 |            2949
+libreoffice-l10n-ga              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          525496 |            2937
+libreoffice-l10n-gd              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          538132 |            3051
+libreoffice-l10n-gl              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          558172 |            3078
+libreoffice-l10n-gu              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          408596 |            2802
+libreoffice-l10n-gug             | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          377716 |            2266
+libreoffice-l10n-he              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          379384 |            2394
+libreoffice-l10n-hi              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          343376 |            2483
+libreoffice-l10n-hr              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          542732 |            2966
+libreoffice-l10n-hu              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          639556 |            3215
+libreoffice-l10n-id              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          548604 |            2998
+libreoffice-l10n-in              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6620 |             235
+libreoffice-l10n-is              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          533072 |            2931
+libreoffice-l10n-ja              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          593476 |            3125
+libreoffice-l10n-ka              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          252508 |            2000
+libreoffice-l10n-kk              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          534688 |            3311
+libreoffice-l10n-km              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          488172 |            3122
+libreoffice-l10n-kmr             | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          247364 |            1724
+libreoffice-l10n-kn              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          402124 |            2897
+libreoffice-l10n-ko              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          585840 |            3015
+libreoffice-l10n-lt              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          523208 |            2944
+libreoffice-l10n-lv              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          527940 |            2942
+libreoffice-l10n-mk              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          271632 |            2001
+libreoffice-l10n-ml              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          372296 |            2824
+libreoffice-l10n-mn              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          383976 |            2235
+libreoffice-l10n-mr              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          401532 |            2778
+libreoffice-l10n-nb              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          550348 |            2993
+libreoffice-l10n-ne              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          312948 |            2382
+libreoffice-l10n-nl              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          641356 |            3165
+libreoffice-l10n-nn              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          549676 |            2996
+libreoffice-l10n-nr              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          208848 |            1533
+libreoffice-l10n-nso             | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          235396 |            1686
+libreoffice-l10n-oc              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          492384 |            2801
+libreoffice-l10n-om              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          271560 |            1829
+libreoffice-l10n-or              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          415188 |            2914
+libreoffice-l10n-pa-in           | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          332480 |            2363
+libreoffice-l10n-pl              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          599132 |            3118
+libreoffice-l10n-ro              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          475652 |            2698
+libreoffice-l10n-rw              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          253856 |            1775
+libreoffice-l10n-si              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          312696 |            2308
+libreoffice-l10n-sk              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          651624 |            3190
+libreoffice-l10n-sl              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          647180 |            3202
+libreoffice-l10n-sr              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          284112 |            2787
+libreoffice-l10n-ss              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          213624 |            1554
+libreoffice-l10n-st              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          209512 |            1547
+libreoffice-l10n-sv              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          591600 |            3002
+libreoffice-l10n-szl             | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          534472 |            2962
+libreoffice-l10n-ta              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          472732 |            3302
+libreoffice-l10n-te              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          374664 |            2680
+libreoffice-l10n-tg              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          253604 |            1902
+libreoffice-l10n-th              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          338208 |            2487
+libreoffice-l10n-tn              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          194848 |            1476
+libreoffice-l10n-tr              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          559396 |            2950
+libreoffice-l10n-ts              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          207568 |            1550
+libreoffice-l10n-ug              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          378084 |            2547
+libreoffice-l10n-uk              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          567748 |            3441
+libreoffice-l10n-uz              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          227612 |            1630
+libreoffice-l10n-ve              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          210256 |            1559
+libreoffice-l10n-vi              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          311504 |            2037
+libreoffice-l10n-xh              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          215072 |            1577
+libreoffice-l10n-za              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6612 |             235
+libreoffice-l10n-zu              | libreoffice                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          230912 |            1636
+libreoffice-voikko               | libreoffice-voikko               | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           16998 |              96
+miscfiles                        | miscfiles                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1292992 |            3131
+myspell-eo                       | eo-spell                         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           83380 |             295
+myspell-et                       | ispell-et                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          634896 |            4559
+myspell-fa                       | myspell-fa                       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          632348 |            6897
+myspell-fo                       | ispell-fo                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          895640 |            4692
+myspell-ga                       | iirish                           | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          172988 |             844
+myspell-gv                       | imanx                            | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           85876 |             323
+myspell-hy                       | myspell-hy                       | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          285030 |            2112
+myspell-lv                       | hunspell-lv                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            1724 |               9
+myspell-nr                       | dict-nr                          | Ubuntu.Bionic supported seed | Matthias Klose <doko@ubuntu.com>                          |           49424 |             145
+myspell-ns                       | dict-ns                          | Ubuntu.Bionic supported seed | Matthias Klose <doko@ubuntu.com>                          |           20444 |              54
+myspell-ss                       | dict-ss                          | Ubuntu.Bionic supported seed | Matthias Klose <doko@ubuntu.com>                          |           80422 |             414
+myspell-st                       | dict-st                          | Ubuntu.Bionic supported seed | Matthias Klose <doko@ubuntu.com>                          |           26434 |             130
+myspell-tn                       | dict-tn                          | Ubuntu.Bionic supported seed | Matthias Klose <doko@ubuntu.com>                          |           38108 |             107
+myspell-ts                       | dict-ts                          | Ubuntu.Bionic supported seed | Matthias Klose <doko@ubuntu.com>                          |           90576 |             263
+myspell-ve                       | dict-ve                          | Ubuntu.Bionic supported seed | Matthias Klose <doko@ubuntu.com>                          |           40040 |             124
+myspell-xh                       | dict-xh                          | Ubuntu.Bionic supported seed | Matthias Klose <doko@ubuntu.com>                          |           64384 |             193
+myspell-zu                       | dict-zu                          | Ubuntu.Bionic supported seed | Matthias Klose <doko@ubuntu.com>                          |          223988 |            1190
+mythes-ar                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          203276 |            1170
+mythes-bg                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          803592 |            5690
+mythes-ca                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          199908 |            1112
+mythes-cs                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1061364 |            5100
+mythes-da                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          850632 |            5209
+mythes-es                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          591552 |            3589
+mythes-gl                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          124612 |             876
+mythes-gug                       | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           53716 |             413
+mythes-hu                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          491712 |            2850
+mythes-id                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          555744 |            2420
+mythes-is                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           86684 |             547
+mythes-lv                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           42668 |             379
+mythes-ne                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          203788 |            1344
+mythes-no                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          330272 |            2914
+mythes-pl                        | openoffice.org-thesaurus-pl      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1569580 |            5804
+mythes-ro                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          892208 |            4024
+mythes-sk                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          257872 |            1305
+mythes-sl                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          342892 |            1828
+mythes-sv                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          271692 |            1116
+mythes-uk                        | libreoffice-dictionaries         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          278360 |            1686
+openjdk-11-doc                   | openjdk-lts                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        13407536 |          278080
+openjdk-11-source                | openjdk-lts                      | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        51798396 |           56660
+pkgbinarymangler                 | pkgbinarymangler                 | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           55160 |             166
+python-gi                        | pygobject                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          212440 |             739
+python3-libapparmor              | apparmor                         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           26680 |             202
+thunderbird-locale-af            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9308 |             124
+thunderbird-locale-ar            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          567492 |             727
+thunderbird-locale-ast           | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          499792 |             663
+thunderbird-locale-be            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          596384 |             756
+thunderbird-locale-bg            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          596412 |             756
+thunderbird-locale-bn            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9304 |             124
+thunderbird-locale-bn-bd         | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9288 |             124
+thunderbird-locale-br            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          523744 |             686
+thunderbird-locale-ca            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          527112 |             689
+thunderbird-locale-cak           | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          550676 |             713
+thunderbird-locale-cs            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          550852 |             713
+thunderbird-locale-cy            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          537548 |             701
+thunderbird-locale-da            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          536416 |             699
+thunderbird-locale-dsb           | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          565508 |             729
+thunderbird-locale-el            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          648972 |             807
+thunderbird-locale-et            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          521588 |             685
+thunderbird-locale-eu            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          527756 |             691
+thunderbird-locale-fi            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          526636 |             689
+thunderbird-locale-fy            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          537512 |             705
+thunderbird-locale-fy-nl         | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9292 |             124
+thunderbird-locale-ga            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          534308 |             699
+thunderbird-locale-ga-ie         | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9280 |             124
+thunderbird-locale-gd            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          535976 |             698
+thunderbird-locale-gl            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          518252 |             680
+thunderbird-locale-he            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          554808 |             715
+thunderbird-locale-hr            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          531936 |             695
+thunderbird-locale-hsb           | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          562348 |             726
+thunderbird-locale-hu            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          566248 |             728
+thunderbird-locale-hy            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          578176 |             742
+thunderbird-locale-id            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          516396 |             679
+thunderbird-locale-is            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          524948 |             686
+thunderbird-locale-ja            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          592780 |             753
+thunderbird-locale-ka            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          594644 |             755
+thunderbird-locale-kab           | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          536820 |             700
+thunderbird-locale-kk            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          614664 |             774
+thunderbird-locale-ko            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          569184 |             730
+thunderbird-locale-lt            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          553324 |             714
+thunderbird-locale-mk            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9300 |             124
+thunderbird-locale-ms            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          508004 |             670
+thunderbird-locale-nb            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          517360 |             685
+thunderbird-locale-nb-no         | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9280 |             124
+thunderbird-locale-nl            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          529152 |             692
+thunderbird-locale-nn            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          518700 |             686
+thunderbird-locale-nn-no         | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9284 |             124
+thunderbird-locale-pa            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9312 |             124
+thunderbird-locale-pa-in         | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9280 |             124
+thunderbird-locale-pl            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          523228 |             687
+thunderbird-locale-rm            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          526124 |             689
+thunderbird-locale-ro            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          542668 |             705
+thunderbird-locale-si            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          588600 |             747
+thunderbird-locale-sk            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          557992 |             720
+thunderbird-locale-sl            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          538188 |             701
+thunderbird-locale-sq            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          546364 |             709
+thunderbird-locale-sr            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          574592 |             735
+thunderbird-locale-sv            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          534064 |             702
+thunderbird-locale-sv-se         | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9276 |             124
+thunderbird-locale-ta            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9308 |             124
+thunderbird-locale-ta-lk         | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9272 |             124
+thunderbird-locale-tr            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          547980 |             710
+thunderbird-locale-uk            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          621112 |             780
+thunderbird-locale-uz            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          520952 |             682
+thunderbird-locale-vi            | thunderbird                      | Ubuntu.Bionic supported seed | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          572112 |             733
+tmispell-voikko                  | tmispell-voikko                  | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           67464 |             276
+w3m                              | w3m                              | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          935216 |            2528
+wbulgarian                       | bgoffice                         | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1391632 |           17109
+wcatalan                         | softcatala-spell                 | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1017768 |            6846
+wdanish                          | dsdo                             | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          645924 |            3890
+wdutch                           | dutch                            | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1137040 |            4166
+wfaroese                         | ispell-fo                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          929916 |            5292
+wgalician-minimos                | ispell-gl                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          859916 |            5997
+wirish                           | iirish                           | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           45364 |             201
+wmanx                            | imanx                            | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           87288 |             327
+wnorwegian                       | norwegian                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         3199828 |           20260
+wpolish                          | ipolish                          | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7565824 |           56383
+wswedish                         | swedish                          | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          233454 |            1280
+wukrainian                       | ispell-uk                        | Ubuntu.Bionic supported seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2953516 |           32260
+---------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                               |       483205984 |         2003806

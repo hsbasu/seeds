@@ -1,0 +1,9 @@
+Package       | Source        | Why                           | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+--------------+---------------+-------------------------------+-----------------------------------------------------------+-----------------+-----------------
+bind9         | bind9         | Ubuntu.Bionic dns-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          232772 |             866
+bind9-doc     | bind9         | Ubuntu.Bionic dns-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          253560 |            1830
+bind9-utils   | bind9         | bind9                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          172116 |             744
+dns-root-data | dns-root-data | bind9                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5300 |              18
+python3-ply   | ply           | bind9-utils                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46360 |             250
+--------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                          |          710108 |            3708

@@ -1,0 +1,45 @@
+Package              | Source        | Why                      | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+---------------------+---------------+--------------------------+-----------------------------------------------------------+-----------------+-----------------
+dirmngr              | gnupg2        | gnupg                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          329332 |             918
+dovecot-core         | dovecot       | dovecot-pop3d            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2917676 |            9883
+gnupg                | gnupg2        | libgpgme11               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          258936 |             413
+gnupg-l10n           | gnupg2        | gnupg                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51748 |             380
+gnupg-utils          | gnupg2        | gnupg                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          481072 |            1550
+gpg                  | gnupg2        | gnupg-utils (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          482096 |            1135
+gpg-agent            | gnupg2        | gnupg-utils (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          232000 |             911
+gpg-wks-client       | gnupg2        | gnupg                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           97660 |             275
+gpg-wks-server       | gnupg2        | gnupg                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           90268 |             255
+gpgconf              | gnupg2        | dirmngr                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          123744 |             409
+gpgsm                | gnupg2        | gnupg-utils (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          216812 |             568
+libasn1-8-heimdal    | heimdal       | libgssapi3-heimdal       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          181044 |             798
+libassuan0           | libassuan     | gpgconf                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           35668 |             105
+libexttextcat-2.0-0  | libexttextcat | dovecot-core             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           12968 |              46
+libexttextcat-data   | libexttextcat | libexttextcat-2.0-0      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          161564 |             501
+libgpgme11           | gpgme1.0      | mutt                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          120900 |             355
+libgssapi3-heimdal   | heimdal       | libldap-2.4-2            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           96132 |             324
+libhcrypto4-heimdal  | heimdal       | libgssapi3-heimdal       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           87864 |             274
+libheimbase1-heimdal | heimdal       | libhcrypto4-heimdal      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           29716 |             113
+libheimntlm0-heimdal | heimdal       | libgssapi3-heimdal       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           15088 |              85
+libhx509-5-heimdal   | heimdal       | libkrb5-26-heimdal       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          106632 |             360
+libidn11             | libidn        | mutt                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46180 |             244
+libkrb5-26-heimdal   | heimdal       | libheimntlm0-heimdal     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          207648 |             665
+libksba8             | libksba       | dirmngr                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           92566 |             259
+libldap-2.4-2        | openldap      | dirmngr                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          155528 |             522
+libldap-common       | openldap      | libldap-2.4-2            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17288 |             101
+liblockfile-bin      | liblockfile   | liblockfile1             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11680 |              46
+liblockfile1         | liblockfile   | bsd-mailx                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6680 |              39
+liblua5.3-0          | lua5.3        | dovecot-core             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          116112 |             478
+libnpth0             | npth          | dirmngr                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7736 |              36
+libroken18-heimdal   | heimdal       | libasn1-8-heimdal        | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41848 |             144
+libsasl2-2           | cyrus-sasl2   | postfix                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49324 |             152
+libsasl2-modules     | cyrus-sasl2   | libsasl2-2 (Recommends)  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49064 |             236
+libsasl2-modules-db  | cyrus-sasl2   | libsasl2-2               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14932 |              66
+libsodium23          | libsodium     | dovecot-core             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          150040 |             402
+libstemmer0d         | snowball      | dovecot-core             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           61696 |             357
+libtokyocabinet9     | tokyocabinet  | mutt                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          359116 |            1091
+libwind0-heimdal     | heimdal       | libhx509-5-heimdal       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           48048 |             205
+libwrap0             | tcp-wrappers  | dovecot-core             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           46280 |             109
+pinentry-curses      | pinentry      | gpg-agent                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           36296 |             100
+ssl-cert             | ssl-cert      | postfix                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           16952 |              63
+----------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                            |         7663934 |           24973

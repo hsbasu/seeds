@@ -1,0 +1,26 @@
+# Minimal without GUI(mamolinux-standard)
+apt install --yes plymouth ubuntu-standard --no-install-recommends  # base system/core
+apt install --yes apparmor gnupg ubuntu-drivers-common sssd ufw --no-install-recommends   # base security
+apt install --yes bash-completion command-not-found friendly-recovery initramfs-tools manpages memtest86+ ntfs-3g openssh-client tasksel thermald unzip update-manager-core vim wireless-tools zip --no-install-recommends # base utilities
+
+# Minimal with GUI(mamolinux-desktop-minimal)
+apt install --yes cinnamon-core lightdm lightdm-settings slick-greeter xorg --no-install-recommends  # base gui
+apt install --yes freedom-wallpapers freedom-y-cursors mint-themes plymouth-theme-spinner ubuntu-wallpapers-focal         # base themes
+apt install --yes gnome-firmware gnome-software software-properties-gtk ubuntu-release-upgrader-gtk update-manager update-notifier --no-install-recommends  # software management tools
+
+# Minimal GUI with base utilities(mamolinux-desktop)
+apt install --yes battery-monitor file-roller firefox gdebi gnome-disk-utility gnome-screenshot gnome-system-monitor gufw gvfs-backends gvfs-fuse plank redshift-gtk seahorse synapse xed --no-install-recommends     # base utilities
+
+# GUI with all utilities(mamolinux-desktop-full)
+apt install --yes baobab cheese eog evince evolution gnome-calculator gnome-characters gnome-chess goldendict gparted gucharmap gtkhash hardinfo hexchat libreoffice lm-sensors simple-pwgen sticky syncthing variety vlc vlc-plugin-access-extra --no-install-recommends
+
+# install linux kernel(boot)
+apt install --yes grub-pc linux-generic --no-install-recommends
+
+# Packages for live-cd. Not required on installed system
+apt install --yes grub-efi-amd64-bin grub-pc-bin --no-install-recommends
+apt install --yes casper lupin-casper uuid-runtime discover laptop-detect os-prober --no-install-recommends
+
+# installer for live-cd. Not required on installed system
+apt install --yes calamares calamares-settings-cinnamon-remix --no-install-recommends
+apt install --yes ubiquity ubiquity-frontend-gtk ubiquity-slideshow-ubuntu ubiquity-ubuntu-artwork --no-install-recommends

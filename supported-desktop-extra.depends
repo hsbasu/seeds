@@ -1,0 +1,91 @@
+Package                        | Source                      | Why                                 | Maintainer                                                     | Deb Size (B)    | Inst Size (KB) 
+-------------------------------+-----------------------------+-------------------------------------+----------------------------------------------------------------+-----------------+-----------------
+binutils                       | binutils                    | gcc-9                               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            3376 |             107
+binutils-common                | binutils                    | binutils                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          206692 |             424
+binutils-x86-64-linux-gnu      | binutils                    | binutils                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1613868 |            9848
+build-essential                | build-essential             | dpkg-dev (Recommends)               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            4624 |              20
+ca-certificates-java           | ca-certificates-java        | openjdk-11-jre-headless             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           12208 |              43
+default-jre                    | java-common                 | libreoffice-nlpsolver               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            1084 |               6
+default-jre-headless           | java-common                 | default-jre                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            3192 |              20
+dkms                           | dkms                        | nvidia-340                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           66632 |             289
+dpkg-dev                       | dpkg                        | dkms                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          679036 |            2074
+fakeroot                       | fakeroot                    | dpkg-dev (Recommends)               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           62636 |             227
+fonts-dejavu-extra             | fonts-dejavu                | openjdk-11-jre (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1952576 |            7217
+g++                            | gcc-defaults                | build-essential                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            1604 |              16
+g++-9                          | gcc-9                       | g++                                 | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |         8404272 |           27985
+gcc                            | gcc-defaults                | dkms                                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            5208 |              50
+gcc-9                          | gcc-9                       | gcc                                 | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |         8233992 |           29783
+java-common                    | java-common                 | openjdk-11-jre-headless             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            6816 |              37
+lib32gcc-s1                    | gcc-10                      | lib32gcc1                           | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |           49620 |             130
+lib32gcc1                      | gcc-10                      | nvidia-340                          | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |            1132 |               6
+libalgorithm-diff-perl         | libalgorithm-diff-perl      | libalgorithm-merge-perl             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           46616 |             106
+libalgorithm-diff-xs-perl      | libalgorithm-diff-xs-perl   | libalgorithm-diff-perl (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           11344 |              46
+libalgorithm-merge-perl        | libalgorithm-merge-perl     | dpkg-dev (Recommends)               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           11992 |              42
+libasan5                       | gcc-9                       | libgcc-9-dev                        | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          395460 |            1656
+libatk-wrapper-java            | java-atk-wrapper            | libatk-wrapper-java-jni             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           53028 |              67
+libatk-wrapper-java-jni        | java-atk-wrapper            | openjdk-11-jre (Recommends)         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           45100 |             182
+libatomic1                     | gcc-10                      | libgcc-9-dev                        | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9284 |              45
+libbinutils                    | binutils                    | binutils                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          473556 |            2696
+libc-dev-bin                   | glibc                       | libc6-dev                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           71820 |             440
+libc6-dev                      | glibc                       | libgcc-9-dev (Recommends)           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2519944 |           19070
+libc6-i386                     | glibc                       | lib32gcc-s1                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         2723200 |           14398
+libcrypt-dev                   | libxcrypt                   | libc6-dev                           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          104104 |             321
+libctf-nobfd0                  | binutils                    | binutils-x86-64-linux-gnu           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           47028 |             197
+libctf0                        | binutils                    | binutils-x86-64-linux-gnu           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           46620 |             130
+libcuda1-340                   | nvidia-graphics-drivers-340 | nvidia-340 (Recommends)             | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         8750720 |           27392
+libfakeroot                    | fakeroot                    | fakeroot                            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           25720 |             157
+libgcc-9-dev                   | gcc-9                       | gcc-9                               | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2358672 |           13892
+libitm1                        | gcc-10                      | libgcc-9-dev                        | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |           26260 |             115
+liblsan0                       | gcc-10                      | libgcc-9-dev                        | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          143996 |             390
+libnvidia-cfg1-390             | nvidia-graphics-drivers-390 | xserver-xorg-video-nvidia-390       | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           70216 |             215
+libnvidia-cfg1-435             | nvidia-graphics-drivers-435 | nvidia-headless-no-dkms-435         | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           69696 |             216
+libnvidia-cfg1-440             | nvidia-graphics-drivers-440 | nvidia-headless-no-dkms-440         | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           72032 |             223
+libnvidia-common-390           | nvidia-graphics-drivers-390 | libnvidia-gl-390                    | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           10372 |              36
+libnvidia-compute-390          | nvidia-graphics-drivers-390 | nvidia-driver-390                   | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        20608768 |           83757
+libnvidia-compute-435          | nvidia-graphics-drivers-435 | nvidia-headless-no-dkms-435         | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        20403788 |          102683
+libnvidia-compute-440          | nvidia-graphics-drivers-440 | nvidia-headless-no-dkms-440         | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        20867712 |          104138
+libnvidia-decode-390           | nvidia-graphics-drivers-390 | nvidia-driver-390                   | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1119672 |            3328
+libnvidia-encode-390           | nvidia-graphics-drivers-390 | nvidia-driver-390                   | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           52636 |             193
+libnvidia-fbc1-390             | nvidia-graphics-drivers-390 | nvidia-driver-390                   | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           41552 |             137
+libnvidia-gl-390               | nvidia-graphics-drivers-390 | nvidia-driver-390                   | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        14323344 |           72987
+libnvidia-ifr1-390             | nvidia-graphics-drivers-390 | nvidia-driver-390                   | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           69192 |             231
+libofficebean-java             | libreoffice                 | libreoffice-officebean              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           39288 |             296
+libquadmath0                   | gcc-10                      | libgcc-9-dev                        | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          145896 |             304
+libreoffice-java-common        | libreoffice                 | libreoffice-nlpsolver               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          624292 |             947
+libstdc++-9-dev                | gcc-9                       | g++-9                               | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1711276 |           17624
+libtsan0                       | gcc-10                      | libgcc-9-dev                        | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          319328 |            1184
+libubsan1                      | gcc-10                      | libgcc-9-dev                        | Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com> |          136076 |             378
+libunoil-java                  | libreoffice                 | libreoffice-java-common             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |         1261912 |            1962
+libvdpau1                      | libvdpau                    | nvidia-settings                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           25624 |             106
+libxnvctrl0                    | nvidia-settings             | nvidia-settings                     | Ubuntu MOTU Developers <ubuntu-motu@lists.ubuntu.com>          |           11164 |              64
+linux-headers-5.4.0-26         | linux                       | linux-headers-5.4.0-26-generic      | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>              |        10944024 |           69041
+linux-headers-5.4.0-26-generic | linux                       | linux-headers-generic               | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>              |         1221404 |           13975
+linux-headers-generic          | linux-meta                  | dkms (Recommends)                   | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>              |            2680 |              17
+linux-libc-dev                 | linux                       | libc6-dev                           | Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>              |         1106280 |            5725
+make                           | make-dfsg                   | nvidia-340                          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |          162292 |             384
+mesa-vdpau-drivers             | mesa                        | vdpau-driver-all                    | Ubuntu X-SWAT <ubuntu-x@lists.ubuntu.com>                      |         2545648 |           36950
+nvidia-compute-utils-390       | nvidia-graphics-drivers-390 | nvidia-driver-390                   | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           68800 |             217
+nvidia-compute-utils-435       | nvidia-graphics-drivers-435 | nvidia-headless-no-dkms-435         | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           72652 |             230
+nvidia-compute-utils-440       | nvidia-graphics-drivers-440 | nvidia-headless-no-dkms-440         | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           74092 |             234
+nvidia-dkms-390                | nvidia-graphics-drivers-390 | nvidia-driver-390                   | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           29952 |             130
+nvidia-dkms-435                | nvidia-graphics-drivers-435 | nvidia-headless-435                 | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           27496 |             117
+nvidia-dkms-440                | nvidia-graphics-drivers-440 | nvidia-headless-440                 | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           29944 |             131
+nvidia-driver-390              | nvidia-graphics-drivers-390 | nvidia-384                          | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          393668 |            1081
+nvidia-kernel-common-390       | nvidia-graphics-drivers-390 | nvidia-dkms-390                     | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           10588 |              42
+nvidia-kernel-common-435       | nvidia-graphics-drivers-435 | nvidia-dkms-435                     | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9184 |              38
+nvidia-kernel-common-440       | nvidia-graphics-drivers-440 | nvidia-dkms-440                     | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           20664 |              75
+nvidia-kernel-source-390       | nvidia-graphics-drivers-390 | nvidia-dkms-390                     | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         8578224 |           26554
+nvidia-kernel-source-435       | nvidia-graphics-drivers-435 | nvidia-dkms-435                     | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        12429548 |           32791
+nvidia-kernel-source-440       | nvidia-graphics-drivers-440 | nvidia-dkms-440                     | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        13150232 |           33768
+nvidia-opencl-icd-340          | nvidia-graphics-drivers-340 | nvidia-340 (Recommends)             | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         8842692 |           27627
+nvidia-prime                   | nvidia-prime                | nvidia-driver-390 (Recommends)      | Alberto Milone <alberto.milone@canonical.com>                  |            9164 |              49
+nvidia-settings                | nvidia-settings             | nvidia-340 (Recommends)             | Ubuntu MOTU Developers <ubuntu-motu@lists.ubuntu.com>          |          963404 |            3237
+nvidia-utils-390               | nvidia-graphics-drivers-390 | nvidia-driver-390                   | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          327256 |             993
+ocl-icd-libopencl1             | ocl-icd                     | nvidia-opencl-icd-340               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           30338 |             114
+openjdk-11-jre                 | openjdk-lts                 | default-jre                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |           34688 |             117
+openjdk-11-jre-headless        | openjdk-lts                 | default-jre-headless                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |        37419600 |          166556
+screen-resolution-extra        | screen-resolution-extra     | nvidia-settings                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            4456 |              24
+vdpau-driver-all               | libvdpau                    | libvdpau1 (Recommends)              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>      |            4596 |              18
+xserver-xorg-video-nvidia-390  | nvidia-graphics-drivers-390 | nvidia-driver-390                   | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1634192 |            7937
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                                    |       221304626 |          978805

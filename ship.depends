@@ -1,0 +1,43 @@
+Package                     | Source                      | Why                         | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+----------------------------+-----------------------------+-----------------------------+-----------------------------------------------------------+-----------------+-----------------
+apt-clone                   | apt-clone                   | ubiquity                    | Michael Vogt <michael.vogt@ubuntu.com>                    |           12960 |              62
+archdetect-deb              | hw-detect                   | ubiquity                    | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |            6240 |              70
+bogl-bterm                  | bogl                        | ubiquity-frontend-debconf   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           25680 |              76
+btrfs-progs                 | btrfs-progs                 | ubiquity (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          654500 |            4016
+dctrl-tools                 | dctrl-tools                 | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           61476 |             296
+dpkg-repack                 | dpkg-repack                 | apt-clone (Recommends)      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           13432 |              39
+gir1.2-timezonemap-1.0      | libtimezonemap              | ubiquity-frontend-gtk       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            8340 |              37
+gir1.2-xkl-1.0              | libxklavier                 | ubiquity-frontend-gtk       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5564 |              30
+keyutils                    | keyutils                    | nfs-kernel-server           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           44960 |             151
+language-pack-en-base       | language-pack-en-base       | language-pack-en            | Language pack maintainers <language-packs@ubuntu.com>     |          442116 |            3809
+language-pack-es-base       | language-pack-es-base       | language-pack-es            | Language pack maintainers <language-packs@ubuntu.com>     |         2901156 |           12438
+language-pack-gnome-en-base | language-pack-gnome-en-base | language-pack-gnome-en      | Language pack maintainers <language-packs@ubuntu.com>     |          528868 |            3851
+language-pack-gnome-es-base | language-pack-gnome-es-base | language-pack-gnome-es      | Language pack maintainers <language-packs@ubuntu.com>     |         3017224 |           13346
+libdebian-installer4        | libdebian-installer         | archdetect-deb              | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |           21760 |              84
+libisns-nocrypto0-udeb      | open-isns                   | open-iscsi-udeb             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           79388 |             464
+libisns0                    | open-isns                   | open-iscsi                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          109820 |             987
+liblockfile-bin             | liblockfile                 | liblockfile1                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11680 |              46
+liblockfile1                | liblockfile                 | bsd-mailx                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            6680 |              39
+libnfsidmap2                | libnfsidmap                 | nfs-common                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           27852 |             115
+libreoffice-help-common     | libreoffice                 | libreoffice-help-en-us      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2343200 |           10588
+libtimezonemap-data         | libtimezonemap              | libtimezonemap1             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1926860 |            5629
+libtimezonemap1             | libtimezonemap              | gir1.2-timezonemap-1.0      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           27320 |             109
+libtirpc-common             | libtirpc                    | libtirpc3                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            7632 |              30
+libtirpc3                   | libtirpc                    | nfs-kernel-server           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           77152 |             221
+ncurses-term                | ncurses                     | openssh-server (Recommends) | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          249260 |            4183
+oem-config                  | ubiquity                    | oem-config-gtk              | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |           15364 |             239
+openssh-server              | openssh                     | ssh                         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          376932 |            1491
+openssh-sftp-server         | openssh                     | openssh-server              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51500 |             141
+postfix                     | postfix                     | bsd-mailx                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1197944 |            4433
+python3-icu                 | pyicu                       | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          249896 |            1164
+python3-pam                 | python-pam                  | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9052 |              44
+rdate                       | rdate                       | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17648 |              60
+rpcbind                     | rpcbind                     | nfs-common                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           42836 |             152
+ssh-import-id               | ssh-import-id               | openssh-server (Recommends) | Dustin Kirkland <kirkland@ubuntu.com>                     |           10040 |              54
+ubiquity                    | ubiquity                    | oem-config                  | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |         2929168 |           17448
+ubiquity-casper             | casper                      | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11164 |             102
+ubiquity-frontend-debconf   | ubiquity                    | ubiquity                    | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |          450800 |            2649
+ubiquity-frontend-gtk       | ubiquity                    | oem-config-gtk              | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |           84524 |             764
+ubiquity-ubuntu-artwork     | ubiquity                    | ubiquity                    | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |          526184 |             780
+----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                    |        18584172 |           90237

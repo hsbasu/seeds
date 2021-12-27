@@ -1,0 +1,8 @@
+Package            | Source            | Why                                  | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+-------------------+-------------------+--------------------------------------+-----------------------------------------------------------+-----------------+-----------------
+postgresql         | postgresql-common | Ubuntu.Bionic postgresql-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4004 |              66
+postgresql-client  | postgresql-common | Ubuntu.Bionic postgresql-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4012 |              66
+postgresql-contrib | postgresql-common | Ubuntu.Bionic postgresql-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4004 |              66
+postgresql-doc     | postgresql-common | Ubuntu.Bionic postgresql-server seed | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            4004 |              66
+------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                          |           16024 |             264

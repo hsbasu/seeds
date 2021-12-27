@@ -1,0 +1,195 @@
+Package                          | Source                           | Why                         | Maintainer                                                | Deb Size (B)    | Inst Size (KB) 
+---------------------------------+----------------------------------+-----------------------------+-----------------------------------------------------------+-----------------+-----------------
+apt-clone                        | apt-clone                        | ubiquity                    | Michael Vogt <michael.vogt@ubuntu.com>                    |           12960 |              62
+archdetect-deb                   | hw-detect                        | ubiquity                    | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |            6240 |              70
+btrfs-progs                      | btrfs-progs                      | ubiquity (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          654500 |            4016
+cifs-utils                       | cifs-utils                       | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           81900 |             299
+cryptsetup                       | cryptsetup                       | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          158920 |             397
+cryptsetup-bin                   | cryptsetup                       | cryptsetup                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          118800 |             544
+cryptsetup-initramfs             | cryptsetup                       | cryptsetup (Recommends)     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           24124 |             152
+cryptsetup-run                   | cryptsetup                       | cryptsetup (Recommends)     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5312 |              77
+dctrl-tools                      | dctrl-tools                      | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           61476 |             296
+dpkg-repack                      | dpkg-repack                      | apt-clone (Recommends)      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           13432 |              39
+firefox-locale-de                | firefox                          | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          502240 |             767
+firefox-locale-en                | firefox                          | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          724140 |            1202
+firefox-locale-es                | firefox                          | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |         1816752 |            2291
+firefox-locale-fr                | firefox                          | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          504148 |             769
+firefox-locale-it                | firefox                          | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          370044 |             640
+firefox-locale-pt                | firefox                          | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          927772 |            1256
+firefox-locale-ru                | firefox                          | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          565852 |             827
+firefox-locale-zh-hans           | firefox                          | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          512728 |             788
+fonts-arphic-ukai                | fonts-arphic-ukai                | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         8373120 |           17249
+fonts-arphic-uming               | fonts-arphic-uming               | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7932540 |           21011
+gir1.2-timezonemap-1.0           | libtimezonemap                   | ubiquity-frontend-gtk       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            8340 |              37
+gir1.2-xkl-1.0                   | libxklavier                      | ubiquity-frontend-gtk       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            5564 |              30
+gnome-getting-started-docs-de    | gnome-getting-started-docs       | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7430952 |            8799
+gnome-getting-started-docs-es    | gnome-getting-started-docs       | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7422444 |            8789
+gnome-getting-started-docs-fr    | gnome-getting-started-docs       | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7422988 |            8793
+gnome-getting-started-docs-it    | gnome-getting-started-docs       | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7411760 |            8774
+gnome-getting-started-docs-pt    | gnome-getting-started-docs       | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7520564 |           10119
+gnome-getting-started-docs-ru    | gnome-getting-started-docs       | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         7413112 |            8787
+gnome-user-docs-de               | gnome-user-docs                  | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          410536 |            1968
+gnome-user-docs-es               | gnome-user-docs                  | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          454384 |            1849
+gnome-user-docs-fr               | gnome-user-docs                  | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          424292 |            1936
+gnome-user-docs-it               | gnome-user-docs                  | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          154536 |            1196
+gnome-user-docs-pt               | gnome-user-docs                  | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          818576 |            3197
+gnome-user-docs-ru               | gnome-user-docs                  | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          250632 |            1657
+gnome-user-docs-zh-hans          | gnome-user-docs                  | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          164496 |            1101
+gparted                          | gparted                          | Ubuntu.Bionic live seed     | Phillip Susi <psusi@ubuntu.com>                           |          400656 |            1681
+gparted-common                   | gparted                          | gparted                     | Phillip Susi <psusi@ubuntu.com>                           |           80776 |             656
+grub-common                      | grub2                            | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1852632 |           13272
+grub-gfxpayload-lists            | grub-gfxpayload-lists            | grub-pc                     | Colin Watson <cjwatson@ubuntu.com>                        |            3658 |              47
+grub-pc                          | grub2                            | ubiquity (Recommends)       | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          124692 |             554
+grub-pc-bin                      | grub2                            | grub-pc                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          969136 |            3102
+grub2-common                     | grub2                            | grub-pc                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          589024 |            1310
+gtk-im-libthai                   | gtk-im-libthai                   | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            8260 |              35
+hunspell-de-at-frami             | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1016724 |            4656
+hunspell-de-ch-frami             | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1014560 |            4655
+hunspell-de-de-frami             | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1016788 |            4653
+hunspell-en-au                   | scowl                            | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          170520 |             576
+hunspell-en-ca                   | scowl                            | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          170004 |             574
+hunspell-en-gb                   | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          369556 |            1388
+hunspell-en-za                   | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          273300 |             996
+hunspell-es                      | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          274952 |            1369
+hunspell-fr                      | hunspell-fr                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            3196 |              13
+hunspell-fr-classical            | hunspell-fr                      | hunspell-fr                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          349456 |            2786
+hunspell-it                      | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          338692 |            1719
+hunspell-pt-br                   | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1163548 |            5887
+hunspell-pt-pt                   | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          232424 |            1909
+hunspell-ru                      | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          462880 |            2353
+hyphen-de                        | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          293836 |            1451
+hyphen-en-ca                     | openoffice.org-hyphenation       | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           42906 |             109
+hyphen-en-gb                     | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           83420 |             485
+hyphen-en-us                     | hyphen                           | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           48796 |             142
+hyphen-fr                        | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           50048 |             406
+hyphen-it                        | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           43472 |             382
+hyphen-pt-br                     | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           44620 |             389
+hyphen-pt-pt                     | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           42892 |             381
+hyphen-ru                        | hyphen-ru                        | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           21268 |              73
+ibus-chewing                     | ibus-chewing                     | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           62360 |             392
+ibus-hangul                      | ibus-hangul                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           44696 |             376
+ibus-libpinyin                   | ibus-libpinyin                   | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          709260 |            2904
+ibus-m17n                        | ibus-m17n                        | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           27692 |             236
+ibus-mozc                        | mozc                             | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          209320 |             908
+ibus-table-cangjie               | ibus-table-chinese               | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            1792 |              10
+ibus-table-cangjie-big           | ibus-table-chinese               | ibus-table-cangjie          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          416352 |            1544
+ibus-table-cangjie3              | ibus-table-chinese               | ibus-table-cangjie          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          334936 |            1045
+ibus-table-cangjie5              | ibus-table-chinese               | ibus-table-cangjie          | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          623664 |            2149
+ibus-table-quick-classic         | ibus-table-chinese               | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           70688 |             348
+ibus-table-wubi                  | ibus-table-chinese               | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         3020404 |           10624
+ibus-unikey                      | ibus-unikey                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           58580 |             332
+language-pack-de                 | language-pack-de                 | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1892 |               9
+language-pack-de-base            | language-pack-de-base            | language-pack-de            | Language pack maintainers <language-packs@ubuntu.com>     |         3214664 |           13939
+language-pack-en                 | language-pack-en                 | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1896 |               9
+language-pack-en-base            | language-pack-en-base            | language-pack-en            | Language pack maintainers <language-packs@ubuntu.com>     |          442116 |            3809
+language-pack-es                 | language-pack-es                 | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1904 |               9
+language-pack-es-base            | language-pack-es-base            | language-pack-es            | Language pack maintainers <language-packs@ubuntu.com>     |         2901156 |           12438
+language-pack-fr                 | language-pack-fr                 | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1892 |               9
+language-pack-fr-base            | language-pack-fr-base            | language-pack-fr            | Language pack maintainers <language-packs@ubuntu.com>     |         3035356 |           13358
+language-pack-gnome-de           | language-pack-gnome-de           | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-de-base      | language-pack-gnome-de-base      | language-pack-gnome-de      | Language pack maintainers <language-packs@ubuntu.com>     |         3497076 |           14555
+language-pack-gnome-en           | language-pack-gnome-en           | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-en-base      | language-pack-gnome-en-base      | language-pack-gnome-en      | Language pack maintainers <language-packs@ubuntu.com>     |          528868 |            3851
+language-pack-gnome-es           | language-pack-gnome-es           | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1928 |               9
+language-pack-gnome-es-base      | language-pack-gnome-es-base      | language-pack-gnome-es      | Language pack maintainers <language-packs@ubuntu.com>     |         3017224 |           13346
+language-pack-gnome-fr           | language-pack-gnome-fr           | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1920 |               9
+language-pack-gnome-fr-base      | language-pack-gnome-fr-base      | language-pack-gnome-fr      | Language pack maintainers <language-packs@ubuntu.com>     |         4296500 |           15682
+language-pack-gnome-it           | language-pack-gnome-it           | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-it-base      | language-pack-gnome-it-base      | language-pack-gnome-it      | Language pack maintainers <language-packs@ubuntu.com>     |         1847528 |            7908
+language-pack-gnome-pt           | language-pack-gnome-pt           | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1912 |               9
+language-pack-gnome-pt-base      | language-pack-gnome-pt-base      | language-pack-gnome-pt      | Language pack maintainers <language-packs@ubuntu.com>     |         3568388 |           17114
+language-pack-gnome-ru           | language-pack-gnome-ru           | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1924 |               9
+language-pack-gnome-ru-base      | language-pack-gnome-ru-base      | language-pack-gnome-ru      | Language pack maintainers <language-packs@ubuntu.com>     |         2121264 |           10967
+language-pack-gnome-zh-hans      | language-pack-gnome-zh-hans      | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1952 |               9
+language-pack-gnome-zh-hans-base | language-pack-gnome-zh-hans-base | language-pack-gnome-zh-hans | Language pack maintainers <language-packs@ubuntu.com>     |         1768456 |            8378
+language-pack-it                 | language-pack-it                 | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1900 |               9
+language-pack-it-base            | language-pack-it-base            | language-pack-it            | Language pack maintainers <language-packs@ubuntu.com>     |         1706904 |            7229
+language-pack-pt                 | language-pack-pt                 | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1896 |               9
+language-pack-pt-base            | language-pack-pt-base            | language-pack-pt            | Language pack maintainers <language-packs@ubuntu.com>     |         2731564 |           13254
+language-pack-ru                 | language-pack-ru                 | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1896 |               9
+language-pack-ru-base            | language-pack-ru-base            | language-pack-ru            | Language pack maintainers <language-packs@ubuntu.com>     |         2525892 |           12917
+language-pack-zh-hans            | language-pack-zh-hans            | Ubuntu.Bionic live seed     | Language pack maintainers <language-packs@ubuntu.com>     |            1940 |               9
+language-pack-zh-hans-base       | language-pack-zh-hans-base       | language-pack-zh-hans       | Language pack maintainers <language-packs@ubuntu.com>     |         1761244 |            6894
+libchewing3                      | libchewing                       | ibus-chewing                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           51428 |             179
+libchewing3-data                 | libchewing                       | libchewing3                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1378312 |            3637
+libdebian-installer4             | libdebian-installer              | archdetect-deb              | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |           21760 |              84
+libhangul-data                   | libhangul                        | libhangul1                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1836796 |            6548
+libhangul1                       | libhangul                        | ibus-hangul                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           27700 |             132
+libm17n-0                        | m17n-lib                         | ibus-m17n                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          247508 |             645
+libotf0                          | libotf                           | libm17n-0                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           45188 |             114
+libpinyin-data                   | libpinyin                        | libpinyin13                 | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        11823836 |           50263
+libpinyin13                      | libpinyin                        | ibus-libpinyin              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          199916 |             786
+libreoffice-help-common          | libreoffice                      | libreoffice-help-en-gb      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2343200 |           10588
+libreoffice-help-de              | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2210084 |           21974
+libreoffice-help-en-gb           | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2053612 |           21187
+libreoffice-help-en-us           | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1407792 |           20124
+libreoffice-help-es              | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2195984 |           21876
+libreoffice-help-fr              | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2178956 |           22108
+libreoffice-help-it              | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2139428 |           21922
+libreoffice-help-pt              | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2150960 |           21773
+libreoffice-help-pt-br           | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2179812 |           21931
+libreoffice-help-ru              | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2273612 |           23683
+libreoffice-help-zh-cn           | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2158012 |           21074
+libreoffice-help-zh-tw           | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2231508 |           21224
+libreoffice-l10n-de              | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          633500 |            3202
+libreoffice-l10n-en-gb           | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          554328 |            3133
+libreoffice-l10n-en-za           | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          245804 |            1866
+libreoffice-l10n-es              | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          628436 |            3192
+libreoffice-l10n-fr              | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          634760 |            3244
+libreoffice-l10n-it              | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          630864 |            3198
+libreoffice-l10n-pt              | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          607544 |            3186
+libreoffice-l10n-pt-br           | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          628128 |            3198
+libreoffice-l10n-ru              | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          649132 |            3649
+libreoffice-l10n-zh-cn           | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          613748 |            3050
+libreoffice-l10n-zh-tw           | libreoffice                      | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          621536 |            3090
+libtimezonemap-data              | libtimezonemap                   | libtimezonemap1             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1926860 |            5629
+libtimezonemap1                  | libtimezonemap                   | gir1.2-timezonemap-1.0      | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           27320 |             109
+m17n-db                          | m17n-db                          | libm17n-0                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1215124 |            7760
+mozc-data                        | mozc                             | ibus-mozc                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           14944 |              42
+mozc-server                      | mozc                             | ibus-mozc                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        11801568 |           18912
+mythes-de                        | openthesaurus                    | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2661748 |           30720
+mythes-de-ch                     | openthesaurus                    | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         2690742 |           30720
+mythes-en-au                     | openoffice.org-en-au             | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         5136826 |           21114
+mythes-en-us                     | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         3089068 |           21470
+mythes-fr                        | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1014784 |            5581
+mythes-it                        | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          705616 |            2952
+mythes-pt-pt                     | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1009192 |            4235
+mythes-ru                        | libreoffice-dictionaries         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          231924 |            2519
+os-prober                        | os-prober                        | grub-common (Recommends)    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           20076 |             111
+python3-icu                      | pyicu                            | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          249896 |            1164
+python3-pam                      | python-pam                       | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |            9052 |              44
+rdate                            | rdate                            | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           17648 |              60
+tegaki-zinnia-japanese           | tegaki-zinnia-japanese           | ibus-mozc                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |        17263958 |           25544
+thunderbird-locale-de            | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          545612 |             708
+thunderbird-locale-en            | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          498248 |             668
+thunderbird-locale-en-gb         | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9280 |             124
+thunderbird-locale-en-us         | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9288 |             124
+thunderbird-locale-es            | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          975012 |            1214
+thunderbird-locale-es-ar         | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9284 |             124
+thunderbird-locale-es-es         | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9272 |             124
+thunderbird-locale-fr            | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          555760 |             718
+thunderbird-locale-it            | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          435412 |             603
+thunderbird-locale-pt            | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |         1036280 |            1276
+thunderbird-locale-pt-br         | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9280 |             124
+thunderbird-locale-pt-pt         | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9272 |             124
+thunderbird-locale-ru            | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          632376 |             792
+thunderbird-locale-zh-cn         | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9292 |             124
+thunderbird-locale-zh-hans       | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          570168 |             737
+thunderbird-locale-zh-hant       | thunderbird                      | thunderbird-locale-zh-tw    | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |          570696 |             737
+thunderbird-locale-zh-tw         | thunderbird                      | Ubuntu.Bionic live seed     | Ubuntu Mozilla Team <ubuntu-mozillateam@lists.ubuntu.com> |            9284 |             124
+ubiquity                         | ubiquity                         | ubiquity-frontend-gtk       | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |         2929168 |           17448
+ubiquity-casper                  | casper                           | ubiquity                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |           11164 |             102
+ubiquity-frontend-gtk            | ubiquity                         | Ubuntu.Bionic live seed     | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |           84524 |             764
+ubiquity-slideshow-ubuntu        | ubiquity-slideshow-ubuntu        | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |         1239604 |            2672
+ubiquity-ubuntu-artwork          | ubiquity                         | Ubuntu.Bionic live seed     | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com> |          526184 |             780
+wbrazilian                       | br.ispell                        | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          457816 |            3033
+wbritish                         | scowl                            | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          208964 |             986
+wfrench                          | wfrench                          | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          671240 |            3964
+witalian                         | witalian                         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          222952 |            1247
+wngerman                         | igerman98                        | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          690380 |            4655
+wogerman                         | hkgerman                         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          564040 |            3744
+wportuguese                      | ispell.pt                        | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          795364 |            4908
+wspanish                         | wspanish                         | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          211000 |             858
+wswiss                           | igerman98                        | Ubuntu.Bionic live seed     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com> |          690528 |            4657
+--------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+-----------------
+                                                                                                                                                              |       238697706 |          957253

@@ -1,0 +1,96 @@
+Source                  | Maintainer                                                              
+------------------------+--------------------------------------------------------------------------
+alsa-lib                | Debian ALSA Maintainers <pkg-alsa-devel@lists.alioth.debian.org>        
+alsa-topology-conf      | Debian ALSA Maintainers <pkg-alsa-devel@lists.alioth.debian.org>        
+alsa-ucm-conf           | Debian ALSA Maintainers <pkg-alsa-devel@lists.alioth.debian.org>        
+alsa-utils              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+app-install-data-ubuntu | Michael Vogt <michael.vogt@ubuntu.com>                                  
+apt-clone               | Michael Vogt <michael.vogt@ubuntu.com>                                  
+bc                      | Ryan Kavanagh <rak@debian.org>                                          
+binutils                | Matthias Klose <doko@debian.org>                                        
+bogl                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+boost1.71               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+brotli                  | Tomasz Buchert <tomasz@debian.org>                                      
+btrfs-progs             | Adam Borowski <kilobyte@angband.pl>                                     
+casper                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+cdrkit                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+ceph                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+cifs-utils              | Debian Samba Maintainers <pkg-samba-maint@lists.alioth.debian.org>      
+curl                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+cyrus-sasl2             | Debian Cyrus Team <team+cyrus@tracker.debian.org>                       
+dctrl-tools             | Rhonda D'Vine <rhonda@debian.org>                                       
+debootstrap             | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+device-tree-compiler    | Héctor Orón Martínez <zumbi@debian.org>                                 
+dmraid                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+dpkg-repack             | Dpkg Developers <debian-dpkg@lists.debian.org>                          
+efivar                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+fakeroot                | Clint Adams <clint@debian.org>                                          
+fftw3                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+finalrd                 | Dimitri John Ledkov <xnox@ubuntu.com>                                   
+freetype                | Hugh McMaster <hugh.mcmaster@outlook.com>                               
+gdisk                   | Jonathan Carter <jcc@debian.org>                                        
+germinate               | Colin Watson <cjwatson@ubuntu.com>                                      
+git                     | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+grub-gfxpayload-lists   | Colin Watson <cjwatson@ubuntu.com>                                      
+grub2                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+heimdal                 | Brian May <bam@debian.org>                                              
+hw-detect               | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+jasper-initramfs        | Canonical ARM <ubuntu-devel-discuss@lists.ubuntu.com>                   
+laptop-detect           | Simó Albert i Beltran <sim6@probeta.net>                                
+libaio                  | Guillem Jover <guillem@debian.org>                                      
+libassuan               | Debian GnuPG-Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>      
+libdebian-installer     | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+liberror-perl           | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libfile-fcntllock-perl  | Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>        
+libiscsi                | Michael Tokarev <mjt@tls.msk.ru>                                        
+libksba                 | Debian GnuTLS Maintainers <pkg-gnutls-maint@lists.alioth.debian.org>    
+libnl3                  | Heiko Stuebner <mmind@debian.org>                                       
+libpciaccess            | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+libsamplerate           | Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>      
+libssh                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+libtextwrap             | Anibal Monsalve Salazar <anibal@debian.org>                             
+live-build              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+livecd-rootfs           | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+localechooser           | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+lupin                   | Agostino Russo <agostino.russo@gmail.com>                               
+lzo2                    | Stephen Kitt <skitt@debian.org>                                         
+make-dfsg               | Manoj Srivastava <srivasta@debian.org>                                  
+mtools                  | Chris Lamb <lamby@debian.org>                                           
+multipath-tools         | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+nghttp2                 | Tomasz Buchert <tomasz@debian.org>                                      
+npth                    | Eric Dorland <eric@debian.org>                                          
+openldap                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+os-prober               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+patch                   | Laszlo Boszormenyi (GCS) <gcs@debian.org>                               
+pinentry                | Debian GnuPG Maintainers <pkg-gnupg-maint@lists.alioth.debian.org>      
+pyicu                   | Laszlo Boszormenyi (GCS) <gcs@debian.org>                               
+pyparted                | Herbert Parentes Fortes Neto <hpfn@debian.org>                          
+python-attrs            | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+python-pam              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+qemu                    | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+rdate                   | Thiago Andrade Marques <thmarques@gmail.com>                            
+rdma-core               | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+readline5               | Debian QA Group <packages@qa.debian.org>                                
+rtmpdump                | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+samba                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+sbsigntool              | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+sharutils               | Santiago Vila <sanvila@debian.org>                                      
+six                     | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+snapd                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+software-properties     | Michael Vogt <michael.vogt@ubuntu.com>                                  
+squashfs-tools          | Laszlo Boszormenyi (GCS) <gcs@debian.org>                               
+talloc                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+tasksel                 | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+tevent                  | Debian Samba Maintainers <pkg-samba-maint@lists.alioth.debian.org>      
+thin-provisioning-tools | Debian LVM Team <team+lvm@tracker.debian.org>                           
+u-boot                  | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+ubiquity                | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+ubuntu-drivers-common   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+ubuntu-image            | Lukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>                    
+unattended-upgrades     | Michael Vogt <mvo@debian.org>                                           
+user-setup              | Ubuntu Installer Team <ubuntu-installer@lists.ubuntu.com>               
+vmdk-stream-converter   | Hideki Yamane <henrich@debian.org>                                      
+voluptuous              | Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+wireless-tools          | Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>          
+x-kit                   | Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>               
+zerofree                | Thibaut Paumard <thibaut@debian.org>                                    
